@@ -4,6 +4,7 @@
   {% set color = color or 'blue' %}
 
   <main role="main" 
+        id="main_toggler" 
         class="column is-two-thirds">
 
     <section class="main-wrapper {{ color }}">
@@ -14,6 +15,8 @@
         </section>
 
         <article class="blog-body" itemprop="articleBody">
+          {% include "post/toggler.njk" %}
+
           {% if toc %}
             {% include toc %}
           {% endif %}
@@ -37,13 +40,19 @@
 {% endblock %}
 
 {% block aside %}
-  <aside class="column is-one-thirds">
+  <aside id="aside_toggler"
+         class="column is-one-thirds">
     {%- if related_link_ids -%}
       {% include "widget/related-posts.njk" %}
     {%- endif -%}
 
     {% include "widget/archive-grouped.njk" %}
     {% include "widget/tags.njk" %}
+    {% include "widget/recent-posts.njk" %}
+
+    {% include "widget/friends.njk" %}
+    {% include "widget/archive-gitlab.njk" %}
+    {% include "widget/archive-github.njk" %}
   </aside>
 {% endblock %}
 
