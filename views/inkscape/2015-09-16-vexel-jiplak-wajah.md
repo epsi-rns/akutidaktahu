@@ -3,7 +3,7 @@ layout    : post
 title     : Inkscape - Jiplak Wajah Jadi Vexel
 date      : 2015-09-06 09:17:35
 slug      : vexel-jiplak-wajah
-tags      : [inkscape]
+tags      : [inkscape, umum]
 keywords  : [desain, vexel, "face tracing", "jiplak wajah"]
 
 toc       : "toc/inkscape-keseharian.njk"

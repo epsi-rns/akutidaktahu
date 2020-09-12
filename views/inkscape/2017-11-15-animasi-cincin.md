@@ -3,7 +3,7 @@ layout    : post
 title     : Inkscape - Animasi Cincin
 date      : 2017-11-15 09:17:35
 slug      : animasi-cincin
-tags      : [inkscape]
+tags      : [inkscape, umum]
 keywords  : [desain, animasi, saporito]
 
 toc       : "toc/inkscape-keseharian.njk"

@@ -3,7 +3,7 @@ layout    : post
 title     : Inkscape - Gambar Latar Desain Material
 date      : 2018-11-18 09:17:35
 slug      : gambar-latar-desain-material
-tags      : [inkscape]
+tags      : [inkscape, umum]
 keywords  : [desain, "gambar latar", "material design", "flat design"]
 
 toc       : "toc/inkscape-keseharian.njk"

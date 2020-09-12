@@ -3,7 +3,7 @@ layout    : post
 title     : Inkscape - Kartu Nama
 date      : 2017-10-03 09:17:35
 slug      : kartu-nama
-tags      : [inkscape]
+tags      : [inkscape, umum]
 keywords  : [desain, "kartu-nama", "business-card"]
 
 toc       : "toc/inkscape-keseharian.njk"

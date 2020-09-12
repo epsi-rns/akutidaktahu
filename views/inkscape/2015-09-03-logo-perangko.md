@@ -1,0 +1,125 @@
+---
+layout    : post
+title     : Inkscape - Logo Perangko
+date      : 2015-09-03 09:17:35
+slug      : logo-perangko
+tags      : [inkscape, alumni]
+keywords  : [desain, logo, perangko]
+
+toc       : "toc/inkscape-alumni.njk"
+excerpt   : 
+  Seni rancang SVG untuk inkscape,
+  yang bebas diunduh, dimodifikasi ataupun dipakai siapa saja secara gratis.
+  An inkscape vector artwork. That anybody can download and use it freely.
+  Cocok dipakai untuk latar avatar,
+  atau dipakai sebagai perangko di gambar foto, 
+  saat melakukan travelling.
+---
+
+<a name="prakata"></a>
+
+## Prakata
+
+Logo dengan hiasan perangko di pinggir dapat membuat aksen,
+yang menarique cantique di poster yang kita bikin.
+
+Penulis juga menambahkan bayangan `shadow` di bawah logo,
+dengan menggunakan fitur `envelope path effects`.
+
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* 1: [Padz Jambon](#padz-jambon)
+
+* 2: [ILUNI FTUI](#iluni-ftui)
+
+* 3: [Sampul Gudang Gambar](#cover)
+
+* [Penutup](#penutup)
+
+### Bahasa Inggris
+
+Artikel ini juga disajikan di blog penulis yang lain,
+dalam bahasa Inggris:
+
+* [Inkscape: Logo with Stamp Ornament][english-version]
+
+-- -- --
+
+<a name="padz-jambon"></a>
+
+## 1: Padz Jambon
+
+Logo Padmanaba Berwarna Jambon (Merah Jambu)
+
+**Berkas Sumber SVG**:
+
+* [akutidaktahu.netlify.app/.../logo-stamp-pink-padz.svg.gz][dotfiles-pink-padz]
+
+* [nurwijayadi.deviantart.com/art/...][deviant-pink-padz]
+
+![Padz Jambon][image-ss-pink-padz]
+
+-- -- --
+
+<a name="iluni-ftui"></a>
+
+## 2: ILUNI FTUI
+
+**Berkas Sumber SVG**:
+
+* [akutidaktahu.netlify.app/.../logo-stamp-iluni-ftui.svg.gz][dotfiles-iluni-ftui]
+
+* [nurwijayadi.deviantart.com/art/...][deviant-iluni-ftui]
+
+![ILUNI Teknik][image-ss-iluni-ftui]
+
+### Properti Berkas
+
+**Ukuran**: lebar 1200px, tinggi 1200px.
+
+-- -- --
+
+<a name="cover"></a>
+
+## 3: Sampul Gudang Gambar
+
+Penulis juga membuat sampul untuk gudang gambar `stock images`.
+
+![Stock Images 01][image-ss-stock-01]
+
+* [www.deviantart.com/nurwijayadi/art/...][deviant-stock-01]
+
+![Stock Images 02][image-ss-stock-02]
+
+* [www.deviantart.com/nurwijayadi/art/...][deviant-stock-01]
+
+Silahkan berkreasi sebebas-bebas-nya.
+
+-- -- --
+
+<a name="penutup"></a>
+
+## Penutup
+
+Ya sudah. Itu saja. Namanya juga baru belajar.
+
+Terimakasih telah berkunjung.
+
+[//]: <> ( -- -- -- links below -- -- -- )
+
+[english-version]:      https://epsi-rns.gitlab.io/design/2015/09/03/inkscape-stamp-logo/
+
+[image-ss-pink-padz]:   {% postimage %}/desain/2015/09-perangko/logo-stamp-pink-padz.png
+[image-ss-iluni-ftui]:  {% postimage %}/desain/2015/09-perangko/logo-stamp-iluni-ftui.png
+
+[dotfiles-pink-padz]:   {% postimage %}/desain/2015/09-perangko/logo-stamp-pink-padz.svg.gz
+[deviant-pink-padz]:    http://nurwijayadi.deviantart.com/art/Logo-Stamp-Ornament-Iluni-FTUI-645792391
+[dotfiles-iluni-ftui]:  {% postimage %}/desain/2015/09-perangko/logo-stamp-iluni-ftui.svg.gz
+[deviant-iluni-ftui]:   http://nurwijayadi.deviantart.com/art/Logo-Stamp-Ornament-Padmanaba-in-Pink-645792516
+
+[image-ss-stock-01]:    {% postimage %}/desain/2015/09-perangko/stock-perangko-01.png
+[deviant-stock-01]:     https://www.deviantart.com/nurwijayadi/art/Cover-Stock-Images-645991377
+[image-ss-stock-02]:    {% postimage %}/desain/2015/09-perangko/stock-perangko-02.png
+[deviant-stock-02]:     https://www.deviantart.com/nurwijayadi/art/Cover-Stok-Images-645991166

@@ -3,14 +3,14 @@ layout    : post
 title     : Inkscape - Gambar Latar Isometrik Datar
 date      : 2016-10-03 09:17:35
 slug      : gambar-latar-isometrik-datar
-tags      : [inkscape]
+tags      : [inkscape, umum]
 keywords  : [desain, wallpaper, "material design", "flat design"]
 
 toc       : "toc/inkscape-keseharian.njk"
 excerpt   : 
-  Mari membuat gambar latar dengan Inkscape.
+  Hayuuuk... Mari membuat gambar latar dengan Inkscape.
   Ini sebetulnya adalah flat style dua dimensi,
-  yang dibikin dengan bantuan grid isometri tiga dimeni.
+  yang dibikin dengan bantuan grid isometri tiga dimensi.
 ---
 
 <a name="prakata"></a>

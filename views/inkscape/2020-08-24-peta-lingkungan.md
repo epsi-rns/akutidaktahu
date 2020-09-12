@@ -3,7 +3,7 @@ layout    : post
 title     : Inkscape - Peta Lingkungan
 date      : 2020-08-24 09:17:35
 slug      : peta-lingkungan
-tags      : [inkscape]
+tags      : [inkscape, umum]
 keywords  : [desain, lingkungan, "RT/RW", "Rukun Warga", "Rukun Tetangga"]
 
 toc       : "toc/inkscape-keseharian.njk"
