@@ -7,7 +7,7 @@ tags      : [pajak]
 keywords  : [undang-undang, infografis]
 
 toc       : "toc/pajak.njk"
-opengraphimage: "/posts/2019/08-op/06-Kategori-Hadiah.png"
+opengraphimage: "assets/posts/pajak/posts/2019/08-op/06-Kategori-Hadiah.png"
 
 excerpt   : Slide tarif pajak penghasilan.
 ---

@@ -7,6 +7,7 @@ tags      : [matematika]
 keywords  : [rumus, latex]
 
 toc       : "toc/matematika.njk"
+opengraphimage: "assets/posts/matematika/2020/01/vim-latex-formula.png"
 mathjax   : true
 excerpt   : "Menulis Rumus Matematika dengan LaTeX."
 ---

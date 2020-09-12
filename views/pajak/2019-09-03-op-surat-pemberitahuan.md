@@ -7,7 +7,7 @@ tags      : [pajak]
 keywords  : [undang-undang, infografis]
 
 toc       : "toc/pajak.njk"
-opengraphimage: "/posts/2019/08-op/08-Kategori-SPT-WP-OP.png"
+opengraphimage: "assets/posts/pajak/posts/2019/08-op/08-Kategori-SPT-WP-OP.png"
 
 excerpt   : 
   Slide kategori SPT WP OP.

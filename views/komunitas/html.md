@@ -7,6 +7,7 @@ tags      : ["pesan tersemat", aturan]
 keywords  : ["komunitas"]
 
 toc       : "toc/pesan-tersemat.njk"
+opengraphimage: "assets/images/topics/card-telegram.png"
 ---
 
 Sebetulnya saya bukanlah owner group ini,

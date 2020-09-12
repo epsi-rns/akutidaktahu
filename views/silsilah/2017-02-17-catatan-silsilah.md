@@ -7,6 +7,7 @@ tags      : [silsilah]
 keywords  : ["wali songo"]
 
 toc       : "toc/silsilah.njk"
+opengraphimage: "assets/posts/silsilah/catatan/svg/jumadil-qubro.png"
 excerpt   : "Edisi cetak dari catatan silsilah ini tersedia dalam format PDF."
 ---
 

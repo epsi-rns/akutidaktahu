@@ -7,6 +7,7 @@ tags      : [silsilah]
 keywords  : [kaliyoso, gitodipuro]
 
 toc       : "toc/silsilah.njk"
+opengraphimage: "assets/posts/silsilah/sayidina/sayidina-text-colour.png"
 excerpt   :
   Penyusunan diagram silsilah ini adalah bakti penulis,
   sebagai anak kepada orang tua yang telah wafat.

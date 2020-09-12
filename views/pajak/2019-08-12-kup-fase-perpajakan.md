@@ -7,7 +7,7 @@ tags      : [pajak]
 keywords  : [undang-undang, infografis]
 
 toc       : "toc/pajak.njk"
-opengraphimage: "/posts/2019/08-kup/fase-01-flowchart.png"
+opengraphimage: "assets/posts/pajak/2019/08-kup/fase-01-flowchart.png"
 
 excerpt   : 
   Mempelajari perpajakan dapat dimulai dari fase perpajakan

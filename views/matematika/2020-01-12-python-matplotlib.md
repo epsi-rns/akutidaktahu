@@ -7,6 +7,7 @@ tags      : [matematika, python]
 keywords  : [matplotlib, grafik]
 
 toc       : "toc/matematika.njk"
+opengraphimage: "assets/posts/matematika/2020/01/e-04-surface.png"
 mathjax   : true
 excerpt   : "Menggambar Bagan Grafik Berdasar Persamaan Matematika"
 ---

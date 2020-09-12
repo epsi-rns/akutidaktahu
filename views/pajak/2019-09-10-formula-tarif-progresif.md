@@ -7,7 +7,7 @@ tags      : [pajak]
 keywords  : [spreadsheet, infografis]
 
 toc       : "toc/pajak.njk"
-opengraphimage: "/posts/2019/09/formula-progressive.png"
+opengraphimage: "assets/posts/pajak/posts/2019/09/formula-progressive.png"
 
 excerpt   : 
   Menurunkan rumus matematika,

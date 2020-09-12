@@ -7,6 +7,7 @@ tags      : [silsilah]
 keywords  : [kaliyoso, gitodipuro]
 
 toc       : "toc/silsilah.njk"
+opengraphimage: "assets/posts/silsilah/gitodipuro/kyai-gulu.png"
 excerpt   :
   Berkas ini ditulis ulang dari Buku,
   dengan text sesuai aslinya.
@@ -16,7 +17,7 @@ excerpt   :
 
 ## Prakata
 
-> Digitalisai
+> Digitalisasi
 
 Berkas ini ditulis ulang dari Buku,
 dengan text sesuai aslinya.

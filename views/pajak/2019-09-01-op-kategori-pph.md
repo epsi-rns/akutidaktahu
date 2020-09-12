@@ -7,7 +7,7 @@ tags      : [pajak]
 keywords  : [undang-undang, infografis]
 
 toc       : "toc/pajak.njk"
-opengraphimage: "/posts/2019/08-op/03-Kategori-Objek-PPh.png"
+opengraphimage: "assets/posts/pajak/2019/08-op/03-Kategori-Objek-PPh.png"
 
 excerpt   : Slide kategori pajak penghasilan.
 ---

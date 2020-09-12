@@ -7,6 +7,7 @@ tags      : [matematika, python]
 keywords  : [matplotlib, statistik, grafik]
 
 toc       : "toc/matematika.njk"
+opengraphimage: "assets/posts/matematika/2020/02/04-dotplot-withdeco.png"
 excerpt   : "Menggambar Bagan Statistik, Berdasarkan Populasi Data."
 ---
 <a name="prakata"></a>
@@ -396,8 +397,8 @@ Bagaimana menurut sohib?
 [reference-01]:         https://stackoverflow.com/questions/49703938/how-to-create-a-dot-plot-in-matplotlib-not-a-scatter
 [reference-02]:         https://www.geeksforgeeks.org/stem-and-leaf-plots-in-python/
 
-[image-02-histogram]:   /posts/matematika/2020/02/02-histogram.png
-[image-03-text]:        /posts/matematika/2020/02/03-text.png
-[image-04-dotplot-01]:  /posts/matematika/2020/02/04-dotplot-nodeco.png
-[image-04-dotplot-02]:  /posts/matematika/2020/02/04-dotplot-withdeco.png
-[image-05-stemplot]:    /posts/matematika/2020/02/05-stemplot.png
+[image-02-histogram]:   {% postimage %}/matematika/2020/02/02-histogram.png
+[image-03-text]:        {% postimage %}/matematika/2020/02/03-text.png
+[image-04-dotplot-01]:  {% postimage %}/matematika/2020/02/04-dotplot-nodeco.png
+[image-04-dotplot-02]:  {% postimage %}/matematika/2020/02/04-dotplot-withdeco.png
+[image-05-stemplot]:    {% postimage %}/matematika/2020/02/05-stemplot.png

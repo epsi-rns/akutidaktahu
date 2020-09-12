@@ -7,6 +7,7 @@ tags      : [silsilah]
 keywords  : [kaliyoso, nitimenggolo]
 
 toc       : "toc/silsilah.njk"
+opengraphimage: "assets/posts/silsilah/nitimenggolo/nitimenggolo-colour.png"
 excerpt   : "Digitalisasi Silsilah Leluhur Kalioso: Nitimenggolo."
 ---
 

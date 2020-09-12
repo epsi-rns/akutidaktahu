@@ -7,7 +7,7 @@ tags      : [pajak]
 keywords  : [undang-undang, infografis]
 
 toc       : "toc/pajak.njk"
-opengraphimage: "/posts/2019/08-kup/latihan-9.6-4.png"
+opengraphimage: "assets/posts/pajak/2019/08-kup/latihan-9.6-4.png"
 
 excerpt   : 
   Mempelajari perpajakan secara rinci,
