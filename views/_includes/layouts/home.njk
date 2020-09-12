@@ -1,0 +1,22 @@
+{% extends "layouts/base.njk" %}
+
+{% block main %}
+  {%- set color %}{{ color or 'blue-grey' }}{% endset -%}
+  <main role="main" 
+        class="column is-full">
+
+    <section class="main-wrapper {{ color }}">
+      <div class="blog white z-depth-3 hoverable">
+
+        <article class="columns is-centered blog-body has-text-centered"
+                 itemprop="articleBody">
+          <div class="column is-half blog-content">
+            {{ content | safe }}
+          </div>
+        </article>
+
+      </div>
+    </section>
+
+  </main>
+{% endblock %}
