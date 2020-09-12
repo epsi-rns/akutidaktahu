@@ -36,6 +36,12 @@ excerpt   : "Digitalisasi Silsilah Leluhur Kalioso: Nitimenggolo."
 
 * [Penutup](#penutup)
 
+### Berkas Sumber SVG
+
+Dapat diunduh untuk dipakai maupun diubah di sini:
+
+* [github.com/epsi-rns/.../nitimenggolo][github-svg-source]
+
 -- -- --
 
 <a name="nitimenggolo"></a>
@@ -609,6 +615,8 @@ Sekian.
 Silahkan melanjutkan ke berkas silsilah berikutnya.
 
 [//]: <> ( -- -- -- links below -- -- -- )
+
+[github-svg-source]:https://github.com/epsi-rns/titip-silsilah/tree/master/nitimenggolo
 
 [nitimenggolo]: {% postimage %}/silsilah/nitimenggolo/nitimenggolo-colour.png
 [lengkap]:      {% postimage %}/silsilah/nitimenggolo/nitimenggolo-lengkap-colour.png

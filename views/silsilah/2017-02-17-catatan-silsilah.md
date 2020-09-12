@@ -4,7 +4,7 @@ title     : Silsilah - Catatan Keluarga
 date      : 2017-02-17 09:17:35
 slug      : catatan-keluarga
 tags      : [silsilah]
-keywords  : [wali songo]
+keywords  : ["wali songo"]
 
 toc       : "toc/silsilah.njk"
 excerpt   : "Edisi cetak dari catatan silsilah ini tersedia dalam format PDF."
