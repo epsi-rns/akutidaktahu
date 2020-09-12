@@ -7,6 +7,7 @@ tags      : [inkscape, alumni]
 keywords  : [desain, "undang undang"]
 
 toc       : "toc/inkscape-alumni.njk"
+opengraphimage: "assets/posts/desain/2014/12-pasal/asas-cabotage-gelap.png"
 excerpt   : 
   Salah satu hal yang membuat penulis ingin belajar inkscape adalah
   untuk membuat infografis,

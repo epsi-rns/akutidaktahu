@@ -7,6 +7,7 @@ tags      : [inkscape, alumni]
 keywords  : [desain, "ucapan selamat", "dekan terpilih"]
 
 toc       : "toc/inkscape-alumni.njk"
+opengraphimage: "assets/posts/desain/2017/11-dekan/selamat-bertugas-s.png"
 excerpt   : 
   Tidak ada rancangan khusus di dalam artikel ini.
   Kebetulan saja saya pernah membikin ucapan selamat ini,

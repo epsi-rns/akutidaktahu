@@ -7,6 +7,7 @@ tags      : [inkscape, alumni]
 keywords  : [desain, "undang undang"]
 
 toc       : "toc/inkscape-alumni.njk"
+opengraphimage: "assets/posts/desain/2014/10-simposium/tablet-uni-devie-s.png"
 excerpt   : 
  Salah satu hal yang saya suka lakukan dalam suatu kegiatan adalah,
   memberi penghargaan kepada sesama panitia. 

@@ -7,6 +7,7 @@ tags      : [inkscape, umum]
 keywords  : [desain, lingkungan, "RT/RW", "Rukun Warga", "Rukun Tetangga"]
 
 toc       : "toc/inkscape-keseharian.njk"
+opengraphimage: "assets/posts/desain/2020/08-map/07-kesukaan.png"
 excerpt   : 
   Inkscape bukan saja dipakai untuk membuat
   sesuatu karya seni yang cantique,

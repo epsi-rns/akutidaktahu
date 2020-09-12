@@ -7,6 +7,7 @@ tags      : [inkscape, umum]
 keywords  : [desain, animasi, saporito]
 
 toc       : "toc/inkscape-keseharian.njk"
+opengraphimage: "assets/posts/desain/2017/11-cincin/progress-bright-smooth.png"
 excerpt   : 
   Gagasan membuat animasi cincin ini saya mulai,
   setelah mempraktekkan bahan ajar dari Pakde Nick Saporito.

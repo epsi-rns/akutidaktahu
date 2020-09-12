@@ -7,6 +7,7 @@ tags      : [inkscape, umum]
 keywords  : [desain, "gambar latar", "material design", "flat design"]
 
 toc       : "toc/inkscape-keseharian.njk"
+opengraphimage: "assets/posts/desain/2018/11-wallpaper/isometric-14a.png"
 excerpt   : 
   Pembaca boleh menggunakan wallpaper ini,
   mengubah bentuk ataupun warna,

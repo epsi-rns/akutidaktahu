@@ -7,6 +7,7 @@ tags      : [inkscape, alumni]
 keywords  : [desain, "woro woro", "ILUNI UI"]
 
 toc       : "toc/inkscape-alumni.njk"
+opengraphimage: "assets/posts/desain/2015/10-clip/clip-iluni-01.png"
 excerpt   : 
   Memadukan fotografi dan mencoba hasilnya dengan object clip cukup menyenangkan.
   Walaupun keahlian fotografi dari penulis sebetulnya cukup mengenaskan,

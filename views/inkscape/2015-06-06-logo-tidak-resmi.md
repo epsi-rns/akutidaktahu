@@ -7,6 +7,7 @@ tags      : [inkscape, alumni]
 keywords  : [desain, "logo, makara UI", perangko, "ILUNI UI"]
 
 toc       : "toc/inkscape-alumni.njk"
+opengraphimage: "assets/posts/desain/2015/06-alumni/logo-iluni-ui-03-departemen.png"
 excerpt   : 
   Suatu konsep dari variasi logo alumni dalam format SVG,
   yang bebas diunduh, dimodifikasi ataupun dipakai siapa saja secara gratis.

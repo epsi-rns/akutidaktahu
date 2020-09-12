@@ -7,6 +7,7 @@ tags      : [inkscape, alumni]
 keywords  : [desain, "text feature"]
 
 toc       : "toc/inkscape-alumni.njk"
+opengraphimage: "assets/posts/desain/2016/11-teks/penegakan-hukum-01.png"
 excerpt   : 
   Fitur teks di inkscape dengan template keren sebagai contoh,
   yang dapat diunduh secara gratis.

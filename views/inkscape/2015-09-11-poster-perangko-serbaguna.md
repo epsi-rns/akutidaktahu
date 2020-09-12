@@ -1,12 +1,13 @@
 ---
 layout    : post
-title     : Inkscape - Poster Perangko Sebaguna
+title     : Inkscape - Poster Perangko Serbaguna
 date      : 2015-09-11 09:17:35
 slug      : poster-perangko-serbaguna
 tags      : [inkscape, alumni]
 keywords  : [desain, logo, perangko, "woro-woro"]
 
 toc       : "toc/inkscape-alumni.njk"
+opengraphimage: "assets/posts/desain/2015/09-serbaguna/incafo-galangan-diskusi.png"
 excerpt   : 
   Seni rancang SVG inkscape untu aneka ragam keperluan,
   yang bebas diunduh, dimodifikasi ataupun dipakai siapa saja secara gratis.

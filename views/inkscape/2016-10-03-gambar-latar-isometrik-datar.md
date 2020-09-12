@@ -7,6 +7,7 @@ tags      : [inkscape, umum]
 keywords  : [desain, wallpaper, "material design", "flat design"]
 
 toc       : "toc/inkscape-keseharian.njk"
+opengraphimage: "assets/posts/desain/2016/10-flat/flat-isometric-preview.png"
 excerpt   : 
   Hayuuuk... Mari membuat gambar latar dengan Inkscape.
   Ini sebetulnya adalah flat style dua dimensi,

@@ -7,6 +7,7 @@ tags      : [inkscape, alumni]
 keywords  : [desain, "woro-woro", flyer, gak]
 
 toc       : "toc/inkscape-alumni.njk"
+opengraphimage: "assets/posts/desain/2016/02-gak/seruan-aksi-bongkar-ektp.png"
 excerpt   : 
   Koleksi seni SVG untuk inkscape,
   dalam rangka Gerakan Anti Korupsi.

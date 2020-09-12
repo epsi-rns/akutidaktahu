@@ -7,6 +7,7 @@ tags      : [inkscape, alumni]
 keywords  : [desain, spanduk, cetak, "ILUNI FTUI"]
 
 toc       : "toc/inkscape-alumni.njk"
+opengraphimage: "assets/posts/desain/2015/08-munas/munas-01-wall-of-fame-4x3-cetak.jpg"
 excerpt   : 
   Koleksi rancangan vektor inkscape dengan target cetak (bukan layar),
   yang bebas diunduh, dimodifikasi ataupun dipakai siapa saja secara gratis.

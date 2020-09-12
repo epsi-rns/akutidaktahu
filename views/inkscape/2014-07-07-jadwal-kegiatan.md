@@ -7,6 +7,7 @@ tags      : [inkscape, alumni]
 keywords  : [desain, logo, "makara UI", perangko, "woro-woro", "ILUNI FTUI"]
 
 toc       : "toc/inkscape-alumni.njk"
+opengraphimage: "assets/posts/desain/2014/07-ftui/munas-ftui-schedule.png"
 excerpt   : 
   Dua contoh template vektor inkscape, untuk pengumuman jadwal kegiatan,
   yang bebas diunduh, dimodifikasi ataupun dipakai siapa saja secara gratis.

@@ -7,6 +7,7 @@ tags      : [inkscape, alumni]
 keywords  : [desain, logo, "mechanical engineering", mesin, brushed, FTUI]
 
 toc       : "toc/inkscape-alumni.njk"
+opengraphimage: "assets/posts/desain/2016/11-ilusin/logo-trans-foto-01.png"
 excerpt   : 
   Iseng membikin profile picture untuk tiap angkatan di kampus.
 ---

@@ -7,6 +7,7 @@ tags      : [inkscape, alumni]
 keywords  : [desain, "woro woro", GAK, "ILUNI FTUI", "Diskusi Berseri"]
 
 toc       : "toc/inkscape-alumni.njk"
+opengraphimage: "assets/posts/desain/2015/10-esbp/esbp-03.png"
 excerpt   : 
   Ini bukan desain ikscape yang bagus,
   namun tetap saja boleh diunduh dan dipakai secara bebas,

@@ -7,6 +7,7 @@ tags      : [inkscape, alumni]
 keywords  : [desain, logo, perangko]
 
 toc       : "toc/inkscape-alumni.njk"
+opengraphimage: "assets/posts/desain/2015/09-perangko/logo-stamp-iluni-ftui.png"
 excerpt   : 
   Seni rancang SVG untuk inkscape,
   yang bebas diunduh, dimodifikasi ataupun dipakai siapa saja secara gratis.

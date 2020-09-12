@@ -7,6 +7,7 @@ tags      : [inkscape, alumni]
 keywords  : [desain, "woro-woro", whatsapp]
 
 toc       : "toc/inkscape-alumni.njk"
+opengraphimage: "assets/posts/desain/2017/11-ilusin/pratilik-ilusin-lengkap.png"
 excerpt   : 
   Secara kreatif membikin woro-woro untuk whatsapp.
 ---

@@ -7,6 +7,7 @@ tags      : [inkscape, alumni]
 keywords  : [desain, spanduk, cetak, "woro-woro", "undangan kegiatan", "stock image", "ILUNI UI"]
 
 toc       : "toc/inkscape-alumni.njk"
+opengraphimage: "assets/posts//desain/2015/08-undangan/event-invitation-example-alumni-yellow.png"
 excerpt   : 
   Stok gambar SVG untuk inkscape yang cantique menarique,
   yang bebas diunduh, dimodifikasi ataupun dipakai siapa saja secara gratis.

@@ -7,6 +7,7 @@ tags      : [inkscape, umum]
 keywords  : [desain, vexel, "face tracing", "jiplak wajah"]
 
 toc       : "toc/inkscape-keseharian.njk"
+opengraphimage: "assets/posts/desain/2015/09-vexel/vexel-profile-picture.png"
 excerpt   : 
   Penasaran bagaimana membuat Vexel di Inskcape?
   Ya benar, ini dapat dilakukan.

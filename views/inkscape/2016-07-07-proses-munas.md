@@ -7,6 +7,7 @@ tags      : [inkscape, alumni]
 keywords  : [desain, "musyawarah nasional", "ILUNI UI"]
 
 toc       : "toc/inkscape-alumni.njk"
+opengraphimage: "assets/posts/desain/2016/07-munas/diskusi-terbuka-calon-01.png"
 excerpt   : 
   Berikut penulis paparkan suatu contoh desain dengan proses iterasinya.
   Karena penulis sudah tidak terlalu terlibat dalam kegiatan tersebut,

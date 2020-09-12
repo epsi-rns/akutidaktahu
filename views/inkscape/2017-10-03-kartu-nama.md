@@ -7,6 +7,7 @@ tags      : [inkscape, umum]
 keywords  : [desain, "kartu-nama", "business-card"]
 
 toc       : "toc/inkscape-keseharian.njk"
+opengraphimage: "assets/posts/desain/2017/10-kartu-nama/04-business-card-teman-93.png"
 excerpt   : 
   Salah satu perlengkapan kegiatan adalah kartu nama.
   Demikian pula, kalau punya usaha kecil-kecil-an,

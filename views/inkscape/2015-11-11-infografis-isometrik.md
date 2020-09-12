@@ -7,6 +7,7 @@ tags      : [inkscape, alumni]
 keywords  : [desain, isometrik, infografis]
 
 toc       : "toc/inkscape-alumni.njk"
+opengraphimage: "assets/posts/desain/2015/11-isometrik/isometric-infographic-17.png"
 excerpt   : 
   Koleksi SVG isometri 3D untuk inkscape,
   yang bebas diunduh, dimodifikasi ataupun dipakai siapa saja secara gratis.
