@@ -18,7 +18,7 @@
 
   {%- for year, postsInYear in groupByYear -%}
       <div class ="archive-year p-t-5" id="{{ year }}">
-        <a href="{{ "/pages/archives-by-month" | url }}#{{ year }}">
+        <a href="{{ "/pages/archive-by-year" | url }}#{{ year }}">
         {{ year }}</a>
       </div>
 
@@ -30,7 +30,7 @@
         {%- for month, postsInMonth in groupByMonth -%}
           <li class="list-month">
             <span id="{{ year }}-{{ month }}">
-                  <a href="{{ "/pages/archives-by-month" | url }}#{{ year }}-{{ month }}">
+                  <a href="{{ "/pages/archive-by-month" | url }}#{{ year }}-{{ month }}">
                   {{ month }}</a> - {{ year }}</span>
           </li>
 

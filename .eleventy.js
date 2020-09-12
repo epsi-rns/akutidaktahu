@@ -170,6 +170,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addShortcode("pathPrefix", function() {
     return config.pathPrefix;
   });
+  eleventyConfig.addShortcode("postimage", function() {
+    return config.pathPrefix + 'assets/posts';
+  });
 
   // External Path
   eleventyConfig.addShortcode("dotfiles", function() {

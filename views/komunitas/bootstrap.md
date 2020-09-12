@@ -1,25 +1,36 @@
 ---
 layout    : post
-title     : 5FDP - Wash It All The Way
-date      : 2020-02-23 07:35:05
-tags      : ["metal", "2010s"]
+title     : Pesan Tersemat - Bootstrap ID
+date      : 2020-03-05 09:17:35
+slug      : bootstrap-id
+tags      : ["pesan tersemat", aturan]
+keywords  : ["komunitas"]
+
+toc       : "toc/pesan-tersemat.njk"
 ---
 
-I'm wasting here\
-Can anyone\
-Wash it all away?
-<!--more-->
+Walaupun saya adalah _owner_ dari group ini,
+namun dari awal pembentukan, group ini dibikin oleh beberapa orang admin.
+Karena itu saya memasang __pinned post__ yang umum.
+Tidak telalu kreatif.
 
-I won't change for you\
-And I can't take the pain\
-There's nothing you can do\
-And there's nothing you can say
+Karena penghuni group ternyata,
+kebanyakan bukan pemateri yang suka berbagi,
+maka tidak mudah untuk membuat group ini cair dan akrab.
+Karena itu saya biarkan saja isi pesan tersemat tersebu,
+sebagaimana adanya.
+
+<!-- more -->
+
+## Bootstrap Indonesia
+
+### Alamat
+
+* [t.me/bootstrap_id](https://t.me/bootstrap_id)
 
 ### Pesan Tersemat
 
 ATURAN GRUP BOOTSTRAP INDONESIA TELEGRAM
-
-`#ATURAN` `#RULE` `#RULES`
 
 1. Bagi member baru dipersilahkan untuk **memperkenalkan diri** 🤝.
 
@@ -48,3 +59,8 @@ ATURAN GRUP BOOTSTRAP INDONESIA TELEGRAM
 #### ☆ Bahan Bacaan
 
 * 🕷 <https://epsi-rns.gitlab.io/frontend/2019/02/15/concept-css/>
+
+`#ATURAN` `#RULE` `#RULES`
+
+[//]: <> ( -- -- -- links below -- -- -- )
+
