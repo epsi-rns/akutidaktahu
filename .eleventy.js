@@ -19,7 +19,7 @@ const config = {
   passthroughFileCopy: true,
   dir: {
     input: "views",
-    output: "dist",
+    output: "_site",
     // ⚠️ These values are both relative to your input directory.
     includes: "_includes",
     data: "_data"
