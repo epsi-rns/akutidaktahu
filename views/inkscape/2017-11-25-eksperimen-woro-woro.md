@@ -124,9 +124,11 @@ Lalu di-kira-kira saja, pantas atau tidak.
 
 ### Kabut Warna-Warni
 
-Kabut Pelangi ini, aku mengikuti tutorial-nya mas Irfan Prastyanto.
-Namun karena aku cari-cari di youtube tidak ada lagi tautan `link`-nya,
-maka aku beri video-nya paman Nick Saporito saja yacc.
+Kabut Pelangi ini, aku mengikuti tutorial-nya mas Irfan Prastiyanto.
+
+* [Spectrum Ribbon Tutorial in Inkscape][irfan-prastiyanto]
+
+Atau video-nya paman Nick Saporito juga bagus:
 
 * [Inkscape Tutorial: Vector Smoke Effect][nick-saporito]
 
@@ -304,6 +306,8 @@ Segitu saja yacc. Sampai jumpa sohib.
 [//]: <> ( -- -- -- links below -- -- -- )
 
 [nick-saporito]:    https://www.youtube.com/watch?v=kuJRlMfG0HQ
+[irfan-prastiyanto]:https://www.youtube.com/watch?v=jbQJr_DC3Mo
+
 [gitlab-progress-ring]: https://epsi-rns.gitlab.io/design/2017/11/15/inkscape-progress-ring/
 [local-progress-ring]:  https://akutidaktahu.netlify.app/2017/11/15/desain/inkscape-animasi-cincin/
 
