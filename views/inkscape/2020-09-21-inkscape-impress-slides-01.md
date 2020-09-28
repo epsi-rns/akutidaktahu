@@ -1,6 +1,6 @@
 ---
 layout    : post
-title     : Inkscape - Impress Slides - Part One
+title     : Inkscape - Impress Slides - Satu
 date      : 2020-09-21 09:17:35
 slug      : inkscape-impress-slides-01
 tags      : [inkscape, LibreOffice]
@@ -212,16 +212,16 @@ untuk melihat apakah slide-nya sudah siap.
 
 -- -- --
 
-### Apa Berikutnya ?
+### Apa Selanjutnya ?
 
 Lanjutkan baca ke
-[ [Inkscape: Impress Slides - Part Two][local-whats-next] ].
+[ [Inkscape: Impress Slides - Bagian Dua][local-whats-next] ].
 
 Terimakasih sudah berkunjung dan membaca.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[local-whats-next]:     {% postimage %}/desain/2020/09/22/inkscape-impress-slides-02/
+[local-whats-next]:     /inkscape/2020/09/22/inkscape-impress-slides-02.html
 
 [raniaamina]:   https://raniaamina.id/
 [repo-auto]:    https://github.com/epsi-rns/berkas2/tree/master/impress-template-auto
