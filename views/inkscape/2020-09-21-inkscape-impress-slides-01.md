@@ -39,7 +39,30 @@ Artikel berseri ini terdiri dari empat bagian.
 
 * Bagian Empat: Menambahkan karya seni bikinan sendiri
 
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* [SKS: Saya Kerjakan Sendiri](#sks)
+
+* [Impress](#impress)
+
+* [Inkscape](#inkscape)
+
+* [Membuat Master Slide](#master-slide)
+
+* [Apa Selanjutnya?](#selanjutnya)
+
+### Bahasa Inggris
+
+Artikel ini juga disajikan di blog penulis yang lain,
+dalam bahasa Inggris:
+
+* [Inkscape: Impress Slides - Part One][english-version]
+
 -- -- --
+
+<a name="sks"></a>
 
 ### SKS: Saya Kerjakan Sendiri
 
@@ -83,6 +106,8 @@ Duh... Impress adalah porgram yang keren.
 Dan layak template yang lebih baik dari sekedar naskah-naskah kuno.
 
 -- -- --
+
+<a name="impress"></a>
 
 ### Impress
 
@@ -129,6 +154,8 @@ From top to bottom,
 
 -- -- --
 
+<a name="inkscape"></a>
+
 ### Inkscape
 
 Gambar latar dari slide di atas dibikin dengan menggunakan Inkscape.
@@ -164,6 +191,8 @@ supaya dapat dipakai sohib-sohib sekalian.
 * [github.com/.../source-auto.svg][source-inkscape]
 
 -- -- --
+
+<a name="master-slide"></a>
 
 ### Membuat Master Slide
 
@@ -212,7 +241,9 @@ untuk melihat apakah slide-nya sudah siap.
 
 -- -- --
 
-### Apa Selanjutnya ?
+<a name="selanjutnya"></a>
+
+### Apa Selanjutnya?
 
 Lanjutkan baca ke
 [ [Inkscape: Impress Slides - Bagian Dua][local-whats-next] ].
@@ -222,6 +253,7 @@ Terimakasih sudah berkunjung dan membaca.
 [//]: <> ( -- -- -- links below -- -- -- )
 
 [local-whats-next]:     /inkscape/2020/09/22/inkscape-impress-slides-02.html
+[english-version]:      https://epsi-rns.gitlab.io/design/2020/09/21/inkscape-impress-slides-01/
 
 [raniaamina]:   https://raniaamina.id/
 [repo-auto]:    https://github.com/epsi-rns/berkas2/tree/master/impress-template-auto

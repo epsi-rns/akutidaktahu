@@ -37,7 +37,36 @@ Artikel berseri ini terdiri dari empat bagian.
 
 * Bagian Empat: Menambahkan karya seni bikinan sendiri
 
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* [Sumber Inspirasi](#sumber-inspirasi)
+
+* [Inkscape: Default Layers](#default-layers)
+
+* [Impress: Default Master Slides](#default-master)
+
+* [Inkscape: Layer Lain-Lain](#layer-lain-lain)
+
+* [Impress: Ketiga Master Slides Yang Lain](#master-slide-lain)
+
+* [Tampak Normal](#tampak-normal)
+
+* [Pengaturan Warna Tiap Bab](#pengaturan-warna)
+
+* [Apa Selanjutnya?](#selanjutnya)
+
+### Bahasa Inggris
+
+Artikel ini juga disajikan di blog penulis yang lain,
+dalam bahasa Inggris:
+
+* [Inkscape: Impress Slides - Part One][english-version]
+
 -- -- --
+
+<a name="sumber-inspirasi"></a>
 
 ### Sumber Inspirasi
 
@@ -100,6 +129,8 @@ sehingga terkesan modern.
 
 -- -- --
 
+<a name="default-layers"></a>
+
 ### Inkscape: Default Layers
 
 ### Halaman
@@ -160,6 +191,8 @@ yaitu untuk tiap-tiap 19 warna dari google material pallete.
 
 -- -- --
 
+<a name="default-master"></a>
+
 ### Impress: Default Master Slides
 
 Sebagaimana telah disebut di artikel sebelumnya,
@@ -173,6 +206,8 @@ Jangan lupa untuk mengganti nama tiap-tiap master slide,
 untuk mencerminkan warna masing-masing.
 
 -- -- --
+
+<a name="layer-lain-lain"></a>
 
 ### Inkscape: Layer Lain-Lain
 
@@ -241,6 +276,8 @@ yang sama dengan `default slide/layer`.
 
 -- -- --
 
+<a name="master-slide-lain"></a>
+
 ### Impress: Ketiga Master Slides Yang Lain
 
 Untuk ketiga slide lain yang akan kita bikin,
@@ -263,6 +300,8 @@ LAkukan saja dengan senang hati,
 dan ini akan selesai dengan sendirinya sebelum sohib merasa lelah.
 
 -- -- --
+
+<a name="tampak-normal"></a>
 
 ### Tampak Normal
 
@@ -288,6 +327,8 @@ Ubah tampilan ke `normal slide` untuk menguji tiap-tiap master slide.
 
 -- -- --
 
+<a name="pengaturan-warna"></a>
+
 ### Pengaturan Warna Tiap Bab
 
 Dengan menggunakan pilihan warna yang berbeda,
@@ -299,7 +340,9 @@ Dan bab yang berbeda memiliki warna berbeda pula.
 
 -- -- --
 
-### Apa Selanjutnya ?
+<a name="selanjutnya"></a>
+
+### Apa Selanjutnya?
 
 Lanjutkan baca ke
 [ [Inkscape: Impress Slides - Bagian Tiga][local-whats-next] ].
@@ -309,6 +352,7 @@ Terimakasih sudah berkunjung dan membaca.
 [//]: <> ( -- -- -- links below -- -- -- )
 
 [local-whats-next]:     /inkscape/2020/09/23/inkscape-impress-slides-03.html
+[english-version]:      https://epsi-rns.gitlab.io/design/2020/09/22/inkscape-impress-slides-02/
 
 [hervy-qa]:     https://hervyqa.com/
 

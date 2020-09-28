@@ -1,0 +1,209 @@
+---
+layout    : post
+title     : Inkscape - Impress Slides - Empat
+date      : 2020-09-24 09:17:35
+slug      : inkscape-impress-slides-04
+tags      : [inkscape, LibreOffice]
+keywords  : [desain, impress, master slides, template, karya asli]
+
+toc       : "toc/inkscape-keseharian.njk"
+opengraphimage: "assets/posts/design/2020/09/04-reference-ex-03.png"
+excerpt   : 
+  Menambahkan karya asli, ke slide di Impress menggunakan Inkscape.
+---
+
+<a name="prakata"></a>
+
+## Prakata
+
+> Menambahkan karya artwork asli, ke slide di Impress menggunakan Inkscape.
+
+Bagian terberat dari membuat presentasi setelah master slide jadi,
+adalah membikin aenka artwork-nya.
+Berikut adalah usaha membuat artwork yang dapat sohib-sohib gunakan,
+untuk presentasi sehari-hari.
+Sohib-sohib juga dapat berbagi artwok,
+untuk digunakan teman-teman lainya yang mungkin membutuhkan.
+
+Namun, tampilan cantique tidak akan mebantu,
+bilamana sohib tidak memiliki materi presentasi yang cukup baik.
+
+#### Artikel Berseri
+
+Artikel berseri ini terdiri dari empat bagian.
+
+* Bagian Satu: Template sederhana `auto`
+
+* Bagian Dua: Template klasik modern `candyclone`
+
+* Bagian Tiga: Menambah dekorasi `bullet`,
+  untuk butir-butir pokok pikiran
+
+* Bagian Empat: Menambahkan karya seni bikinan sendiri
+
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* [Contoh Bagus](#contoh-bagus)
+
+* [Halaman Muka (Cover Slide)](#cover-slide)
+
+* [Tautan Rujukan dan Penjelasan Sederhana](#tautan-rujukan)
+
+* [Slide Yang Umum](#slide-umum)
+
+* [Penutup](#penutup)
+
+### Bahasa Inggris
+
+Artikel ini juga disajikan di blog penulis yang lain,
+dalam bahasa Inggris:
+
+* [Inkscape: Impress Slides - Part One][english-version]
+
+-- -- --
+
+<a name="contoh-bagus"></a>
+
+### Contoh Bagus
+
+Untuk contoh yang lebih lengkap (dan tentunya lebih bagus),
+lebih baik teman-teman berkunjung ke situs bang Hervy.
+
+* <https://hervyqa.com/gnome-bluez-LibreOffice-impress-free-template/>
+
+-- -- --
+
+<a name="cover-slide"></a>
+
+### Halaman Muka (Cover Slide)
+
+Sudah cukup jelas, dengan kemampuan daya cipta saya yang mengenaskan,
+halaman muka yang saya bikin, hanyalah hasil,
+salin-tempel dari karya bang Hervy.
+
+Perbedannya adalah, saya menaruh karya artwork,
+yang memang asli bikinan saya.
+Walaupun dibikinnya juga berdasarkan contoh-contoh tutorial di youtube.
+Sebagaimana halaman muka buku,
+pada dasarnya kita dapat menaruh gambar apa saja,
+yang sebetulnya tidak harus selalu terkait dengan isi presentasi.
+Atu mungkin hanya saya saja yang kelakuannya suka begitu.
+
+#### Contoh: CSS Concept
+
+![Slide Cover: CSS Concept][cover-css-concept]
+
+Sumber Karya: [Spectrum Rainbow][rainbow-spectrum]
+
+#### Contoh: Linux Diversity
+
+![Slide Cover: Linux Diversity][cover-diversity]
+
+Sumber Karya: [Isometric Wallpaper][github-isometric]
+
+#### Contoh: Desktop Customization
+
+![Slide Cover: Desktop Customization][cover-ricing]
+
+Sumber Karya: [Inkscape: Isometric Infographics][local-isometric]
+
+-- -- --
+
+<a name="tautan-rujukan"></a>
+
+### Tautan Rujukan dan Penjelasan Sederhana
+
+Sometimes you have a very simple slide with a very few text.
+You can either keep your presentation clean from any decoration,
+or give it an artwork, as we did with cover slide.
+
+#### Contoh Penjelasan Sederhana 1
+
+![Simple Point: Contoh 1][sim-ex-01]
+
+#### Contoh Penjelasan Sederhana 2
+
+![Simple Point: Contoh 2][sim-ex-02]
+
+#### Contoh Rujukan 1
+
+![Reference Link: Contoh 1][ref-ex-01]
+
+#### Contoh Rujukan 2
+
+![Reference Link: Contoh 2][ref-ex-02]
+
+#### Contoh Rujukan 3
+
+Selalu lebih baik, kalau gambarnya terkait dengan topik di tautan.
+
+![Reference Link: Contoh 3][ref-ex-03]
+
+-- -- --
+
+<a name="slide-umum"></a>
+
+### Slide Yang Umum
+
+> Tanpa artwork
+
+Tentunya, ada juga slide yang selalu dibutuhkan di tiap presentasi.
+Saya lebih seuka menampilkan ini tanpa artwork.
+
+#### Kata Pembuka: Mengenai Penulis
+
+![Common Slide: About Me][common-about-me]
+
+#### Kata Pembuka: Mengenai Materi dan Topik
+
+![Common Slide: About Material][common-about-matl]
+
+#### Kata Penutup: Apa Selanjutnya?
+
+![Common Slide: What's Next?][common-whats-next]
+
+#### Kata Penutup: Pertanyaan
+
+![Common Slide: Questions][common-question]
+
+#### Kata Penutup: Terimakasih
+
+![Common Slide: Thank You][common-thank-you]
+
+-- -- --
+
+<a name="penutup"></a>
+
+### Penutup
+
+Sepertinya itu saja yacc sohib.
+Sementara saya bisanya hanya itu.
+
+Terimakasih sudah berkunjung.
+
+[//]: <> ( -- -- -- links below -- -- -- )
+
+[english-version]:      https://epsi-rns.gitlab.io/design/2020/09/24/inkscape-impress-slides-04/
+
+[local-isometric]:      /inkscape/2015/11/11/infografis-isometrik.html
+[github-isometric]:     https://github.com/epsi-rns/isometric-wallpaper
+[rainbow-spectrum]:     {% postimage %}/desain/2017/11-ilusin/rainbow-spectrum.svg
+
+[cover-css-concept]:{% postimage %}/desain/2020/09/04-cover-concept-css.png
+[cover-ricing]:     {% postimage %}/desain/2020/09/04-cover-customization.png
+[cover-diversity]:  {% postimage %}/desain/2020/09/04-cover-diversity.png
+
+[sim-ex-01]:    {% postimage %}/desain/2020/09/04-simple-ex-01.png
+[sim-ex-02]:    {% postimage %}/desain/2020/09/04-simple-ex-02.png
+[ref-ex-01]:    {% postimage %}/desain/2020/09/04-reference-ex-01.png
+[ref-ex-02]:    {% postimage %}/desain/2020/09/04-reference-ex-02.png
+[ref-ex-03]:    {% postimage %}/desain/2020/09/04-reference-ex-03.png
+
+[common-about-me]:  {% postimage %}/desain/2020/09/04-common-about-me.png
+[common-about-matl]:{% postimage %}/desain/2020/09/04-common-about-material.png
+[common-whats-next]:{% postimage %}/desain/2020/09/04-common-what-is-next.png
+[common-question]:  {% postimage %}/desain/2020/09/04-common-question.png
+[common-thank-you]: {% postimage %}/desain/2020/09/04-common-thank-you.png
+

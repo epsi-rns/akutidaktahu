@@ -1,10 +1,10 @@
 ---
 layout    : post
-title     : Inkscape - Impress Slides - Part Three
+title     : Inkscape - Impress Slides - Tiga
 date      : 2020-09-23 09:17:35
 slug      : inkscape-impress-slides-03
 tags      : [inkscape, LibreOffice]
-keywords  : [desain, impress, master slides, template, origianl artwork]
+keywords  : [desain, impress, master slides, template, butir-butir, karya asli]
 
 toc       : "toc/inkscape-keseharian.njk"
 opengraphimage: "assets/posts/design/2020/09/03-points-four-items-big.png"
@@ -34,7 +34,24 @@ Artikel berseri ini terdiri dari empat bagian.
 
 * Bagian Empat: Menambahkan karya seni bikinan sendiri
 
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* [Contoh Butir](#butir)
+
+* [Apa Selanjutnya?](#selanjutnya)
+
+### Bahasa Inggris
+
+Artikel ini juga disajikan di blog penulis yang lain,
+dalam bahasa Inggris:
+
+* [Inkscape: Impress Slides - Part One][english-version]
+
 -- -- --
+
+<a name="butir"></a>
 
 ### Tampilan Default
 
@@ -111,7 +128,9 @@ bagaimana kita dapat mempercantik tampilan presentasi.
 
 -- -- --
 
-### Apa Selanjutnya ?
+<a name="selanjutnya"></a>
+
+### Apa Selanjutnya?
 
 Lanjutkan baca ke
 [ [Inkscape: Impress Slides - Bagian Empat][local-whats-next] ].
@@ -120,11 +139,12 @@ Terimakasih sudah berkunjung dan membaca.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[local-whats-next]:     /inkscape/2020/09/23/inkscape-impress-slides-03.html
+[local-whats-next]:     /inkscape/2020/09/24/inkscape-impress-slides-04.html
+[english-version]:      https://epsi-rns.gitlab.io/design/2020/09/23/inkscape-impress-slides-03/
 
 [local-progress-ring]:  /inkscape/2017/11/15/animasi-cincin.html
 
-[progress-bright]:  {% postimage %}/desain/2017/11/progress-bright-smooth.png
+[progress-bright]:  {% postimage %}/desain/2017/11-cincin/progress-bright-smooth.png
 [points-simple]:    {% postimage %}/desain/2020/09/03-points-simple-view.png
 [points-2-items]:   {% postimage %}/desain/2020/09/03-points-two-items.png
 [points-3-items]:   {% postimage %}/desain/2020/09/03-points-three-items.png
