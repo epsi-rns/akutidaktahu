@@ -1,6 +1,6 @@
 ---
 layout    : post
-title     : Inkscape - Impress Slides - Dua
+title     : Inkscape - Impress Slides - Bagian Dua
 date      : 2020-09-22 09:17:35
 slug      : inkscape-impress-slides-02
 tags      : [inkscape, LibreOffice]

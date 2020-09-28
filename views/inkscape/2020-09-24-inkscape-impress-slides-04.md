@@ -1,6 +1,6 @@
 ---
 layout    : post
-title     : Inkscape - Impress Slides - Empat
+title     : Inkscape - Impress Slides - Bagian Empat
 date      : 2020-09-24 09:17:35
 slug      : inkscape-impress-slides-04
 tags      : [inkscape, LibreOffice]

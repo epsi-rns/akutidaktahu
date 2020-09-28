@@ -1,6 +1,6 @@
 ---
 layout    : post
-title     : Inkscape - Impress Slides - Tiga
+title     : Inkscape - Impress Slides - Bagian Tiga
 date      : 2020-09-23 09:17:35
 slug      : inkscape-impress-slides-03
 tags      : [inkscape, LibreOffice]
