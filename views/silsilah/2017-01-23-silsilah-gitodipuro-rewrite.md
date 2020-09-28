@@ -1,7 +1,7 @@
 ---
 layout    : post
 title     : Silsilah - Gitodipuro Rewrite
-date      : 2017-02-17 09:17:35
+date      : 2017-01-23 09:17:35
 slug      : gitodipuro-rewrite
 tags      : [silsilah]
 keywords  : [kaliyoso, gitodipuro]
