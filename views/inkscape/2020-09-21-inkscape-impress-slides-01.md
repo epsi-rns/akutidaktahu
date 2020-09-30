@@ -7,7 +7,7 @@ tags      : [inkscape, LibreOffice]
 keywords  : [desain, impress, master slides, template, Rania Amina, sederhana]
 
 toc       : "toc/inkscape-keseharian.njk"
-opengraphimage: "assets/posts/desain/2020/09/01-auto-linux-diversity-cover.png"
+opengraphimage: "assets/posts/desain/2020/09/isometric-preview.png"
 excerpt   : 
   Membikin master slide sederhana
   untuk LibreOffice impress

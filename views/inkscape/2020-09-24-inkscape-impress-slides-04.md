@@ -53,6 +53,8 @@ Artikel berseri ini terdiri dari empat bagian.
 
 * [Slide Yang Umum](#slide-umum)
 
+* [Berbagi dan Menerbitkan Template](#berbagi)
+
 * [Penutup](#penutup)
 
 ### Bahasa Inggris
@@ -174,6 +176,20 @@ Saya lebih seuka menampilkan ini tanpa artwork.
 
 -- -- --
 
+<a name="berbagi"></a>
+
+### Berbagi dan Menerbitkan Template
+
+Jangan lupa berbagi apa-apa yang sudah kita kerjakan.
+Sekalian juga untuk promosi, atau menunjukkan portofolio karya kita.
+
+Kita dapat menaruh template di blog,
+ataupun di repository  (github/gitlab/bitbucket).
+
+![Share and Publish Template][isometric-preview]
+
+-- -- --
+
 <a name="penutup"></a>
 
 ### Penutup
@@ -207,3 +223,4 @@ Terimakasih sudah berkunjung.
 [common-question]:  {% postimage %}/desain/2020/09/04-common-question.png
 [common-thank-you]: {% postimage %}/desain/2020/09/04-common-thank-you.png
 
+[isometric-preview]:{% postimage %}/desain/2020/09/isometric-preview.png
