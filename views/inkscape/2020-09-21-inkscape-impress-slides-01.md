@@ -39,6 +39,8 @@ Artikel berseri ini terdiri dari empat bagian.
 
 * Bagian Empat: Menambahkan karya seni bikinan sendiri
 
+![Isometric Preview][isometric-preview]
+
 ### Daftar Isi
 
 * [Prakata](#prakata): Daftar Isi
@@ -270,4 +272,5 @@ Terimakasih sudah berkunjung dan membaca.
 [auto-impress-adjust]:  {% postimage %}/desain/2020/09/01-auto-impress-adjustment.png
 [auto-impress-normal]:  {% postimage %}/desain/2020/09/01-auto-impress-normal.png
 
+[isometric-preview]:{% postimage %}/desain/2020/09/isometric-preview.png
 
