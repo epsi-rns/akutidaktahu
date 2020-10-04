@@ -157,7 +157,7 @@ Semua frame dapat dituliskan sebagai berikut:
 
 * Diam (Still): Supaya pemirsa dapat melihat posisi akhir untuk sementara waktu.
 
-### Salindia (Frame): Tulisan Masuk
+### Salindia (Frame): Judul Masuk
 
 Atur peletakan bingkai frame di `Pinggir Dua` sebagaimana berikut:
 
@@ -179,7 +179,7 @@ Lalu lihat hasilnya:
 
 ![Candyline: Title Entrance Preview][title-entrance]
 
-### Salindia (Frame): Pergerakan Tulisan
+### Salindia (Frame): Pergerakan Judul
 
 Masih ada empat salindia lagi yang harus dikerjakan:
 
