@@ -112,7 +112,7 @@ dan juga tercermin dalam hasil presentasinya.
 
 ### Bingkai Frame: Tulisan Masuk
 
-Secara singkat bingkai frame untuk utlisan masuk ada di gambar di bawah:
+Secara singkat bingkai frame untuk tulisan masuk ada di gambar di bawah:
 
 ![Inkscape: Title: Entrance Frame Objects][entrance-frames]
 
@@ -305,7 +305,7 @@ Terimakasih sudah berkunjung dan membaca.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[local-whats-next]:     /inkscape/2020/09/28/sozi-animasi-03.html
+[local-whats-next]:     /inkscape/2020/09/29/sozi-animasi-03.html
 [english-version]:      https://epsi-rns.gitlab.io/design/2020/09/28/sozi-animation-02/
 
 [source-title]:     https://github.com/epsi-rns/berkas2/blob/master/sozi-candyline/step-02-titles/candyline-title.svg

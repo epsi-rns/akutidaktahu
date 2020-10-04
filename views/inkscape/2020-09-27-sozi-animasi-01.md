@@ -114,7 +114,7 @@ Setidaknya ada tiga cara untuk mengatur peletakan di `Sozi`.
 
 2. Gunakan salindia
 
-3. Sunting lasngung berkas JSON (tidak disarankan)
+3. Sunting langsung berkas JSON (tidak disarankan)
 
 Saya sebetulnya lebih suka hal-hal teknis, 
 dan bukanlah desainer dengan cita rasa seni.
@@ -148,14 +148,14 @@ Gratis koq. Silahkan unduh sepuasnya.
 Sebagaimana Impress yang telah dibahas di artikel sebelumnya,
 Sozi ini menggunakan rasio perbandingan untuk presentasinya,
 misalnya `4:3` atau lainnya.
-Saya memakai `4:#` karena ini lebih umum di video.
+Saya memakai `4:3` karena ini lebih umum di video.
 Tentunya kita juga dapat menggunakan `16:9`,
 namun pratilik dari rasio `16:9` akan tampak gepeng di beberapa media sosial.
 
 Besarnya ukuran halaman tidak menjadi masalah bagi Sozi.
 Namun untuk memudahkan pekerjaan kita sendiri akan lebih mudah,
 bilamana kita melakukan pengaturan di awal.
-Saya menggunakan ukuran lebar `400px` * dan tinggi `300px`.
+Saya menggunakan ukuran lebar `400px` dan tinggi `300px`.
 
 Sohib dapat menggunakan berapapun ukuran sesuai suasana hati,
 selama perbandingan lebar dan tingginya,
