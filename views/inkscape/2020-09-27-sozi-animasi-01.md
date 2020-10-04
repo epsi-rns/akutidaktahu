@@ -32,7 +32,7 @@ Artikel berseri ini terdiri dari tiga bagian.
 
 * Bagian Dua: Judul
 
-* Bagian Tiga: Dekorasi Kubus
+* Bagian Tiga: Hiasan Kubus
 
 ![Candyline: Lines Preview][Lines-preview]
 
@@ -177,7 +177,7 @@ Maka `layer`-nya say siapkan tiga lapisan.
 
 ### Source: Sebelum Dipotong
 
-Bentuk dasarnya hanyalah dekorasi garis pinggir.
+Bentuk dasarnya hanyalah hiasan garis pinggir.
 Baik kiri maupun kanan sebetulnya hanyalah,
 kotak yang dibikin tipis, yaitu dengan ketebalan sebesar `10px`.
 
@@ -384,7 +384,7 @@ Tiga langkah untuk ini
 
 ![Sozi: Positioning: Background][sozi-02-bg]
 
-Sekarang kita memikili ukuran prsentasi yang tepat,
+Sekarang kita memiliki ukuran prsentasi yang tepat,
 cocok dengan ukuran halaman yang sudah diatur di inkscape.
 
 ### Peletakan: Satu Garis
@@ -452,7 +452,7 @@ termasuk dengan peletakan yang diputar beberapa derajat.
 
 ### Pergerakan: Kiri Tengah
 
-Atur peletakan baru unttuktiap-tiap salindia frame.
+Atur peletakan baru untuk tiap-tiap salindia frame.
 
 * Kiri Tengah: `bg-frame-01-01`
 
@@ -589,7 +589,6 @@ Terimakasih sudah berkunjung dan membaca.
 [//]: <> ( -- -- -- links below -- -- -- )
 
 [local-whats-next]:     /inkscape/2020/09/28/sozi-animasi-02.html
-
 [english-version]:      https://epsi-rns.gitlab.io/design/2020/09/27/sozi-animation-01/
 
 [repository]:       https://github.com/epsi-rns/berkas2/
