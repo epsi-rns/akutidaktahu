@@ -7,9 +7,9 @@ tags      : [inkscape, LibreOffice]
 keywords  : [desain, impress, master slides, template, Hervy QA, klasik modern]
 
 toc       : "toc/inkscape-keseharian.njk"
-opengraphimage: "assets/posts/desain/2020/09/02-candyclone-cover.png"
+opengraphimage: "assets/posts/desain/2020/09-impress/02-candyclone-cover.png"
 excerpt   : 
-  Membikin master slide untuk presentasi sungguhan
+  Membikin salindia utama untuk presentasi sungguhan
   untuk LibreOffice impress
   dengan menggunakan inkscape
 ---
@@ -18,13 +18,13 @@ excerpt   :
 
 ## Prakata
 
-> Membikin master slide untuk presentasi sungguhan
+> Membikin salindia utama untuk presentasi sungguhan
 > untuk LibreOffice impress
 > dengan menggunakan inkscape
 
 Saya beri nama template ini `candyclone`.
 
-#### Artikel Berseri
+### Artikel Berseri
 
 Artikel berseri ini terdiri dari empat bagian.
 
@@ -45,11 +45,11 @@ Artikel berseri ini terdiri dari empat bagian.
 
 * [Inkscape: Default Layers](#default-layers)
 
-* [Impress: Default Master Slides](#default-master)
+* [Impress: Salindia Utama Baku](#default-master)
 
 * [Inkscape: Layer Lain-Lain](#layer-lain-lain)
 
-* [Impress: Ketiga Master Slides Yang Lain](#master-slide-lain)
+* [Impress: Ketiga Salindia Utama Yang Lain](#master-slide-lain)
 
 * [Tampak Normal](#tampak-normal)
 
@@ -64,11 +64,21 @@ dalam bahasa Inggris:
 
 * [Inkscape: Impress Slides - Part One][english-version]
 
+### Bahasa Indonesia
+
+Berikut padanan kata yang saya pakai di artikel ini.
+
+* `slide`: `salindia`.
+
+* `master slide`: `salindia utama`.
+
+* `default master slide`: `salindia utama baku`.
+
 -- -- --
 
 <a name="sumber-inspirasi"></a>
 
-### Sumber Inspirasi
+## Sumber Inspirasi
 
 > Beruntung bertemu abang ini
 
@@ -89,10 +99,10 @@ Silahkan dilihat videonya di sini:
 
 * <http://www.youtube.com/watch?v=O3urHT5AHG8#action=share>
 
-#### Garis Pinggir
+### Garis Pinggir
 
 Saya melihat dekorasi garis pinggir (kiri dan kanan),
-dari master slide karya bang Hervy,
+dari salindia utama karya bang Hervy,
 dan baru sadar kalau konsepnya sangat mirip,
 dengan tampilan blog yang saya bikin.
 Perbedaannya adalah saya menggunakan banyak warna,
@@ -108,7 +118,7 @@ Maka saya putuskan untuk menggunakan inkscape untu meniru tampilannya,
 karena lebih mudah untuk membuat aneka ragam bentuk yang saya butuhkan,
 dengan menggunakan Inkscape.
 
-#### Template Tiruan
+### Template Tiruan
 
 Karena temnplate tiruan (`clone`) yang saya bikin,
 menggunakan warna yang semarak `eye candy`, dari `google pallete`,
@@ -131,7 +141,7 @@ sehingga terkesan modern.
 
 <a name="default-layers"></a>
 
-### Inkscape: Default Layers
+## Inkscape: Default Layers
 
 ### Halaman
 
@@ -140,7 +150,7 @@ Saya menggunakan ukuran `1600px * 900px`.
 Lalu menggunakan `checkerboard background`,
 untuk membedakan warna latar yang saya bikin berwarana putih.
 
-#### Lapisan Layer Sebelum Dipotong
+### Lapisan Layer Sebelum Dipotong
 
 Saya membuat `source layer` terlebih dahulu.
 Seperti biasanya, saya memulai dengan warna favorit say,
@@ -155,7 +165,7 @@ untuk garis pinggir secara bebas, misalnya:
 
 * Pinggir Kanan: `30px`.
 
-#### Lapisan Layer Potong
+### Lapisan Layer Potong
 
 Kemudian saya potong garis pinggir.
 
@@ -176,13 +186,13 @@ secara berurut sebagai berikut:
 
 * Kanan Atas: `blue100`.
 
-#### Group
+### Group
 
 Kemudian gabungkan menjadi satu dengan melakukan `group` semua `shape`.
 Sekarang sohib sudah memiliki `group object`,
 dengan ukuran `1600px * 900px`.
 
-#### Layers
+### Layers
 
 Salin `group object` di atas ke dalam lapisan layer masing-masing,
 yaitu untuk tiap-tiap 19 warna dari google material pallete.
@@ -193,29 +203,29 @@ yaitu untuk tiap-tiap 19 warna dari google material pallete.
 
 <a name="default-master"></a>
 
-### Impress: Default Master Slides
+## Impress: Salindia Utama Baku
 
 Sebagaimana telah disebut di artikel sebelumnya,
 lakukanlah lagi langkah-langkah yang telah dijelaskan.
 Untuk tiap-tiap 19 warna, salin dari Inkscape, lalu tempel ke Impress.
-Artinya sohib akan memiliki 19 `master slides`.
+Artinya sohib akan memiliki 19 `salindia utama`.
 
 ![Candyclone Template: Impress: Default Slide: Master][clone-master-default]
 
-Jangan lupa untuk mengganti nama tiap-tiap master slide,
+Jangan lupa untuk mengganti nama tiap-tiap salindia utama,
 untuk mencerminkan warna masing-masing.
 
 -- -- --
 
 <a name="layer-lain-lain"></a>
 
-### Inkscape: Layer Lain-Lain
+## Inkscape: Layer Lain-Lain
 
-Ulangi langkah-langkah di atas untuk ketiga slide yang lain.
+Ulangi langkah-langkah di atas untuk ketiga salindia utama yang lain.
 
-#### Grouping Layers
+### Grouping Layers
 
-Gabungkan lapisan layer untuk slide yang sama,
+Gabungkan lapisan layer untuk salindia yang sama,
 namun hanya berbeda warna, misalnya:
 
 * Default: Memiliki 19 lapisan layers, ditambah `cut` and `source`.
@@ -227,7 +237,7 @@ namun hanya berbeda warna, misalnya:
 * Image: Memiliki 19 lapisan layers, ditambah `cut` and `source`.
   Dan jugsa saya tetap simpan `alternate source` yang tidak jadi saya pakai.
 
-#### Alternate Slide/Layer
+### Alternate Slide/Layer
 
 Sama dengan `default`, namun dengan warna berbeda.
 
@@ -247,9 +257,9 @@ Dengan sedikit perbedaan warna `material`:
 
 * Kanan Atas: `blue100`.
 
-#### Single Slide/Layer
+### Single Slide/Layer
 
-Sama dengan langkah untuk slide dari judul bab,
+Sama dengan langkah untuk salindiadari judul bab,
 atau pemisah antar bagian.
 
 ![Candyclone Template: Inkscape: Single Slide: Source][clone-single-src]
@@ -261,7 +271,7 @@ Berikut contoh potongan akhir untuk `single-blue`.
 Sahib dapat memiliki warna apa saja yang disukai.
 Kebetulan saja, saya memilih warna `blue900` untuk bentuk yang ditengah.
 
-#### Image Slide/Layer
+### Image Slide/Layer
 
 Langkah yang sama untuk menampilkan gambar tunggal.
 
@@ -271,28 +281,28 @@ Berikut contoh potongan akhir untuk `image-blue`.
 
 ![Candyclone Template: Inkscape: Image Slide: Cut][clone-image-cut]
 
-Say amenggunakan pengaturan tata warna,
-yang sama dengan `default slide/layer`.
+Saya menggunakan pengaturan tata warna,
+yang sama dengan `default salindia/layer`.
 
 -- -- --
 
 <a name="master-slide-lain"></a>
 
-### Impress: Ketiga Master Slides Yang Lain
+## Impress: Ketiga Salindia Utama Yang Lain
 
-Untuk ketiga slide lain yang akan kita bikin,
+Untuk ketiga salindia lain yang akan kita bikin,
 salin dari Inkscape, dankemudian tempel ke Impress.
 Lakukan semua untuk tiap-tiap 19 warna yang ada.
-Hasil akhirnya akan berjumlah 4x19 slide, yaitu 76 slides.
+Hasil akhirnya akan berjumlah 4x19 salindia, yaitu 76 slides.
 
 ![Candyclone Template: Impress: Image Slide: Master][clone-master-image]
 
-Lalu, jangan lupa untuk mengubah tiap-tiap master slide,
+Lalu, jangan lupa untuk mengubah tiap-tiap salindia utama,
 untuk mencerminkan warna masing-masing.
 
-#### Penyesuaian
+### Penyesuaian
 
-> Untuk tiap-tiap slide yang berjumlah 76 lembar!
+> Untuk tiap-tiap salindia utama yang berjumlah 76 lembar!
 
 Lakukan penyesuaian terhadap posisi teks, ukuran, warna dan fonta.
 Saya paham ini pekerjaan berulang yang membosankan.
@@ -303,23 +313,23 @@ dan ini akan selesai dengan sendirinya sebelum sohib merasa lelah.
 
 <a name="tampak-normal"></a>
 
-### Tampak Normal
+## Tampak Normal
 
-Ubah tampilan ke `normal slide` untuk menguji tiap-tiap master slide.
+Ubah tampilan ke `normal slide` untuk menguji tiap-tiap salindia utama.
 
-#### Default Slide
+### Default Slide
 
 ![Candyclone Template: Impress: Default Slide: Normal][normal-default]
 
-#### Alternate Slide Dengan Warna Latar
+### Alternate Slide Dengan Warna Latar
 
 ![Candyclone Template: Impress: Alternate Slide: Normal][normal-alternate]
 
-#### Single Slide Untuk Judul Bab
+### Single Slide Untuk Judul Bab
 
 ![Candyclone Template: Impress: Single Slide: Normal][normal-single]
 
-#### Image Slide
+### Image Slide
 
 ![Candyclone Template: Impress: Image Slide: Normal][normal-image]
 
@@ -329,7 +339,7 @@ Ubah tampilan ke `normal slide` untuk menguji tiap-tiap master slide.
 
 <a name="pengaturan-warna"></a>
 
-### Pengaturan Warna Tiap Bab
+## Pengaturan Warna Tiap Bab
 
 Dengan menggunakan pilihan warna yang berbeda,
 penulis dapat memisahkan antara tiap-tiap bab di presentasi.
@@ -342,7 +352,7 @@ Dan bab yang berbeda memiliki warna berbeda pula.
 
 <a name="selanjutnya"></a>
 
-### Apa Selanjutnya?
+## Apa Selanjutnya?
 
 Lanjutkan baca ke
 [ [Inkscape: Impress Slides - Bagian Tiga][local-whats-next] ].
@@ -356,23 +366,23 @@ Terimakasih sudah berkunjung dan membaca.
 
 [hervy-qa]:     https://hervyqa.com/
 
-[clone-cover]:  {% postimage %}/desain/2020/09/02-candyclone-cover.png
-[clone-cut]:    {% postimage %}/desain/2020/09/02-clone-inkscape-cut.png
-[clone-source]: {% postimage %}/desain/2020/09/02-clone-inkscape-source.png
-[clone-layers]: {% postimage %}/desain/2020/09/02-clone-inkscape-layers.png
+[clone-cover]:  {% postimage %}/desain/2020/09-impress/02-candyclone-cover.png
+[clone-cut]:    {% postimage %}/desain/2020/09-impress/02-clone-inkscape-cut.png
+[clone-source]: {% postimage %}/desain/2020/09-impress/02-clone-inkscape-source.png
+[clone-layers]: {% postimage %}/desain/2020/09-impress/02-clone-inkscape-layers.png
 
-[clone-master-default]: {% postimage %}/desain/2020/09/02-clone-impress-master-default.png
-[clone-master-image]:   {% postimage %}/desain/2020/09/02-clone-impress-master-image.png
+[clone-master-default]: {% postimage %}/desain/2020/09-impress/02-clone-impress-master-default.png
+[clone-master-image]:   {% postimage %}/desain/2020/09-impress/02-clone-impress-master-image.png
 
-[clone-alternate]:  {% postimage %}/desain/2020/09/02-clone-inkscape-alternate-cut.png
-[clone-image-cut]:  {% postimage %}/desain/2020/09/02-clone-inkscape-image-cut.png
-[clone-image-src]:  {% postimage %}/desain/2020/09/02-clone-inkscape-image-source.png
-[clone-single-cut]: {% postimage %}/desain/2020/09/02-clone-inkscape-single-cut.png
-[clone-single-src]: {% postimage %}/desain/2020/09/02-clone-inkscape-single-source.png
+[clone-alternate]:  {% postimage %}/desain/2020/09-impress/02-clone-inkscape-alternate-cut.png
+[clone-image-cut]:  {% postimage %}/desain/2020/09-impress/02-clone-inkscape-image-cut.png
+[clone-image-src]:  {% postimage %}/desain/2020/09-impress/02-clone-inkscape-image-source.png
+[clone-single-cut]: {% postimage %}/desain/2020/09-impress/02-clone-inkscape-single-cut.png
+[clone-single-src]: {% postimage %}/desain/2020/09-impress/02-clone-inkscape-single-source.png
 
-[normal-default]:   {% postimage %}/desain/2020/09/02-clone-impress-normal-default.png
-[normal-alternate]: {% postimage %}/desain/2020/09/02-clone-impress-normal-alternate.png
-[normal-single]:    {% postimage %}/desain/2020/09/02-clone-impress-normal-single.png
-[normal-image]:     {% postimage %}/desain/2020/09/02-clone-impress-normal-image.png
+[normal-default]:   {% postimage %}/desain/2020/09-impress/02-clone-impress-normal-default.png
+[normal-alternate]: {% postimage %}/desain/2020/09-impress/02-clone-impress-normal-alternate.png
+[normal-single]:    {% postimage %}/desain/2020/09-impress/02-clone-impress-normal-single.png
+[normal-image]:     {% postimage %}/desain/2020/09-impress/02-clone-impress-normal-image.png
 
-[chapter-color]:    {% postimage %}/desain/2020/09/02-clone-impress-slide-sorter.png
+[chapter-color]:    {% postimage %}/desain/2020/09-impress/02-clone-impress-slide-sorter.png

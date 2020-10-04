@@ -7,7 +7,7 @@ tags      : [inkscape, LibreOffice]
 keywords  : [desain, impress, master slides, template, karya asli]
 
 toc       : "toc/inkscape-keseharian.njk"
-opengraphimage: "assets/posts/design/2020/09/04-reference-ex-03.png"
+opengraphimage: "assets/posts/desain/2020/09-impress/04-reference-ex-03.png"
 excerpt   : 
   Menambahkan karya asli, ke slide di Impress menggunakan Inkscape.
 ---
@@ -19,7 +19,7 @@ excerpt   :
 > Menambahkan karya artwork asli, ke slide di Impress menggunakan Inkscape.
 
 Bagian terberat dari membuat presentasi setelah master slide jadi,
-adalah membikin aenka artwork-nya.
+adalah membikin aneka artwork-nya.
 Berikut adalah usaha membuat artwork yang dapat sohib-sohib gunakan,
 untuk presentasi sehari-hari.
 Sohib-sohib juga dapat berbagi artwok,
@@ -28,7 +28,7 @@ untuk digunakan teman-teman lainya yang mungkin membutuhkan.
 Namun, tampilan cantique tidak akan mebantu,
 bilamana sohib tidak memiliki materi presentasi yang cukup baik.
 
-#### Artikel Berseri
+### Artikel Berseri
 
 Artikel berseri ini terdiri dari empat bagian.
 
@@ -64,11 +64,21 @@ dalam bahasa Inggris:
 
 * [Inkscape: Impress Slides - Part One][english-version]
 
+### Bahasa Indonesia
+
+Berikut padanan kata yang saya pakai di artikel ini.
+
+* `slide`: `salindia`.
+
+* `master slide`: `salindia utama`.
+
+* `default master slide`: `salindia utama baku`.
+
 -- -- --
 
 <a name="contoh-bagus"></a>
 
-### Contoh Bagus
+## Contoh Bagus
 
 Untuk contoh yang lebih lengkap (dan tentunya lebih bagus),
 lebih baik teman-teman berkunjung ke situs bang Hervy.
@@ -79,7 +89,7 @@ lebih baik teman-teman berkunjung ke situs bang Hervy.
 
 <a name="cover-slide"></a>
 
-### Halaman Muka (Cover Slide)
+## Halaman Muka (Cover Slide)
 
 Sudah cukup jelas, dengan kemampuan daya cipta saya yang mengenaskan,
 halaman muka yang saya bikin, hanyalah hasil,
@@ -93,19 +103,19 @@ pada dasarnya kita dapat menaruh gambar apa saja,
 yang sebetulnya tidak harus selalu terkait dengan isi presentasi.
 Atu mungkin hanya saya saja yang kelakuannya suka begitu.
 
-#### Contoh: CSS Concept
+### Contoh: CSS Concept
 
 ![Slide Cover: CSS Concept][cover-css-concept]
 
 Sumber Karya: [Spectrum Rainbow][rainbow-spectrum]
 
-#### Contoh: Linux Diversity
+### Contoh: Linux Diversity
 
 ![Slide Cover: Linux Diversity][cover-diversity]
 
 Sumber Karya: [Isometric Wallpaper][github-isometric]
 
-#### Contoh: Desktop Customization
+### Contoh: Desktop Customization
 
 ![Slide Cover: Desktop Customization][cover-ricing]
 
@@ -115,46 +125,48 @@ Sumber Karya: [Inkscape: Isometric Infographics][local-isometric]
 
 <a name="tautan-rujukan"></a>
 
-### Tautan Rujukan dan Penjelasan Sederhana
+## Tautan Rujukan dan Penjelasan Sederhana
 
-Sometimes you have a very simple slide with a very few text.
-You can either keep your presentation clean from any decoration,
-or give it an artwork, as we did with cover slide.
+Terkadang kita memiliki salindia yang sangat sederhana,
+dengan hanya beberapa baris kata-kata saja.
+Kita dapat menjaga presentasi kita tetap bersih dari dekorasi apapun,
+atau pilihan lainnya adalah dengan menaruh artwork,
+sebagaimana yang kita lakukan untuk halaman muka.
 
-#### Contoh Penjelasan Sederhana 1
+### Contoh Penjelasan Sederhana 1
 
 ![Simple Point: Contoh 1][sim-ex-01]
 
-#### Contoh Penjelasan Sederhana 2
+### Contoh Penjelasan Sederhana 2
 
 ![Simple Point: Contoh 2][sim-ex-02]
 
-#### Contoh Rujukan 1
+### Contoh Rujukan 1
 
-![Reference Link: Contoh 1][ref-ex-01]
+![Tautan Acuan: Contoh 1][ref-ex-01]
 
-#### Contoh Rujukan 2
+### Contoh Rujukan 2
 
-![Reference Link: Contoh 2][ref-ex-02]
+![Tautan Acuan: Contoh 2][ref-ex-02]
 
-#### Contoh Rujukan 3
+### Contoh Rujukan 3
 
 Selalu lebih baik, kalau gambarnya terkait dengan topik di tautan.
 
-![Reference Link: Contoh 3][ref-ex-03]
+![Tautan Acuan: Contoh 3][ref-ex-03]
 
 -- -- --
 
 <a name="slide-umum"></a>
 
-### Slide Yang Umum
+## Salindia Yang Umum
 
 > Tanpa artwork
 
 Tentunya, ada juga slide yang selalu dibutuhkan di tiap presentasi.
 Saya lebih seuka menampilkan ini tanpa artwork.
 
-#### Kata Pembuka: Mengenai Penulis
+### Kata Pembuka: Mengenai Penulis
 
 ![Common Slide: About Me][common-about-me]
 
@@ -162,15 +174,15 @@ Saya lebih seuka menampilkan ini tanpa artwork.
 
 ![Common Slide: About Material][common-about-matl]
 
-#### Kata Penutup: Apa Selanjutnya?
+### Kata Penutup: Apa Selanjutnya?
 
 ![Common Slide: What's Next?][common-whats-next]
 
-#### Kata Penutup: Pertanyaan
+### Kata Penutup: Pertanyaan
 
 ![Common Slide: Questions][common-question]
 
-#### Kata Penutup: Terimakasih
+### Kata Penutup: Terimakasih
 
 ![Common Slide: Thank You][common-thank-you]
 
@@ -178,7 +190,7 @@ Saya lebih seuka menampilkan ini tanpa artwork.
 
 <a name="berbagi"></a>
 
-### Berbagi dan Menerbitkan Template
+## Berbagi dan Menerbitkan Template
 
 Jangan lupa berbagi apa-apa yang sudah kita kerjakan.
 Sekalian juga untuk promosi, atau menunjukkan portofolio karya kita.
@@ -207,20 +219,20 @@ Terimakasih sudah berkunjung.
 [github-isometric]:     https://github.com/epsi-rns/isometric-wallpaper
 [rainbow-spectrum]:     {% postimage %}/desain/2017/11-ilusin/rainbow-spectrum.svg
 
-[cover-css-concept]:{% postimage %}/desain/2020/09/04-cover-concept-css.png
-[cover-ricing]:     {% postimage %}/desain/2020/09/04-cover-customization.png
-[cover-diversity]:  {% postimage %}/desain/2020/09/04-cover-diversity.png
+[cover-css-concept]:{% postimage %}/desain/2020/09-impress/04-cover-concept-css.png
+[cover-ricing]:     {% postimage %}/desain/2020/09-impress/04-cover-customization.png
+[cover-diversity]:  {% postimage %}/desain/2020/09-impress/04-cover-diversity.png
 
-[sim-ex-01]:    {% postimage %}/desain/2020/09/04-simple-ex-01.png
-[sim-ex-02]:    {% postimage %}/desain/2020/09/04-simple-ex-02.png
-[ref-ex-01]:    {% postimage %}/desain/2020/09/04-reference-ex-01.png
-[ref-ex-02]:    {% postimage %}/desain/2020/09/04-reference-ex-02.png
-[ref-ex-03]:    {% postimage %}/desain/2020/09/04-reference-ex-03.png
+[sim-ex-01]:    {% postimage %}/desain/2020/09-impress/04-simple-ex-01.png
+[sim-ex-02]:    {% postimage %}/desain/2020/09-impress/04-simple-ex-02.png
+[ref-ex-01]:    {% postimage %}/desain/2020/09-impress/04-reference-ex-01.png
+[ref-ex-02]:    {% postimage %}/desain/2020/09-impress/04-reference-ex-02.png
+[ref-ex-03]:    {% postimage %}/desain/2020/09-impress/04-reference-ex-03.png
 
-[common-about-me]:  {% postimage %}/desain/2020/09/04-common-about-me.png
-[common-about-matl]:{% postimage %}/desain/2020/09/04-common-about-material.png
-[common-whats-next]:{% postimage %}/desain/2020/09/04-common-what-is-next.png
-[common-question]:  {% postimage %}/desain/2020/09/04-common-question.png
-[common-thank-you]: {% postimage %}/desain/2020/09/04-common-thank-you.png
+[common-about-me]:  {% postimage %}/desain/2020/09-impress/04-common-about-me.png
+[common-about-matl]:{% postimage %}/desain/2020/09-impress/04-common-about-material.png
+[common-whats-next]:{% postimage %}/desain/2020/09-impress/04-common-what-is-next.png
+[common-question]:  {% postimage %}/desain/2020/09-impress/04-common-question.png
+[common-thank-you]: {% postimage %}/desain/2020/09-impress/04-common-thank-you.png
 
-[isometric-preview]:{% postimage %}/desain/2020/09/isometric-preview.png
+[isometric-preview]:{% postimage %}/desain/2020/09-impress/isometric-preview.png

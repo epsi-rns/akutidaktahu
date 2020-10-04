@@ -7,7 +7,7 @@ tags      : [inkscape, LibreOffice]
 keywords  : [desain, impress, master slides, template, butir-butir, karya asli]
 
 toc       : "toc/inkscape-keseharian.njk"
-opengraphimage: "assets/posts/design/2020/09/03-points-four-items-big.png"
+opengraphimage: "assets/posts/desain/2020/09-impress/03-points-four-items-big.png"
 excerpt   : 
   Menambahkan dekorasi, untuk butir-butir pokok pikiran.
 ---
@@ -21,7 +21,7 @@ excerpt   :
 Saya pernah membuat beberapa presentasi di masa lalu.
 Dan semua isinya, saya atur berdasarkan, butir-butir pemikiran.
 
-#### Artikel Berseri
+### Artikel Berseri
 
 Artikel berseri ini terdiri dari empat bagian.
 
@@ -49,9 +49,21 @@ dalam bahasa Inggris:
 
 * [Inkscape: Impress Slides - Part One][english-version]
 
+### Bahasa Indonesia
+
+Berikut padanan kata yang saya pakai di artikel ini.
+
+* `slide`: `salindia`.
+
+* `master slide`: `salindia utama`.
+
+* `default master slide`: `salindia utama baku`.
+
 -- -- --
 
 <a name="butir"></a>
+
+## Contoh Butir
 
 ### Tampilan Default
 
@@ -130,7 +142,7 @@ bagaimana kita dapat mempercantik tampilan presentasi.
 
 <a name="selanjutnya"></a>
 
-### Apa Selanjutnya?
+## Apa Selanjutnya?
 
 Lanjutkan baca ke
 [ [Inkscape: Impress Slides - Bagian Empat][local-whats-next] ].
@@ -145,10 +157,10 @@ Terimakasih sudah berkunjung dan membaca.
 [local-progress-ring]:  /inkscape/2017/11/15/animasi-cincin.html
 
 [progress-bright]:  {% postimage %}/desain/2017/11-cincin/progress-bright-smooth.png
-[points-simple]:    {% postimage %}/desain/2020/09/03-points-simple-view.png
-[points-2-items]:   {% postimage %}/desain/2020/09/03-points-two-items.png
-[points-3-items]:   {% postimage %}/desain/2020/09/03-points-three-items.png
-[points-4s-items]:  {% postimage %}/desain/2020/09/03-points-four-items.png
-[points-4b-items]:  {% postimage %}/desain/2020/09/03-points-four-items-big.png
-[points-5-items]:   {% postimage %}/desain/2020/09/03-points-five-items.png
-[points-6-items]:   {% postimage %}/desain/2020/09/03-points-six-items.png
+[points-simple]:    {% postimage %}/desain/2020/09-impress/03-points-simple-view.png
+[points-2-items]:   {% postimage %}/desain/2020/09-impress/03-points-two-items.png
+[points-3-items]:   {% postimage %}/desain/2020/09-impress/03-points-three-items.png
+[points-4s-items]:  {% postimage %}/desain/2020/09-impress/03-points-four-items.png
+[points-4b-items]:  {% postimage %}/desain/2020/09-impress/03-points-four-items-big.png
+[points-5-items]:   {% postimage %}/desain/2020/09-impress/03-points-five-items.png
+[points-6-items]:   {% postimage %}/desain/2020/09-impress/03-points-six-items.png

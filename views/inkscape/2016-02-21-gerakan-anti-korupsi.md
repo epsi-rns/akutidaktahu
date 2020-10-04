@@ -27,7 +27,7 @@ dan terkadang membikin woro-woro e-flyer, pengumuman dan spanduk.
 Tentu saja menggunakan peralatan open source semacam inkscape,
 untuk menghindari pembajakan perangkat lunak.
 
-Terlepas dari ujrusan anti korupsi di atas,
+Terlepas dari urusan anti korupsi di atas,
 pembaca dapat menggunakan sumber template gambar yang sudah dibikin,
 untuk suatu seminar, ataupun kegiatan lain yang pembaca jalani.
 Desainnya cukup sederhana, namun anggun.

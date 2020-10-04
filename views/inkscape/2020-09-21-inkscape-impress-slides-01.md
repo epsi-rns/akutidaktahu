@@ -7,9 +7,9 @@ tags      : [inkscape, LibreOffice]
 keywords  : [desain, impress, master slides, template, Rania Amina, sederhana]
 
 toc       : "toc/inkscape-keseharian.njk"
-opengraphimage: "assets/posts/desain/2020/09/isometric-preview.png"
+opengraphimage: "assets/posts/desain/2020/09-impress/isometric-preview.png"
 excerpt   : 
-  Membikin master slide sederhana
+  Membikin salindia utama sederhana
   untuk LibreOffice impress
   dengan menggunakan inkscape
 ---
@@ -18,7 +18,7 @@ excerpt   :
 
 ## Prakata
 
-> Membikin master slide sederhana
+> Membikin salindia utama sederhana
 > untuk LibreOffice impress
 > dengan menggunakan inkscape
 
@@ -26,7 +26,7 @@ Saya beri nama template ini `auto`.
 Karena template ini mengikuti rancangan desain dan tata warna,
 dari bengkel mobil yang saya kelola.
 
-#### Artikel Berseri
+### Artikel Berseri
 
 Artikel berseri ini terdiri dari empat bagian.
 
@@ -51,7 +51,7 @@ Artikel berseri ini terdiri dari empat bagian.
 
 * [Inkscape](#inkscape)
 
-* [Membuat Master Slide](#master-slide)
+* [Membikin Salindia Utama](#master-slide)
 
 * [Apa Selanjutnya?](#selanjutnya)
 
@@ -62,11 +62,21 @@ dalam bahasa Inggris:
 
 * [Inkscape: Impress Slides - Part One][english-version]
 
+### Bahasa Indonesia
+
+Berikut padanan kata yang saya pakai di artikel ini.
+
+* `slide`: `salindia`.
+
+* `master slide`: `salindia utama`.
+
+* `default master slide`: `salindia utama baku`.
+
 -- -- --
 
 <a name="sks"></a>
 
-### SKS: Saya Kerjakan Sendiri
+## SKS: Saya Kerjakan Sendiri
 
 Setelah mengalami masa-masa suram di perusahaan,
 banyak pekerjaan yang saya ambil alih untuk saya kerjakan sendiri,
@@ -79,7 +89,7 @@ Yang semenjak tahun 2017 tidak sempat saya bikin adalah
 template presentasi, dan company profile,
 karena saya sok sibuk, maka diputuskan untuk dikerjakan outsource saja.
 
-#### Mimpi yang Terwujud
+### Mimpi yang Terwujud
 
 Seminggu lalu, temanku si [Rania Amina][raniaamina],
 membuat lomba template `impress`,
@@ -91,7 +101,7 @@ Yang saya mau, hanyalah membikin template untuk kantor.
 Namun karena temanku ini meminta teman-teman sekalian untuk berkontribusi,
 maka sekalianlah saya serahkan salah satu karya untuk dilombakan.
 
-#### Template Resmi
+### Template Resmi
 
 Yang pertama kali kulakukan, tentunya adalah riset dahuluuuu.
 
@@ -104,16 +114,24 @@ Kebanyakan gambar latar tersebut sudah kuno,
 dan mungkin berasal dari template-template tua.
 Beberapa adalah sisa OpenOffice juga.
 
-Duh... Impress adalah porgram yang keren.
-Dan layak template yang lebih baik dari sekedar naskah-naskah kuno.
+Duh... Impress adalah program yang keren.
+Dan selayaknya memiliki template,
+yang lebih baik dari sekedar naskah-naskah kuno.
+
+### Bahan Contoh
+
+Semua bahan contoh kasus di artikel ini,
+dapat diambil di:
+
+* [github.com/epsi-rns/berkas2][repository]
 
 -- -- --
 
 <a name="impress"></a>
 
-### Impress
+## Impress
 
-#### Pratilik
+### Pratilik
 
 Di masa lalu, say apernah membikin beberapa wallpaper,
 dengan menggunakan inkscape.
@@ -123,23 +141,23 @@ Bisa dengan material wallpaper yang saya bikin,
 atau dengan membikin ulang sama sekali dari awal.
 
 Template pertama saya hanyalah dengan meniru deain kartu nama,
-dan kemudian menjadikannya master slide.
+dan kemudian menjadikannya salindia utama.
 Hasilnya salah tampilan sederhana,
 yang sebetulnya belum bagus, namun juga tidak buruk.
 Masih layak pakai-laaah.
 
 ![Auto Template: Preview][auto-cover]
 
-### Berkas Sumber SVG
+## Berkas Sumber SVG
 
 Monggo (kang)mas. Mangga a(kang). Silahkan tu(kang).
 Langsung saja unduh di sini.
 
 * [github.com/.../impress-template-auto][repo-auto]
 
-#### Master Slides
+### Master Slides
 
-Template ini terdiri dari tiga `master slides`.
+Template ini terdiri dari tiga `salindia utama`.
 Semua dapat dilihat di Impress.
 
 ![Auto Template: Impress: Master Slide][auto-master]
@@ -158,10 +176,10 @@ From top to bottom,
 
 <a name="inkscape"></a>
 
-### Inkscape
+## Inkscape
 
-Gambar latar dari slide di atas dibikin dengan menggunakan Inkscape.
-Tiap-tiap master slide, memakai lapisan `layer` sendiri di inskcape.
+Gambar latar dari salindia di atas dibikin dengan menggunakan Inkscape.
+Tiap-tiap salindia utama, memakai lapisan `layer` sendiri di inskcape.
 
 ![Auto Template: Inkscape: Layers][auto-layers]
 
@@ -178,7 +196,7 @@ supaya saya dapat mengubah gambar sewaktu-waktu secara mudah.
 Namun saya mengatur lapisan `layer` ini tetap tersembunyi,
 dan hanya menampilkan hasil akhirnya saja.
 
-#### Ukuran
+### Ukuran
 
 Slide Impress menggunkan rasio perbandingan,
 yaitu untuk memntukan besar halaman, misalnya `16:9`.
@@ -196,9 +214,9 @@ supaya dapat dipakai sohib-sohib sekalian.
 
 <a name="master-slide"></a>
 
-### Membuat Master Slide
+## Membikin Salindia Utama
 
-Sohib dapat memulai dari master slides yang kosong.
+Sohib dapat memulai dari salindia utama yang kosong.
 
 ![Auto Template: Impress: Empty Master Slide][auto-impress-empty]
 
@@ -214,7 +232,7 @@ Hanya perlu diawasi posisi saat melakukan penempelan.
 
 ![Auto Template: Impress: Copy Paste][auto-impress-paste]
 
-#### Peneyesuaian Teks
+### Peneyesuaian Teks
 
 Sekarang bikinlah penyesuaian,
 misalnya memindahkan pengaturan gambar ke bagian belakang dari teks.
@@ -224,7 +242,7 @@ dengan warna latar belakang.
 
 ![Auto Template: Impress: Adjustment][auto-impress-adjust]
 
-#### Fonta
+### Fonta
 
 Saya suka menggunakan dua fonta dari `google fonts` yang bersifat `free`.
 
@@ -234,10 +252,10 @@ Saya suka menggunakan dua fonta dari `google fonts` yang bersifat `free`.
 
 Sesuaiak judul, sesuai kebutuhan sohib yaacc...
 
-#### Slide
+### Salindia
 
-Coba lihat slide, dalam tampilan normal,
-untuk melihat apakah slide-nya sudah siap.
+Coba lihat salindia, dalam tampilan normal,
+untuk melihat apakah salindia-nya sudah siap.
 
 ![Auto Template: Impress: Normal Slide][auto-impress-normal]
 
@@ -245,7 +263,7 @@ untuk melihat apakah slide-nya sudah siap.
 
 <a name="selanjutnya"></a>
 
-### Apa Selanjutnya?
+## Apa Selanjutnya?
 
 Lanjutkan baca ke
 [ [Inkscape: Impress Slides - Bagian Dua][local-whats-next] ].
@@ -257,20 +275,21 @@ Terimakasih sudah berkunjung dan membaca.
 [local-whats-next]:     /inkscape/2020/09/22/inkscape-impress-slides-02.html
 [english-version]:      https://epsi-rns.gitlab.io/design/2020/09/21/inkscape-impress-slides-01/
 
+[repository]:   https://github.com/epsi-rns/berkas2/
 [raniaamina]:   https://raniaamina.id/
 [repo-auto]:    https://github.com/epsi-rns/berkas2/tree/master/impress-template-auto
 [source-inkscape]:      https://github.com/epsi-rns/berkas2/blob/master/impress-template-auto/source-auto.svg
 
-[auto-cover]:   {% postimage %}/desain/2020/09/01-auto-linux-diversity-cover.png
-[auto-master]:  {% postimage %}/desain/2020/09/01-auto-impress-master-slides.png
-[auto-layers]:  {% postimage %}/desain/2020/09/01-auto-inkscape-layers.png
-[auto-cut]:     {% postimage %}/desain/2020/09/01-auto-inkscape-cut.png
-[auto-source]:  {% postimage %}/desain/2020/09/01-auto-inkscape-source.png
+[auto-cover]:   {% postimage %}/desain/2020/09-impress/01-auto-linux-diversity-cover.png
+[auto-master]:  {% postimage %}/desain/2020/09-impress/01-auto-impress-master-slides.png
+[auto-layers]:  {% postimage %}/desain/2020/09-impress/01-auto-inkscape-layers.png
+[auto-cut]:     {% postimage %}/desain/2020/09-impress/01-auto-inkscape-cut.png
+[auto-source]:  {% postimage %}/desain/2020/09-impress/01-auto-inkscape-source.png
 
-[auto-impress-empty]:   {% postimage %}/desain/2020/09/01-auto-impress-empty.png
-[auto-impress-paste]:   {% postimage %}/desain/2020/09/01-auto-impress-paste.png
-[auto-impress-adjust]:  {% postimage %}/desain/2020/09/01-auto-impress-adjustment.png
-[auto-impress-normal]:  {% postimage %}/desain/2020/09/01-auto-impress-normal.png
+[auto-impress-empty]:   {% postimage %}/desain/2020/09-impress/01-auto-impress-empty.png
+[auto-impress-paste]:   {% postimage %}/desain/2020/09-impress/01-auto-impress-paste.png
+[auto-impress-adjust]:  {% postimage %}/desain/2020/09-impress/01-auto-impress-adjustment.png
+[auto-impress-normal]:  {% postimage %}/desain/2020/09-impress/01-auto-impress-normal.png
 
-[isometric-preview]:{% postimage %}/desain/2020/09/isometric-preview.png
+[isometric-preview]:{% postimage %}/desain/2020/09-impress/isometric-preview.png
 
