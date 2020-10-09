@@ -53,6 +53,8 @@ Artikel berseri ini terdiri dari empat bagian.
 
 * [Membikin Salindia Utama](#master-slide)
 
+* [Template Vektor](#template-vektor)
+
 * [Apa Selanjutnya?](#selanjutnya)
 
 ### Bahasa Inggris
@@ -261,6 +263,37 @@ untuk melihat apakah salindia-nya sudah siap.
 
 -- -- --
 
+<a name="template-vektor"></a>
+
+### Template Vektor
+
+Karena saya memakai SVG yang berasal dari Inkscape,
+maka saya mulai bertanya-tanya apakah cara saya memindahkan dari
+Inkscape ke Impress sudah tepat?
+Tetiba saya sadar ada dua metode berbeda sebagaimana di bawah ini:
+
+#### Salin Raster
+
+Dengan menyalin `copy` dari Inkscape,
+dan kemudian menempel `paste` ke Impress,
+maka object akan dapat disimpan ke dalam bentuk bitmap,
+sebagaimana tampak di hasil ekstrak berikut.
+
+![Auto Template: Extract: Copy Raster][auto-extract-raster]
+
+#### Impor Vektor
+
+Dengan meng-impor berkas Inkscape ke Impress,
+melalui menu `insert - image` menu,
+maka object akan dapat disimpan ke dalam bentuk vektor `SVG` maupun bitmap `PNG`,
+sebagaimana tampak di hasil ekstrak berikut.
+
+![Auto Template: Extract: Import Vector][auto-extract-vector]
+
+Demikianlah bedanya.
+
+-- -- --
+
 <a name="selanjutnya"></a>
 
 ## Apa Selanjutnya?
@@ -290,6 +323,9 @@ Terimakasih sudah berkunjung dan membaca.
 [auto-impress-paste]:   {% postimage %}/desain/2020/09-impress/01-auto-impress-paste.png
 [auto-impress-adjust]:  {% postimage %}/desain/2020/09-impress/01-auto-impress-adjustment.png
 [auto-impress-normal]:  {% postimage %}/desain/2020/09-impress/01-auto-impress-normal.png
+
+[auto-extract-raster]:  {% postimage %}/desain/2020/09-impress/01-auto-extract-raster-png.png
+[auto-extract-vector]:  {% postimage %}/desain/2020/09-impress/01-auto-extract-vector-svg.png
 
 [isometric-preview]:{% postimage %}/desain/2020/09-impress/isometric-preview.png
 

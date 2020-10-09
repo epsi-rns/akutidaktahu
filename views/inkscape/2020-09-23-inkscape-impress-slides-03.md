@@ -156,7 +156,7 @@ Terimakasih sudah berkunjung dan membaca.
 
 [local-progress-ring]:  /inkscape/2017/11/15/animasi-cincin.html
 
-[progress-bright]:  {% postimage %}/desain/2017/11-cincin/progress-bright-smooth.png
+[progress-bright]:  {% postimage %}/desain/2020/09-impress/03-progress-ring-bright-number.png
 [points-simple]:    {% postimage %}/desain/2020/09-impress/03-points-simple-view.png
 [points-2-items]:   {% postimage %}/desain/2020/09-impress/03-points-two-items.png
 [points-3-items]:   {% postimage %}/desain/2020/09-impress/03-points-three-items.png

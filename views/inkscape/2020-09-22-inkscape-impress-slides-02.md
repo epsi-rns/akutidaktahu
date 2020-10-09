@@ -205,9 +205,15 @@ yaitu untuk tiap-tiap 19 warna dari google material pallete.
 
 ## Impress: Salindia Utama Baku
 
+> Gunakan cara meng-impor berkas, alih-alih salin-tempel.
+
+Just like previous article, repeat the steps, for each 19 colors.
+Import Inkscape file to Impress using `insert - image` menu,
+It means you should have 19 master slides.
+
 Sebagaimana telah disebut di artikel sebelumnya,
-lakukanlah lagi langkah-langkah yang telah dijelaskan.
-Untuk tiap-tiap 19 warna, salin dari Inkscape, lalu tempel ke Impress.
+lakukanlah lagi langkah-langkah yang telah dijelaskan, untuk tiap-tiap 19 warna.
+Impor berkas Inkscape ke Impress, menggunakan menu `insert - image`.
 Artinya sohib akan memiliki 19 `salindia utama`.
 
 ![Candyclone Template: Impress: Default Slide: Master][clone-master-default]
