@@ -28,16 +28,19 @@ dari bengkel mobil yang saya kelola.
 
 ### Artikel Berseri
 
-Artikel berseri ini terdiri dari empat bagian.
+Artikel berseri ini terdiri dari lima bagian.
 
 * Bagian Satu: Template sederhana `auto`
 
 * Bagian Dua: Template klasik modern `candyclone`
 
-* Bagian Tiga: Menambah dekorasi `bullet`,
+* Bagian Tiga: Menambahkan dekorasi `bullet`,
   untuk butir-butir pokok pikiran
 
-* Bagian Empat: Menambahkan karya seni bikinan sendiri
+* Bagian Empat: Menambahkan ilustrasi diagram,
+  sebagai isi kandungan dari salindia
+
+* Bagian Lima: Menambahkan karya seni bikinan sendiri
 
 ![Isometric Preview][isometric-preview]
 
@@ -150,7 +153,7 @@ Masih layak pakai-laaah.
 
 ![Auto Template: Preview][auto-cover]
 
-## Berkas Sumber SVG
+### Berkas Sumber SVG
 
 Monggo (kang)mas. Mangga a(kang). Silahkan tu(kang).
 Langsung saja unduh di sini.
@@ -307,6 +310,7 @@ Terimakasih sudah berkunjung dan membaca.
 
 [local-whats-next]:     /inkscape/2020/09/22/inkscape-impress-slides-02.html
 [english-version]:      https://epsi-rns.gitlab.io/design/2020/09/21/inkscape-impress-slides-01/
+[isometric-preview]:    {% postimage %}/desain/2020/09-impress/isometric-preview.png
 
 [repository]:   https://github.com/epsi-rns/berkas2/
 [raniaamina]:   https://raniaamina.id/
@@ -326,6 +330,3 @@ Terimakasih sudah berkunjung dan membaca.
 
 [auto-extract-raster]:  {% postimage %}/desain/2020/09-impress/01-auto-extract-raster-png.png
 [auto-extract-vector]:  {% postimage %}/desain/2020/09-impress/01-auto-extract-vector-svg.png
-
-[isometric-preview]:{% postimage %}/desain/2020/09-impress/isometric-preview.png
-

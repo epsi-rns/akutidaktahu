@@ -23,16 +23,19 @@ Dan semua isinya, saya atur berdasarkan, butir-butir pemikiran.
 
 ### Artikel Berseri
 
-Artikel berseri ini terdiri dari empat bagian.
+Artikel berseri ini terdiri dari lima bagian.
 
 * Bagian Satu: Template sederhana `auto`
 
 * Bagian Dua: Template klasik modern `candyclone`
 
-* Bagian Tiga: Menambah dekorasi `bullet`,
+* Bagian Tiga: Menambahkan dekorasi `bullet`,
   untuk butir-butir pokok pikiran
 
-* Bagian Empat: Menambahkan karya seni bikinan sendiri
+* Bagian Empat: Menambahkan ilustrasi diagram,
+  sebagai isi kandungan dari salindia
+
+* Bagian Lima: Menambahkan karya seni bikinan sendiri
 
 ### Daftar Isi
 
@@ -47,7 +50,7 @@ Artikel berseri ini terdiri dari empat bagian.
 Artikel ini juga disajikan di blog penulis yang lain,
 dalam bahasa Inggris:
 
-* [Inkscape: Impress Slides - Part One][english-version]
+* [Inkscape: Impress Slides - Part Three][english-version]
 
 ### Bahasa Indonesia
 
