@@ -130,6 +130,45 @@ dapat diambil di:
 
 * [github.com/epsi-rns/berkas2][repository]
 
+#### Memperluas Ekosistim
+
+LibreOffice memiliki perangkat lunak untuk menggambar,
+yang bernama LibreOffice Draw.
+Di sini saya menggunakan pendekatan lain,
+yaitu dengan menggunakan Inkscape alih-laoh menggunakan LibreOffice Draw.
+
+-- -- --
+
+### Tampilan Salindia Utama
+
+Bilamana sohib adalah baru dalam menggunakan antarmuka LibreOffice,
+maka sohib perlu mengetahui cara beralih,
+dari salindia normal (normal slide),
+ke salindia utama (master slide).
+
+### Menggunakan Toolbar Standar
+
+Dengan antara muka menu, langsung saja dipilih.
+
+![Impress Menu UI: Switch to Master Slide][slide-menu-select]
+
+Sohin juga dapat meng-klik ikon.
+
+### Menggunakan Tabbed UI
+
+Dengan tabbed UI, lebih mudah lagi.
+Berikut tampilan salindia normal.
+
+![Impress Tabbed UI: Normal Slide View][slide-tabbed-normal]
+
+Dan berikut di bawahi ni adalah tampilan salindia utama.
+
+![Impress Tabbed UI: Master Slide View][slide-tabbed-master]
+
+Saya memakai template bikinan sendiri sehingga tampil seperti di atas.
+Sedangkan untuk template baru yang kosong,
+sohib akan menghadapi salindia yang kosong pula.
+
 -- -- --
 
 <a name="impress"></a>
@@ -330,3 +369,7 @@ Terimakasih sudah berkunjung dan membaca.
 
 [auto-extract-raster]:  {% postimage %}/desain/2020/09-impress/01-auto-extract-raster-png.png
 [auto-extract-vector]:  {% postimage %}/desain/2020/09-impress/01-auto-extract-vector-svg.png
+
+[slide-menu-select]:    {% postimage %}/desain/2020/09-impress/00-masterslide-menu-select.png
+[slide-tabbed-normal]:  {% postimage %}/desain/2020/09-impress/00-masterslide-tabbed-normal.png
+[slide-tabbed-master]:  {% postimage %}/desain/2020/09-impress/00-masterslide-tabbed-master.png

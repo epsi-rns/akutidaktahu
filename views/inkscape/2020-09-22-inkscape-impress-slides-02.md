@@ -142,6 +142,22 @@ tampilan (dan bentuk)-nya sebetulnya bergaya model lama.
 Namun bentuk tersebut memakai warna dari `google material color`,
 sehingga terkesan modern.
 
+#### 76 Salindia Utama
+
+Dengan template ini,
+kita dapat memilih salindia utama dengan empat pilihan gambar latar,
+dengan masing-masing 19 pilihan warna.
+
+![Candyclone Template: 76 Master Slides][switch-master]
+
+Ada tiga cara untuk beralih, memilih salindia utama:
+
+1. Menggunakan `Menu - Slide - Change Slide Master`
+
+2. Menggunakan `Sidebar - Properties - Slide`
+
+3. Menggunakan `Tabbed UI - Layout - Change Slide Master`
+
 -- -- --
 
 <a name="default-layers"></a>
@@ -377,6 +393,8 @@ Terimakasih sudah berkunjung dan membaca.
 [thumbs-4-preview]:     {% postimage %}/desain/2020/09-impress/thumbs-4.png
 
 [hervy-qa]:     https://hervyqa.com/
+
+[switch-master]:{% postimage %}/desain/2020/09-impress/02-switch-master-slide.png
 
 [clone-cover]:  {% postimage %}/desain/2020/09-impress/02-candyclone-cover.png
 [clone-cut]:    {% postimage %}/desain/2020/09-impress/02-clone-inkscape-cut.png

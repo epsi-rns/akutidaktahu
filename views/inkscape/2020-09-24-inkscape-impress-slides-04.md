@@ -103,8 +103,9 @@ kandungan isi inilah yang harus dikerjakan.
 
 Sayembara ini sendiri adalah kerjasama,
 antara LibreOffice Indonesia dengan Gimpscape.
-Gimpscape adalah komunitas di Indonesia terkait desain,
-dengan perangkat lunak yang terbuka `libre graphics`.
+Gimpscape adalah komunitas lokal di Indonesia terkait desain,
+dengan perangkat lunak yang terbuka `libre graphics`,
+tidak terbatas hanya `Inkscape` maupun `The Gimp`.
 Ini adalah kesempatan saya untuk menggunakan Inkscape,
 dan saya memilih untuk membikin ilustrasi dalam bentuk mirip diagram,
 sebagai kandungan isi dari salindia di `Impress`.
