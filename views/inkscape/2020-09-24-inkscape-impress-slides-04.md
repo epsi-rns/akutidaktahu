@@ -237,7 +237,14 @@ maka mudah untuk mengubah warna, untuk disesuaikan dengan kebutuhan.
 Garis panduan di gambar di atas menggunakan warna biru dari `material design`,
 karena rancangan warna  aslinya adalah berwarna biru,
 sampai di kemudian hari saya berubah pikiran,
-dan mengubahnya menjadi merah dengan tepat menggunakan warna dari `material design`,
+dan mengubahnya menjadi merah dengan tepat menggunakan warna dari `material design`.
+
+#### Contoh Pewarnaan
+
+Demi kemudahan pengalihan dari satu warna ke warna yang lain,
+sohib dapat menggunakan hanya pallete dari `material color` saja.
+
+![Candyclone Template: Inkscape: Material Design Pallete][coloring-material]
 
 -- -- --
 
@@ -345,6 +352,7 @@ Terimakasih sudah berkunjung dan membaca.
 [local-whats-next]:     /inkscape/2020/09/25/inkscape-impress-slides-05.html
 [english-version]:      https://epsi-rns.gitlab.io/design/2020/09/24/inkscape-impress-slides-04/
 [thumbs-3-preview]:     {% postimage %}/desain/2020/09-impress/thumbs-3.png
+[coloring-material]:    {% postimage %}/desain/2020/09-impress/coloring-content.png
 
 [source-inkscape]:      {% postimage %}/desain/2020/09-impress/template-candyclone-content.svg.zip
 [content-layers]:       {% postimage %}/desain/2020/09-impress/04-content-inkscape-all-layers.png

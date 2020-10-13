@@ -207,6 +207,8 @@ secara berurut sebagai berikut:
 
 * Kanan Atas: `blue100`.
 
+![Candyclone Template: Inkscape: Material Design Pallete][coloring-material]
+
 ### Group
 
 Kemudian gabungkan menjadi satu dengan melakukan `group` semua `shape`.
@@ -391,6 +393,7 @@ Terimakasih sudah berkunjung dan membaca.
 [local-whats-next]:     /inkscape/2020/09/23/inkscape-impress-slides-03.html
 [english-version]:      https://epsi-rns.gitlab.io/design/2020/09/22/inkscape-impress-slides-02/
 [thumbs-4-preview]:     {% postimage %}/desain/2020/09-impress/thumbs-4.png
+[coloring-material]:    {% postimage %}/desain/2020/09-impress/coloring-candyclone.png
 
 [hervy-qa]:     https://hervyqa.com/
 
