@@ -11,6 +11,7 @@ opengraphimage: "assets/posts/desain/2017/11-cincin/progress-bright-smooth.png"
 excerpt   : 
   Gagasan membuat animasi cincin ini saya mulai,
   setelah mempraktekkan bahan ajar dari Pakde Nick Saporito.
+  Kemudian saya olah lagi dengan menggunakan ffmpeg.
 ---
 
 <a name="prakata"></a>

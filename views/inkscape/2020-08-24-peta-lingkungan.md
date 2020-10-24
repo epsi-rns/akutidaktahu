@@ -12,6 +12,7 @@ excerpt   :
   Inkscape bukan saja dipakai untuk membuat
   sesuatu karya seni yang cantique,
   namun juga dipakai untuk kegiatan sehari-hari.
+  Salah satunya adalah untuk membuat peta lingkungan.
 ---
 
 <a name="prakata"></a>
@@ -21,6 +22,7 @@ excerpt   :
 Inkscape bukan saja dipakai untuk membuat
 sesuatu karya seni yang cantique,
 namun juga dipakai untuk kegiatan sehari-hari.
+Salah satunya adalah untuk membuat peta lingkungan.
 
 __diagramming adalah bagian dari keseharian__
 

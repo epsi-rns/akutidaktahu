@@ -130,12 +130,29 @@ dapat diambil di:
 
 * [github.com/epsi-rns/berkas2][repository]
 
+#### Contoh Presentasi Di Dunia Nyata
+
+> Saya tidak dapat menunggu untuk menerapkan template ini,
+> ke presentasi di blog saya.
+
+Bagi sohib yang kurang dapat bersabar,
+dapat langsung melihat hasil dari empat,
+presentasi di dunia nyata yang menggunakan template ini.
+
+* [Linux Diversity][linux-diversity]
+
+* [Desktop Customization][customization]
+
+* [Concept CSS][concept-css]
+
+* [Concept SSG][concept-ssg]
+
 #### Memperluas Ekosistim
 
 LibreOffice memiliki perangkat lunak untuk menggambar,
 yang bernama LibreOffice Draw.
 Di sini saya menggunakan pendekatan lain,
-yaitu dengan menggunakan Inkscape alih-laoh menggunakan LibreOffice Draw.
+yaitu dengan menggunakan Inkscape alih-alih menggunakan LibreOffice Draw.
 
 -- -- --
 
@@ -350,6 +367,11 @@ Terimakasih sudah berkunjung dan membaca.
 [local-whats-next]:     /inkscape/2020/09/22/inkscape-impress-slides-02.html
 [english-version]:      https://epsi-rns.gitlab.io/design/2020/09/21/inkscape-impress-slides-01/
 [isometric-preview]:    {% postimage %}/desain/2020/09-impress/isometric-preview.png
+
+[linux-diversity]:      https://epsi-rns.github.io/system/2020/10/11/slides-linux-diversity.html
+[customization]:        https://epsi-rns.github.io/desktop/2020/10/11/slides-desktop-customization.html
+[concept-css]:          https://epsi-rns.gitlab.io/frontend/2020/10/11/slides-concept-css/
+[concept-ssg]:          https://epsi-rns.gitlab.io/ssg/2020/10/11/slides-concept-ssg/
 
 [repository]:   https://github.com/epsi-rns/berkas2/
 [raniaamina]:   https://raniaamina.id/
