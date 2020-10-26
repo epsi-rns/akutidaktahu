@@ -210,6 +210,8 @@ ataupun di repository  (github/gitlab/bitbucket).
 
 ![Share and Publish Template][isometric-preview]
 
+_Teman yang ada saat dibutuhkan, adalah teman yang sebenarnya._
+
 -- -- --
 
 <a name="penutup"></a>
