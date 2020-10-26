@@ -27,19 +27,19 @@ Menarik dari dunia ricing, ternyata bisa ada urutan jauh ke matematika modern.
 
 Haskell adalah salah satu `functional programming` yang menarik,
 karena bersifat `pure functional`.
-Coding di Haskell seperti menulis rumus matematika,
+Coding di `haskell` seperti menulis rumus matematika,
 yaitu tidak tergantung urutan penulisan.
-Salah satu sumbangan FP ke dunia matematika adalah `monad`,
-karena dengan adanya Monad,
+Salah satu sumbangan `FP` ke dunia matematika adalah `monad`,
+karena dengan adanya `monad`,
 fungsi2 dapat di-eksekusi sesuai urutan penulisan.
 
-Monad ini ditemukan perlahan dari waktu ke waktu oleh orang banyak,
-mulai dari menghilangkan `side effect` pada IO sampai jadilah Monad.
+`Monad` ini ditemukan perlahan dari waktu ke waktu oleh orang banyak,
+mulai dari menghilangkan `side effect` pada `IO` sampai jadilah `monad`.
 Makanya sumbangan matematika ini,
 tidak ada yang dapat penghargaan semacam nobel,
 _walaupun luar biasa_.
 
-Untuk memahami Monad,
+Untuk memahami `monad`,
 kita perlu memahami `category theory`,
 teori kategori di dunia matematika masuk dalam bagian abstract nonsense.
 Dasarnya adalah `abstract algebra`.
@@ -58,13 +58,13 @@ dalam mata kuliah matematika diskrit yang terkait dengan:
 
 🤔
 
-Bidang ricing memang untuk kalangan _hobbyist_,
+Bidang `ricing` memang untuk kalangan _hobbyist_,
 karena pada umumnya memang tidak dapat di-_monetisasi_.
-Ricing juga kurang popular di kalangan negara2 yang mengejar pekerjaan.
+Bidang `ricing` juga kurang popular di kalangan negara2 yang mengejar pekerjaan.
 Contoh mudahnya saja anak benua.
 
 Namun di sisi lain `ricing` membuka pintu,
-untuk memahami system linux secara menyenangkan.
+untuk memahami sistim di linux secara menyenangkan.
 Memungkinkan kita belajar coding satu-per-satu tanpa beban.
 Misalnya belajar `lua` di `awesomewm`,
 belajar `haskell` di `xmonad`,
