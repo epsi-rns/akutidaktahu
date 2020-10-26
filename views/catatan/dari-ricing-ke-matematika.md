@@ -2,9 +2,9 @@
 layout    : post
 title     : Dari Ricing ke Matematika
 date      : 2020-02-6 09:17:35
-slug      : init
+slug      : dari-ricing-ke-matematika
 tags      : [catatan]
-keywords  : [opini, "sistem operasi"]
+keywords  : [opini, koding, matematika, kustomisasi]
 
 toc       : "toc/pesan-tersemat.njk"
 opengraphimage: "assets/images/topics/card-telegram.png"
@@ -19,7 +19,7 @@ Yang anehnya justru temukan karena ricing.
 
 Sudah sekian lama saya memakai bepindah,
 dari satu jenis Window Manager ke Window Manager yang lain.
-Setelah `AwesomeWM`, saya akan lanjut ke `i3wm`, dan kemudian `xmonad`.
+Setelah `awesomewm`, saya akan lanjut ke `i3wm`, dan kemudian `xmonad`.
 
 Konfigurasi xmonad ini ditulis dengan Haskell.
 Kita tidak perlu memahami Haskell untuk mengkonfigurasi XMonad 🙂.
@@ -29,7 +29,7 @@ Haskell adalah salah satu `functional programming` yang menarik,
 karena bersifat `pure functional`.
 Coding di Haskell seperti menulis rumus matematika,
 yaitu tidak tergantung urutan penulisan.
-Salah satu sumbangan FP ke dunia matematika adalah `Monad`,
+Salah satu sumbangan FP ke dunia matematika adalah `monad`,
 karena dengan adanya Monad,
 fungsi2 dapat di-eksekusi sesuai urutan penulisan.
 
@@ -45,7 +45,7 @@ teori kategori di dunia matematika masuk dalam bagian abstract nonsense.
 Dasarnya adalah `abstract algebra`.
 Pembahasan Monad selalu terkait dengan teori kategori,
 karena kita mesti paham dasarnya,
-misalnya mengenai `Functor`.
+misalnya mengenai `functor`.
 
 Aljabar abstrak sendiri mendasari ilmu2 matematika lainnnya,
 yang seringkali dipakai sebagai dasar algoritma dalam dunia IT.
@@ -66,11 +66,13 @@ Contoh mudahnya saja anak benua.
 Namun di sisi lain `ricing` membuka pintu,
 untuk memahami system linux secara menyenangkan.
 Memungkinkan kita belajar coding satu-per-satu tanpa beban.
-Misalnya belajar `Lua` di `AwesomeWM`,
-belajar `Haskell` di `XMonad`,
+Misalnya belajar `lua` di `awesomewm`,
+belajar `haskell` di `xmonad`,
 belajar `C` di `DWM`.
 
-_XMonad ini.... Beberapa orang menyebutnya dengan kata kasar XModhyaar_ 🙈
+Memang tidak mudah mempelajari `xmonad` ini.
+_xmonad ini.... Beberapa orang menyebutnya dengan kata kasar xmodhyaar_ 🙈.
+Mohon maaf, saya sekedar menggambarkan tingkat kesulitannya.
 
 Bagi yang tidak punya waktu menghabisi satu buku,
 belajar pelan-pelan seperti ini adalah suatu jalan yang dapat ditempuh.
