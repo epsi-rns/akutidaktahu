@@ -39,19 +39,21 @@ bilamana sohib tidak memiliki materi presentasi yang cukup baik.
 
 ### Artikel Berseri
 
-Artikel berseri ini terdiri dari lima bagian.
+Artikel berseri ini terdiri dari enam bagian.
 
-* Bagian Satu: Template sederhana `auto`
+* Bagian Satu: Template sederhana `auto`.
 
-* Bagian Dua: Template klasik modern `candyclone`
+* Bagian Dua: Template klasik modern `candyclone`.
 
 * Bagian Tiga: Menambahkan dekorasi `bullet`,
-  untuk butir-butir pokok pikiran
+  untuk butir-butir pokok pikiran.
 
 * Bagian Empat: Menambahkan ilustrasi diagram,
-  sebagai isi kandungan dari salindia
+  sebagai isi kandungan dari salindia.
 
-* Bagian Lima: Menambahkan karya seni bikinan sendiri
+* Bagian Lima: Membikin ilustrasi diagram sendiri.
+
+* Bagian Enam: Menambahkan karya seni bikinan sendiri.
 
 ![Thumbs 3 Preview][thumbs-3-preview]
 

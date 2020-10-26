@@ -9,43 +9,44 @@ keywords  : [desain, impress, master slides, template, karya asli]
 toc       : "toc/inkscape-keseharian.njk"
 opengraphimage: "assets/posts/desain/2020/09-impress/04-reference-ex-03.png"
 excerpt   : 
-  Menambahkan karya asli, ke slide di Impress menggunakan Inkscape.
+  Membikin ilustrasi diagram sendiri dengan menggunakan Inkscape.
 ---
 
 <a name="prakata"></a>
 
 ## Prakata
 
-> Menambahkan karya artwork asli, ke slide di Impress menggunakan Inkscape.
+> Membikin ilustrasi diagram sendiri dengan menggunakan Inkscape.
 
-Membikin aneka artwork juga merupakan bagian yang berat,
-dari membuat presentasi setelah master slide jadi.
-Sebetulnay ini bukan keharusan, namun jelas akan mempercantique penampilan.
-Berikut adalah usaha membuat artwork yang dapat sohib-sohib gunakan,
-untuk presentasi sehari-hari.
-Sohib-sohib juga dapat berbagi artwork,
-untuk digunakan teman-teman lainya yang mungkin membutuhkan.
+Bagaimana tepatnya proses di Inkscape untuk membuat ilustrasi?
+Tidakkah sohib ingin membikin ulang proses,
+supaya didapatkan bentuk sesuai keinginan sendiri?
 
-Namun tetap saja, tampilan cantique tidak akan mebantu,
-bilamana sohib tidak memiliki materi presentasi yang cukup baik.
+Saya percaya kalau teman-teman memiliki pengetahuan desain yang cukup.
+Bilamana perlu membuat dari coretan awal,
+artikel ini memberikan satu contoh,
+supaya sohib2 dapat membuat-ulang ilustrasi,
+mengubah-pakai sesuai dengan untuk kebutuhan masing-masing.
 
 ### Artikel Berseri
 
-Artikel berseri ini terdiri dari lima bagian.
+Artikel berseri ini terdiri dari enam bagian.
 
-* Bagian Satu: Template sederhana `auto`
+* Bagian Satu: Template sederhana `auto`.
 
-* Bagian Dua: Template klasik modern `candyclone`
+* Bagian Dua: Template klasik modern `candyclone`.
 
 * Bagian Tiga: Menambahkan dekorasi `bullet`,
-  untuk butir-butir pokok pikiran
+  untuk butir-butir pokok pikiran.
 
 * Bagian Empat: Menambahkan ilustrasi diagram,
-  sebagai isi kandungan dari salindia
+  sebagai isi kandungan dari salindia.
 
-* Bagian Lima: Menambahkan karya seni bikinan sendiri
+* Bagian Lima: Membikin ilustrasi diagram sendiri.
 
-![Thumbs 2 Preview][thumbs-2-preview]
+* Bagian Enam: Menambahkan karya seni bikinan sendiri.
+
+![Thumbs 6 Preview][thumbs-6-preview]
 
 ### Daftar Isi
 
@@ -82,166 +83,192 @@ Berikut padanan kata yang saya pakai di artikel ini.
 
 -- -- --
 
-<a name="contoh-bagus"></a>
+### Bentuk Drop Pinned
 
-## Contoh Bagus
+Bentuk yang akan kita bikin ada sebagaimana di bawah.
+Mohon maafkan cita rasa seni saya.
+Saya bukanlah desainer.
 
-Untuk contoh yang lebih lengkap (dan tentunya lebih bagus),
-lebih baik teman-teman berkunjung ke situs bang Hervy.
+![Drop Pinned: Shape][pinned-shape]
 
-* <https://hervyqa.com/gnome-bluez-LibreOffice-impress-free-template/>
-
--- -- --
-
-<a name="cover-slide"></a>
-
-## Halaman Muka (Cover Slide)
-
-Sudah cukup jelas, dengan kemampuan daya cipta saya yang mengenaskan,
-halaman muka yang saya bikin, hanyalah hasil,
-salin-tempel dari karya bang Hervy.
-
-Perbedannya adalah, saya menaruh karya artwork,
-yang memang asli bikinan saya.
-Walaupun dibikinnya juga berdasarkan contoh-contoh tutorial di youtube.
-Sebagaimana halaman muka buku,
-pada dasarnya kita dapat menaruh gambar apa saja,
-yang sebetulnya tidak harus selalu terkait dengan isi presentasi.
-Atu mungkin hanya saya saja yang kelakuannya suka begitu.
-
-### Contoh: CSS Concept
-
-![Slide Cover: CSS Concept][cover-css-concept]
-
-Sumber Karya: [Spectrum Rainbow][rainbow-spectrum]
-
-### Contoh: Linux Diversity
-
-![Slide Cover: Linux Diversity][cover-diversity]
-
-Sumber Karya: [Isometric Wallpaper][github-isometric]
-
-### Contoh: Desktop Customization
-
-![Slide Cover: Desktop Customization][cover-ricing]
-
-Sumber Karya: [Inkscape: Isometric Infographics][local-isometric]
+Hampir selalu, saya menggabungkan semua objek di-group menjadi satu.
 
 -- -- --
 
-<a name="tautan-rujukan"></a>
+### Pewarnaan
 
-## Tautan Rujukan dan Penjelasan Sederhana
+Saya menggunakan palet dari `material design` sebagai contoh,
+supaya sohib dapat mengubah ke warna apa saja dalam palet tersebut, kapan saja.
+Berikut adalah contoh tata pewarnaan.
 
-Terkadang kita memiliki salindia yang sangat sederhana,
-dengan hanya beberapa baris kata-kata saja.
-Kita dapat menjaga presentasi kita tetap bersih dari dekorasi apapun,
-atau pilihan lainnya adalah dengan menaruh artwork,
-sebagaimana yang kita lakukan untuk halaman muka.
+![Drop Pinned: Coloring][pinned-color]
 
-### Contoh Penjelasan Sederhana 1
-
-![Simple Point: Contoh 1][sim-ex-01]
-
-### Contoh Penjelasan Sederhana 2
-
-![Simple Point: Contoh 2][sim-ex-02]
-
-### Contoh Rujukan 1
-
-![Tautan Acuan: Contoh 1][ref-ex-01]
-
-### Contoh Rujukan 2
-
-![Tautan Acuan: Contoh 2][ref-ex-02]
-
-### Contoh Rujukan 3
-
-Selalu lebih baik, kalau gambarnya terkait dengan topik di tautan.
-
-![Tautan Acuan: Contoh 3][ref-ex-03]
+Warna bening transparan bersifat pilihan yang tidak harus dipakai.
+Terkadang sohib membutuhkan jarak, dalam kotak dengan ukuran presisi,
+maka sohib membutuhkan kotak dengan warna bening transparan.
+Hampir selalu, saya tidak memakai warna bening transparan ini.
 
 -- -- --
 
-<a name="slide-umum"></a>
+### Perencanaan Ukuran
 
-## Salindia Yang Umum
+> Saya berlatar belakang teknik,
+> maka saya suka melakukan apa-apanya secara presisi.
 
-> Tanpa artwork
+Suatu kebiasaan baik untuk merencanakan ukuran,
+untuk bentuk shape yang akan dipakai ulang.
+Maksud saya adalah, kalau sohib berencana memakai,
+bentuk shape ini berulangkali, maka sohib membutuhkan ukuran yang tepat.
+Supaya sohib dapat melakukan peletakan, mengubah ukuran,
+atau men-transform, dengan presisi yang tepat.
 
-Tentunya, ada juga slide yang selalu dibutuhkan di tiap presentasi.
-Saya lebih seuka menampilkan ini tanpa artwork.
+Saya memulai dengan ukuran sederhana
+misalnya 100px, 200px, dan seterusnya.
+Bentuk shape ini memiliki ukuran lebar 200px x tinggi 300px.
+Lingkaran di dalamnya dimulai dengan ukuran diameter sebesar 100px.
 
-### Kata Pembuka: Mengenai Penulis
+![Drop Pinned: Size Plan][pinned-measure]
 
-![Common Slide: About Me][common-about-me]
-
-#### Kata Pembuka: Mengenai Materi dan Topik
-
-![Common Slide: About Material][common-about-matl]
-
-### Kata Penutup: Apa Selanjutnya?
-
-![Common Slide: What's Next?][common-whats-next]
-
-### Kata Penutup: Pertanyaan
-
-![Common Slide: Questions][common-question]
-
-### Kata Penutup: Terimakasih
-
-![Common Slide: Thank You][common-thank-you]
+Saya paham kalau desainer suka untuk menggambar secara bebas.
+Di sini saya memang memberikan sudut pandang berbeda untuk melakukan
+sesuatu.
 
 -- -- --
 
-<a name="berbagi"></a>
+#### Memberi Jarak
 
-## Berbagi dan Menerbitkan Template
+Kombinasi lain yang biasa saya lakukan adalah,
+memberi jarak dengan ukuran tertentu,misalnya 100px.
+Sohib dapat melakukan ini dengan `transform tools`.
 
-Jangan lupa berbagi apa-apa yang sudah kita kerjakan.
-Sekalian juga untuk promosi, atau menunjukkan portofolio karya kita.
+Misalnya, pilihlah lingkaran dengan diameter 100px.
+Terlebih dahulu gandakan bentuk shape dengan perintah `duplicate`.
+Lalu pilih dock `transform`, pilih tab `scale`,
+dan ubanh unit ke `px`.
 
-Kita dapat menaruh template di blog,
-ataupun di repository  (github/gitlab/bitbucket).
+Sekarang pilihlah dengan ukuran 110px (offset 10px),
+dan centang skala proporsional.
 
-* [github.com/.../impress-template-candyclone/README.md][github-candyclone]
+Klik `apply`, maka sohib akan mendapatkan,
+lingkaran dengan diameter 110px. Dengan titik `center` yang sama.
 
-![Share and Publish Template][isometric-preview]
+Click `apply`, the you get circle with 110px diameter.
+With the same center.
+
+![Drop Pinned: Offset 10px][pinned-offset-10]
 
 -- -- --
 
-<a name="penutup"></a>
+### Membengkokkan Simpul Node
 
-### Penutup
+Bagaimana tepatnya bentuk ini dibikin?
+Enam langkah di ganmbar berikut di bawah seharusnya dapat menjelaskan.
 
-Sepertinya itu saja yacc sohib.
-Sementara saya bisanya hanya itu.
+![Drop Pinned: Nodes Bending][pinned-nodes]
 
-Terimakasih sudah berkunjung.
+#### 1: Membikin Bentuk Lingkaran
+
+Sohib dapat melihat di gambar pertama,
+bahwa ada tiga simpul node di dalam lingkaran.
+Maka sohib harus melakukan `rotate` terlebih dahulu sebelum menggunakan.
+Karena kita perlu membengkokkan ke bawah alih-alih ke samping kiri.
+
+#### 2: Mengubah Simpul Node
+
+Kita akan mengubah simpul dari lingkaran dengan diameter 180px.
+Tambahkan simpul untuk kedua sisi, sehingga kita mendapatkan lima simpul node.
+Lalu pindahkan, geser simpul node paling bawah sejauh 50px ke bawah.
+
+Sohib dapat menggunakan ukuran selain 50px.
+
+#### 3: Merapikan Bentuk Shape
+
+Sekali lagi, ubah simpul node,
+sehingga sekarang kita memiliki tujuh simpul node.
+Lalu geser simpul node ketiga dan kelima,
+sehingga memiliki jarak 20px dari tengah.
+
+#### 4: Memberi Jarak Objek
+
+Sekali lagi, sohib dapat memberi jarak ke bentuk shape,
+menggunakan _tab_ `scale` dari _dock_ `transform`.
+Misalnya dari 180px ke 190px.
+
+Perlu diingat karena bentuk shape dari objek bukanlah lingkaran,
+maka sohib harus menyesuaikan ulang peletakan,
+ke 5px dari bentuk shape awal.
+Yaitu untuk memastian bahwa bentuk shape 190px,
+memiliki titik `center` yang sama dengan 180px.
+
+#### 5: Menyesuaikan Bentuk Shape
+
+Pindahkan simpul paling bawah sejauh kira-kira 25px ke bawah.
+Sohib bebas menggunakan ukuran jarak berapa saja.
+
+#### 6: Bentuk Shape Akhir
+
+Ulangi membuat ukuran untuk lingkaran 200px.
+Pindahkan simpul paling bawah supaya kita akhirnya
+mendapatkan bentuk shape dengan ukuran 300px.
+
+-- -- --
+
+### Pemutaran Secara Seragam
+
+#### Pengaturan Titik Tengah Midpoint
+
+Ada beberapa cara untuk memutar (rotate) objek di Inkscape.
+Saya suka menggunakan fitur `snap`,
+dan memindahkan `midpoint` ke lingkaran lain.
+
+![Drop Pinned: Setting Midpoint][pinned-midpoint]
+
+#### Peralatan Transform
+
+Sekarang kita dapat memutar objek menggunakan tab `rotate` di dock `transform`.
+
+![Drop Pinned: Rotate with Transform Tools][pinned-rotate-72]
+
+Misalnya, dengan bentuk shape sejumlah lima,
+kita harus mengatur sudut dari perpindahan sebesar 72 derajat.
+
+#### Hasil Putaran
+
+Dan inilah hasilnya sebagaimana tampak di gambar di bawah ini.
+
+![Drop Pinned: Circular][pinned-circular]
+
+Saya tidak bilang ini hasil akhir.
+Karena masih banyak cara untuk memperbaiki bentuk ini,
+misalnya menambah ikon di dalam bentuk shape,
+atau memutar 15 derajat untuk semua kesatuan objek.
+
+Bagaimanapun, sekarang bentuk shape ini sudah jadi siap pakai.
+Sekarang waktu yang tepat untuk kembali ke Impress.
+
+-- -- --
+
+<a name="selanjutnya"></a>
+
+## Apa Selanjutnya?
+
+Lanjutkan baca ke
+[ [Inkscape: Impress Slides - Bagian Enam][local-whats-next] ].
+
+Terimakasih sudah berkunjung dan membaca.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[english-version]:      https://epsi-rns.gitlab.io/design/2020/09/25/inkscape-impress-slides-05/
-[isometric-preview]:    {% postimage %}/desain/2020/09-impress/isometric-preview.png
-[thumbs-2-preview]:     {% postimage %}/desain/2020/09-impress/thumbs-2.png
+[local-whats-next]: /inkscape/2020/09/26/inkscape-impress-slides-06.html
+[english-version]:  https://epsi-rns.gitlab.io/design/2020/09/25/inkscape-impress-slides-05/
+[thumbs-6-preview]: {% postimage %}/desain/2020/09-impress/thumbs-6.png
 
-[local-isometric]:      /inkscape/2015/11/11/infografis-isometrik.html
-[github-isometric]:     https://github.com/epsi-rns/isometric-wallpaper
-[github-candyclone]:    https://github.com/epsi-rns/berkas2/blob/master/impress-template-candyclone/README.md
-[rainbow-spectrum]:     {% postimage %}/desain/2017/11-ilusin/rainbow-spectrum.svg
+[pinned-shape]:     {% postimage %}/desain/2020/09-inkscape/drops-shape.png
+[pinned-color]:     {% postimage %}/desain/2020/09-inkscape/drops-color-annotation.png
+[pinned-circular]:  {% postimage %}/desain/2020/09-inkscape/drop-pinned-circular-final.png
+[pinned-measure]:   {% postimage %}/desain/2020/09-inkscape/drops-measure-boxed.png
+[pinned-nodes]:     {% postimage %}/desain/2020/09-inkscape/drops-path-nodes-screenshot.png
 
-[cover-css-concept]:{% postimage %}/desain/2020/09-impress/05-cover-concept-css.png
-[cover-ricing]:     {% postimage %}/desain/2020/09-impress/05-cover-customization.png
-[cover-diversity]:  {% postimage %}/desain/2020/09-impress/05-cover-diversity.png
-
-[sim-ex-01]:    {% postimage %}/desain/2020/09-impress/05-simple-ex-01.png
-[sim-ex-02]:    {% postimage %}/desain/2020/09-impress/05-simple-ex-02.png
-[ref-ex-01]:    {% postimage %}/desain/2020/09-impress/05-reference-ex-01.png
-[ref-ex-02]:    {% postimage %}/desain/2020/09-impress/05-reference-ex-02.png
-[ref-ex-03]:    {% postimage %}/desain/2020/09-impress/05-reference-ex-03.png
-
-[common-about-me]:  {% postimage %}/desain/2020/09-impress/05-common-about-me.png
-[common-about-matl]:{% postimage %}/desain/2020/09-impress/05-common-about-material.png
-[common-whats-next]:{% postimage %}/desain/2020/09-impress/05-common-what-is-next.png
-[common-question]:  {% postimage %}/desain/2020/09-impress/05-common-question.png
-[common-thank-you]: {% postimage %}/desain/2020/09-impress/05-common-thank-you.png
+[pinned-midpoint]:  {% postimage %}/desain/2020/09-inkscape/drop-pinned-circularsnap-midpoint.png
+[pinned-rotate-72]: {% postimage %}/desain/2020/09-inkscape/drop-pinned-circularsnap-transform-72.png
+[pinned-offset-10]: {% postimage %}/desain/2020/09-inkscape/drop-pinned-offsetting-transform-10.png
