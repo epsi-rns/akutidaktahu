@@ -15,14 +15,10 @@ dan saya juga tidak tahu siapa yang mengangkat saya menjadi admin 🙂.
 
 Kita perlu __pinned post__ yang cukup menjelaskan bagi para pemula.
 Supaya paham sendiri, apa yang perlu dipelajarinya.
-Sebagai awalan adalah gambar `intro` dari [roadmap.sh](https://roadmap.sh).
+
+Sebagai tambahan adalah gambar `intro` dari [roadmap.sh](https://roadmap.sh).
 Kemudian dilanjutkan daftar group terkait,
 supaya anggota langsung paham peta komunitas terkait di telegram.
-
-Karena group pemula rentan terhadap orang2 yang awam,
-yang baru saja menggunakan telegram,
-yang bahkan tidak tahu cara bertanya dalam suatu komunitas,
-maka saya tambahkan panduan tambahan.
 
 <!-- more -->
 
@@ -34,17 +30,111 @@ maka saya tambahkan panduan tambahan.
 
 ### Pesan Tersemat
 
+**Panduan mengenai belajar HTML+CSS+JS+Content**
+
+_Do not hesitate to use english. We understand. 🥳_
+
+Sohib semua, halooo... Apa kabaaaaar 😁...
+
+Ini adalah pesan tersemat di _pinned post_ group HTML Indonesia yang wajib dibaca oleh semua penghuni baru.
+
+#### ☆ Pinned Post Lawas
+
+🕷 <https://t.me/htmlindonesia/7210>
+
+Untuk mempercepat pembelajaran,
+baca [w3schools.com](https://www.w3schools.com/) dan [roadmap.sh](https://roadmap.sh) dahulu 😉!
+
+Untuk menghindari artikel dengan kualitas teknis yang rendah, semua artikel dari blogspot akan di banned.
+
 ![Web Developer Roadmap: Introduction][intro]
 
 [intro]: https://github.com/kamranahmedse/developer-roadmap/raw/master/img/intro.png
 
 > Mana yang belum paham ?
 
--- -- --
+#### 0. Keahlian Wajib Dasar
 
-_Do not hesitate to use english. We understand. 🥳_ 
+1. Membiasakan diri mencari solusi di search engine, misalnya google.
+2. Membiasakan diri membuat screenshot di group.
+3. Membiasakan diri membaca dokumentasi resmi.
+4. Belajar bahasa Inggris.
+5. Berkomunikasi dengan baik.
 
-Untuk mempercepat pembelajaran, semua artikel dari blogspot akan di banned.
+Selengkapnya di: <https://t.me/htmlindonesia/18918>
+
+_Membaca, menulis, berbagi._
+
+#### 1. HTML
+
+Mengenai belajar Plain HTML tahapannya adalah ini:
+
+1. Dasar HTML (dapat dibaca di w3schools).
+2. Templating Engine (beserta task runner).
+3. Static Site Generator (membuat situs lengkap tanpa beban backend).
+4. Backend Web Framework.
+5. Modern Web Framework.
+
+Mulailah dengan menghabisi [w3schools.com/html/](https://www.w3schools.com/html/)
+(baca tutorialnya sampai habis)
+
+![Learning Plain HTML Step by Step][image-learn-html]
+
+Diagram di: <https://t.me/htmlindonesia/21825>
+
+#### 2. Stylesheet
+
+Mengenai CSS pada tahapannnya lima hal ini:
+
+1. Dasar CSS: Dapat dibaca di www.w3schools.com/css/
+2. Menggunakan CSS Frameworks: Misalnya Bulma.
+3. Menggunakan CSS Preprocessors: Untuk membuat Custom CSS.
+4. Menggunakan CSS Tools: Task Runner atau Bundler.
+5. Membangun dengan Custom CSS: Tanpa CSS Frameworks, atau dengan Tailwind CSS.
+
+Setleah itu lanjut ke hal2 lain, misalnya.
+1. Animasi CSS, gabung dengan javascript
+2. Admin site, gabung dengan backend
+3. lebih lanjut dengan SVG
+
+Mulailah dengan menghabisi [w3schools.com/css/](https://www.w3schools.com/css/).
+(baca tutorialnya sampai habis)
+
+Diagram di: <https://t.me/htmlindonesia/21826>
+
+![Learning Plain CSS Step by Step][image-learn-css]
+
+#### 3. Javascript
+
+Mengenai Javascript, ini topik yang terlalu besar.
+Sebaiknya tidak dibahas di group ini.
+
+Silahkan membahas sepuasnya di [@js_id.](https://t.me/js_id)
+
+#### 4. Content
+
+Terakhir mengenai materi, misalnya untuk blogging.
+
+1. Text
+   * Belajar menulis yang tepat.
+   * Belajar bahasa, bahasa Indonesia atau bahasa Inggris.
+
+2. Image
+   * Belajar memotret dengan handphone, atau fotografi.
+   * Belajar membuat ilustrasi, dengan Inkscape atau GIMP.
+
+#### ☆ Cara Berpikir
+
+Yang perlu dipelajari adalah `konsep` cara berpikir,
+bukan sekedar `how-to` bagaimana cara mengerjakannya.
+
+#### ☆ Bahan Bacaan
+
+🕷 <https://epsi-rns.gitlab.io/frontend/2020/10/11/slides-concept-css/>
+
+#### ☆ Materi Terkait Beserta Tautan Link
+
+Mana yang belum paham ?
 
 🐙 CSS Framework: [@belajarhtmlcss](https://t.me/belajarhtmlcss), [@FrontEndID](https://t.me/FrontEndID)
 
@@ -72,6 +162,7 @@ Untuk mempercepat pembelajaran, semua artikel dari blogspot akan di banned.
 
 * 🕷 Bundler: Webpack, Parcel, Roller
 
+
 🐙 Static Site Generator
 
 * 🕷 Jekyll: [@JekyllID](https://t.me/JekyllID)
@@ -84,11 +175,13 @@ Untuk mempercepat pembelajaran, semua artikel dari blogspot akan di banned.
 
 * 🕷 Hexo: [@hexo_id](https://t.me/hexo_id)
 
+
 🐙 Text
 
 * 🕷 Markdown
 
 * 🕷 reStructured Text
+
 
 🐙 Template Engine: [@JAMstackID](https://t.me/JAMstackID)
 
@@ -102,6 +195,7 @@ Untuk mempercepat pembelajaran, semua artikel dari blogspot akan di banned.
 
 * 🕷 Chroma
 
+
 🐙 Bonus: Deploy
 
 * 🕷 CVS: Git, Mercurial: [@freekelasgithub](https://t.me/freekelasgithub)
@@ -112,97 +206,23 @@ Untuk mempercepat pembelajaran, semua artikel dari blogspot akan di banned.
 
 * 🕷 Static Host: Netlify, Render, Zeit Now
 
-🙏🏽
-
-#### ☆ Bahan Bacaan
-
-* 🕷 <https://epsi-rns.gitlab.io/frontend/2019/02/15/concept-css/>
-
--- -- --
-
-> Mau mulai dari mana ?
-
--- -- --
-
-## Panduan Tambahan
-
-**Panduan Berkomunikasi Bagi Penghuni Baru Di Telegram**
-
-🙂
-
-`#tips` `#oot`
-
-Pada umumnya group2, tidak mempermasalahkan skill. Jadi kalau memang belum tahu apa2, seharusnya tidak menjadi masalah.
-
-Namun yang biasanya menjadi bahan bully adalah perilaku dan cara bersikap.
-
-Karena itu dari awal, perlu persiapan supaya tidak dibully.
-
-#### 1. Siapkan profile picture.
-
-Profile picture bisa apa saja.
-Kalau bisa yang menarik, misalnya gambar kucing, atau anime.
-Jangan pernah memakai avatar anonymous.
-
-Pada umumnya orang2 tidak suka dengan heker.
-Kalau hacker betulan malah gpp. Dan hacker betulan biasanya justru tidak memakai anonymous.
-
-#### 2. Pakai username
-
-Username bisa apa saja, misalnya @mestitabah atau lainnya selama tidak mengandung kata2 vulgar.
-
-Pakai nama asli juga bagus.
-
-#### 3. Jangan memakai bahasa alay. 
-
-Biasakan jangan menyingkat kata. Karena ini menandakan kamu tidak bersungguh-sungguh.
-
-Jangan panggil orang lain dengan kata gan. Ini bukan kaskus.
-
-Jangan pakai kata suhu, karena saya bukan _temperature_.
-
-Cukup dengan mas, mbak, bang, kakak, pak, bu.
-
-#### 4. Jangan mencirikan diri dengan komunitas heker.
-
-Biasanya orang dari komunitas heker memiliki skill sangat rendah,
-namun sekaligus sangat sok tahu.
-_Attitude_ ini, sungguh tidak disukai di kebanyakan group.
-
-Jangan memakai kata mastah yang menandakan dirimu berasal dari komunitas heker.
-Nanti orang pada sebal.
-
-Jangan memakai picture profile berupa topeng anonymous.
-
-Jangan bertanya mengenai Kali linux. Ini juga ciri dari komunitas heker.
-
-#### 5. Gunakan Prinstscreen
-
-Ketika bertanya dan harus menunjukkan gambar di desktop. Gunakanlah printscreen. Jangan menggunakan foto dari smartphone.
-
-Ini juga termasuk aturan umum di group.
-
-#### 6. Taruh source code di tempat yang rapih
-
-Ketika bertanya yang mengharuskan perlunya source code. Misalnya html atau css.
-
-Taruh source code di pastebin. Atau taruh di codepen.
-
-Kalau yang tingkat lanjut biasanya menaruh di github/gitlab/bitbucket.
-
-#### 7. Senda Gurau
-
-Telegram cukup ramah untuk pengguna baru.
-
-Silahkan ikut bersenda gurau kalau memang sudah cair dengan anggota group lainnya.
-
-Yang tidak lucu, kalau tidak punya kemampuan apa2.
-Tidak pernah memberikan konribusi apapun.
-Lalu mendadak bercanda di group teknis, yang orang2nya tidak kamu kenal.
 
 🙏🏽
 
-Sepertinya hanya itu. Kalau diikuti. Mestinya lancar jaya.
+Mau mulai dari mana ?
+
+**☆ Kata Sambutan**
+
+Silahkan masuuuuk 😁...
+Selamat bergabung di yaaacc.
+
+Saya paham materinya memang banyak.
+maka maaf merepotkan 🙇🏻‍♂️.
+
+Hayuuuks mulai berdiskusi.
+Semoga group ini memang bermanfaat 🙏🏽.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
+[image-learn-css]:  {% postimage %}/komunitas/2020/preface-learning-css-step-by-step.png
+[image-learn-html]: {% postimage %}/komunitas/2020/preface-learning-html-step-by-step.png
