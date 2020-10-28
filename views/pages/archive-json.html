@@ -13,14 +13,16 @@ permalink: pages/index.json
 {%- set postCount = posts.length -%}
 {%- set cursor = 1 -%}
 
-{
+[
   {% for post in posts %}
-    "{{ post.date | date('YYMMDDmm') }}": {
+    {
       "title": "{{ post.data.title }}",
-      "url":   "{{ post.url }}"
+      "excerpt": "{{ post.data.excerpt }}",
+      "url":   "{{ post.url }}",
+      "date": "{{ post.date | date('YYMMDDmm') }}"
     }
     {%-if cursor != postCount %},{% endif -%}
     {%-set cursor = cursor + 1 %}
   {% endfor %}
-}
+]
 
