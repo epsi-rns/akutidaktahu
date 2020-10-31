@@ -18,10 +18,10 @@ const config = {
   // Directory Management
   passthroughFileCopy: true,
   dir: {
-    input: "_views",
+    input: "_content",
     output: "_site",
     // ⚠️ These values are both relative to your input directory.
-    includes: "../_includes",
+    includes: "../_theme",
     data: "../_data"
   }
 };
