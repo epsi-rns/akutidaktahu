@@ -18,11 +18,11 @@ const config = {
   // Directory Management
   passthroughFileCopy: true,
   dir: {
-    input: "views",
+    input: "_views",
     output: "_site",
     // ⚠️ These values are both relative to your input directory.
-    includes: "_includes",
-    data: "_data"
+    includes: "../_includes",
+    data: "../_data"
   }
 };
 
@@ -38,8 +38,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
 
   // Miscellanous Helper
-  const helper     = require("./views/_11ty/helper");
-  const pagination = require("./views/_11ty/pagination");
+  const helper     = require("./_11ty/helper");
+  const pagination = require("./_11ty/pagination");
 
   // Directory Management
   eleventyConfig.addPassthroughCopy("assets");
@@ -138,7 +138,7 @@ module.exports = function(eleventyConfig) {
 
   // Copy paste from Zach
   eleventyConfig.addCollection("tagList",
-    require("./views/_11ty/getTagList"));
+    require("./_11ty/getTagList"));
 
   // Filter using `Array.filter`
   eleventyConfig.addCollection("posts", function(collection) {
@@ -162,7 +162,7 @@ module.exports = function(eleventyConfig) {
   
   // Defines shortcode for generating post excerpts
   // Copy paste from Jérôme Coupé
-  const excerpt = require("./views/_11ty/excerpt");
+  const excerpt = require("./_11ty/excerpt");
   eleventyConfig.addShortcode('excerpt',
     post => excerpt.extractExcerpt(post));
 

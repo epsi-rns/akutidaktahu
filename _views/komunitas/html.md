@@ -144,7 +144,9 @@ Mana yang belum paham ?
 
 * 🕷 Semantic UI
 
-* 🕷 Tailiwind CSS: [@TailwindID](https://t.me/TailwindID)
+* 🕷 Tailwind CSS: [@TailwindID](https://t.me/TailwindID)
+
+* 🕷 Custom CSS:  [@Stylesheet_ID](https://t.me/Stylesheet_ID)
 
 
 🐙 CSS Preprocessor: [@css_tools_id](https://t.me/css_tools_id)
@@ -174,6 +176,8 @@ Mana yang belum paham ?
 * 🕷 Hugo: [@gohugoid](https://t.me/gohugoid)
 
 * 🕷 Hexo: [@hexo_id](https://t.me/hexo_id)
+
+* 🕷 Gatsby: [@gatsbyjsid](https://t.me/gatsbyjsid)
 
 
 🐙 Text
