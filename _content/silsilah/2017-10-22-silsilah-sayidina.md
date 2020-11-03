@@ -107,6 +107,8 @@ Ada dua jalur ke Mertolayan, yaitu dari
 Diagram sedang dibikin.
 </div>
 
+![Diagram Silsilah: Keluarga Retnosari][retnosari]
+
 -- -- --
 
 <a name="kliwon"></a>
@@ -130,6 +132,7 @@ Silahkan melanjutkan ke berkas silsilah berikutnya.
 
 [sayidina]:         {% postimage %}/silsilah/sayidina/sayidina-text-colour.png
 [keluarga-modjo]:   {% postimage %}/silsilah/sayidina/keluarga-modjo-versi-syarif.png
+[retnosari]:        {% postimage %}/silsilah/retnosari/retnosari.png
 [garis-ibu]:        {% postimage %}/silsilah/sayidina/gitosaputro-text-colour.png
 [garis-bapak]:      {% postimage %}/silsilah/sayidina/prawirosuhardjo-text-colour.png
 
