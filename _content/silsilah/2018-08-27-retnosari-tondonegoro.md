@@ -28,13 +28,17 @@ membuat diagram dari silsilah dari jalur Mertolayan.
 
 * [Keturunan R.Ngt. Retnosari](#lengkap)
 
+* [Sekilas Pangulu Martoloyo](#martoloyo)
+
 * [Penutup](#penutup)
 
 ### Berkas Sumber SVG
 
 Dapat diunduh untuk dipakai maupun diubah di sini:
 
-* [github.com/epsi-rns/.../retnosari][github-svg-source]
+* [github.com/epsi-rns/.../retnosari][github-svg-retnosari]
+
+* [github.com/epsi-rns/.../martoloyo][github-svg-martoloyo]
 
 -- -- --
 
@@ -245,6 +249,63 @@ Diagram sengaja saya bikin dalam bentuk kompak supaya tidak terlalu besar.
 
 -- -- --
 
+<a name="martoloyo"></a>
+
+## Sekilas Pangulu Martoloyo
+
+Sedangkan asal-usul dari Pangulu Martoloyo,
+dapat diterangkan sekilas dari diagram di bawah:
+
+Diagram aslinya ditulis di kertas A3, rumit dan pelik,
+maka saya sarikan sebagaimana di atas.
+
+![Diagram Silsilah: Sekilas Keluarga Pangulu Martoloyo][martoloyo-sekilas]
+
+{% highlight "bash" %}
+Silsilah Keluarga Pangulu Martoloyo
+
+» ♂ Panembahan Sedo - Krapyak Kuthogedhe (1601 - 1613)
+
+» ♂ KPH Bumidirjo, KGPH Mangkubumi
+~ Kyai Bumi, Kebumen
+~ Semare Kuthowinangun
+
+» ♀ Garwa R. Panji Wirobumi, R.T. Wongsodirjo
+
+» ♂ R. Lurah Wirobumi
+
+» ♂ R. Bekel Wirobumi
+
+» ♂ R. Wargonoyo
+
+» ♂ R.Ng Wargonoyo
+
+» ♂ Kangjeng Kyai Pangulu Jelalen (Jalaludiningrat)
+~ Pangulu Ageng Kartosuro, Surokarto
+~ Semare Astana Laweyan
+
+» ♂ Kangjeng Kyai Pangulu Martoloyo
+~ Pangulu Ageng Surokarto
+~ Semare Makamhaji Pajang
+{% endhighlight %}
+
+### Keturunan Pangulu Martoloyo
+
+{% highlight "bash" %}
+. ♀ Kangjeng Kyai Pangulu Martoloyo
+│
+├── Anak: ♂ R.T. Sutodipuro
+│            Kliwon Keparak
+│
+├── Anak: ♂ K. Ky. P. Tapsiranom (Sumemi)
+│            Pengulu Ageng Surokarto
+│            Semare Makamhaji Pajang
+│
+└── Anak: ♂ K. Ky. P. Dipaningrat
+{% endhighlight %}
+
+-- -- --
+
 <a name="penutup"></a>
 
 ## Penutup
@@ -255,7 +316,9 @@ Silahkan melanjutkan ke berkas silsilah berikutnya.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[github-svg-source]:https://github.com/epsi-rns/titip-silsilah/tree/master/retnosari
+[github-svg-retnosari]: https://github.com/epsi-rns/titip-silsilah/tree/master/retnosari
+[github-svg-martoloyo]: https://github.com/epsi-rns/titip-silsilah/tree/master/martoloyo
 
 [retnosari-sekilas]:{% postimage %}/silsilah/retnosari/retnosari-sekilas.png
 [retnosari-lengkap]:{% postimage %}/silsilah/retnosari/retnosari-lengkap.png
+[martoloyo-sekilas]:{% postimage %}/silsilah/retnosari/martoloyo-sekilas.png
