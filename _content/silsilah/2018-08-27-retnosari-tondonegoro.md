@@ -256,10 +256,10 @@ Diagram sengaja saya bikin dalam bentuk kompak supaya tidak terlalu besar.
 Sedangkan asal-usul dari Pangulu Martoloyo,
 dapat diterangkan sekilas dari diagram di bawah:
 
+![Diagram Silsilah: Sekilas Keluarga Pangulu Martoloyo][martoloyo-sekilas]
+
 Diagram aslinya ditulis di kertas A3, rumit dan pelik,
 maka saya sarikan sebagaimana di atas.
-
-![Diagram Silsilah: Sekilas Keluarga Pangulu Martoloyo][martoloyo-sekilas]
 
 {% highlight "bash" %}
 Silsilah Keluarga Pangulu Martoloyo
