@@ -7,7 +7,7 @@ tags      : [silsilah]
 keywords  : [mertolayan]
 
 toc       : "toc/silsilah.njk"
-opengraphimage: "assets/posts/silsilah/nitimenggolo/nitimenggolo-colour.png"
+opengraphimage: "assets/posts/silsilah/retnosari/retnosari-sekilas.png"
 excerpt   : "Digitalisasi Silsilah: Retnosari Tondonegoro."
 ---
 
