@@ -103,17 +103,17 @@ Ada dua jalur ke Mertolayan, yaitu dari
 1. Retnosari (Tondonagoro)
 2. Prawirosuhardjo
 
-<div class="notification is-warning">
-Diagram sedang dibikin.
-</div>
-
-![Diagram Silsilah: Keluarga Retnosari][retnosari]
+![Diagram Silsilah: Sekilas Keluarga R.Ngt. Retnosari][retnosari-sekilas]
 
 -- -- --
 
 <a name="kliwon"></a>
 
 ## Kliwon Wiroprodjo
+
+<div class="notification is-warning">
+Diagram belum dibikin.
+</div>
 
 Dalam buku sejarah, adalah orang yang paling dicari Belanda,
 dan tidak pernah tertangkap.
@@ -132,7 +132,7 @@ Silahkan melanjutkan ke berkas silsilah berikutnya.
 
 [sayidina]:         {% postimage %}/silsilah/sayidina/sayidina-text-colour.png
 [keluarga-modjo]:   {% postimage %}/silsilah/sayidina/keluarga-modjo-versi-syarif.png
-[retnosari]:        {% postimage %}/silsilah/retnosari/retnosari.png
+[retnosari-sekilas]:{% postimage %}/silsilah/retnosari/retnosari-sekilas.png
 [garis-ibu]:        {% postimage %}/silsilah/sayidina/gitosaputro-text-colour.png
 [garis-bapak]:      {% postimage %}/silsilah/sayidina/prawirosuhardjo-text-colour.png
 
