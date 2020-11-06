@@ -61,7 +61,13 @@ Untuk menghindari artikel dengan kualitas teknis yang rendah, semua artikel dari
 4. Belajar bahasa Inggris.
 5. Berkomunikasi dengan baik.
 
-Selengkapnya di: <https://t.me/htmlindonesia/18918>
+Selengkapnya di
+
+* <https://t.me/htmlindonesia/18918>, atau
+
+* [Pesan Tersemat - Panduan Berkomunikasi][panduan-berkomunikasi]
+
+[panduan-berkomunikasi]: https://akutidaktahu.netlify.app/komunitas/2020/03/11/panduan-berkomunikasi.html
 
 _Membaca, menulis, berbagi._
 
