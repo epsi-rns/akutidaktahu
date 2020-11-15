@@ -24,9 +24,13 @@ supaya anggota langsung paham peta komunitas terkait di telegram.
 
 ## HTML Indonesia
 
-### Alamat
+### Alamat Lama
 
 * [t.me/htmlindonesia](https://t.me/htmlindonesia)
+
+### Alamat Baru
+
+* [t.me/html_css_id](https://t.me/html_css_id)
 
 ### Pesan Tersemat
 
@@ -60,6 +64,8 @@ Untuk menghindari artikel dengan kualitas teknis yang rendah, semua artikel dari
 3. Membiasakan diri membaca dokumentasi resmi.
 4. Belajar bahasa Inggris.
 5. Berkomunikasi dengan baik.
+
+Tips: Biasakan membuat catatan.
 
 Selengkapnya di
 
