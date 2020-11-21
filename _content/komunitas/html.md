@@ -179,7 +179,7 @@ Mana yang belum paham ?
 
 🐙 Static Site Generator
 
-* 🕷 Jekyll: [@JekyllID](https://t.me/JekyllID)
+* 🕷 Jekyll: [@jekyll_id](https://t.me/jekyll_id)
 
 * 🕷 Pelican
 

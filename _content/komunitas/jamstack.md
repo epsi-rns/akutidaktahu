@@ -65,7 +65,7 @@ Tidak masalah menjadi pemula. Kita semua berawal dari pemula. Namun memang menja
 
 Bagi yang ingin belajar dasar2, dapat belajar di group lain, misalnya 
 [@gohugoid@](https://t.me/gohugoid), 
-[@JekyllID](https://t.me/JekyllID), 
+[@jekyll_id](https://t.me/jekyll_id), 
 [@hexo_id](https://t.me/hexo_id), 
 [@css_tools_id](https://t.me/css_tools_id), 
 [@bootstrap_id](https://t.me/bootstrap_id), 
@@ -94,7 +94,7 @@ SSG bukan agama, SSG Hopper bukan pendosa
 
 * 🍓 Hugo (go): @gohugoid
 
-* 🍓 Jekyll (ruby): [@JekyllID](https://t.me/JekyllID)
+* 🍓 Jekyll (ruby): [@jekyll_id](https://t.me/jekyll_id)
 
 * 🍓 Pelican (python)
 
