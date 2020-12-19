@@ -300,7 +300,7 @@ Kira2 bagaimana sohib?
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[english-version]:  https://epsi.bitbucket.io/2020/01/10/latex-math-formula/
+[english-version]:  https://epsi.bitbucket.io/math/2020/01/10/latex-math-formula/
 
 [image-latex-01]:   {% postimage %}/matematika/2020/01/latex-limit-01.png
 [image-latex-02]:   {% postimage %}/matematika/2020/01/latex-limit-02.png

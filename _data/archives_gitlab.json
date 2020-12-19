@@ -1,6 +1,111 @@
 [
   
     {
+      "title": "Tabs - JS - Vue3 Composition",
+      "content": "Porting to Vue3 using different pattern. Solving this.$children removal issue.",
+      "url": "/frontend/2020/11/15/tabs-js-vue3-composition/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Tabs - JS - Vue2 Application",
+      "content": "Explaining tabs component in Vue Application.",
+      "url": "/frontend/2020/11/14/tabs-js-vue2-application/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Tabs - JS - Vue Router",
+      "content": "Preparing Vue Application, using Vue router.",
+      "url": "/frontend/2020/11/13/tabs-js-vue-router/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Tabs - JS - Vue Component",
+      "content": "Constructing component with Vue.js.",
+      "url": "/frontend/2020/11/12/tabs-js-vue-component/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Tabs - JS - Alpine Extracted",
+      "content": "Moving Alpine.js's attribute using `x-spread`.",
+      "url": "/frontend/2020/11/10/tabs-js-alpine-extracted/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Tabs - JS - Alpine Inline",
+      "content": "Attaching event to element with Alpine.js.",
+      "url": "/frontend/2020/11/09/tabs-js-alpine-inline/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Tabs - JS - jQuery and Cash",
+      "content": "Switching to jQuery or Cash, for cleaner javascript.",
+      "url": "/frontend/2020/11/08/tabs-js-jquery-cash/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Tabs - CSS - Tailwind Build",
+      "content": "Porting stylesheet to Tailwind CSS.",
+      "url": "/frontend/2020/11/07/tabs-css-tailwind/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Tabs - NPM - Tailwind Build",
+      "content": "Getting a Proper Tailwind Configuration",
+      "url": "/frontend/2020/11/06/tabs-npm-tailwind/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Tabs - JS - Plain Unobtrusive",
+      "content": "Adding javascript interactivity. Exploring DOM with inline javascript.",
+      "url": "/frontend/2020/11/05/tabs-js-plain-unobtrusive/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Tabs - JS - Plain Oldschool",
+      "content": "Adding javascript interactivity. Exploring DOM with inline javascript.",
+      "url": "/frontend/2020/11/04/tabs-js-plain-oldschool/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Tabs - CSS - Mockup Layout",
+      "content": "Making a ready mockup layout. A tabs component without javascript interactivity.",
+      "url": "/frontend/2020/11/03/tabs-css-mockup-layout/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Tabs - CSS - Flex Layout",
+      "content": "Creating basic layout from scratch using Flex.",
+      "url": "/frontend/2020/11/02/tabs-css-flex-layout/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Tabs - Component Overview",
+      "content": "An overview about this tabs component project.",
+      "url": "/frontend/2020/11/01/tabs-component-overview/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "ES - Fetch Async/Await in Class",
+      "content": "A class example to fetch JSON using ES async/await.",
+      "url": "/code/2020/10/25/es-fetch-async-await-in-class/",
+      "author": "epsi",
+      "category": "code"
+    },
+    {
       "title": "Slides - Concept CSS",
       "content": "Presentation of CSS concept. Introduction to CSS framework and CSS preprocessor.",
       "url": "/frontend/2020/10/11/slides-concept-css/",
@@ -15,7 +120,21 @@
       "category": "ssg"
     },
     {
-      "title": "Javacript - SSG Native Search",
+      "title": "CLI Tools for Web Development",
+      "content": "Introducing terminal as web development tools for beginner.",
+      "url": "/frontend/2020/10/05/cli-tools-for-web-development/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Starting Web Development",
+      "content": "A journey guidance on how to be a web developer for beginner.",
+      "url": "/frontend/2020/10/03/starting-web-development/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Javascript - SSG Native Search",
       "content": "Create a native javascript search feature, for static site generator. Without lunrjs or such.",
       "url": "/ssg/2020/10/01/javascript-ssg-native-search/",
       "author": "epsi",
@@ -1945,62 +2064,6 @@
       "url": "/ssg/2018/02/21/jekyll-basic/",
       "author": "epsi",
       "category": "ssg"
-    },
-    {
-      "title": "Telegram Bot - Manual Page",
-      "content": "How to be a Bashful Bot in Telegram. Using loop with BASH script. No webhook in BASH series.",
-      "url": "/code/2018/01/29/telegram-bot-loop-manual/",
-      "author": "epsi",
-      "category": "code"
-    },
-    {
-      "title": "Telegram Bot - Makefile",
-      "content": "How to be a Bashful Bot in Telegram. Using loop with BASH script. No webhook in BASH series.",
-      "url": "/code/2018/01/28/telegram-bot-loop-makefile/",
-      "author": "epsi",
-      "category": "code"
-    },
-    {
-      "title": "Telegram Bot - BASH Group Tools",
-      "content": "How to be a Bashful Bot in Telegram. Using loop with BASH script. No webhook in BASH series.",
-      "url": "/code/2018/01/26/telegram-bot-loop-bash-04/",
-      "author": "epsi",
-      "category": "code"
-    },
-    {
-      "title": "Telegram Bot - BASH Option Argument",
-      "content": "How to be a Bashful Bot in Telegram. Using loop with BASH script. No webhook in BASH series.",
-      "url": "/code/2018/01/24/telegram-bot-loop-bash-03/",
-      "author": "epsi",
-      "category": "code"
-    },
-    {
-      "title": "Telegram Bot - BASH Script",
-      "content": "How to be a Bashful Bot in Telegram. Using loop with BASH script. No webhook in BASH series.",
-      "url": "/code/2018/01/23/telegram-bot-loop-bash-02/",
-      "author": "epsi",
-      "category": "code"
-    },
-    {
-      "title": "Telegram Bot - BASH CLI",
-      "content": "How to be a Bashful Bot in Telegram. Using loop with BASH command. No webhook in BASH series.",
-      "url": "/code/2018/01/22/telegram-bot-loop-bash-01/",
-      "author": "epsi",
-      "category": "code"
-    },
-    {
-      "title": "Telegram Bot - Getting Token",
-      "content": "Getting Telegram Token from @botfather.",
-      "url": "/code/2018/01/21/telegram-bot-token/",
-      "author": "epsi",
-      "category": "code"
-    },
-    {
-      "title": "Telegram Bot - Overview",
-      "content": "Telegram Bot Summary",
-      "url": "/code/2018/01/20/telegram-bot-overview/",
-      "author": "epsi",
-      "category": "code"
     },
     {
       "title": "Bootstrap CLI Webtools - Part Three",

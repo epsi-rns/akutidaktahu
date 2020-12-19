@@ -392,7 +392,7 @@ Bagaimana menurut sohib?
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[english-version]:  https://epsi.bitbucket.io/2020/02/02/statistic-dotplot/
+[english-version]:  https://epsi.bitbucket.io/math/2020/02/02/statistic-dotplot/
 
 [reference-01]:         https://stackoverflow.com/questions/49703938/how-to-create-a-dot-plot-in-matplotlib-not-a-scatter
 [reference-02]:         https://www.geeksforgeeks.org/stem-and-leaf-plots-in-python/

@@ -205,7 +205,7 @@ Bagaimana menurut sohib sekalian?
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[english-version]:  https://epsi.bitbucket.io/2020/01/12/python-matplotlib-equation/
+[english-version]:  https://epsi.bitbucket.io/math/2020/01/12/python-matplotlib-equation/
 
 [image-2d]: {% postimage %}/matematika/2020/01/e-02-quadratic.png
 [image-3d]: {% postimage %}/matematika/2020/01/e-04-surface.png
