@@ -5,6 +5,12 @@
 {% block pagination %}  
   {% set color = color or 'brown' %}
   {% include "pagination/06-screenreader.njk" %}
+
+  <div class="has-text-centered">
+    <img src="{{ "/assets/images/authors/epsi-2021-bocah-bulat-cilik.png" | url }}" 
+         class="bio-photo" 
+         alt="epsi bio photo">
+  </div>  
 {% endblock %}
 
 {% block pagination_all %}  
