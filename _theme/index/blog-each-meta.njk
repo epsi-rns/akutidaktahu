@@ -8,7 +8,8 @@
         <div class="meta_tags is-pulled-right">
           {%- for tag in post.data.tags  -%}
             {%- set tagUrl %}/tags/{{ tag }}/{% endset -%}
-            <a class="tag is-small is-dark {{ color }} z-depth-1 hoverable"
+            <a class="tag is-small is-dark {{ color }}
+                      z-depth-1 hoverable hvr-pulse"
                href="{{ tagUrl | url }}"
               >{{ tag }}&nbsp;<span class="fa fa-folder"></span>
             </a>&nbsp;

@@ -11,7 +11,7 @@ opengraphimage: "assets/images/topics/card-telegram.png"
 ---
 
 Panduan berkomunikasi ini dapat dijadikan
-__pined post__ untuk group yang baru dibentuk.
+__pinned post__ untuk group yang baru dibentuk.
 
 Karena group pemula rentan terhadap orang2 yang awam,
 yang baru saja menggunakan telegram,

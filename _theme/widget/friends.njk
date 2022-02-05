@@ -13,7 +13,8 @@
   <ul class="widget-list">
     {%- for friend in links -%}
     <li><a href="{{ friend.url }}"
-      >{{ friend.title }}</a></li>
+           class="hvr-underline-from-left"
+          >{{ friend.title }}</a></li>
     {%- endfor -%}
   </ul>
 {% endblock %}

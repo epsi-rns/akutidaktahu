@@ -32,7 +32,8 @@
     {% for tag in tags %}
       {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
         <a href="{{ tagUrl | url }}">
-          <span class="tag is-dark is-small teal z-depth-1 hoverable">
+          <span class="tag is-dark is-small teal
+                       z-depth-1 hoverable hvr-pulse">
             <span class="fa fa-tag"></span>&nbsp;{{ tag }}</span></a>
       {% endfor %}
       &nbsp;

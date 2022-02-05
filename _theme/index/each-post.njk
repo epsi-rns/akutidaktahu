@@ -6,7 +6,8 @@
         {{ post.date | date('MMM DD, Y') }}&nbsp;
         &nbsp;<span class="fa fa-calendar"></span></time></div>
     <div class="is-pulled-left">
-    <a href="{{ post.url | url }}">
+    <a href="{{ post.url | url }}"
+       class="hvr-underline-from-left">
       {{ post.data.title }}
     </a></div>
     <div class="is-clearfix"></div>

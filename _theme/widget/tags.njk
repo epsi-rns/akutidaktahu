@@ -10,7 +10,7 @@
 {% block widget_body %}
   {%- for tag in collections.tagList -%}
     {%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
-    <a class="tag is-small is-light
+    <a class="tag is-small is-light hvr-buzz
               {{ color }} z-depth-1 hoverable p-b-5"
        href="{{ tagUrl | url }}">
       <span class="fa fa-tag"></span>&nbsp;{{ tag }}
