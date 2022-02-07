@@ -7,10 +7,12 @@
               is-half-tablet is-one-third-widescreen">
     {%- set postsList = collections[ tag ] -%}
 
-    <div class="widget white z-depth-1 hoverable m-b-10">
+    <div class="widget white z-depth-1 hoverable m-b-10
+                animate__animated animate__observe__archive">
       <div class="widget-header {{ color }} lighten-4">
 
-        <div id="{{ tag | slug }}" class ="anchor-target">
+        <div id="{{ tag | slug }}"
+          class ="anchor-target">
           <span class="fa fa-tag"></span> 
           &nbsp; {{ tag }}
         </div>
