@@ -16,9 +16,9 @@
   let archiveObserver = new IntersectionObserver((entries) => {
     entries.forEach((entry) => {
       if (entry.intersectionRatio > 0) {
-        entry.target.classList.add('animate__rollIn');
+        entry.target.classList.add('animate__zoomIn');
       } else {
-        entry.target.classList.remove('animate__rollIn');
+        entry.target.classList.remove('animate__zoomIn');
       }
     });
   });
