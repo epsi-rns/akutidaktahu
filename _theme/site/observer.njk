@@ -15,10 +15,10 @@
 
   let archiveObserver = new IntersectionObserver((entries) => {
     entries.forEach((entry) => {
-      if (entry.intersectionRatio > 0.1) {
-        entry.target.classList.add('animate__zoomIn');
+      if (entry.intersectionRatio > 0) {
+        entry.target.classList.add('animate__wobble');
       } else {
-        entry.target.classList.remove('animate__zoomIn');
+        entry.target.classList.remove('animate__wobble');
       }
     });
   });
