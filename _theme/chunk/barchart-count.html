@@ -1,0 +1,30 @@
+  <div class="white hoverable p-t-5 p-b-5">
+    <div class="widget-header pink lighten-4">
+
+      <strong>Articles Barchart</strong>
+      <span class="fa fa-user is-pulled-right"></span>
+
+    </div>
+    <div class="widget-body pink lighten-5">
+
+  <div id="container__bar"
+       data-count="{{ collections.posts.length }}">
+
+  {%- for tag in collections.tagList -%}
+    {%- set postsList = collections[ tag ] -%}
+    {%- set listCount = postsList.length -%}
+
+    {% if listCount %}
+    <div class="my__progressbar"
+       data-count="{{ listCount }}">
+      <div class="my__progressbar_text"
+        >{{ tag }}: <span class="my__progressbar_perc"
+          ></span></div>
+      <div class="my__inner_bar"></div>
+    </div>
+    {% endif %}
+  {%- endfor -%}
+  </div>
+
+    </div>
+  </div>
