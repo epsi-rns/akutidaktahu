@@ -1,0 +1,18 @@
+{% extends "layouts/widget.njk" %}
+
+{% set color = 'grey' %}
+{% set picnum = [1, 2, 3, 4, 5] | shuffle | first %}
+{% set picurl = ["/assets/images/guest-house/0", picnum, ".webp"] | join %}
+
+{% block widget_header %}
+  <strong>Stay in Yogyakarta</strong>
+  <span class="fas fa-bed is-pulled-right"></span>
+{% endblock %}
+
+{% block widget_body %}
+  <div class="center-align">
+    <a href="https://www.airbnb.com/rooms/23774095">
+      <img src="{{ picurl | url }}"
+           alt="The Purwanggan 8 Guest House"></a>
+  </div>
+{% endblock %}
