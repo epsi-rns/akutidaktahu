@@ -1,6 +1,118 @@
 [
   
     {
+      "title": "Animation Observer - Part Three",
+      "content": "Trigger animation on scroll using intersection observer.",
+      "url": "/frontend/2022/02/05/animation-observer-03/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Animation Observer - Part Two",
+      "content": "Trigger animation on scroll using intersection observer.",
+      "url": "/frontend/2022/02/03/animation-observer-02/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Animation Observer - Part One",
+      "content": "Trigger animation on scroll using intersection observer.",
+      "url": "/frontend/2022/02/01/animation-observer-01/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Bezier SVG - Keyframe Animation",
+      "content": "Animating SVG using Keyframe in Stylesheet.",
+      "url": "/frontend/2022/01/25/bezier-svg-07/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Bezier SVG - Javascript Animation",
+      "content": "Generating SVG in DOM using Native Javascript.",
+      "url": "/frontend/2022/01/21/bezier-svg-06/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Bezier SVG - Generating Multiple Path",
+      "content": "Generating SVG in DOM using Native Javascript.",
+      "url": "/frontend/2022/01/19/bezier-svg-05/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Bezier SVG - Generating Single Path",
+      "content": "Generating SVG in DOM using Javascript.",
+      "url": "/frontend/2022/01/17/bezier-svg-04/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Bezier SVG - MDN Path - Quadratic",
+      "content": "Examining Bezier Path form Official MDN.",
+      "url": "/frontend/2022/01/15/bezier-svg-03/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Bezier SVG - MDN Path - Cubic",
+      "content": "Examining Bezier Path form Official MDN.",
+      "url": "/frontend/2022/01/13/bezier-svg-02/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Bezier SVG - Introduction",
+      "content": "Examining Bezier Path form Official MDN.",
+      "url": "/frontend/2022/01/11/bezier-svg-01/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Inkscape Automation - Part Three",
+      "content": "Export layers using etree, then inkscape CLI.",
+      "url": "/design/2021/11/11/inkscape-automation-03/",
+      "author": "epsi",
+      "category": "design"
+    },
+    {
+      "title": "Inkscape Automation - Part Two",
+      "content": "Mail merge feature alternative using inkscape extension.",
+      "url": "/design/2021/11/09/inkscape-automation-02/",
+      "author": "epsi",
+      "category": "design"
+    },
+    {
+      "title": "Inkscape Automation - Part One",
+      "content": "Prepare an inkscape automation for mass product certificate.",
+      "url": "/design/2021/11/07/inkscape-automation-01/",
+      "author": "epsi",
+      "category": "design"
+    },
+    {
+      "title": "Inkscape Extension - Part Three",
+      "content": "Duplicate layer using inkscape extension.",
+      "url": "/design/2021/11/05/inkscape-extension-03/",
+      "author": "epsi",
+      "category": "design"
+    },
+    {
+      "title": "Inkscape Extension - Part Two",
+      "content": "Query layer using inkscape extension.",
+      "url": "/design/2021/11/03/inkscape-extension-02/",
+      "author": "epsi",
+      "category": "design"
+    },
+    {
+      "title": "Inkscape Extension - Part One",
+      "content": "Introduction to inkscape extension.",
+      "url": "/design/2021/11/01/inkscape-extension-01/",
+      "author": "epsi",
+      "category": "design"
+    },
+    {
       "title": "Tabs - JS - Vue3 Composition",
       "content": "Porting to Vue3 using different pattern. Solving this.$children removal issue.",
       "url": "/frontend/2020/11/15/tabs-js-vue3-composition/",

@@ -1,0 +1,795 @@
+[
+  
+    {
+      "title": "LibreOffice - Diff",
+      "content": "Simple macro to diff two similar spreadsheets.",
+      "url": "/automation/2022/02/05/python-libreoffice-diff/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Python - Excel - Diff",
+      "content": "Simple spreadsheet diff tool using openpyxl.",
+      "url": "/automation/2022/02/03/python-excel-diff/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Matplotlib - Bar Chart - Part Two",
+      "content": "Plot a cumulative bar chart, for a good reason.",
+      "url": "/visual/2022/01/10/python-barchart-02/",
+      "author": "epsi",
+      "category": "visual"
+    },
+    {
+      "title": "Matplotlib - Bar Chart - Part One",
+      "content": "Prepare data structure for plot a bar chart.",
+      "url": "/visual/2022/01/08/python-barchart-01/",
+      "author": "epsi",
+      "category": "visual"
+    },
+    {
+      "title": "Python - Excel - Pivot - Part Four",
+      "content": "Build a custom multi column pivot table using openpyxl. Writing the xslx sheet.",
+      "url": "/automation/2021/11/26/python-excel-pivot-04/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Python - Excel - Pivot - Part Three",
+      "content": "Build a custom multi column pivot table using openpyxl. Refactoring to object oriented.",
+      "url": "/automation/2021/11/24/python-excel-pivot-03/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Python - Excel - Pivot - Part Two",
+      "content": "Build a custom multi column pivot table using openpyxl. Initialization and conditional optimization.",
+      "url": "/automation/2021/11/22/python-excel-pivot-02/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Python - Excel - Pivot - Part One",
+      "content": "Build a custom multi column pivot table using openpyxl. Begin from scratch.",
+      "url": "/automation/2021/11/20/python-excel-pivot-01/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Python - Excel - Coloring",
+      "content": "Simple conditional cell coloring using openpyxl.",
+      "url": "/automation/2021/11/16/python-excel-coloring/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Python - Excel - Extract Sheets",
+      "content": "Extract worksheet from one xlsx into multiple xlxs.",
+      "url": "/automation/2021/11/14/python-excel-extract-sheets/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Python - Excel - Merge Sheets",
+      "content": "Merge worksheet from multiple xlsx into one.",
+      "url": "/automation/2021/11/12/python-excel-merge-sheets/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Matplotlib - Pie Chart - Part Three",
+      "content": "Conclude the pie chart view.",
+      "url": "/visual/2021/11/06/python-piechart-03/",
+      "author": "epsi",
+      "category": "visual"
+    },
+    {
+      "title": "Matplotlib - Pie Chart - Part Two",
+      "content": "Plot a simple pie chart, for a good reason.",
+      "url": "/visual/2021/11/04/python-piechart-02/",
+      "author": "epsi",
+      "category": "visual"
+    },
+    {
+      "title": "Matplotlib - Pie Chart - Part One",
+      "content": "Prepare data structure for plot a pie chart.",
+      "url": "/visual/2021/11/02/python-piechart-01/",
+      "author": "epsi",
+      "category": "visual"
+    },
+    {
+      "title": "LibreOffice - Custom Pivot - Part Two",
+      "content": "Build a custom multi column pivot table using LibreOffice Macro. Write to worksheet.",
+      "url": "/automation/2021/10/16/python-libreoffice-macro-pivot-02/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "LibreOffice - Custom Pivot - Part One",
+      "content": "Build a custom multi column pivot table using LibreOffice Macro. Display data to console.",
+      "url": "/automation/2021/10/14/python-libreoffice-macro-pivot-01/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "LibreOffice - Macro - Coloring",
+      "content": "LibreOffice Macro using Python in Calc. Simple conditional cell coloring using Python Macro.",
+      "url": "/automation/2021/10/10/python-libreoffice-macro-coloring/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "LibreOffice - Macro - Merge",
+      "content": "LibreOffice Macro using Python in Calc. Merge worksheet from multiple ODS into one ODS.",
+      "url": "/automation/2021/10/06/python-libreoffice-macro-merge/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "LibreOffice - Macro - Split",
+      "content": "LibreOffice Macro using Python in Calc. Split worksheet from one ODS into multiple ODS.",
+      "url": "/automation/2021/10/04/python-libreoffice-macro-split/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "LibreOffice - Macro - APSO",
+      "content": "LibreOffice Calc Macro using Python with APSO.",
+      "url": "/automation/2021/10/02/python-libreoffice-macro-apso/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Racket - Playing with Records - Part Two",
+      "content": "A step by step practical case to collect unique record fields. Using Racket (formerly PLT Scheme).",
+      "url": "/lambda/2021/03/22/playing-with-records-racket-02/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Racket - Playing with Records - Part One",
+      "content": "A step by step practical case to collect unique record fields. Using Racket (formerly PLT Scheme).",
+      "url": "/lambda/2021/03/21/playing-with-records-racket-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Guile - Playing with Records - Part Three",
+      "content": "A simple case example of concurrency using Guile.",
+      "url": "/lambda/2021/03/17/playing-with-records-guile-03/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Guile - Playing with Records - Part Two",
+      "content": "A step by step practical case to collect unique record fields. Using Guile.",
+      "url": "/lambda/2021/03/16/playing-with-records-guile-02/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Guile - Playing with Records - Part One",
+      "content": "A step by step practical case to collect unique record fields. Using Guile.",
+      "url": "/lambda/2021/03/15/playing-with-records-guile-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "TCL - Playing with Records - Part Two",
+      "content": "A step by step practical case to collect unique record fields. Using TCL/TK.",
+      "url": "/lambda/2021/03/12/playing-with-records-tcl-02/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "TCL - Playing with Records - Part One",
+      "content": "A step by step practical case to collect unique record fields. Using TCL/TK.",
+      "url": "/lambda/2021/03/11/playing-with-records-tcl-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Raku - Playing with Records - Part Three",
+      "content": "A simple case example of concurrency using Raku.",
+      "url": "/lambda/2021/03/07/playing-with-records-raku-03/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Raku - Playing with Records - Part Two",
+      "content": "A step by step practical case to collect unique record fields. Using Raku.",
+      "url": "/lambda/2021/03/06/playing-with-records-raku-02/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Raku - Playing with Records - Part One",
+      "content": "A step by step practical case to collect unique record fields. Using Raku.",
+      "url": "/lambda/2021/03/05/playing-with-records-raku-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Perl - Playing with Records - Part Two",
+      "content": "A step by step practical case to collect unique record fields. Using Perl.",
+      "url": "/lambda/2021/03/02/playing-with-records-perl-02/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Perl - Playing with Records - Part One",
+      "content": "A step by step practical case to collect unique record fields. Using Perl.",
+      "url": "/lambda/2021/03/01/playing-with-records-perl-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Sed - Playing with Records",
+      "content": "A step by step practical case to collect unique record fields. Utilizing GNU Sed for string processing.",
+      "url": "/lambda/2021/02/25/playing-with-records-sed/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "AWK - Playing with Records",
+      "content": "A step by step practical case to collect unique record fields. Utilizing GNU Awk for string processing.",
+      "url": "/lambda/2021/02/21/playing-with-records-awk/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "BASH JQ - Playing with Records",
+      "content": "A step by step practical case to collect unique record fields. Utilizing JQ in BASH for string processing.",
+      "url": "/lambda/2021/02/15/playing-with-records-bash-jq/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Ion - Playing with Records - Part Two",
+      "content": "A step by step practical case to collect unique record fields. Exploring Ion Shell for string processing.",
+      "url": "/lambda/2021/02/12/playing-with-records-ion-02/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Ion - Playing with Records - Part One",
+      "content": "A step by step practical case to collect unique record fields. Exploring Ion Shell for string processing.",
+      "url": "/lambda/2021/02/11/playing-with-records-ion-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Fish - Playing with Records - Part Two",
+      "content": "A step by step practical case to collect unique record fields. Exploring Fish Shell for string processing.",
+      "url": "/lambda/2021/02/06/playing-with-records-fish-02/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Fish - Playing with Records - Part One",
+      "content": "A step by step practical case to collect unique record fields. Exploring Fish Shell for string processing.",
+      "url": "/lambda/2021/02/05/playing-with-records-fish-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Bash IFS - Playing with Records - Part Two",
+      "content": "A step by step practical case to collect unique record fields. Utilizing Bash IFS for string processing.",
+      "url": "/lambda/2021/02/02/playing-with-records-bash-02/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Bash IFS - Playing with Records - Part One",
+      "content": "A step by step practical case to collect unique record fields. Utilizing Bash IFS for string processing.",
+      "url": "/lambda/2021/02/01/playing-with-records-bash-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "PHP - Playing with Records - Part Three",
+      "content": "A step by step practical case to collect unique record fields. Learning PHP without HTML burden.",
+      "url": "/lambda/2021/01/27/playing-with-records-php-03/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "PHP - Playing with Records - Part Two",
+      "content": "A step by step practical case to collect unique record fields. Learning PHP without HTML burden.",
+      "url": "/lambda/2021/01/26/playing-with-records-php-02/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "PHP - Playing with Records - Part One",
+      "content": "A step by step practical case to collect unique record fields. Learning PHP without HTML burden.",
+      "url": "/lambda/2021/01/25/playing-with-records-php-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Ruby - Playing with Records - Part Three",
+      "content": "A step by step practical case to collect unique record fields. Using Ruby.",
+      "url": "/lambda/2021/01/17/playing-with-records-ruby-03/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Ruby - Playing with Records - Part Two",
+      "content": "A step by step practical case to collect unique record fields. Using Ruby.",
+      "url": "/lambda/2021/01/16/playing-with-records-ruby-02/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Ruby - Playing with Records - Part One",
+      "content": "A step by step practical case to collect unique record fields. Using Ruby.",
+      "url": "/lambda/2021/01/15/playing-with-records-ruby-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Python - Playing with Records - Part Three",
+      "content": "A simple case example of concurrency using Python.",
+      "url": "/lambda/2021/01/07/playing-with-records-python-03/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Python - Playing with Records - Part Two",
+      "content": "A step by step practical case to collect unique record fields. Using Python.",
+      "url": "/lambda/2021/01/06/playing-with-records-python-02/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Python - Playing with Records - Part One",
+      "content": "A step by step practical case to collect unique record fields. Using Python.",
+      "url": "/lambda/2021/01/05/playing-with-records-python-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "C# - Playing with Records - Part Three",
+      "content": "A simple case example of concurrency using C#.",
+      "url": "/lambda/2020/12/27/playing-with-records-csharp-03/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Rust - Playing with Records - N-API",
+      "content": "Create a native NodeJS addon using Rust.",
+      "url": "/lambda/2020/12/25/playing-with-records-rust-node/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Go - Playing with Records - Part Three",
+      "content": "A step by step practical case to collect unique record fields. Using Go.",
+      "url": "/lambda/2020/12/24/playing-with-records-go-03/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Clojure - Playing with Records - Part Three",
+      "content": "A simple case example of concurrency using Clojure.",
+      "url": "/lambda/2020/12/12/playing-with-records-clojure-03/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "F# - Playing with Records - Part Three",
+      "content": "A simple case example of concurrency using F#.",
+      "url": "/lambda/2020/12/08/playing-with-records-fsharp-03/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Ecmascript - Concurrency with Event Emitter",
+      "content": "A simple case example of concurrency with event emitter in nodejs.",
+      "url": "/lambda/2020/12/02/playing-with-records-ecmascript-03/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "C# - Playing with Records - Part Two",
+      "content": "A step by step practical case to collect unique record fields. Using C#.",
+      "url": "/lambda/2020/11/27/playing-with-records-csharp-02/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "C# - Playing with Records - Part One",
+      "content": "A step by step practical case to collect unique record fields. Using C#.",
+      "url": "/lambda/2020/11/27/playing-with-records-csharp-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Rust - Playing with Records - Part Two",
+      "content": "A step by step practical case to collect unique record fields. Using Rust.",
+      "url": "/lambda/2020/11/25/playing-with-records-rust-02/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Rust - Playing with Records - Part One",
+      "content": "A step by step practical case to collect unique record fields. Using Rust.",
+      "url": "/lambda/2020/11/25/playing-with-records-rust-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Go - Playing with Records - Part Two",
+      "content": "A step by step practical case to collect unique record fields. Using Go.",
+      "url": "/lambda/2020/11/24/playing-with-records-go-02/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Go - Playing with Records - Part One",
+      "content": "A step by step practical case to collect unique record fields. Using Go.",
+      "url": "/lambda/2020/11/24/playing-with-records-go-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Crystal - Playing with Records",
+      "content": "A step by step practical case to collect unique record fields. Using Crystal.",
+      "url": "/lambda/2020/11/22/playing-with-records-crystal/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Nim - Playing with Records",
+      "content": "A step by step practical case to collect unique record fields. Using Nim.",
+      "url": "/lambda/2020/11/21/playing-with-records-nim/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "GNU R - Playing with Records",
+      "content": "A step by step practical case to collect unique record fields. Using GNU R.",
+      "url": "/lambda/2020/11/19/playing-with-records-gnu-r/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Julia - Playing with Records - Part Two",
+      "content": "A step by step practical case to collect unique record fields. Using Julia.",
+      "url": "/lambda/2020/11/18/playing-with-records-julia-02/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Julia - Playing with Records - Part One",
+      "content": "A step by step practical case to collect unique record fields. Using Julia.",
+      "url": "/lambda/2020/11/18/playing-with-records-julia-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Lua - Playing with Records - Part Two",
+      "content": "A step by step practical case to collect unique record fields. Using Lua.",
+      "url": "/lambda/2020/11/16/playing-with-records-lua-02/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Lua - Playing with Records - Part One",
+      "content": "A step by step practical case to collect unique record fields. Using Lua.",
+      "url": "/lambda/2020/11/16/playing-with-records-lua-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Scala - Playing with Records - Part Two",
+      "content": "A step by step practical case to collect unique record fields. Using Scala.",
+      "url": "/lambda/2020/11/13/playing-with-records-scala-02/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Scala - Playing with Records - Part One",
+      "content": "A step by step practical case to collect unique record fields. Using Scala.",
+      "url": "/lambda/2020/11/13/playing-with-records-scala-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Clojure - Playing with Records - Part Two",
+      "content": "A step by step practical case to collect unique record fields. Using Clojure.",
+      "url": "/lambda/2020/11/12/playing-with-records-clojure-02/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Clojure - Playing with Records - Part One",
+      "content": "A step by step practical case to collect unique record fields. Using Clojure.",
+      "url": "/lambda/2020/11/12/playing-with-records-clojure-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Elixir - Playing with Records",
+      "content": "A step by step practical case to collect unique record fields. Using Elixir.",
+      "url": "/lambda/2020/11/11/playing-with-records-elixir/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Erlang - Playing with Records",
+      "content": "A step by step practical case to collect unique record fields. Using Erlang.",
+      "url": "/lambda/2020/11/10/playing-with-records-erlang/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "F# - Playing with Records - Part Two",
+      "content": "A step by step practical case to collect unique record fields. Using F#.",
+      "url": "/lambda/2020/11/08/playing-with-records-fsharp-02/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "F# - Playing with Records - Part One",
+      "content": "A step by step practical case to collect unique record fields. Using F#.",
+      "url": "/lambda/2020/11/08/playing-with-records-fsharp-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "OCaml - Playing with Records - Part Two",
+      "content": "A simple case example of concurrency using OCaml.",
+      "url": "/lambda/2020/11/07/playing-with-records-ocaml-02/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "OCaml - Playing with Records - Part One",
+      "content": "A step by step practical case to collect unique record fields. Using OCaml.",
+      "url": "/lambda/2020/11/07/playing-with-records-ocaml-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "ReasonML - Playing with Records",
+      "content": "A step by step practical case to collect unique record fields. Using ReasonML.",
+      "url": "/lambda/2020/11/06/playing-with-records-reasonml/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Purescript - Playing with Records",
+      "content": "A step by step practical case to collect unique record fields. Using Purescript from Haskell mockup.",
+      "url": "/lambda/2020/11/05/playing-with-records-purescript/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Haskell - Playing with Records - Part Two",
+      "content": "A step by step practical case to collect unique record fields. Using Haskell as a mockup for Purescript.",
+      "url": "/lambda/2020/11/04/playing-with-records-haskell-02/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Haskell - Playing with Records - Part One",
+      "content": "A step by step practical case to collect unique record fields. Using Haskell as a mockup for Purescript.",
+      "url": "/lambda/2020/11/04/playing-with-records-haskell-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Typescript - Small Step into Typed - Part Two",
+      "content": "A small step into typescript using custom song script example.",
+      "url": "/lambda/2020/11/03/playing-with-records-typescript-02/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Typescript - Small Step into Typed - Part One",
+      "content": "A small step into typescript using custom song script example.",
+      "url": "/lambda/2020/11/03/playing-with-records-typescript-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Ecmascript - Towards Functional - Part Two",
+      "content": "Exploring capability towards functional programming in Javascript.",
+      "url": "/lambda/2020/11/02/playing-with-records-ecmascript-02/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Ecmascript - Towards Functional - Part One",
+      "content": "Exploring capability towards functional programming in Javascript.",
+      "url": "/lambda/2020/11/02/playing-with-records-ecmascript-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Overview - Playing with Records",
+      "content": "A brief explanation about learning functional, with a ready to use example records.",
+      "url": "/lambda/2020/11/01/playing-with-records-overview/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Statistic - Dotplot",
+      "content": "Plot a Chart, Based on Population.",
+      "url": "/math/2020/02/02/statistic-dotplot/",
+      "author": "epsi",
+      "category": "math"
+    },
+    {
+      "title": "Python - Matplotlib",
+      "content": "Plot a Chart based on Math Equation.",
+      "url": "/math/2020/01/12/python-matplotlib-equation/",
+      "author": "epsi",
+      "category": "math"
+    },
+    {
+      "title": "LaTeX - Math Formula",
+      "content": "Write a Math Formula with LaTex.",
+      "url": "/math/2020/01/10/latex-math-formula/",
+      "author": "epsi",
+      "category": "math"
+    },
+    {
+      "title": "Haskell - Tax Tariff - Part Four",
+      "content": "Progressive Tax Rate Formula in Haskell. Back to original calculation, while maintaining the challenge.",
+      "url": "/lambda/2019/09/04/progressive-tax-tariff-04/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Haskell - Tax Tariff - Part Three",
+      "content": "Progressive Tax Rate Formula in Haskell. The alternative calculation, with the help from list, maximum, and dark art. The result is compact code, but not very intuitive.",
+      "url": "/lambda/2019/09/03/progressive-tax-tariff-03/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Haskell - Tax Tariff - Part Two",
+      "content": "Progressive Tax Rate Formula in Haskell. The alternative calculation, derived using math, boiled in a pan, with ugly code as result.",
+      "url": "/lambda/2019/09/02/progressive-tax-tariff-02/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Haskell - Tax Tariff - Part One",
+      "content": "Progressive Tax Rate Formula in Haskell. My first attempt, the intuitive code, with the help from guard, recursive and friendly spirit.",
+      "url": "/lambda/2019/09/01/progressive-tax-tariff-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Telegram Bot - Manual Page",
+      "content": "How to be a Bashful Bot in Telegram. Using loop with BASH script. No webhook in BASH series.",
+      "url": "/code/2018/01/29/telegram-bot-loop-manual/",
+      "author": "epsi",
+      "category": "code"
+    },
+    {
+      "title": "Telegram Bot - Makefile",
+      "content": "How to be a Bashful Bot in Telegram. Using loop with BASH script. No webhook in BASH series.",
+      "url": "/code/2018/01/28/telegram-bot-loop-makefile/",
+      "author": "epsi",
+      "category": "code"
+    },
+    {
+      "title": "Telegram Bot - BASH Group Tools",
+      "content": "How to be a Bashful Bot in Telegram. Using loop with BASH script. No webhook in BASH series.",
+      "url": "/code/2018/01/26/telegram-bot-loop-bash-04/",
+      "author": "epsi",
+      "category": "code"
+    },
+    {
+      "title": "Telegram Bot - BASH Option Argument",
+      "content": "How to be a Bashful Bot in Telegram. Using loop with BASH script. No webhook in BASH series.",
+      "url": "/code/2018/01/24/telegram-bot-loop-bash-03/",
+      "author": "epsi",
+      "category": "code"
+    },
+    {
+      "title": "Telegram Bot - BASH Script",
+      "content": "How to be a Bashful Bot in Telegram. Using loop with BASH script. No webhook in BASH series.",
+      "url": "/code/2018/01/23/telegram-bot-loop-bash-02/",
+      "author": "epsi",
+      "category": "code"
+    },
+    {
+      "title": "Telegram Bot - BASH CLI",
+      "content": "How to be a Bashful Bot in Telegram. Using loop with BASH command. No webhook in BASH series.",
+      "url": "/code/2018/01/22/telegram-bot-loop-bash-01/",
+      "author": "epsi",
+      "category": "code"
+    },
+    {
+      "title": "Telegram Bot - Getting Token",
+      "content": "Getting Telegram Token from @botfather.",
+      "url": "/code/2018/01/21/telegram-bot-token/",
+      "author": "epsi",
+      "category": "code"
+    },
+    {
+      "title": "Telegram Bot - Overview",
+      "content": "Telegram Bot Summary",
+      "url": "/code/2018/01/20/telegram-bot-overview/",
+      "author": "epsi",
+      "category": "code"
+    },
+    {
+      "title": "Examining Bind in Haskell: Do Notation",
+      "content": "Monadic Operator. Walking the Monad code by code. Yet another Monad Tutorial.",
+      "url": "/lambda/2017/05/24/examining-bind-04/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Examining Bind in Haskell: Example using Number",
+      "content": "Bind \u003e\u003e= operator and friends. More example if you wish.",
+      "url": "/lambda/2017/05/23/examining-bind-03/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Examining Bind in Haskell: Hello World",
+      "content": "Uncover the mysterious bind \u003e\u003e= operator in Haskell without dark magic.",
+      "url": "/lambda/2017/05/22/examining-bind-02/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Explaining Monad: References",
+      "content": "Some Book of Witch written by Wizards.",
+      "url": "/lambda/2017/05/21/explaining-monad-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Explaining Monad: Overview",
+      "content": "Breaking the curse, of the unexplainable Monad.",
+      "url": "/lambda/2017/05/20/explaining-monad-00/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Loop in Haskell With Map, Part Three",
+      "content": "There is no loop in Haskell. Haskell designed that way. This is an example for beginner on how to compose function beyond loop iteration.",
+      "url": "/lambda/2017/05/15/haskell-loop-with-map-03/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Loop in Haskell With Map, Part Two",
+      "content": "There is no loop in Haskell. Haskell designed that way. This is an example for beginner on how to iterate over hash (dictionary).",
+      "url": "/lambda/2017/05/14/haskell-loop-with-map-02/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Loop in Haskell With Map, Part One",
+      "content": "There is no loop in Haskell. Haskell designed that way. This is an example for beginner on how to iterate over array (list).",
+      "url": "/lambda/2017/05/13/haskell-loop-with-map-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Loop in Haskell With Map, Overview",
+      "content": "Overview of doing loop in Haskell.",
+      "url": "/lambda/2017/05/12/haskell-loop-with-map-00/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "How Haskell Syntax can Make Your Code Cleaner",
+      "content": "Haskell syntatic sugar is somehow weird. But once you get the idea, you are going to love it. Dollar $ infix operator can be your favorite one.",
+      "url": "/lambda/2016/05/14/haskell-dollar-syntax/",
+      "author": "epsi",
+      "category": "lambda"
+    }
+]
+
