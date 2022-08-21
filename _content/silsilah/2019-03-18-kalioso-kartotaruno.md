@@ -1,7 +1,7 @@
 ---
 layout    : post
 title     : Kalioso - Kartotaruno
-date      : 2019-08-18 09:17:35
+date      : 2019-03-18 09:17:35
 slug      : kalioso-kartotaruno
 tags      : [silsilah]
 keywords  : [kaliyoso, kartotaruno]
@@ -29,7 +29,7 @@ excerpt   : "Digitalisasi Silsilah Leluhur Kalioso: Kartotaruno."
 * 13 B3: [H. Moch Qorib (Murtodjo)](#13B03)
 * 14 B4: [Surodrono](#14B04)
 * 15 B5: [Zakarija I](#15B05)
-* 16 B6: [Mustahal I ](#16B06)
+* 16 B6: [Mustahal I](#16B06)
 * 17 B7: [Abdul Rahman](#17B07)
 
 * [Penutup](#penutup)
