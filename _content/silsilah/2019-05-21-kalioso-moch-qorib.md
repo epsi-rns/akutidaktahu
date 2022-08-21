@@ -684,7 +684,7 @@ TB (103.D3)
 
 <a name="32C08"></a>
 
-## Iman Radji
+## 32 C8: Iman Radji
 
 ![Diagram Silsilah: Iman Radji][32C08]
 
@@ -724,7 +724,7 @@ TB (103.D3)
 
 <a name="33C09"></a>
 
-## 33 C9: [Mohamad (Moh)]
+## 33 C9: Mohamad (Moh)
 
 ![Diagram Silsilah: Mohamad (Moh)][33C09]
 
