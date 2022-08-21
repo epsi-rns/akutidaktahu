@@ -118,6 +118,10 @@ Diagram belum dibikin.
 Dalam buku sejarah, adalah orang yang paling dicari Belanda,
 dan tidak pernah tertangkap.
 
+Untuk sementara memakai diagram ini terlebih dahulu
+
+![Diagram Silsilah: Kliwon Wiroprodjo][27C03]
+
 -- -- --
 
 <a name="penutup"></a>
@@ -136,3 +140,4 @@ Silahkan melanjutkan ke berkas silsilah berikutnya.
 [garis-ibu]:        {% postimage %}/silsilah/sayidina/gitosaputro-text-colour.png
 [garis-bapak]:      {% postimage %}/silsilah/sayidina/prawirosuhardjo-text-colour.png
 
+[27C03]:    {% postimage %}/silsilah/moch-qorib/27-C3-kliwon-wiroprodjo.png
