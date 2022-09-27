@@ -1,0 +1,16 @@
+{% extends "layouts/widget.njk" %}
+
+{% set color = 'grey' %}
+
+{% block widget_header %}
+  <strong>Upcoming Event</strong>
+  <span class="fas fa-user-group is-pulled-right"></span>
+{% endblock %}
+
+{% block widget_body %}
+  <div class="center-align">
+    <a href="https://ilc.opensuse.id/">
+      <img src="{{ "/assets/images/event/ilc-poster.png" | url }}"
+           alt="Indonesia Linux Conference"></a>
+  </div>
+{% endblock %}
