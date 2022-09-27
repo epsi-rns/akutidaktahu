@@ -1,278 +1,424 @@
-{
+[
   
-    "20102617": {
+    {
+      "title": "Penggabungan Group - HTML CSS ID",
+      "excerpt": "",
+      "url":   "/komunitas/2020/11/15/html-css-id.html",
+      "date": "20111517"
+    },
+  
+    {
       "title": "Perkembangan Init",
-      "url":   "/catatan/2020/10/26/init.html"
+      "excerpt": "",
+      "url":   "/catatan/2020/10/26/init.html",
+      "date": "20102617"
     },
   
-    "20092917": {
+    {
       "title": "Animasi Sozi - Bagian Tiga",
-      "url":   "/inkscape/2020/09/29/sozi-animasi-03.html"
+      "excerpt": "Membikin animasi yang mempesona dengan Sozi, sebagai awalan tampilan video presentasi.",
+      "url":   "/inkscape/2020/09/29/sozi-animasi-03.html",
+      "date": "20092917"
     },
   
-    "20092817": {
+    {
       "title": "Animasi Sozi - Bagian Dua",
-      "url":   "/inkscape/2020/09/28/sozi-animasi-02.html"
+      "excerpt": "Membikin animasi yang mempesona dengan Sozi, sebagai awalan tampilan video presentasi.",
+      "url":   "/inkscape/2020/09/28/sozi-animasi-02.html",
+      "date": "20092817"
     },
   
-    "20092717": {
+    {
       "title": "Animasi Sozi - Bagian Satu",
-      "url":   "/inkscape/2020/09/27/sozi-animasi-01.html"
+      "excerpt": "Membikin animasi yang mempesona dengan Sozi, sebagai awalan tampilan video presentasi.",
+      "url":   "/inkscape/2020/09/27/sozi-animasi-01.html",
+      "date": "20092717"
     },
   
-    "20092617": {
+    {
       "title": "Inkscape - Impress Slides - Bagian Enam",
-      "url":   "/inkscape/2020/09/26/inkscape-impress-slides-06.html"
+      "excerpt": "Menambahkan karya asli, ke slide di Impress menggunakan Inkscape.",
+      "url":   "/inkscape/2020/09/26/inkscape-impress-slides-06.html",
+      "date": "20092617"
     },
   
-    "20092517": {
+    {
       "title": "Inkscape - Impress Slides - Bagian Lima",
-      "url":   "/inkscape/2020/09/25/inkscape-impress-slides-05.html"
+      "excerpt": "Membikin ilustrasi diagram sendiri dengan menggunakan Inkscape.",
+      "url":   "/inkscape/2020/09/25/inkscape-impress-slides-05.html",
+      "date": "20092517"
     },
   
-    "20092417": {
+    {
       "title": "Inkscape - Impress Slides - Bagian Empat",
-      "url":   "/inkscape/2020/09/24/inkscape-impress-slides-04.html"
+      "excerpt": "Menambahkan ilustrasi diagram, sebagai kandungan salindia di Impress menggunakan Inkscape.",
+      "url":   "/inkscape/2020/09/24/inkscape-impress-slides-04.html",
+      "date": "20092417"
     },
   
-    "20092317": {
+    {
       "title": "Inkscape - Impress Slides - Bagian Tiga",
-      "url":   "/inkscape/2020/09/23/inkscape-impress-slides-03.html"
+      "excerpt": "Menambahkan dekorasi, untuk butir-butir pokok pikiran.",
+      "url":   "/inkscape/2020/09/23/inkscape-impress-slides-03.html",
+      "date": "20092317"
     },
   
-    "20092217": {
+    {
       "title": "Inkscape - Impress Slides - Bagian Dua",
-      "url":   "/inkscape/2020/09/22/inkscape-impress-slides-02.html"
+      "excerpt": "Membikin salindia utama untuk presentasi sungguhan untuk LibreOffice impress dengan menggunakan inkscape",
+      "url":   "/inkscape/2020/09/22/inkscape-impress-slides-02.html",
+      "date": "20092217"
     },
   
-    "20092117": {
+    {
       "title": "Inkscape - Impress Slides - Bagian Satu",
-      "url":   "/inkscape/2020/09/21/inkscape-impress-slides-01.html"
+      "excerpt": "Membikin salindia utama sederhana untuk LibreOffice impress dengan menggunakan inkscape",
+      "url":   "/inkscape/2020/09/21/inkscape-impress-slides-01.html",
+      "date": "20092117"
     },
   
-    "20082417": {
+    {
       "title": "Inkscape - Peta Lingkungan",
-      "url":   "/inkscape/2020/08/24/peta-lingkungan.html"
+      "excerpt": "Inkscape bukan saja dipakai untuk membuat sesuatu karya seni yang cantique, namun juga dipakai untuk kegiatan sehari-hari. Salah satunya adalah untuk membuat peta lingkungan.",
+      "url":   "/inkscape/2020/08/24/peta-lingkungan.html",
+      "date": "20082417"
     },
   
-    "20081617": {
+    {
       "title": "Inkscape - Kartu Ucapan HUT RI",
-      "url":   "/inkscape/2020/08/16/poster-17an.html"
+      "excerpt": "Sesekali saya ingin memakai karya, yang saya bikin untuk orang lain tersebut, untuk diri saya sendiri.",
+      "url":   "/inkscape/2020/08/16/poster-17an.html",
+      "date": "20081617"
     },
   
-    "20031117": {
+    {
       "title": "Pesan Tersemat - Panduan Berkomunikasi",
-      "url":   "/komunitas/2020/03/11/panduan-berkomunikasi.html"
+      "excerpt": "",
+      "url":   "/komunitas/2020/03/11/panduan-berkomunikasi.html",
+      "date": "20031117"
     },
   
-    "20030517": {
+    {
       "title": "Pesan Tersemat - Bootstrap ID",
-      "url":   "/komunitas/2020/03/05/bootstrap-id.html"
+      "excerpt": "",
+      "url":   "/komunitas/2020/03/05/bootstrap-id.html",
+      "date": "20030517"
     },
   
-    "20030417": {
+    {
       "title": "Pesan Tersemat - HTML ID",
-      "url":   "/komunitas/2020/03/04/html-id.html"
+      "excerpt": "",
+      "url":   "/komunitas/2020/03/04/html-id.html",
+      "date": "20030417"
     },
   
-    "20030317": {
+    {
       "title": "Pesan Tersemat - Pecinta CSS ID",
-      "url":   "/komunitas/2020/03/03/css-id.html"
+      "excerpt": "",
+      "url":   "/komunitas/2020/03/03/css-id.html",
+      "date": "20030317"
     },
   
-    "20030217": {
+    {
       "title": "Pesan Tersemat - JAM Stack ID",
-      "url":   "/komunitas/2020/03/02/jamstack-id.html"
+      "excerpt": "",
+      "url":   "/komunitas/2020/03/02/jamstack-id.html",
+      "date": "20030217"
     },
   
-    "20030117": {
+    {
       "title": "Pesan Tersemat - Dotfiles ID",
-      "url":   "/komunitas/2020/03/01/dotfiles-id.html"
+      "excerpt": "",
+      "url":   "/komunitas/2020/03/01/dotfiles-id.html",
+      "date": "20030117"
     },
   
-    "20020617": {
+    {
       "title": "Dari Ricing ke Matematika",
-      "url":   "/catatan/2020/02/06/dari-ricing-ke-matematika.html"
+      "excerpt": "",
+      "url":   "/catatan/2020/02/06/dari-ricing-ke-matematika.html",
+      "date": "20020617"
     },
   
-    "20020217": {
+    {
       "title": "Statistik - Dotplot",
-      "url":   "/matematika/2020/02/02/statistik-dotplot.html"
+      "excerpt": "Menggambar Bagan Statistik, Berdasarkan Populasi Data.",
+      "url":   "/matematika/2020/02/02/statistik-dotplot.html",
+      "date": "20020217"
     },
   
-    "20011217": {
+    {
       "title": "Python - Matplotlib",
-      "url":   "/matematika/2020/01/12/python-matplotlib.html"
+      "excerpt": "Menggambar Bagan Grafik Berdasar Persamaan Matematika",
+      "url":   "/matematika/2020/01/12/python-matplotlib.html",
+      "date": "20011217"
     },
   
-    "20011017": {
+    {
       "title": "LaTeX - Menulis Rumus",
-      "url":   "/matematika/2020/01/10/latex-rumus.html"
+      "excerpt": "Menulis Rumus Matematika dengan LaTeX.",
+      "url":   "/matematika/2020/01/10/latex-rumus.html",
+      "date": "20011017"
     },
   
-    "19091017": {
+    {
       "title": "Spreadsheet - Formula Tarif Progresif",
-      "url":   "/pajak/2019/09/10/formula-tarif-progresif.html"
+      "excerpt": "Menurunkan rumus matematika, untuk mendapatkan formula yang sederhana, yaitu untuk menghitung tarif progresif, yang ada di pasal 17.",
+      "url":   "/pajak/2019/09/10/formula-tarif-progresif.html",
+      "date": "19091017"
     },
   
-    "19090417": {
+    {
       "title": "OP - Kategori Wajib Pajak",
-      "url":   "/pajak/2019/09/04/op-kategori-wp.html"
+      "excerpt": "Slide kategori SPT WP OP. Surat Pemberitahuan Wajib Pajak Orang Pribadi.",
+      "url":   "/pajak/2019/09/04/op-kategori-wp.html",
+      "date": "19090417"
     },
   
-    "19090317": {
+    {
       "title": "OP - Surat Pemberitahuan",
-      "url":   "/pajak/2019/09/03/op-surat-pemberitahuan.html"
+      "excerpt": "Slide kategori SPT WP OP. Surat Pemberitahuan Wajib Pajak Orang Pribadi.",
+      "url":   "/pajak/2019/09/03/op-surat-pemberitahuan.html",
+      "date": "19090317"
     },
   
-    "19090217": {
+    {
       "title": "OP - Tarif PPh",
-      "url":   "/pajak/2019/09/02/op-tarif-pph.html"
+      "excerpt": "Slide tarif pajak penghasilan.",
+      "url":   "/pajak/2019/09/02/op-tarif-pph.html",
+      "date": "19090217"
     },
   
-    "19090117": {
+    {
       "title": "OP - Kategori PPh",
-      "url":   "/pajak/2019/09/01/op-kategori-pph.html"
+      "excerpt": "Slide kategori pajak penghasilan.",
+      "url":   "/pajak/2019/09/01/op-kategori-pph.html",
+      "date": "19090117"
     },
   
-    "19081617": {
+    {
       "title": "KUP - Contoh Perhitungan",
-      "url":   "/pajak/2019/08/16/kup-contoh-perhitungan.html"
+      "excerpt": "Mempelajari perpajakan secara rinci, dapat dimulai dari latihan soal.",
+      "url":   "/pajak/2019/08/16/kup-contoh-perhitungan.html",
+      "date": "19081617"
     },
   
-    "19081217": {
+    {
       "title": "KUP - Fase Perpajakan",
-      "url":   "/pajak/2019/08/12/kup-fase-perpajakan.html"
+      "excerpt": "Mempelajari perpajakan dapat dimulai dari fase perpajakan yang berdasar pada Undang Undang KUP.",
+      "url":   "/pajak/2019/08/12/kup-fase-perpajakan.html",
+      "date": "19081217"
     },
   
-    "18111817": {
+    {
+      "title": "Kalioso - Moch Qorib",
+      "excerpt": "Digitalisasi Silsilah Leluhur Kalioso: Moch Qorib.",
+      "url":   "/silsilah/2019/05/21/kalioso-moch-qorib.html",
+      "date": "19052117"
+    },
+  
+    {
+      "title": "Kalioso - Kartotaruno",
+      "excerpt": "Digitalisasi Silsilah Leluhur Kalioso: Kartotaruno.",
+      "url":   "/silsilah/2019/03/18/kalioso-kartotaruno.html",
+      "date": "19031817"
+    },
+  
+    {
       "title": "Inkscape - Gambar Latar Desain Material",
-      "url":   "/inkscape/2018/11/18/gambar-latar-desain-material.html"
+      "excerpt": "Pembaca boleh menggunakan wallpaper ini, mengubah bentuk ataupun warna, dan juga menambahkan tulisan. Bebas-bebas saja, dan ini juga gratis.",
+      "url":   "/inkscape/2018/11/18/gambar-latar-desain-material.html",
+      "date": "18111817"
     },
   
-    "17121017": {
+    {
+      "title": "Silsilah - Retnosari Tondonegoro",
+      "excerpt": "Digitalisasi Silsilah: Retnosari Tondonegoro.",
+      "url":   "/silsilah/2018/08/27/retnosari-tondonegoro.html",
+      "date": "18082717"
+    },
+  
+    {
       "title": "Kalioso - Nitimenggolo",
-      "url":   "/silsilah/2017/12/10/kalioso-nitimenggolo.html"
+      "excerpt": "Digitalisasi Silsilah Leluhur Kalioso: Nitimenggolo.",
+      "url":   "/silsilah/2017/12/10/kalioso-nitimenggolo.html",
+      "date": "17121017"
     },
   
-    "17112517": {
+    {
       "title": "Inkscape - Eksperimen Woro-Woro",
-      "url":   "/inkscape/2017/11/25/eksperimen-woro-woro.html"
+      "excerpt": "Secara kreatif membikin woro-woro untuk whatsapp.",
+      "url":   "/inkscape/2017/11/25/eksperimen-woro-woro.html",
+      "date": "17112517"
     },
   
-    "17112117": {
+    {
       "title": "Inkscape - Selamat Dekan Terpilih",
-      "url":   "/inkscape/2017/11/21/selamat-dekan-terpilih.html"
+      "excerpt": "Tidak ada rancangan khusus di dalam artikel ini. Kebetulan saja saya pernah membikin ucapan selamat ini, dan ingin berbagi, barangkali ada yang membutuhkan.",
+      "url":   "/inkscape/2017/11/21/selamat-dekan-terpilih.html",
+      "date": "17112117"
     },
   
-    "17111517": {
+    {
       "title": "Inkscape - Animasi Cincin",
-      "url":   "/inkscape/2017/11/15/animasi-cincin.html"
+      "excerpt": "Gagasan membuat animasi cincin ini saya mulai, setelah mempraktekkan bahan ajar dari Pakde Nick Saporito. Kemudian saya olah lagi dengan menggunakan ffmpeg.",
+      "url":   "/inkscape/2017/11/15/animasi-cincin.html",
+      "date": "17111517"
     },
   
-    "17102217": {
+    {
       "title": "Silsilah - Sayidina",
-      "url":   "/silsilah/2017/10/22/sayidina.html"
+      "excerpt": "Penyusunan diagram silsilah ini adalah bakti penulis, sebagai anak kepada orang tua yang telah wafat.",
+      "url":   "/silsilah/2017/10/22/sayidina.html",
+      "date": "17102217"
     },
   
-    "17100317": {
+    {
       "title": "Inkscape - Kartu Nama",
-      "url":   "/inkscape/2017/10/03/kartu-nama.html"
+      "excerpt": "Salah satu perlengkapan kegiatan adalah kartu nama. Demikian pula, kalau punya usaha kecil-kecil-an, tidak perlu terlalu repot membuat desain kartu nama, karena sudah dibikinkan di sini.",
+      "url":   "/inkscape/2017/10/03/kartu-nama.html",
+      "date": "17100317"
     },
   
-    "17021717": {
+    {
       "title": "Silsilah - Catatan Keluarga",
-      "url":   "/silsilah/2017/02/17/catatan-keluarga.html"
+      "excerpt": "Edisi cetak dari catatan silsilah ini tersedia dalam format PDF.",
+      "url":   "/silsilah/2017/02/17/catatan-keluarga.html",
+      "date": "17021717"
     },
   
-    "17012317": {
+    {
       "title": "Silsilah - Gitodipuro Rewrite",
-      "url":   "/silsilah/2017/01/23/gitodipuro-rewrite.html"
+      "excerpt": "Berkas ini ditulis ulang dari Buku, dengan text sesuai aslinya.",
+      "url":   "/silsilah/2017/01/23/gitodipuro-rewrite.html",
+      "date": "17012317"
     },
   
-    "16111517": {
+    {
+      "title": "PPh 21 - Perhitungan Ulang di eSPT",
+      "excerpt": "Perhitungan ulang PPh pasal 21 di bulan Desember.",
+      "url":   "/pajak/2017/01/07/pph21-desember.html",
+      "date": "17010717"
+    },
+  
+    {
       "title": "Inkscape - Logo Mesin Whatsapp",
-      "url":   "/inkscape/2016/11/15/logo-mesin-whatsapp.html"
+      "excerpt": "Iseng membikin profile picture untuk tiap angkatan di kampus.",
+      "url":   "/inkscape/2016/11/15/logo-mesin-whatsapp.html",
+      "date": "16111517"
     },
   
-    "16110117": {
+    {
       "title": "Inkscape - Fitur Teks",
-      "url":   "/inkscape/2016/11/01/fitur-teks.html"
+      "excerpt": "Fitur teks di inkscape dengan template keren sebagai contoh, yang dapat diunduh secara gratis.",
+      "url":   "/inkscape/2016/11/01/fitur-teks.html",
+      "date": "16110117"
     },
   
-    "16100317": {
+    {
       "title": "Inkscape - Gambar Latar Isometrik Datar",
-      "url":   "/inkscape/2016/10/03/gambar-latar-isometrik-datar.html"
+      "excerpt": "Hayuuuk... Mari membuat gambar latar dengan Inkscape. Ini sebetulnya adalah flat style dua dimensi, yang dibikin dengan bantuan grid isometri tiga dimensi.",
+      "url":   "/inkscape/2016/10/03/gambar-latar-isometrik-datar.html",
+      "date": "16100317"
     },
   
-    "16070717": {
+    {
       "title": "Inkscape - Proses Munas",
-      "url":   "/inkscape/2016/07/07/proses-munas.html"
+      "excerpt": "Berikut penulis paparkan suatu contoh desain dengan proses iterasinya. Karena penulis sudah tidak terlalu terlibat dalam kegiatan tersebut, maka usaha yang penulis lakukan juga tidak maksimal. Namun dapat menjadi gambaran, ketika membuat sesuatu, membutuhkan dua atau tiga rancangan, sebelum beranjak ke rincian.",
+      "url":   "/inkscape/2016/07/07/proses-munas.html",
+      "date": "16070717"
     },
   
-    "16022117": {
+    {
       "title": "Inkscape - Gerakan Anti Korupsi",
-      "url":   "/inkscape/2016/02/21/gerakan-anti-korupsi.html"
+      "excerpt": "Koleksi karya seni SVG untuk inkscape, dalam rangka Gerakan Anti Korupsi.",
+      "url":   "/inkscape/2016/02/21/gerakan-anti-korupsi.html",
+      "date": "16022117"
     },
   
-    "15111117": {
+    {
       "title": "Inkscape - Infografis Isometrik",
-      "url":   "/inkscape/2015/11/11/infografis-isometrik.html"
+      "excerpt": "Koleksi SVG isometri 3D untuk inkscape, yang bebas diunduh, dimodifikasi ataupun dipakai siapa saja secara gratis. Dijelaskan langkah demi langkah.",
+      "url":   "/inkscape/2015/11/11/infografis-isometrik.html",
+      "date": "15111117"
     },
   
-    "15102017": {
+    {
       "title": "Inkscape - Poster Diskusi Lagi",
-      "url":   "/inkscape/2015/10/20/poster-diskusi-lagi.html"
+      "excerpt": "Ini bukan desain inkscape yang bagus, namun tetap saja boleh diunduh dan dipakai secara bebas,",
+      "url":   "/inkscape/2015/10/20/poster-diskusi-lagi.html",
+      "date": "15102017"
     },
   
-    "15101017": {
+    {
       "title": "Inkscape - Klip Objek",
-      "url":   "/inkscape/2015/10/10/klip-objek.html"
+      "excerpt": "Memadukan fotografi dan mencoba hasilnya dengan object clip cukup menyenangkan. Walaupun keahlian fotografi dari penulis sebetulnya cukup mengenaskan, namun hasilnya cukup lumayan, dan layak untuk ditampilkan.",
+      "url":   "/inkscape/2015/10/10/klip-objek.html",
+      "date": "15101017"
     },
   
-    "15091117": {
+    {
       "title": "Inkscape - Poster Perangko Serbaguna",
-      "url":   "/inkscape/2015/09/11/poster-perangko-serbaguna.html"
+      "excerpt": "Seni rancang SVG inkscape untu aneka ragam keperluan, yang bebas diunduh, dimodifikasi ataupun dipakai siapa saja secara gratis. Dari sekedar pinggiran perangko, dapat pula digunakan sebagai poster, e-flyer, sertifikat, ataupun sampul dari executive summary.",
+      "url":   "/inkscape/2015/09/11/poster-perangko-serbaguna.html",
+      "date": "15091117"
     },
   
-    "15090617": {
+    {
       "title": "Inkscape - Jiplak Wajah Jadi Vexel",
-      "url":   "/inkscape/2015/09/06/vexel-jiplak-wajah.html"
+      "excerpt": "Penasaran bagaimana membuat Vexel di Inskcape? Ya benar, ini dapat dilakukan. Sayangnya penulis adalah amatur, dan belum dapat membikin yang bagus.",
+      "url":   "/inkscape/2015/09/06/vexel-jiplak-wajah.html",
+      "date": "15090617"
     },
   
-    "15090317": {
+    {
       "title": "Inkscape - Logo Perangko",
-      "url":   "/inkscape/2015/09/03/logo-perangko.html"
+      "excerpt": "Seni rancang SVG untuk inkscape, yang bebas diunduh, dimodifikasi ataupun dipakai siapa saja secara gratis. An inkscape vector artwork. That anybody can download and use it freely. Cocok dipakai untuk latar avatar, atau dipakai sebagai perangko di gambar foto, saat melakukan travelling.",
+      "url":   "/inkscape/2015/09/03/logo-perangko.html",
+      "date": "15090317"
     },
   
-    "15081717": {
+    {
       "title": "Inkscape - Undangan Kegiatan",
-      "url":   "/inkscape/2015/08/17/undangan-kegiatan.html"
+      "excerpt": "Stok gambar SVG untuk inkscape yang cantique menarique, yang bebas diunduh, dimodifikasi ataupun dipakai siapa saja secara gratis. Cocok dipakai untuk undangan kegiatan kampus, tahlilan atau lainnya.",
+      "url":   "/inkscape/2015/08/17/undangan-kegiatan.html",
+      "date": "15081717"
     },
   
-    "15080817": {
+    {
       "title": "Inkscape - Spanduk Kegiatan",
-      "url":   "/inkscape/2015/08/08/spanduk-kegiatan.html"
+      "excerpt": "Koleksi rancangan vektor inkscape dengan target cetak (bukan layar), yang bebas diunduh, dimodifikasi ataupun dipakai siapa saja secara gratis. Koleksi spanduk dengan berbagai variasi ukuran untuk kegiatan anda!",
+      "url":   "/inkscape/2015/08/08/spanduk-kegiatan.html",
+      "date": "15080817"
     },
   
-    "15060617": {
+    {
       "title": "Inkscape - Logo Tidak Resmi Alumni",
-      "url":   "/inkscape/2015/06/06/logo-tidak-resmi.html"
+      "excerpt": "Suatu konsep dari variasi logo alumni dalam format SVG, yang bebas diunduh, dimodifikasi ataupun dipakai siapa saja secara gratis. Dirancang dalam lingkup hirarkis, universitas, fakultas, departemen, dan juga wilayah",
+      "url":   "/inkscape/2015/06/06/logo-tidak-resmi.html",
+      "date": "15060617"
     },
   
-    "14121217": {
+    {
       "title": "Inkscape - Infografis Pasal",
-      "url":   "/inkscape/2014/12/12/infografis-pasal.html"
+      "excerpt": "Salah satu hal yang membuat penulis ingin belajar inkscape adalah untuk membuat infografis, salah satunya untuk menjelaskan pasal dari suatu peraturan.",
+      "url":   "/inkscape/2014/12/12/infografis-pasal.html",
+      "date": "14121217"
     },
   
-    "14101017": {
+    {
       "title": "Inkscape - Tablet Panitia",
-      "url":   "/inkscape/2014/10/10/tablet-panitia.html"
+      "excerpt": "Salah satu hal yang saya suka lakukan dalam suatu kegiatan adalah, memberi penghargaan kepada sesama panitia. Cukup mudah membuat SVG ini di inkscape. Yang agak berat adalah jepretan foto yang bagus, karena ini dibikin sebelum era handphone memiliki gambar yang tajam.",
+      "url":   "/inkscape/2014/10/10/tablet-panitia.html",
+      "date": "14101017"
     },
   
-    "14070717": {
+    {
       "title": "Inkscape - Pengumuman Jadwal Kegiatan",
-      "url":   "/inkscape/2014/07/07/jadwal-kegiatan.html"
+      "excerpt": "Dua contoh template vektor inkscape, untuk pengumuman jadwal kegiatan, yang bebas diunduh, dimodifikasi ataupun dipakai siapa saja secara gratis.",
+      "url":   "/inkscape/2014/07/07/jadwal-kegiatan.html",
+      "date": "14070717"
     }
   
-}
+]
+

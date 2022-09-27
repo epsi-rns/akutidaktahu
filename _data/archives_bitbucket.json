@@ -1,6 +1,34 @@
 [
   
     {
+      "title": "LibreOffice - CSV Master Detail",
+      "content": "Master Detail CSV Reader, Using LibreOffice UNO Macro, Using Faktur Pajak (Indonesian Tax) as Example. With Metadata Approach.",
+      "url": "/automation/2022/07/07/python-libreoffice-csv-md/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "LibreOffice - Decoration Example",
+      "content": "Example Macro to Decorate LibreOffice Calc Format",
+      "url": "/automation/2022/07/05/python-libreoffice-deco/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Python - Excel - CSV - Part Two",
+      "content": "Master Detail CSV Reader, Using OpenPyXL, Using Faktur Pajak (Indonesian Tax) as Example.",
+      "url": "/automation/2022/07/03/python-excel-csv-md-02/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Python - Excel - CSV - Part One",
+      "content": "Master Detail CSV Reader, Using OpenPyXL, Using Faktur Pajak (Indonesian Tax) as Example.",
+      "url": "/automation/2022/07/01/python-excel-csv-md-01/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
       "title": "LibreOffice - Diff",
       "content": "Simple macro to diff two similar spreadsheets.",
       "url": "/automation/2022/02/05/python-libreoffice-diff/",
@@ -139,6 +167,48 @@
       "url": "/automation/2021/10/02/python-libreoffice-macro-apso/",
       "author": "epsi",
       "category": "automation"
+    },
+    {
+      "title": "Pascal - Playing with Records - Part Six",
+      "content": "Passing message between thread in Free Pascal.",
+      "url": "/lambda/2021/04/08/playing-with-records-pascal-06/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Pascal - Playing with Records - Part Five",
+      "content": "An overview of multithreading in Free Pascal.",
+      "url": "/lambda/2021/04/07/playing-with-records-pascal-05/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Pascal - Playing with Records - Part Four",
+      "content": "An object oriented approach to collect unique record fields. Using Free Pascal.",
+      "url": "/lambda/2021/04/05/playing-with-records-pascal-04/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Pascal - Playing with Records - Part Three",
+      "content": "A step by step practical case to collect unique record fields. Using Free Pascal.",
+      "url": "/lambda/2021/04/03/playing-with-records-pascal-03/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Pascal - Playing with Records - Part Two",
+      "content": "A step by step practical case to collect unique record fields. Using Free Pascal.",
+      "url": "/lambda/2021/04/02/playing-with-records-pascal-02/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Pascal - Playing with Records - Part One",
+      "content": "A step by step practical case to collect unique record fields. Using Free Pascal.",
+      "url": "/lambda/2021/04/01/playing-with-records-pascal-01/",
+      "author": "epsi",
+      "category": "lambda"
     },
     {
       "title": "Racket - Playing with Records - Part Two",
