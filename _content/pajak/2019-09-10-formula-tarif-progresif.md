@@ -86,7 +86,7 @@ Saya juga membikin artikel berbahasa inggris di blog saya yang lain,
 yaitu mengenai perhitungan tarif progresif,
 dengan menggunakan Haskell (pure functional programming).
 
-* [Haskell - Tax Tariff](https://epsi-rns.gitlab.io/code/2019/09/01/progressive-tax-tariff-01/)
+* [Haskell - Tax Tariff](https://epsi.bitbucket.io/lambda/2019/09/01/progressive-tax-tariff-01/)
 
 -- -- --
 
