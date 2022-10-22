@@ -231,8 +231,12 @@ Coba kita lihat hasil akhirnya tanpa batas tabel.
 
 Mau rapi apa kagak, terserah eluh.
 Gw cuman ngasih contoh yacc.
-
 Kalau aku sih, udah bisa nulis aja sudah hepi.
+
+### Kekurangan Tabel
+
+Begitulah, tabel dapat merapikan banyak hal,
+namun jangan dipaksa, terutama saat memakai numbering.
 
 -- -- --
 
