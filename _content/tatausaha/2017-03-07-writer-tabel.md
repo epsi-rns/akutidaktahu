@@ -33,6 +33,8 @@ Namun karena memang kamu nyebelin.
 
 * [Contoh Surat Resmi](#resmipajak)
 
+* [Contoh Kontrak Dua Bahasa](#kontrakdual)
+
 * [Penutup](#penutup)
 
 ### Kebutuhan Pribadi yang Hakiki
@@ -209,6 +211,31 @@ Udah ya. udah malem. Cape nulis.
 
 -- -- --
 
+<a name="kontrakdual"></a>
+
+## Contoh Kontrak Dua Bahasa
+
+_Wait_, tunggu bentar ada yang ketinggalan.
+Aku dulu bikin kontrak, dan mesti dua bahasa.
+Kira-kira bentuknya begini nih:
+
+![Surat Resmi: Pajak][41-kontrak-datar]
+
+Nah, ini juga bisa di-rapi-in nih.
+
+![Surat Resmi: Pajak][42-kontrak-berbatas]
+
+Coba kita lihat hasil akhirnya tanpa batas tabel.
+
+![Surat Resmi: Pajak][43-kontrak-berkas]
+
+Mau rapi apa kagak, terserah eluh.
+Gw cuman ngasih contoh yacc.
+
+Kalau aku sih, udah bisa nulis aja sudah hepi.
+
+-- -- --
+
 <a name="penutup"></a>
 
 ## Penutup
@@ -237,7 +264,11 @@ kalau disuruh ngobrol aku suka bingung.
 [22-unit-inch]:         {% postimage %}/tatausaha/2017/03/2017-22-table-properties-inch.png
 [23-writer-unit]:       {% postimage %}/tatausaha/2017/03/2017-23-writer-unit.png
 
-[31-contoh-pajak]:      {% postimage %}/tatausaha/2017/03/2017-contoh-pajak.png
+[31-contoh-pajak]:      {% postimage %}/tatausaha/2017/03/2017-31-contoh-pajak.png
+
+[41-kontrak-datar]:     {% postimage %}/tatausaha/2017/03/2017-41-kontrak-datar.png
+[42-kontrak-berbatas]:  {% postimage %}/tatausaha/2017/03/2017-42-kontrak-tabel-berbatas.png
+[43-kontrak-berkas]:    {% postimage %}/tatausaha/2017/03/2017-43-kontrak-tabel-berkas.png
 
 [source-kuasa-docx]:    {% postimage %}/tatausaha/2017/03/2017-surat-kuasa-stnk-tabel.docx
 [source-kuasa-odt]:     {% postimage %}/tatausaha/2017/03/2017-surat-kuasa-stnk-tabel.odt
