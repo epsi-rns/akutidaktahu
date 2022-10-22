@@ -43,7 +43,7 @@ Ya gpp-lah, udah sukur kamu dikasih template,
 supaya gak perlu ngetik dari awal.
 
 Tapi sebagai manusia homo sapiens yang modern ,
-kamu gak mu dunk, kalo tampilan surat-menyurat kamu gitu-gitu ajah.
+kamu gak mau dunk, kalo tampilan surat-menyurat kamu gitu-gitu ajah.
 Gak mesti profesional looks banget sieh,
 tapi paling endak mbok yao.. yang gak acak adul gitu loh..
 
