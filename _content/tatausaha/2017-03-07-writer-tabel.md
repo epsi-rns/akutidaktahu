@@ -133,6 +133,8 @@ Ooo... kini kusadari ini salahku... tak ingin kuterlambat dan sesali.
 
 ### Tanda Tangan: Tabel
 
+_Rapi-rapi dulu, gak betah hidup berantakan._
+
 Bandingin cobak, sama versi tabel kek di bawah ini:
 
 ![Surat Kuasa: Tanda Tangan: Tabel Berbatas][13-tabel-ttd-berbatas]
