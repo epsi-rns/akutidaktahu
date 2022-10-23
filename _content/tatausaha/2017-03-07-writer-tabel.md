@@ -181,7 +181,7 @@ Berikut kalau kita buka lagi dalam ukuran centimeter.
 
 ![LibreOffice: Panjang Kolom di Tabel: Centimeter][21-unit-centimeter]
 
-Sebetulnya aku lebh suka pengaturan dalam centimeter.
+Sebetulnya aku lebih suka pengaturan dalam centimeter.
 Karena aku orang Indonesia khan pakai sistem metrik toh.
 
 ![LibreOffice: Pengaturan Unit di Writer][23-writer-unit]
