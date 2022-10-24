@@ -1,6 +1,6 @@
 ---
 layout    : post
-title     : Berkas Pajak - Mengelola Arsip
+title     : Berkas Pajak - Arsip PPn
 date      : 2018-03-13 09:17:35
 slug      : berkas-pajak-ppn
 tags      : [pajak]
