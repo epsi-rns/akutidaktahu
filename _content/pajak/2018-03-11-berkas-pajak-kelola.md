@@ -303,10 +303,7 @@ Mari kita lanjutkan ke artikel berikutnya yaitu:
 [32-doc-pph23-dbp]:     {% postimage %}/pajak/2018/03/32-doc-pph23-dbp.png
 [32-doc-pph23-induk]:   {% postimage %}/pajak/2018/03/32-doc-pph23-induk.png
 
-[41-pdf-pph4(2)]:       {% postimage %}/pajak/2018/03/41-pdf-pph4(2).png
-[42-doc-pph4(2)-bupot]: {% postimage %}/pajak/2018/03/42-doc-pph4(2)-bupot.png
-[42-doc-pph4(2)-dbp]:   {% postimage %}/pajak/2018/03/42-doc-pph4(2)-dbp.png
-[42-doc-pph4(2)-i]:     {% postimage %}/pajak/2018/03/42-doc-pph4(2)-induk.png
+
 
 [51-pdf-billing]:       {% postimage %}/pajak/2018/03/51-pdf-billing.png
 [52-doc-kode-billing]:  {% postimage %}/pajak/2018/03/52-doc-kode-billing.png
@@ -319,4 +316,4 @@ Mari kita lanjutkan ke artikel berikutnya yaitu:
 [65-e-filling-02]:      {% postimage %}/pajak/2018/03/65-e-filling-02.png
 
 
-[67-tanda-t-pph4(2)]:   {% postimage %}/pajak/2018/03/67-tanda-terima-pph4(2).png
+

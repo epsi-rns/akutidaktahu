@@ -52,13 +52,13 @@ Formulir ini juga mengurus PPh pasal 26.
 
 kira-kira beginilah penampakannya.
 
-![Berkas PPh 21: Formulir 1711 Induk: PDF][06-folder-pph21]
+![Berkas PPh 21: Formulir 1711 Induk: PDF][21-pdf-pph21]
 
 ### Folder Pajak Masa: PPh pasal 21
 
 Mari kita lihat lagi isi folder PPh pasal 21.
 
-![Berkas PPh 21: Folder][21-pdf-pph21]
+![Berkas PPh 21: Folder][06-folder-pph21]
 
 Ada dua berkas utama, dan pelaporan, yaitu:
 
@@ -74,6 +74,12 @@ Ada dua berkas utama, dan pelaporan, yaitu:
 Berkas ini mesti kita namai sendiri.
 Kecuali berkas csv yang penamaannya sudah diatur oleh e-Faktur.
 
+Bilamana perlu kita bikin kode billing-nya,
+lalu kita arsipkan dengan rapi:
+
+* Kode Billing:
+  `(teliti) 2018 - 01 - Cetakan Kode Billing - PPh 21.pdf`
+
 ### Tata Nama Pembetulan
 
 Apabila terjadi pembetulan,
@@ -85,10 +91,10 @@ maka nama berkas akan dibikin seperti ini:
 2. Lampiran:
    `(teliti) 2018 - 01.rev1 - eSPT PPh 21 - I.pdf`
 
-Sekali lagi ini hanya cotoh saja,
+Sekali lagi ini hanya contoh saja,
 sebagai admin kita bebas berkreasi.
-Sebagai karyawan,
-kita mengikuti pola yang diatur kantor masing-masing.
+Sebagai karyawan, kita mengikuti pola,
+yang diatur kantor masing-masing.
 
 ### Rincian Formulir 1721
 
@@ -310,6 +316,16 @@ Demikian pelaporan yang telah dikerjakan.
 //BR ~admingalak
 
 ```
+
+#### Otomasi
+
+Bagi pengguna linux,
+membikin lampiran utuk pelaporan pajak cukup memakai `pdftk`.
+
+{% highlight "bash" %}
+$ pdftk cover.pdf bpn.pdf billing.pdf\
+  cat output lampiran.pdf
+{% endhighlight %}
 
 -- -- --
 

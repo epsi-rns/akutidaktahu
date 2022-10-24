@@ -81,6 +81,12 @@ Ada dua berkas utama, dan pelaporan, yaitu:
 Kita tidak perlu pusing memberi nama,
 karena penamaan sudah diatur oleh e-Faktur.
 
+Bilamana perlu kita bikin kode billing-nya,
+lalu kita arsipkan dengan rapi:
+
+* Kode Billing:
+  `(teliti) 2018 - 01 - Cetakan Kode Billing - PPn.pdf`
+
 ### Rincian Formulir 1111
 
 Kalau mau dirinci lagi,
