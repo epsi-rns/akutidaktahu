@@ -19,7 +19,7 @@ excerpt   : Mempersiapkan Folder untuk Bekerja dengan Arsip Pajak.
 > Mempersiapkan Folder untuk Bekerja dengan Arsip Pajak.
 
 Tugas admin adalah menyiapkan sistem.
-Yaitu membuat tata kelola suaya arsip dapat segera diakses dengan cepat.
+Yaitu membuat tata kelola supaya arsip dapat segera diakses dengan cepat.
 
 Kalau mau menguji apakah administrasi perusahaan bobrok atau baik,
 mintalah sebuah berkas yang umum,
@@ -309,7 +309,7 @@ Pengaturan folder utama-pun,
 tidak bisa dipaksakan sesuai contoh di atas.
 
 Kalau yang diatur hanya satu perusahaan,
-Biasanya yang saya pakai malah seperti ini:
+maka cukup memakai yang seperti ini:
 
 ![Folder Utama: Alternatif][01-folder-alternatif]
 
@@ -339,19 +339,15 @@ belum selesai pelaporannya.
 #### Folder PPn
 
 Di sini ada dua jenis tata nama folder PPn.
+Yang kita pakai adalah yang sudah memakai e-Faktur.
 
 ![Folder PPn][05-folder-ppn]
 
-Yang pertama normal memakai tata nama demikian,
-karena pelaporan masih memakai eSPT PPn,
-dan masih memakai `csv`.
-
-Sedangkan pembetulan satu,
-tata nama berkasnya berbeda,
-karena sudah memakai eFaktur.
+Di tahun sebelumnya pelaporan masih memakai eSPT PPn.
+Sedangakn tahun ini sudah memakai e-Faktur semua.
 
 Memang aplikasi pajak selalu diperbarui secara berkala,
-disesuiakan kebutuhan modernisasi.
+disesuaikan kebutuhan modernisasi.
 Sehingga kita sebagai pegawai mesti terus belajar,
 memperbarui ilmu juga.
 
@@ -424,40 +420,23 @@ Maka kita perlu lakukan beberapa hal berikut
 Bikin template, laporan bulanan, untuk dikirim lewat e-mail,
 lengkap dengan lampirannya.
 
-Tiap jenis pajak tempalte berbeda.
-Misalnya untuk PPn adalah:
+Tiap jenis pajak template berbeda.
+Misalnya untuk PPn secara singkat adalah:
 
 ```
 (teliti) Lapor PPn, Masa Januari 2018 (pembetulan 1)
-
-Dear pak ...,
-cc: bu ..,
-cc: pak ...
 
 Terlampir softcopy pelaporan pajak,
 yaitu PPn untuk masa Januari 2018 (pembetulan 1),
 sebagai bahan pelaporan internal supaya tertib administrasi.
 
-[OK] SPT Masa 1111: Induk dan Lampiran (normal)
-[OK] SPT Masa 1111: Induk dan Lampiran (pembetulan 1)
-[XX] Draft SSE (text)
-[XX] BPN (Bukti Penerimaan Negara)
-[OK] Spreadsheet perhitungan PPn (beserta screenshot)
-[OK] Screenshot tanda bukti penyampaian elektronik
-
-
-Status
+...
 
 * PPn Masukan Kumulatif : Rp.  _.___.___,-
 * PPn Keluaran Masa     : Rp.          0,-
 * PPn Masukan Masa      : Rp.  _.___.___,-
 * PPn Dibayarkan        : Rp.          0,-
 * PPn Masukan Sisa      : Rp. __.___.___,-
-
-Demikian pelaporan yang telah dikerjakan.
-
-//BR ~admingalak
-
 ```
 
 Penggunaan e-mail ini karena supaya struktur lampiran tetap rapi,
@@ -569,16 +548,6 @@ Mari kita lanjutkan ke artikel berikutnya yaitu:
 [07-folder-pph4(2)]:    {% postimage %}/pajak/2018/03/07-folder-pph4(2).png
 [08-folder-pph23]:      {% postimage %}/pajak/2018/03/08-folder-pph23.png
 [09-folder-new]:        {% postimage %}/pajak/2018/03/09-folder-new.png
-
-[11-pdf-ppn]:           {% postimage %}/pajak/2018/03/11-pdf-ppn.png
-[12-doc-ppn-1111-induk]:{% postimage %}/pajak/2018/03/12-doc-ppn-1111-induk.png
-[13-doc-ppn-1111-A1]:   {% postimage %}/pajak/2018/03/13-doc-ppn-1111-A1.png
-[13-doc-ppn-1111-A2]:   {% postimage %}/pajak/2018/03/13-doc-ppn-1111-A2.png
-[13-doc-ppn-1111-AB]:   {% postimage %}/pajak/2018/03/13-doc-ppn-1111-AB.png
-[13-doc-ppn-1111-B1]:   {% postimage %}/pajak/2018/03/13-doc-ppn-1111-B1.png
-[13-doc-ppn-1111-B2]:   {% postimage %}/pajak/2018/03/13-doc-ppn-1111-B2.png
-[13-doc-ppn-1111-B3]:   {% postimage %}/pajak/2018/03/13-doc-ppn-1111-B3.png
-[13-doc-ppn-1111-induk]:{% postimage %}/pajak/2018/03/13-doc-ppn-1111-induk.png
 
 [21-pdf-pph21]:         {% postimage %}/pajak/2018/03/21-pdf-pph21.png
 [21-pdf-pph21]:         {% postimage %}/pajak/2018/03/21-pdf-pph21.png
