@@ -1,7 +1,7 @@
 ---
 layout    : post
 title     : Berkas Pajak - Arsip PPn
-date      : 2018-03-13 09:17:35
+date      : 2018-03-15 09:17:35
 slug      : berkas-pajak-ppn
 tags      : [pajak]
 keywords  : [arsip, folder]
@@ -330,7 +330,7 @@ Mari kita lanjutkan ke artikel berikutnya yaitu:
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[local-whats-next]:     /pajak/2018/03/15/berkas-pajak-pph21.html
+[local-whats-next]:     /pajak/2018/03/17/berkas-pajak-pph21.html
 
 [05-folder-ppn]:        {% postimage %}/pajak/2018/03/05-folder-ppn.png
 
