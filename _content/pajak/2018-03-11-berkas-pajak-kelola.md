@@ -118,8 +118,13 @@ Artinya dari begitu banyak artefak yang disampaikan,
 tidak perlu semua digunakan.
 Sebagai karyawan, kita semua pasti punya,
 cukup banyak _job desc_ yang harus diutamakan.
-Tugas artikel ini adalah memudahkan, bukan menjadikan rumit.
 Maka pakailah yang perlu-perlu saja.
+
+Tugas artikel ini adalah memudahkan,
+bukan menjadikan rumit.
+Sayapun lihat-lihat situasi dan kondisi,
+kalau mau menerapkan sesuatu.
+Kalau perlu menunggu bulanan sampai saatnya tepat.
 
 _Kalau ada waktu senggang, lengkapi!_
 
@@ -290,22 +295,8 @@ Mari kita lanjutkan ke artikel berikutnya yaitu:
 [72-folder-lengkap]:    {% postimage %}/pajak/2018/03/72-folder-lengkap.png
 [73-2017-flow]:         {% postimage %}/pajak/2018/03/73-2017-flow.png
 
-[01-folder-sederhana]:  {% postimage %}/pajak/2018/03/01-folder-utama-sederhana.png
-[01-folder-alternatif]: {% postimage %}/pajak/2018/03/01-folder-utama-alternatif.png
-[02-folder-espt]:       {% postimage %}/pajak/2018/03/02-folder-espt.png
-[03-folder-pajak-masa]: {% postimage %}/pajak/2018/03/03-folder-pajak-masa.png
-[04-folder-masa-rinci]: {% postimage %}/pajak/2018/03/04-folder-masa-rinci.png
 
-[05-folder-ppn]:        {% postimage %}/pajak/2018/03/05-folder-ppn.png
-[06-folder-pph21]:      {% postimage %}/pajak/2018/03/06-folder-pph21.png
-[07-folder-pph4(2)]:    {% postimage %}/pajak/2018/03/07-folder-pph4(2).png
-[08-folder-pph23]:      {% postimage %}/pajak/2018/03/08-folder-pph23.png
-[09-folder-new]:        {% postimage %}/pajak/2018/03/09-folder-new.png
 
-[21-pdf-pph21]:         {% postimage %}/pajak/2018/03/21-pdf-pph21.png
-[21-pdf-pph21]:         {% postimage %}/pajak/2018/03/21-pdf-pph21.png
-[22-doc-pph21-1172-i-1]:{% postimage %}/pajak/2018/03/22-doc-pph21-1172-induk-1.png
-[22-doc-pph21-1172-i-1]:{% postimage %}/pajak/2018/03/22-doc-pph21-1172-induk-2.png
 
 [31-pdf-pph23]:         {% postimage %}/pajak/2018/03/31-pdf-pph23.png
 [32-doc-pph23-bupot]:   {% postimage %}/pajak/2018/03/32-doc-pph23-bupot.png
@@ -327,5 +318,5 @@ Mari kita lanjutkan ke artikel berikutnya yaitu:
 [65-e-filling-01]:      {% postimage %}/pajak/2018/03/65-e-filling-01.png
 [65-e-filling-02]:      {% postimage %}/pajak/2018/03/65-e-filling-02.png
 
-[66-tanda-t-pph21]:     {% postimage %}/pajak/2018/03/66-tanda-terima-pph21.png
+
 [67-tanda-t-pph4(2)]:   {% postimage %}/pajak/2018/03/67-tanda-terima-pph4(2).png

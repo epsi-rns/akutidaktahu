@@ -9,7 +9,7 @@ keywords  : [arsip, folder]
 toc       : "toc/berkaspajak.njk"
 opengraphimage: "assets/posts/pajak/2018/03/11-pdf-ppn.png"
 
-excerpt   : Mengenal Dokumen PPn dan Teknik Pengarsipannya
+excerpt   : Mengenal Dokumen PPn
 
 ---
 
@@ -17,7 +17,16 @@ excerpt   : Mengenal Dokumen PPn dan Teknik Pengarsipannya
 
 ## Prakata
 
-> Mengenal Dokumen PPn dan Teknik Pengarsipannya
+> Mengenal Dokumen PPn
+
+Terlalu dini untuk berdiskusi mengenai teknik pengarsipan.
+Maka artikel ini hanya berisi pengenalan saja.
+
+Mengenai cara pengisian, sudah banyak artikel di internet,
+tidak perlu saya ulangi lagi di sini.
+Namun pada saatnya akan saya bahas,
+yaitu cara membuat rekapitulasi yang tepat,
+di lembar kerja spreadsheet.
 
 ### Daftar Isi
 
@@ -115,7 +124,7 @@ Itupun bila ada.
 ## 1: Formulir Induk: 1111
 
 Kalau ingin benar-benar paham isi berkas ini.
-Maka harus prakter mengisi e-Faktur terlebih dahulu.
+Maka harus praktek mengisi e-Faktur terlebih dahulu.
 
 Kita akan bahas di artikel terpisah di lain waktu.
 Lengkap dengan contoh kasus.
@@ -200,7 +209,7 @@ misalnya saat berkomunikasi dengan rekan di whatsapp,
 atau meminta konfirmasi kepada atasan.
 Mari kita namakan saja dengan nama berkas:
 
-* `(draft) 2021 - 01 - SSE - PPn.txt`
+* `(draft) 2018 - 01 - SSE - PPn.txt`
 
 Yang isinya adalah:
 
