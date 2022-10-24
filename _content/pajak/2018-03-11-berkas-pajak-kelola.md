@@ -52,7 +52,12 @@ Kalau berurusan dengan AR pajak, penulis juga tidak berpengalaman.
 
 > Jadikan Pengarsipan Pajak First Class.
 
+![Berkas Pajak - Cover][71-cover-writer]
+
 ### Kebutuhan Akan Sistem
+
+> Pekerjaan admin terkesan tidaklah berat.\
+> Padahal harus menerapkan sistem.
 
 Di UMKM yang baru mulai pada umumnya,
 pengelolaan berkas pajak ini tidak diutamakan,
@@ -64,12 +69,19 @@ Maka atasanpun tidak sempat memberikan perhatian khusus bagi admin,
 untuk mengajari segala sesuatu-nya,
 supaya berkas pajak diarsip dengan baik.
 
-_Pekerjaan admin terkesan tidaklah berat.
-Padahal harus menerapkan sistem._
+_Pekerjaan admin terkesan tidaklah berat._\
+_Padahal harus menerapkan sistem._
 
 Maka kita, sebagai admin yang digaji,
 perlu ber-inisiatif sendiri,
 untuk membuat sistem yang baik.
+Salah satu contohnya adalah membuat,
+standar baku tata nama dan pengaturan folder,
+di kantor masing-masing.
+Misalnya seperti contoh di bawah:
+
+![Berkas Pajak - Cover][72-folder-lengkap]
+
 Buatlah pengarsipan pajak menjadi keren.
 Dari situ kita merasa senang dalam bekerja,
 karena punya suatu karya.
@@ -104,9 +116,10 @@ supaya mudah dilaksanakan.
 
 Artinya dari begitu banyak artefak yang disampaikan,
 tidak perlu semua digunakan.
-Sebagai karyawan, kita semua pasti punya cukup banyak _job desc_,
-yang harus diutamakan.
-Pakailah yang perlu-perlu saja.
+Sebagai karyawan, kita semua pasti punya,
+cukup banyak _job desc_ yang harus diutamakan.
+Tugas artikel ini adalah memudahkan, bukan menjadikan rumit.
+Maka pakailah yang perlu-perlu saja.
 
 _Kalau ada waktu senggang, lengkapi!_
 
@@ -206,6 +219,10 @@ maka kita perlu leverage pula diri kita,
 untuk membuat artefak-artefak utama,
 yang nantinya akan tercermin di Ordner tersebut.
 
+Misalnya visualisasi alur pembetulan PPn sebagaimana berikut di bawah:
+
+![Berkas: Visualisasi Alur Pembetulan PPn][73-2017-flow]
+
 Kalau tujuan kita adalah analisa,
 maka taruhlah berkas analisa di Ordner.
 Kalau tujuannya hanya membuat penjelasan,
@@ -268,6 +285,10 @@ Mari kita lanjutkan ke artikel berikutnya yaitu:
 [41-pdf-pph4(2)]:       {% postimage %}/pajak/2018/03/41-pdf-pph4(2).png
 [51-pdf-billing]:       {% postimage %}/pajak/2018/03/51-pdf-billing.png
 [65-tanda-t-ppn]:       {% postimage %}/pajak/2018/03/65-tanda-terima-ppn.png
+
+[71-cover-writer]:      {% postimage %}/pajak/2018/03/71-cover-writer.png
+[72-folder-lengkap]:    {% postimage %}/pajak/2018/03/72-folder-lengkap.png
+[73-2017-flow]:         {% postimage %}/pajak/2018/03/73-2017-flow.png
 
 [01-folder-sederhana]:  {% postimage %}/pajak/2018/03/01-folder-utama-sederhana.png
 [01-folder-alternatif]: {% postimage %}/pajak/2018/03/01-folder-utama-alternatif.png

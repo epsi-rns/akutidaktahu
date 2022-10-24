@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="700"
+   height="600"
+   viewBox="0 0 700 600"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   sodipodi:docname="2017 - Flow.svg"
+   inkscape:export-filename="2017 - Alur - Sem1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.1116667"
+     inkscape:cx="349.92504"
+     inkscape:cy="300"
+     inkscape:window-width="1886"
+     inkscape:window-height="962"
+     inkscape:window-x="14"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2"
+     showguides="true" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10539"
+       width="700"
+       height="600"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Connector">
+    <g
+       transform="matrix(-1,0,0,1,-445.5,-55)"
+       id="g7205"
+       style="display:inline">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7195"
+         d="m -695.49978,304.99997 v -100"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path7197"
+         d="m -695.5,305 4.5,-15 -4.5,3 -4.49999,-3 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g12158"
+       transform="translate(100,-50)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path11563"
+         d="M 349.99978,300 V 265"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path11565"
+         d="m 350,300 -4.5,-15 4.5,3 4.49999,-3 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path11571"
+         d="m 159.99999,264.99996 v -65"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path11573"
+         d="m 159.5,265.5 h 190"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g15505"
+       transform="translate(510,150.00004)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path15497"
+         d="m -260.00022,300.00035 v -35"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.999998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path15499"
+         d="m -260,300 -4.5,-15 4.5,3 4.49999,-3 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path15501"
+         d="m -70.000001,264.99996 v -65"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path15503"
+         d="M -260.5,265.50034 H -69.499999"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.999993px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,-245.5,145.00003)"
+       id="g2509"
+       style="display:inline">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2505"
+         d="m -695.49978,304.99997 v -100"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path2507"
+         d="m -695.5,305 4.5,-15 -4.5,3 -4.49999,-3 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Title">
+    <rect
+       style="fill:none;stroke:none;stroke-width:0.999996;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12791"
+       width="1100"
+       height="240"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:label="Diagram"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="g1150"
+       transform="translate(100,-50)">
+      <rect
+         style="fill:none;stroke:none;stroke-width:0.999996;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1128"
+         width="100"
+         height="100"
+         x="100"
+         y="100" />
+      <circle
+         style="fill:#bbdefb;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="path956"
+         cx="150"
+         cy="150"
+         r="50" />
+      <rect
+         style="fill:none;stroke:none;stroke-width:0.999996;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1130"
+         width="80"
+         height="25"
+         x="110"
+         y="115" />
+      <rect
+         style="fill:none;stroke:none;stroke-width:0.999996;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1132"
+         width="80"
+         height="25"
+         x="110"
+         y="160" />
+      <path
+         id="rect1545"
+         style="fill:#90caf9;stroke:none;stroke-width:0.999988;stroke-dasharray:none;stroke-opacity:1"
+         d="M 101.13672,140 A 50,50 0 0 0 100,150 a 50,50 0 0 0 1.13672,10 h 97.72656 A 50,50 0 0 0 200,150 50,50 0 0 0 198.98438,140 Z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+         x="150.06534"
+         y="155.92668"
+         id="text1218"><tspan
+           sodipodi:role="line"
+           id="tspan1216"
+           x="150.06534"
+           y="155.92668"
+           style="font-size:18.6667px">2021-01:0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+         x="149.38"
+         y="175.85332"
+         id="text1272"><tspan
+           sodipodi:role="line"
+           id="tspan1270"
+           x="149.38"
+           y="175.85332">Lebih Bayar</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+         x="149.86"
+         y="131.79332"
+         id="text1276"><tspan
+           sodipodi:role="line"
+           id="tspan1274"
+           x="149.86"
+           y="131.79332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">16 Mar 2021</tspan></text>
+    </g>
+    <g
+       id="g1860"
+       transform="translate(100,-50)">
+      <rect
+         style="fill:none;stroke:none;stroke-width:0.999996;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1838"
+         width="100"
+         height="100"
+         x="100"
+         y="100" />
+      <circle
+         style="fill:#b2dfdb;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="circle1840"
+         cx="150"
+         cy="150"
+         r="50" />
+      <rect
+         style="fill:none;stroke:none;stroke-width:0.999996;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1842"
+         width="80"
+         height="25"
+         x="110"
+         y="115" />
+      <rect
+         style="fill:none;stroke:none;stroke-width:0.999996;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1844"
+         width="80"
+         height="25"
+         x="110"
+         y="160" />
+      <path
+         id="path1846"
+         style="fill:#4db6ac;stroke:none;stroke-width:0.999988;stroke-dasharray:none;stroke-opacity:1"
+         d="M 101.13672,140 A 50,50 0 0 0 100,150 a 50,50 0 0 0 1.13672,10 h 97.72656 A 50,50 0 0 0 200,150 50,50 0 0 0 198.98438,140 Z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+         x="150.06534"
+         y="155.92668"
+         id="text1850"><tspan
+           sodipodi:role="line"
+           id="tspan1848"
+           x="150.06534"
+           y="155.92668"
+           style="font-size:18.6667px">2017-01:0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+         x="149.38"
+         y="175.85332"
+         id="text1854"><tspan
+           sodipodi:role="line"
+           id="tspan1852"
+           x="149.38"
+           y="175.85332">Kurang Bayar</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+         x="149.86"
+         y="131.79332"
+         id="text1858"><tspan
+           sodipodi:role="line"
+           id="tspan1856"
+           x="149.86"
+           y="131.79332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">02 Feb 2017</tspan></text>
+    </g>
+    <g
+       id="g1884"
+       transform="translate(100,150)">
+      <rect
+         style="fill:none;stroke:none;stroke-width:0.999996;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1862"
+         width="100"
+         height="100"
+         x="100"
+         y="100" />
+      <circle
+         style="fill:#f5f5f5;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="circle1864"
+         cx="150"
+         cy="150"
+         r="50" />
+      <rect
+         style="fill:none;stroke:none;stroke-width:0.999996;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1866"
+         width="80"
+         height="25"
+         x="110"
+         y="115" />
+      <rect
+         style="fill:none;stroke:none;stroke-width:0.999996;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1868"
+         width="80"
+         height="25"
+         x="110"
+         y="160" />
+      <path
+         id="path1870"
+         style="fill:#e0e0e0;stroke:none;stroke-width:0.999988;stroke-dasharray:none;stroke-opacity:1"
+         d="M 101.13672,140 A 50,50 0 0 0 100,150 a 50,50 0 0 0 1.13672,10 h 97.72656 A 50,50 0 0 0 200,150 50,50 0 0 0 198.98438,140 Z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+         x="150.06534"
+         y="155.92668"
+         id="text1874"><tspan
+           sodipodi:role="line"
+           id="tspan1872"
+           x="150.06534"
+           y="155.92668"
+           style="font-size:18.6667px">2017-02:0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+         x="149.38"
+         y="175.85332"
+         id="text1878"><tspan
+           sodipodi:role="line"
+           id="tspan1876"
+           x="149.38"
+           y="175.85332">Nihil</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+         x="149.86"
+         y="131.79332"
+         id="text1882"><tspan
+           sodipodi:role="line"
+           id="tspan1880"
+           x="149.86"
+           y="131.79332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">09 Mar 2017</tspan></text>
+    </g>
+    <g
+       id="g1908"
+       transform="translate(100,350)">
+      <rect
+         style="fill:none;stroke:none;stroke-width:0.999996;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1886"
+         width="100"
+         height="100"
+         x="100"
+         y="100" />
+      <circle
+         style="fill:#bbdefb;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="circle1888"
+         cx="150"
+         cy="150"
+         r="50" />
+      <rect
+         style="fill:none;stroke:none;stroke-width:0.999996;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1890"
+         width="80"
+         height="25"
+         x="110"
+         y="115" />
+      <rect
+         style="fill:none;stroke:none;stroke-width:0.999996;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1892"
+         width="80"
+         height="25"
+         x="110"
+         y="160" />
+      <path
+         id="path1894"
+         style="fill:#64b5f6;stroke:none;stroke-width:0.999988;stroke-dasharray:none;stroke-opacity:1"
+         d="M 101.13672,140 A 50,50 0 0 0 100,150 a 50,50 0 0 0 1.13672,10 h 97.72656 A 50,50 0 0 0 200,150 50,50 0 0 0 198.98438,140 Z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+         x="150.06534"
+         y="155.92668"
+         id="text1898"><tspan
+           sodipodi:role="line"
+           id="tspan1896"
+           x="150.06534"
+           y="155.92668"
+           style="font-size:18.6667px">2017-03:0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+         x="149.38"
+         y="175.85332"
+         id="text1902"><tspan
+           sodipodi:role="line"
+           id="tspan1900"
+           x="149.38"
+           y="175.85332">Lebih Bayar</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+         x="149.86"
+         y="131.79332"
+         id="text1906"><tspan
+           sodipodi:role="line"
+           id="tspan1904"
+           x="149.86"
+           y="131.79332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">03 Apr 2017</tspan></text>
+    </g>
+    <g
+       id="g2386"
+       transform="translate(300,150)">
+      <rect
+         style="fill:none;stroke:none;stroke-width:0.999996;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2364"
+         width="100"
+         height="100"
+         x="100"
+         y="100" />
+      <circle
+         style="fill:#bbdefb;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="circle2366"
+         cx="150"
+         cy="150"
+         r="50" />
+      <rect
+         style="fill:none;stroke:none;stroke-width:0.999996;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2368"
+         width="80"
+         height="25"
+         x="110"
+         y="115" />
+      <rect
+         style="fill:none;stroke:none;stroke-width:0.999996;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2370"
+         width="80"
+         height="25"
+         x="110"
+         y="160" />
+      <path
+         id="path2372"
+         style="fill:#64b5f6;stroke:none;stroke-width:0.999988;stroke-dasharray:none;stroke-opacity:1"
+         d="M 101.13672,140 A 50,50 0 0 0 100,150 a 50,50 0 0 0 1.13672,10 h 97.72656 A 50,50 0 0 0 200,150 50,50 0 0 0 198.98438,140 Z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+         x="150.06534"
+         y="155.92668"
+         id="text2376"><tspan
+           sodipodi:role="line"
+           id="tspan2374"
+           x="150.06534"
+           y="155.92668"
+           style="font-size:18.6667px">2017-02:1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+         x="149.38"
+         y="175.85332"
+         id="text2380"><tspan
+           sodipodi:role="line"
+           id="tspan2378"
+           x="149.38"
+           y="175.85332">Lebih Bayar</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+         x="149.86"
+         y="131.79332"
+         id="text2384"><tspan
+           sodipodi:role="line"
+           id="tspan2382"
+           x="149.86"
+           y="131.79332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">10 Apr 2017</tspan></text>
+    </g>
+    <g
+       id="g2410"
+       transform="translate(300,350)">
+      <rect
+         style="fill:none;stroke:none;stroke-width:0.999996;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2388"
+         width="100"
+         height="100"
+         x="100"
+         y="100" />
+      <circle
+         style="fill:#bbdefb;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="circle2390"
+         cx="150"
+         cy="150"
+         r="50" />
+      <rect
+         style="fill:none;stroke:none;stroke-width:0.999996;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2392"
+         width="80"
+         height="25"
+         x="110"
+         y="115" />
+      <rect
+         style="fill:none;stroke:none;stroke-width:0.999996;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2394"
+         width="80"
+         height="25"
+         x="110"
+         y="160" />
+      <path
+         id="path2396"
+         style="fill:#64b5f6;stroke:none;stroke-width:0.999988;stroke-dasharray:none;stroke-opacity:1"
+         d="M 101.13672,140 A 50,50 0 0 0 100,150 a 50,50 0 0 0 1.13672,10 h 97.72656 A 50,50 0 0 0 200,150 50,50 0 0 0 198.98438,140 Z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+         x="150.06534"
+         y="155.92668"
+         id="text2400"><tspan
+           sodipodi:role="line"
+           id="tspan2398"
+           x="150.06534"
+           y="155.92668"
+           style="font-size:18.6667px">2017-03:1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+         x="149.38"
+         y="175.85332"
+         id="text2404"><tspan
+           sodipodi:role="line"
+           id="tspan2402"
+           x="149.38"
+           y="175.85332">Lebih Bayar</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+         x="149.86"
+         y="131.79332"
+         id="text2408"><tspan
+           sodipodi:role="line"
+           id="tspan2406"
+           x="149.86"
+           y="131.79332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">13 Mei 2017</tspan></text>
+    </g>
+  </g>
+</svg>

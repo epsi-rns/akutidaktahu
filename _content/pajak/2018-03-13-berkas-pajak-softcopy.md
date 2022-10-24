@@ -62,6 +62,25 @@ Dan sedikit tambahan yaitu
 Sebelum masuk ke jenis-jenis berkas pajak.
 Mari kita bayangkan sejenak akan seperti apa berkas ini nantinya.
 
+#### Aturan Umum Folder
+
+> Semua berkas ada tempatnya./
+> Semua berkas pada tempatnya.
+
+Kelompokkan berkas, misalnya berdasarkan waktu atau lainnya.
+Sebisanya jangan ada berkas-berkas liar di luar folder.
+
+Kalau sudah ada lebih dari dua belas berkas tanpa folder,
+ini pertanda folder kita berantakan.
+Masukkan dalam direktori tersendiri.
+
+Berkas-berkas juga mesti memiliki,
+tata nama yang memudahkan pengurutan.
+Jangan mengandalkan file manager di OS,
+untuk mengurutkan berkas.
+Admin yang mengambil keputusan,
+misalnya diurutkan berdasarkan tahun.
+
 #### File Sharing
 
 Ada beberapa jenis pendekatan dalam penyimpanan berkas.
