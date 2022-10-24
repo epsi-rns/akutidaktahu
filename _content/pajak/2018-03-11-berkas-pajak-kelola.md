@@ -6,7 +6,7 @@ slug      : berkas-pajak-kelola
 tags      : [pajak]
 keywords  : [arsip, folder]
 
-# toc       : "toc/pajak.njk"
+toc       : "toc/berkaspajak.njk"
 opengraphimage: "assets/posts/pajak/2018/03/64-cover-writer.png"
 
 excerpt   : Mempersiapkan Folder untuk Bekerja dengan Arsip Pajak.
@@ -42,7 +42,7 @@ Kalau berurusan dengan AR pajak, penulis juga tidak berpengalaman.
 
 * [3: Kebutuhan Internal](#internal)
 
-* [Selanjutnya](#lanjut)
+* [Apa Selanjutnya?](#selanjutnya)
 
 ### First Class
 
@@ -518,44 +518,45 @@ Dan ini adalah hal sensitif untuk dibicarakan.
 Tidak ada yang menjamin seseorang terus menjadi admin di suatu divisi.
 Bisa saja karyawan seperti kita dipindahtugaskan ke divisi lain,
 secara tiba-tiba.
-
 Bisa saja rekan kerja kita mendapat rejeki nomplok,
 tiba-tiba bekerja di tempat lain.
-Maka bikinlah buku pajak, untuk dibaca oleh orang lain.
-
 Bisa saja ada karyawan baru,
 dan kita punya tugas menjelaskan,
 cara kerja perusahaan kita kepada orang lain.
 
-Buatlah indeks.
-Dokumentasi cara perhitungan.
+Maka bikinlah buku pajak, untuk dibaca oleh orang lain.
+Buatlah indeks. Dokumentasikan cara perhitungan.
 Kalau perlu kreatiflah melakukan visualisasi,
 dari isi buku pajak tersebut supaya mudah dipahami.
 
 #### Topik Lanjutan
 
-> Rangkuman, Analisa dan Visualiasi.
+> Rangkuman, Analisa dan Visualisasi.
 
-Akan dibahas di artikel terpisah.
+Akan dibahas di artikel terpisah,
+bukan termasuk artikel berseri ini.
 
 -- -- --
 
-<a name="lanjut"></a>
+<a name="selanjutnya"></a>
 
-## Selanjutnya
+## Apa Selanjutnya?
 
 Lalu apa berikutnya dalam artikel berseri ini?
 
 Kita akan melanjutkan dengan pengenalan mengenai jenis-jenis pajak.
 Yaitu PPn, PPh 21, PPh 4(2), PPh 23.
-
 Semua artikel berikut masih dalam tahap pengenalan.
 Sedangkan rincian ada di artikel berseri terpisah.
-
 Karena pengenalan masing-masing pajak saja,
 sebetulnya sudah cukup panjang.
 
+Mari kita lanjutkan ke artikel berikutnya yaitu:
+[[Berkas Pajak - Arsip PPn][local-whats-next]].
+
 [//]: <> ( -- -- -- links below -- -- -- )
+
+[local-whats-next]:     /pajak/2018/03/13/berkas-pajak-ppn.html
 
 [01-folder-sederhana]:  {% postimage %}/pajak/2018/03/01-folder-utama-sederhana.png
 [01-folder-alternatif]: {% postimage %}/pajak/2018/03/01-folder-utama-alternatif.png
