@@ -80,7 +80,7 @@ Ada dua berkas utama, banyak bukti potong dan pelaporan, yaitu:
    `(teliti) 2018 - 01 - PPh 23 - Daftar Bukti Potong.pdf`
 
 3. Bukti Potong:
-   `(teliti) 2018 - 01 - PPh 23 - Bukti Pemotongan - SJS - 000001 - Jasa Teknik.pdf`
+   `(teliti) 2018 - 01 - PPh 23 - Bukti Pemotongan - TJS - 000001 - Jasa Teknik.pdf`
 
 4. CSV Pelaporan:
    `0814435180110000707201800F1132031009.csv`
@@ -215,7 +215,7 @@ Yang isinya adalah:
 ```
 -- 2018 - 01 - Januari --
 
-PT Satu Jam Saja
+PT Tiga Jam Saja
 NPWP: ...
 
 Harga Dasar   : Rp. 2.475.000,-

@@ -87,7 +87,7 @@ Ada dua berkas utama, banyak bukti potong dan pelaporan, yaitu:
    `(teliti) 2018 - 01 - eSPT PPh4(2) - Daftar Bukti Pemotongan.pdf`
 
 3. Bukti Potong:
-   `(teliti) 2018 - 01 - eSPT PPh4(2) - Bukti Potong - 01 - SJS - Jasa - Fasilitator.pdf`
+   `(teliti) 2018 - 01 - eSPT PPh4(2) - Bukti Potong - 01 - TJS - Jasa - Fasilitator.pdf`
 
 4. CSV Pelaporan:
    `0814435180110000101201800F1132041009.csv`
@@ -230,7 +230,7 @@ Yang isinya adalah:
 ```
 -- 2021 - 01 - Januari --
 
-PT Satu Jam Saja
+PT Tiga Jam Saja
 NPWP: ...
 
 Jenis Pajak   : 411128
@@ -240,7 +240,7 @@ Jumlah Setor  : 700000
 Uraian        : Setoran Masa PPh Pasal 4 Ayat 2 Final (jasa konstruksi)
 
 Nilai Bruto   : 35000000
-WP Dipotong   : PT. Satu Jam Saja
+WP Dipotong   : PT. Tiga Jam Saja
 
 Tanggal Potong: 08 Januari 2021
 Tanggal Setor : -

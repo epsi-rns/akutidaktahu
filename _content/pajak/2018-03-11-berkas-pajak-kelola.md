@@ -166,6 +166,8 @@ PT. Teliti Telaten Tekun
 ```
 
 Catatan: Perusahaan ini tidak benar-benar ada.
+Data buatan ini dibikin untuk memudahkan penjelasan.
+Dan tidak diniatkan untuk pemalsuan data.
 
 #### PPn
 
