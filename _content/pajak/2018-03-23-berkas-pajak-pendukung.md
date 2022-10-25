@@ -83,7 +83,12 @@ Berikut penampakan kode billing:
 
 ![Berkas Pendukung: Kode Billing][51-pdf-billing]
 
+### Draft SSE
+
+> Karena manusia tempatnya lupa dan salah.
+
 Untuk pengisian, yang teliti telaten dan tekun,
+sebelum mengisi Surat Setoran Elektronik (SSE),
 disarankan membuat draft terlebih dahulu.
 
 Misalnya denda STP ini:
@@ -99,7 +104,16 @@ Jumlah Setor  : 399800
 Uraian        : Sanksi Administrasi Masa PPh Final Pasal 4(2)
 ```
 
-Karena manusia tempatnya lupa dan salah.
+Bentuk lembar kerja spreadsheet selengkapnya dapat dibuat sendiri.
+Silahkan unduh di sini:
+
+* [Teliti-2018-SSE.xlsx][Teliti-2018-SSE]
+
+Dalam satu masa, bisa ada beberapa jenis pajak sekaligus.
+
+![Berkas Pendukung: Draft Surat Setoran Elektronik][81-sse-ringkas]
+
+### Bukti Penerimaan Negeri
 
 Dari berkas BPN bank, selalu ada NTPN-nya.
 Misalnya dari BCA seperti ini formatnya:
@@ -213,3 +227,8 @@ Berikutnya, adalah menangani hardcopy:
 [64-cover-writer]:      {% postimage %}/pajak/2018/03/64-cover-writer.png
 
 [65-tanda-t-ppn]:       {% postimage %}/pajak/2018/03/65-tanda-terima-ppn.png
+
+
+
+[81-sse-ringkas]:       {% postimage %}/pajak/2018/03/81-pranala-sse-ringkas.png
+[Teliti-2018-SSE]:      {% postimage %}/pajak/2018/03/Teliti-2018-SSE.xlsx

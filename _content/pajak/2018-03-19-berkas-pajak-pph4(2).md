@@ -242,12 +242,20 @@ Uraian        : Setoran Masa PPh Pasal 4 Ayat 2 Final (jasa konstruksi)
 Nilai Bruto   : 35000000
 WP Dipotong   : PT. Tiga Jam Saja
 
-Tanggal Potong: 08 Januari 2021
+Tanggal Potong: 08 Januari 2017
 Tanggal Setor : -
 NTPN          : -
 
 -- selesai --
 ```
+
+Bentuk lembar kerja spreadsheetnya adalah sebagai berikut di bawah:
+
+![Berkas PPh 4(2): Draft SSE][82-sse-pph42]
+
+Berkas dapat diunduh di artikel mengenai kode billing.
+
+#### Kode Billing
 
 Contoh kode billing adalah sebagai berikut:
 
@@ -383,3 +391,5 @@ ke PPh pasal 23 yaitu:
 [54-doc-kode-ntpn]:     {% postimage %}/pajak/2018/03/54-doc-kode-ntpn.png
 
 [67-tanda-t-pph4(2)]:   {% postimage %}/pajak/2018/03/67-tanda-terima-pph4(2).png
+
+[82-sse-pph42]:         {% postimage %}/pajak/2018/03/82-pranala-sse-pph42.png

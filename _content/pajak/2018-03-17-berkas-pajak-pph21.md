@@ -240,6 +240,12 @@ NTPN          : -
 -- selesai --
 ```
 
+Bentuk lembar kerja spreadsheetnya adalah sebagai berikut di bawah:
+
+![Berkas PPh 21: Draft SSE][82-sse-pph21]
+
+Berkas dapat diunduh di artikel mengenai kode billing.
+
 #### Dokumentasi NTPN
 
 Setelah terjadi penyetoran,
@@ -364,3 +370,5 @@ Mari kita lanjutkan ke artikel berikutnya yaitu:
 [24-doc-pph21-iv]:      {% postimage %}/pajak/2018/03/24-doc-pph21-1172-IV.png
 
 [66-tanda-t-pph21]:     {% postimage %}/pajak/2018/03/66-tanda-terima-pph21.png
+
+[82-sse-pph21]:         {% postimage %}/pajak/2018/03/82-pranala-sse-pph21.png

@@ -227,12 +227,19 @@ Masa          : 01-01 2018
 Jumlah Setor  : 49500
 Uraian        : Setoran Masa PPh Pasal 23 atas Jasa Teknik
 
-Tanggal Potong: 07 Januari 2021
+Tanggal Potong: 07 Januari 2018
 Tanggal Setor : -
 NTPN          : -
 
 -- selesai --
 ```
+
+Bentuk lembar kerja spreadsheetnya adalah sebagai berikut di bawah:
+
+![Berkas PPh 23: Draft SSE][82-sse-pph23]
+
+Berkas dapat diunduh di artikel mengenai kode billing.
+
 
 #### Dokumentasi NTPN
 
@@ -244,8 +251,8 @@ maka kita lengkapi tiga baris isian yang kosong.
 -- 2018 - 01 - Januari --
 
 ...
-Tanggal Potong: 07 Januari 2021
-Tanggal Setor : 06 Februari 2021
+Tanggal Potong: 07 Januari 2017
+Tanggal Setor : 06 Februari 20
 NTPN          : X57X580YKL5A1J2K
 
 -- selesai --
@@ -310,3 +317,4 @@ yang perlu kita bahas:
 [32-doc-pph23-dbp]:     {% postimage %}/pajak/2018/03/32-doc-pph23-dbp.png
 [32-doc-pph23-bupot]:   {% postimage %}/pajak/2018/03/32-doc-pph23-bupot.png
 
+[82-sse-pph23]:         {% postimage %}/pajak/2018/03/82-pranala-sse-pph23.png

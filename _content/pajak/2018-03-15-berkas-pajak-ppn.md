@@ -225,7 +225,7 @@ Kita akan bahas rincian di artikel lain.
 
 Untuk menghindari kesalahan saat melakukan pembayaran PPn.
 Maka kita perlu membuat draft.
-Untuk kemudia *di-copy-paste-kan* ke kode billing.
+Untuk kemudian *di-copy-paste-kan* ke kode billing.
 
 Dokumentasi yang baik adalah wajib saat kerja team,
 misalnya saat berkomunikasi dengan rekan di whatsapp,
@@ -244,7 +244,7 @@ PPn           : Rp. 6.000.000,-
 Jenis Pajak   : 411211
 Jenis Setoran : 100
 Masa          : 01-01 2018
-Jumlah Setor  : 600000
+Jumlah Setor  : 6000000
 Uraian        : Setoran Masa PPn Dalam Negeri
 
 NTPN          : -
@@ -258,15 +258,22 @@ Karena fungsi berbeda:
 * Nominal dengan titik: Misalnya `Rp. 6.000.000,-`
   Supaya jelas dibaca atasan atau rekan.
 
-* Nominal tanpa titik: Misalnya `600000`
+* Nominal tanpa titik: Misalnya `6000000`
   Supaya dapat langsung di-copy-paste-kan
   ke formulir kode billing (SSE3).
   
 Mengapa dibikin di text, bukan di excel?
-
-Supaya mudah di-copy paste di whatsapp.
+Tadinya supaya mudah di-copy paste di whatsapp.
 Kalau komunikasi, cukup pakai cara praktis saja.
 Tidak perlu terlalu formal.
+
+Bagaimanapun, kalau mau dibikin di excel bisa saja.
+Repot sedikit, namun lebih cantik,
+dan lebih mudah dibaca atasan.
+
+![Berkas PPn: Draft SSE][82-sse-ppn]
+
+Berkas dapat diunduh di artikel mengenai kode billing.
 
 #### Dokumentasi NTPN
 
@@ -380,3 +387,5 @@ Mari kita lanjutkan ke artikel berikutnya yaitu:
 [13-doc-ppn-1111-B3]:   {% postimage %}/pajak/2018/03/13-doc-ppn-1111-B3.png
 
 [65-tanda-t-ppn]:       {% postimage %}/pajak/2018/03/65-tanda-terima-ppn.png
+
+[82-sse-ppn]:           {% postimage %}/pajak/2018/03/82-pranala-sse-ppn.png
