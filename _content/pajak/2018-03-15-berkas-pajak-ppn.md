@@ -28,9 +28,18 @@ Namun pada saatnya akan saya bahas,
 yaitu cara membuat rekapitulasi yang tepat,
 di lembar kerja spreadsheet.
 
+Untuk keperluan internal,
+fokus kita adalah pengarsipan pelaporan PPn.
+Sedangkan untuk keperluan keluar,
+yaitu customer atau vendor,
+maka fokus kita adalah pengarsipan faktur,
+yang ini sangat terkait dengan referensi nomor invoice-nya.
+
 ### Daftar Isi
 
 * [Prakata](#prakata): Daftar Isi
+
+* [Ringkasan](#ringkasan)
 
 * [1: Formulir Induk: 1111](#induk)
 
@@ -42,6 +51,8 @@ di lembar kerja spreadsheet.
 
 -- -- --
 
+<a name="ringkasan"></a>
+
 ## Ringkasan
 
 Jantung yang menghidupi perusahaan berisi aliran dana.
@@ -52,6 +63,12 @@ Bersama invoice selalu ada faktur pajak yang mendampingi.
 
 Setelah saya pikir-pikir,
 ini bukan analogi yang tepat xixixi.
+
+### Akses Berkas
+
+Mengambil berkas PPn ini harus melalui software e-faktur.
+
+Akan berubah di tahun-tahun mendatang.
 
 ### Penampakan
 

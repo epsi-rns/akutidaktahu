@@ -33,6 +33,8 @@ karena data yang saya miliki, tidak cukup untuk dijadikan bahan riset.
 
 * [Prakata](#prakata): Daftar Isi
 
+* [Ringkasan](#ringkasan)
+
 * [1: Formulir Induk: SPT Masa](#induk)
 
 * [2: Formulir Lampiran](#lampiran)
@@ -42,6 +44,8 @@ karena data yang saya miliki, tidak cukup untuk dijadikan bahan riset.
 * [Apa Selanjutnya?](#selanjutnya)
 
 -- -- --
+
+<a name="ringkasan"></a>
 
 ## Ringkasan
 
@@ -55,6 +59,12 @@ _Mungkin ada PPh lain, saya kurang tahu.
 Tanya saja yang sudah lulus Brevet pajak. xixixi._
 
 Mari kita bahas mulai dari PPh 4 pasal 2 dahulu.
+
+### Akses Berkas
+
+Mengambil berkas PPn ini harus melalui software eSPT PPh 4(2).
+
+Akan berubah di tahun-tahun mendatang.
 
 ### Penampakan
 
@@ -239,11 +249,21 @@ NTPN          : -
 -- selesai --
 ```
 
+Contoh kode billing adalah sebagai berikut:
+
+![Berkas PPh 4(2): Kode Billing][52-doc-kode-billing]
+
+Kode pajak juga macam-macam, misalnya sewa bangunan adalah `409`.
+Dapat dicari selengkapnya di internet.
+
 #### Dokumentasi NTPN
 
 Setelah terjadi penyetoran,
-dan kita dapatkan nomor NTPN dari bank,
-maka kita lengkapi tiga baris isian yang kosong.
+dan kita dapatkan nomor NTPN dari bank.
+
+![Berkas PPh 4(2): NTPN][54-doc-kode-ntpn]
+
+Maka kita lengkapi tiga baris isian yang kosong.
 
 ```
 -- 2018 - 01 - Januari --
@@ -358,5 +378,8 @@ ke PPh pasal 23 yaitu:
 [42-doc-pph4(2)-bupot]: {% postimage %}/pajak/2018/03/42-doc-pph4(2)-bupot.png
 [42-doc-pph4(2)-dbp]:   {% postimage %}/pajak/2018/03/42-doc-pph4(2)-dbp.png
 [42-doc-pph4(2)-induk]: {% postimage %}/pajak/2018/03/42-doc-pph4(2)-induk.png
+
+[52-doc-kode-billing]:  {% postimage %}/pajak/2018/03/52-doc-kode-billing.png
+[54-doc-kode-ntpn]:     {% postimage %}/pajak/2018/03/54-doc-kode-ntpn.png
 
 [67-tanda-t-pph4(2)]:   {% postimage %}/pajak/2018/03/67-tanda-terima-pph4(2).png

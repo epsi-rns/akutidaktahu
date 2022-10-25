@@ -338,23 +338,3 @@ Mari kita lanjutkan ke artikel berikutnya yaitu:
 [71-cover-writer]:      {% postimage %}/pajak/2018/03/71-cover-writer.png
 [72-folder-lengkap]:    {% postimage %}/pajak/2018/03/72-folder-lengkap.png
 [73-2017-flow]:         {% postimage %}/pajak/2018/03/73-2017-flow.png
-
-
-
-
-
-
-
-
-[51-pdf-billing]:       {% postimage %}/pajak/2018/03/51-pdf-billing.png
-[52-doc-kode-billing]:  {% postimage %}/pajak/2018/03/52-doc-kode-billing.png
-[53-pdf-ntpn]:          {% postimage %}/pajak/2018/03/53-pdf-ntpn.png
-[54-doc-kode-ntpn]:     {% postimage %}/pajak/2018/03/54-doc-kode-ntpn.png
-
-[64-cover-pdf]:         {% postimage %}/pajak/2018/03/64-cover-pdf.png
-[64-cover-writer]:      {% postimage %}/pajak/2018/03/64-cover-writer.png
-[65-e-filling-01]:      {% postimage %}/pajak/2018/03/65-e-filling-01.png
-[65-e-filling-02]:      {% postimage %}/pajak/2018/03/65-e-filling-02.png
-
-
-

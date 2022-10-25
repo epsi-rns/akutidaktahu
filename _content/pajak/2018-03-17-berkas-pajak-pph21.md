@@ -32,6 +32,8 @@ di lembar kerja spreadsheet.
 
 * [Prakata](#prakata): Daftar Isi
 
+* [Ringkasan](#ringkasan)
+
 * [1: Formulir Induk: 1721](#induk)
 
 * [2: Formulir Lampiran](#lampiran)
@@ -42,11 +44,19 @@ di lembar kerja spreadsheet.
 
 -- -- --
 
+<a name="ringkasan"></a>
+
 ## Ringkasan
 
 PPh yang sering dipakai dan harus dipahami pemula adalah PPh pasal 21.
 
 Formulir ini juga mengurus PPh pasal 26.
+
+### Akses Berkas
+
+Mengambil berkas PPn ini harus melalui software eSPT PPh 21.
+
+Akan berubah di tahun-tahun mendatang.
 
 ### Penampakan
 

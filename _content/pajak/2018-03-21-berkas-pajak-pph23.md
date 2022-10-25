@@ -33,6 +33,8 @@ karena data yang saya miliki, tidak cukup untuk dijadikan bahan riset.
 
 * [Prakata](#prakata): Daftar Isi
 
+* [Ringkasan](#ringkasan)
+
 * [1: Formulir Induk: SPT Masa](#induk)
 
 * [2: Formulir Lampiran](#lampiran)
@@ -43,11 +45,19 @@ karena data yang saya miliki, tidak cukup untuk dijadikan bahan riset.
 
 -- -- --
 
+<a name="ringkasan"></a>
+
 ## Ringkasan
 
 PPh 23 adalah pajak penghasilan,
 selain yang dipotong atau dipungut oleh PPh 21.
 PPh yang final ada di PPh 4 ayat 2.
+
+### Akses Berkas
+
+Mengambil berkas PPn ini harus melalui software eSPT PPh 23.
+
+Akan berubah di tahun-tahun mendatang.
 
 ### Penampakan
 
