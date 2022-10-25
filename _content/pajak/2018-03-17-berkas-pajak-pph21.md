@@ -285,7 +285,7 @@ Karena bisa saja orang lain membutuhkan,
 lampiran tersebut tanpa kita sadari.
 
 Tiap jenis pajak template berbeda.
-Misalnya untuk PPn adalah:
+Misalnya untuk PPh pasal 21 adalah:
 
 ```
 (teliti) Lapor PPh 21, Masa Januari 2018 (pembetulan 1)

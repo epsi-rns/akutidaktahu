@@ -96,21 +96,29 @@ Kita dapat membayarkan PPh pasal 4 ayat 2 dengan dua cara:
   Ini lebih praktis.
 
 Saya biasanya memilih cara pertama,
-walaupunb dengan begini, kode billingnya jadi banyak.
+walaupun dengan begini, kode billingnya jadi banyak.
 
 Bilamana perlu kita bikin kode billing-nya,
 lalu kita arsipkan dengan rapi:
 
 * Kode Billing:
-  `(teliti) 2018 - 01 - Cetakan Kode Billing - PPh 4(2) - 01 - Final (jasa)`
+  `(teliti) 2018 - 01 - Cetakan Kode Billing - PPh 4(2) - 01 - Final (jasa).pdf`
 
 Apabila penamaan terlalu panjang dapat disingkat menjadi
 
 * Kode Billing (singkat):
-  `(teliti) 2018 - 01 - Billing - PPh 4(2) - 01`
+  `(teliti) 2018 - 01 - Billing - PPh 4(2) - 01.pdf`
+  
+Kalau jaman `djadeol` dahulu, namanya `cetakSSP`.
 
 Yang penting ada penjelasannya, ini billing untuk apa.
 Dalam contoh di atas nomor urutan billing.
+
+Untuk para bos yang membayar billingnya,
+mohon hasil jangan difoto, karena akan menyulitkan admin,
+dalam melakukan dokumentasi.
+Setidaknya screenshot,
+walaupun idealnya adalah pdf aslinya dari bank.
 
 ### Tata Nama Pembetulan
 
@@ -133,7 +141,7 @@ sebagai admin kita bebas berkreasi.
 Sebagai karyawan, kita mengikuti pola,
 yang diatur kantor masing-masing.
 
-### Rincian Formulir PPh pasal 4 ayat 2
+### Rincian Formulir PPh pasal 23
 
 Keterangan di atas sudah cukup rinci,
 sehingga tidak perlu dijelaskan lagi.
@@ -158,7 +166,7 @@ Maka sengaja saya bikin singkat.
 
 Formulir induk bentuknya seperti inidi bawah:
 
-![Berkas PPh 4(2): Form Masa Pajak Induk][42-doc-pph4(2)-i]
+![Berkas PPh 4(2): Form Masa Pajak Induk][42-doc-pph4(2)-induk]
 
 -- -- --
 
@@ -179,7 +187,7 @@ Dan berikut penampakan lampirannya.
 Tanggung jawab pemungut untuk,
 memberikan bukti potong ini kepada vendor atau pemasok.
 
-![Berkas PPh 21: Form 1721 IV][42-doc-pph4(2)-bupot]
+![Berkas PPh 4(2): Bukti Potong][42-doc-pph4(2)-bupot]
 
 Yang menarik adalah bukti potong ini dapat dibikin, sebelum kita membayar.
 Artinya kita dapat memberikan terlebih dahulu kepada pemasok.
@@ -211,6 +219,9 @@ Yang isinya adalah:
 
 ```
 -- 2021 - 01 - Januari --
+
+PT Satu Jam Saja
+NPWP: ...
 
 Jenis Pajak   : 411128
 Jenis Setoran : 409
@@ -248,7 +259,7 @@ NTPN          : X57X580YKL5A1J2K
 Tanggal potong, tanggal setor,
 beserta Nomor NTPN ini yang akan,
 kita masukkan sebagai input,
-di Formulir pajak masa PPh pasal 4 ayat 2..
+di Formulir pajak masa PPh pasal 4 ayat 2.
 
 #### Tanda Terima
 
@@ -276,7 +287,7 @@ Karena bisa saja orang lain membutuhkan,
 lampiran tersebut tanpa kita sadari.
 
 Tiap jenis pajak template berbeda.
-Misalnya untuk PPn adalah:
+Misalnya untuk PPh Final pasal 4 ayat 2 adalah:
 
 ```
 (teliti) Lapor PPh Final 4(2), Masa Januari 2018 (pembetulan 1)
@@ -306,8 +317,6 @@ Demikian pelaporan yang telah dikerjakan.
 //BR ~admingalak
 
 ```
-
-Demikian pelaporan yang telah dikerjakan.
 
 #### Otomasi
 
@@ -348,6 +357,6 @@ ke PPh pasal 23 yaitu:
 [41-pdf-pph4(2)]:       {% postimage %}/pajak/2018/03/41-pdf-pph4(2).png
 [42-doc-pph4(2)-bupot]: {% postimage %}/pajak/2018/03/42-doc-pph4(2)-bupot.png
 [42-doc-pph4(2)-dbp]:   {% postimage %}/pajak/2018/03/42-doc-pph4(2)-dbp.png
-[42-doc-pph4(2)-i]:     {% postimage %}/pajak/2018/03/42-doc-pph4(2)-induk.png
+[42-doc-pph4(2)-induk]: {% postimage %}/pajak/2018/03/42-doc-pph4(2)-induk.png
 
 [67-tanda-t-pph4(2)]:   {% postimage %}/pajak/2018/03/67-tanda-terima-pph4(2).png

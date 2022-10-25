@@ -25,6 +25,8 @@ Kalau mau menguji apakah administrasi perusahaan bobrok atau baik,
 mintalah sebuah berkas yang umum,
 dan lihat seberapa cepat admin dapat menemukannya.
 
+"_Kelola atau lola (loading lambat)_!"
+
 Artikel ini disiapkan untuk internal kantor.
 Karena pada dasarnya, kebutuhan administrasi yang rapi adalah,
 kebutuhan kantor itu sendiri.
@@ -42,9 +44,11 @@ Kalau berurusan dengan AR pajak, penulis juga tidak berpengalaman.
 
 * [3: Berkas Utama](#utama)
 
+* [Catatan Tambahan](#tambahan)
+
 * [Apa Selanjutnya?](#selanjutnya)
 
---
+-- -- --
 
 <a name="firstclass"></a>
 
@@ -271,6 +275,46 @@ bukan termasuk artikel berseri ini.
 
 -- -- --
 
+<a name="tambahan"></a>
+
+## Catatan Tambahan
+
+### Mengapa Media Artikel?
+
+> Mengapa bukan buku berbayar, atau SOP kantor sekalian?
+
+Saya ambil praktis untuk keperluan tanya jawab di komunitas.
+Dan mudah diakses oleh kantor mana saja.
+Supaya kalau ada pertanyaan, saya tinggal berikan link,
+atau bahkan comot gambar seperlunya.
+Kalau perlu screenshot dari handphone.
+
+Harap maklum, men-transfer ilmu pengetahuan tidaklah mudah.
+Saat membuat materi harus berpikir rumit-lengkap,
+layaknya coder yang membikin aplikasi,
+karena yang diciptakan memang sistem.
+Sementara saat menuang tulisan di blog harus langkah demi langkah,
+bagaikan membimbing anak sekolah dasar.
+
+Saya tidak meremehkan kemampuan pembaca,
+namun ada saja satu dua pembaca yang gagal paham,
+tentang materi tertentu.
+Ini tidak dapat saya abaikan,
+makanya saya bikin langkah demi langkah,
+di media blog yang mudah diakses.
+
+### Keuntungan
+
+> Mari maju bersama
+
+Jangan lupa, semua gratis, tidak dipungut biaya.
+Supaya karyawan seperti kita sama-sama maju.
+
+Saya tidak berniat mencari penghasilan dari berbagi ilmu.
+Dari adsense sekalipun tidak.
+
+-- -- --
+
 <a name="selanjutnya"></a>
 
 ## Apa Selanjutnya?
@@ -298,10 +342,7 @@ Mari kita lanjutkan ke artikel berikutnya yaitu:
 
 
 
-[31-pdf-pph23]:         {% postimage %}/pajak/2018/03/31-pdf-pph23.png
-[32-doc-pph23-bupot]:   {% postimage %}/pajak/2018/03/32-doc-pph23-bupot.png
-[32-doc-pph23-dbp]:     {% postimage %}/pajak/2018/03/32-doc-pph23-dbp.png
-[32-doc-pph23-induk]:   {% postimage %}/pajak/2018/03/32-doc-pph23-induk.png
+
 
 
 
