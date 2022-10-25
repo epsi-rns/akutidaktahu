@@ -177,7 +177,7 @@ Contoh yang saya bikin adalah seperti ini:
 
 ![Berkas Pendukung: Cover][64-cover-writer]
 
-Cukup modah koq, kalau sudah ada template,
+Cukup mudah, kalau sudah ada template,
 dua menit sudah jadi cover baru, sesuai jenis pajaknya.
 Lalu jadi halaman depan yang kita butuhkan.
 
