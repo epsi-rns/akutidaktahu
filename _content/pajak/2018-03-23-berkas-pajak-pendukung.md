@@ -113,6 +113,14 @@ Dalam satu masa, bisa ada beberapa jenis pajak sekaligus.
 
 ![Berkas Pendukung: Draft Surat Setoran Elektronik][81-sse-ringkas]
 
+Walaupun sifatnya adalah pranala (draft),
+namun cukup cantique untuk dijadikan,
+summary (ringkasan) pembayaran pajak tahunan,
+di ordner (map arsip besar).
+Sedangkan mengenai bagaimana kelengkapannya,
+terserah perusahaan masing-masing,
+untuk menentukan bentuk formulirnya.
+
 ### Bukti Penerimaan Negeri
 
 Dari berkas BPN bank, selalu ada NTPN-nya.
