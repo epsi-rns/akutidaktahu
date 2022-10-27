@@ -7,7 +7,7 @@ tags      : [pajak]
 keywords  : [arsip, folder]
 
 toc       : "toc/berkaspajak.njk"
-opengraphimage: "assets/posts/pajak/2018/03/31-pdf-pph23.png"
+opengraphimage: "assets/posts/pajak/2018/03/96-bagi-folder.jpg"
 
 excerpt   : Tips mengarsipkan berkas hasil cetak
 
