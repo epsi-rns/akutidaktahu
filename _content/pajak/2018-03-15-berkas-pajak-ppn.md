@@ -221,7 +221,12 @@ Kita akan bahas rincian di artikel lain.
 
 ### 3: Kebutuhan Internal
 
-#### Draft Kode Billing
+#### Draft Kode Billing: Teks
+
+> Cara lama
+
+Ini cara lama yang tidak saya pakai lagi.
+Saya taruh di sini, supaya mudah di-copy-paste.
 
 Untuk menghindari kesalahan saat melakukan pembayaran PPn.
 Maka kita perlu membuat draft.
@@ -267,13 +272,18 @@ Tadinya supaya mudah di-copy paste di whatsapp.
 Kalau komunikasi, cukup pakai cara praktis saja.
 Tidak perlu terlalu formal.
 
+#### Draft Kode Billing: Gambar
+
 Bagaimanapun, kalau mau dibikin di excel bisa saja.
 Repot sedikit, namun lebih cantik,
 dan lebih mudah dibaca atasan.
 
+Berkas dapat diunduh di artikel mengenai kode billing.
+
 ![Berkas PPn: Draft SSE][82-sse-ppn]
 
-Berkas dapat diunduh di artikel mengenai kode billing.
+Bentuk teks memang nyaman untuk membikin draft,
+setelah jadi, selalu usahakan dijadikan bentuk teks.
 
 #### Dokumentasi NTPN
 

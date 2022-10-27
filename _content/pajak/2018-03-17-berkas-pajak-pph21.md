@@ -203,7 +203,12 @@ Kita akan bahas rincian di artikel lain.
 
 ### 3: Kebutuhan Internal
 
-#### Draft Kode Billing
+#### Draft Kode Billing: Teks
+
+> Cara lama
+
+Ini cara lama yang tidak saya pakai lagi.
+Saya taruh di sini, supaya mudah di-copy-paste.
 
 Untuk menghindari kesalahan saat melakukan pembayaran PPn.
 Maka kita perlu membuat draft.
@@ -239,6 +244,8 @@ NTPN          : -
 
 -- selesai --
 ```
+
+#### Draft Kode Billing: Gambar
 
 Bentuk lembar kerja spreadsheetnya adalah sebagai berikut di bawah:
 

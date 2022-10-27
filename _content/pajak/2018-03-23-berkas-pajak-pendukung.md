@@ -219,8 +219,7 @@ Berikutnya, adalah menangani hardcopy:
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[local-whats-temp]:     /pajak/2018/03/25/berkas-pajak-hardcopy.html
-[local-whats-next]:     /pajak/2019/05/01/berkas-pajak-enofa.html
+[local-whats-next]:     /pajak/2018/03/25/berkas-pajak-hardcopy.html
 
 [51-pdf-billing]:       {% postimage %}/pajak/2018/03/51-pdf-billing.png
 [52-doc-kode-billing]:  {% postimage %}/pajak/2018/03/52-doc-kode-billing.png

@@ -197,7 +197,12 @@ setelah memberikan bukti potong kepada penyedia jasa ini.
 
 ### 3: Kebutuhan Internal
 
-#### Draft Kode Billing
+#### Draft Kode Billing: Teks
+
+> Cara lama
+
+Ini cara lama yang tidak saya pakai lagi.
+Saya taruh di sini, supaya mudah di-copy-paste.
 
 Untuk menghindari kesalahan saat melakukan pembayaran PPn.
 Maka kita perlu membuat draft.
@@ -234,12 +239,13 @@ NTPN          : -
 -- selesai --
 ```
 
+#### Draft Kode Billing: Gambar
+
 Bentuk lembar kerja spreadsheetnya adalah sebagai berikut di bawah:
 
 ![Berkas PPh 23: Draft SSE][82-sse-pph23]
 
 Berkas dapat diunduh di artikel mengenai kode billing.
-
 
 #### Dokumentasi NTPN
 
