@@ -193,7 +193,7 @@ Tidak semua berkas mesti disimpan.
 Yang sudah lebih dari satu dekade dapat dipindahkan,
 supaya ordner dan lemari dapat dipakai untuk berkas baru.
 
-Namun beberapa berkas yang pujya nilai historis dari kantor,
+Namun beberapa berkas yang memiliki nilai sejarah dari kantor,
 tetap saya simpan.
 
 ![Cetak Hardcopy: Nilai Historis][98-folder-tua]
