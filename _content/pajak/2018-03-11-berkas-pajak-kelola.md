@@ -109,6 +109,22 @@ Kemudian yang terkait dengan akunting.
 Lengkap dengan dokumentasi perhitungan supaya tidak ada yang tercecer.
 Dan diakhiri dengan analisa dan visualisasi.
 
+### Mulai dari dasar
+
+> Ini artikel berseri untuk pemula
+
+Artikel Berseri ini adalah dasar.
+Artikel berseri mendasar yang satu lagi,
+adalah bekerja dengan lembar kerja spreadsheet.
+
+Mengapa dimulai dari yang sederhana, dan recehan?
+supaya pada saatnya artikel membahas hal yang kompleks,
+kita dapat berfokus pade materi.
+
+Supaya nantinya saya tidak perlu terganggu kewajiban,
+untuk menjelaskan hal-hal dasar yang itu-itu lagi di tiap artikel.
+Karena sudah saya jelaskan dari awal.
+
 ### Penerapan Sistem
 
 > Dalam praktek tidak perlu ideal
