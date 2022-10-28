@@ -126,8 +126,8 @@ Maka pakailah yang perlu-perlu saja.
 
 Tugas artikel ini adalah memudahkan,
 bukan menjadikan rumit.
-Sayapun lihat-lihat situasi dan kondisi,
-kalau mau menerapkan sesuatu.
+Sayapun akan melihat-lihat situasi dan kondisi terlebih dahulu,
+sebelum menerapkan sesuatu.
 Kalau perlu menunggu bulanan sampai saatnya tepat.
 
 _Kalau ada waktu senggang, lengkapi!_
@@ -280,6 +280,16 @@ bukan termasuk artikel berseri ini.
 <a name="tambahan"></a>
 
 ## Catatan Tambahan
+
+### Panduan Resmi
+
+Artikel ini bukan panduan resmi.
+Dan sifatnya hanya berbagi pengalaman saja.
+
+Untuk hal yang terkait peraturan pajak,
+silahkan mengikuti perundangan yang berlaku.
+Sementara mengenai pelaksanaan pajak,
+dapat ditanyakan kepada ahilnya di DJP.
 
 ### Mengapa Media Artikel?
 

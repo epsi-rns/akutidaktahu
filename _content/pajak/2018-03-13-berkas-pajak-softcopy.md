@@ -51,6 +51,8 @@ Dan sedikit tambahan yaitu
 
 * [3: Kebutuhan Internal](#internal)
 
+* [Catatan Tambahan](#tambahan)
+
 * [Apa Selanjutnya?](#selanjutnya)
 
 -- -- --
@@ -422,6 +424,28 @@ Ada beberapa backup yang biasanya dilakukan:
 
 Kebijakan backup ini,
 terserah masing-masing kantor.
+
+-- -- --
+
+<a name="tambahan"></a>
+
+## Catatan Tambahan
+
+### Senjata Admin.
+
+> Snipping Tools!
+
+Siapkan diri untuk terbiasa melakukan screenshot.
+
+### Backup
+
+Dua tempat. Dan lakukan berkala. Misalnya:
+
+1. External HDD.
+
+2. Cloud: misalnya Dropbox. Atau Mega kalau sudah naik pangkat.
+
+3. Taruh hasil kerja di komputer atasan supaya dapat di-review.
 
 -- -- --
 

@@ -28,7 +28,8 @@ Kita mesti _well prepared_ mengenai hal ini.
 Atau siap-siap saja tidak dapat melakukan transaksi,
 apda saat sudah ada proyek.
 
-Kedua hal tersebut harus dilakukan secara online melalui e-Nofa.
+Kedua hal tersebut harus dilakukan secara online,
+melalui situs e-Nofa (nomor faktur).
 
 ### Daftar Isi
 
