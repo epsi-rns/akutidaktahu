@@ -84,7 +84,8 @@ Mari kita lihat lagi isi folder PPn.
 
 ![Berkas PPn: Folder][05-folder-ppn]
 
-Ada dua berkas utama, dan pelaporan, yaitu:
+Ada dua berkas utama yaitu induk dan lampiran,
+dan kemudian ada juga berkas pelaporan csv-nya, yaitu:
 
 1. Induk:
    `0814435180110000101201800F1232040111INDUK.pdf`
@@ -201,7 +202,7 @@ Dan berikut penampakan lampirannya.
 ### Lampiran B2
 
 > Daftar Pajak Masukan yang Dapat Dikreditkan
-> atas PErolehan BKP/JKP Dalam Negeri
+> atas Perolehan BKP/JKP Dalam Negeri
 
 ![Berkas PPn: Form 1111 B2][13-doc-ppn-1111-B2]
 

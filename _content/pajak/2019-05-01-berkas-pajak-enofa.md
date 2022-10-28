@@ -57,11 +57,13 @@ juga dibutuhkan sertifikat elektronik,
 karena itu harus mengurus e-Fin
 terlebih dahulu juga ke kantor pajak.
 
-### Login
-
-Setelah diberikan password maka kita dapat login ke
+### Alamat URL Situs
 
 * [efaktur.pajak.go.id](https://efaktur.pajak.go.id)
+
+### Login
+
+Setelah diberikan password maka kita dapat login
 
 ![e-Nofa: Login][01-e-nofa-login]
 
