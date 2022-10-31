@@ -1,22 +1,22 @@
 ---
 layout    : post
 title     : Berkas Pajak - Mengelola Arsip
-date      : 2018-03-11 09:17:35
+date      : 2018-02-05 09:17:35
 slug      : berkas-pajak-kelola
 tags      : [pajak]
-keywords  : [arsip, folder]
+keywords  : [arsip, tata kelola]
 
 toc       : "toc/berkaspajak.njk"
 opengraphimage: "assets/posts/pajak/2018/03/64-cover-writer.png"
 
-excerpt   : Mempersiapkan Folder untuk Bekerja dengan Arsip Pajak.
+excerpt   : Pengantar pengelolaan arsip pajak bagi admin di perusahaan.
 ---
 
 <a name="prakata"></a>
 
 ## Prakata
 
-> Mempersiapkan Folder untuk Bekerja dengan Arsip Pajak.
+> Pengantar pengelolaan arsip pajak bagi admin di perusahaan.
 
 Tugas admin adalah menyiapkan sistem.
 Yaitu membuat tata kelola supaya arsip dapat segera diakses dengan cepat.
@@ -386,7 +386,7 @@ Mari kita lanjutkan ke artikel berikutnya yaitu:
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[local-whats-next]:     /pajak/2018/03/13/berkas-pajak-softcopy.html
+[local-whats-next]:     /pajak/2018/02/07/berkas-pajak-softcopy.html
 
 [11-pdf-ppn]:           {% postimage %}/pajak/2018/03/11-pdf-ppn.png
 [21-pdf-pph21]:         {% postimage %}/pajak/2018/03/21-pdf-pph21.png

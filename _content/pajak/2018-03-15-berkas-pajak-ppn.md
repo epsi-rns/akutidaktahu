@@ -4,7 +4,7 @@ title     : Berkas Pajak - Arsip PPn
 date      : 2018-03-15 09:17:35
 slug      : berkas-pajak-ppn
 tags      : [pajak]
-keywords  : [arsip, folder]
+keywords  : [arsip, ppn]
 
 toc       : "toc/berkaspajak.njk"
 opengraphimage: "assets/posts/pajak/2018/03/11-pdf-ppn.png"
@@ -46,6 +46,8 @@ yang ini sangat terkait dengan referensi nomor invoice-nya.
 * [2: Formulir Lampiran](#lampiran)
 
 * [3: Kebutuhan Internal](#internal)
+
+* [4: Contoh Kasus](#contohkasus)
 
 * [Apa Selanjutnya?](#selanjutnya)
 
@@ -368,6 +370,45 @@ Demikian pelaporan yang telah dikerjakan.
 
 -- -- --
 
+<a name="contohkasus"></a>
+
+## 4: Contoh Kasus
+
+> PKP: Dengan PPn
+
+Contoh kasus yang sebetulnya masih sederhana,
+adalah ketika terjadi PPn saja.
+Namun belum ada PPh 23 yang seharusnya dipungut.
+
+### Transaksi Penjualan
+
+`PT. Teliti Telaten Tekun` yang masih berstatus PKP,
+menjual jasa teknik kepada perusahaan `PT. Simetri Sama Sisi`.
+
+![Contoh Kasus: Penjualan][13-case-02p]
+
+Di sini terjadi PPn keluaran.
+
+### Transaksi Pembelian
+
+Dan dalam pelaksanaannya pekerjaan tersebut dikerjakan,
+oleh perusahaan PKP yaitu `PT. Tiga Jam Saja`.
+
+![Contoh Kasus: Pembelian][13-case-02h]
+
+Di sini terjadi PPn masukan,
+yang dapat menjadi pengurang pajak.
+
+### Tiga Event Kejadian
+
+Tiap-tiap transaksi, ada dua event kejadian.
+1. Saat terjadi tagihan invoice penjualan/pembelian.
+2. Terjadinya Faktur Pajak,
+   yang tanggalnya sama dengan tanggal invoice.
+3. Saat terjadi pembayaran ke/dari bank.
+
+-- -- --
+
 <a name="selanjutnya"></a>
 
 ## Apa Selanjutnya?
@@ -400,3 +441,6 @@ Mari kita lanjutkan ke artikel berikutnya yaitu:
 [65-tanda-t-ppn]:       {% postimage %}/pajak/2018/03/65-tanda-terima-ppn.png
 
 [82-sse-ppn]:           {% postimage %}/pajak/2018/03/82-pranala-sse-ppn.png
+
+[13-case-02p]:          {% postimage %}/pajak/2018/05/13-case-02p.png
+[13-case-02h]:          {% postimage %}/pajak/2018/05/13-case-02h.png

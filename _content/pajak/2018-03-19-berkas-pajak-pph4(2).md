@@ -4,7 +4,7 @@ title     : Berkas Pajak - Arsip PPh 4(2)
 date      : 2018-03-19 09:17:35
 slug      : berkas-pajak-pph42
 tags      : [pajak]
-keywords  : [arsip, folder]
+keywords  : [arsip, pph 4(2)]
 
 toc       : "toc/berkaspajak.njk"
 opengraphimage: "assets/posts/pajak/2018/03/41-pdf-pph4(2).png"
@@ -42,6 +42,8 @@ karena data yang saya miliki, tidak cukup untuk dijadikan bahan riset.
 * [3: Kebutuhan Internal](#internal)
 
 * [4: Potong Pungut](#potput)
+
+* [5: Contoh Kasus](#contohkasus)
 
 * [Apa Selanjutnya?](#selanjutnya)
 
@@ -421,6 +423,19 @@ Ini dapat saja dilakukan, namun terminologi yang dipakai berbeda, bukan memotong
 
 -- -- --
 
+<a name="contohkasus"></a>
+
+## 5: Contoh Kasus
+
+### Menyewa Ruang Kantor
+
+Berikut contoh sederhana menyewa ruang kantor,
+kepada pemilik perseorangan.
+
+![Contoh Kasus: Sewa Gedung/Bangunan][11-case-06]
+
+-- -- --
+
 <a name="selanjutnya"></a>
 
 ## Apa Selanjutnya?
@@ -446,3 +461,5 @@ ke PPh pasal 23 yaitu:
 [67-tanda-t-pph4(2)]:   {% postimage %}/pajak/2018/03/67-tanda-terima-pph4(2).png
 
 [82-sse-pph42]:         {% postimage %}/pajak/2018/03/82-pranala-sse-pph42.png
+
+[11-case-06]:           {% postimage %}/pajak/2018/05/11-case-06.png

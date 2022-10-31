@@ -4,7 +4,7 @@ title     : Berkas Pajak - Arsip PPh 23
 date      : 2018-03-21 09:17:35
 slug      : berkas-pajak-pph23
 tags      : [pajak]
-keywords  : [arsip, folder]
+keywords  : [arsip, pph 23]
 
 toc       : "toc/berkaspajak.njk"
 opengraphimage: "assets/posts/pajak/2018/03/31-pdf-pph23.png"
@@ -42,6 +42,8 @@ karena data yang saya miliki, tidak cukup untuk dijadikan bahan riset.
 * [3: Kebutuhan Internal](#internal)
 
 * [4: Potong Pungut](#potput)
+
+* [5: Contoh Kasus](#contohkasus)
 
 * [Apa Selanjutnya?](#selanjutnya)
 
@@ -352,6 +354,79 @@ Ini dapat saja dilakukan, namun terminologi yang dipakai berbeda, bukan memotong
 
 -- -- --
 
+<a name="contohkasus"></a>
+
+## 5: Contoh Kasus
+
+### Non-PKP
+
+> Non-PKP: Tanpa PPn, dengan PPh 23.
+
+* Transaksi Penjualan
+
+Dalam kasus ini asumsinya adalah tercatat jelas di tagihan invoice,
+bahwa `PT Teliti Telaten Tekun` *dipotong* PPh 23,
+sehingga nilai yang ditagihkan lebih kecil dari nilai penjualan.
+
+![Contoh Kasus: Penjualan][13-case-03p]
+
+* Transaksi Pembelian
+
+Juga dalam kasus ini asumsinya adalah tercatat jelas di tagihan invoice,
+bahwa `PT Teliti Telaten Tekun` *memotong* PPh 23,
+sehingga nilai yang ditagihkan lebih kecil dari nilai pembelian.
+
+![Contoh Kasus: Pembelian][13-case-03h]
+
+### PKP
+
+> PKP: Dengan PPn, dengan PPh 23.
+
+* Transaksi Penjualan
+
+Idem di atas, namun terjadi PPn keluaran.
+
+![Contoh Kasus: Penjualan][13-case-04p]
+
+* Transaksi Pembelian
+
+Idem di atas, namun terjadi pula PPn masukan.
+
+![Contoh Kasus: Pembelian][13-case-04h]
+
+### PPh 23 Belakangan
+
+> Praktek di Lapangan
+
+Pada prakteknya di lapangan,
+seringkali tidak semanis di atas kertas.
+
+Seringkali ada pemotongan yang tiba-tiba, dan kita tidak tahu,
+karena sebelumnya tidak tertulis di Invoice.
+
+* Transaksi Penjualan
+
+Bila PPh 23 baru diketahui saat pembayaran,
+maka pencatatan di jurnal akuntansinya juga berbeda,
+yaitu saat dibayarkan.
+
+![Contoh Kasus: Penjualan][13-case-05p]
+
+* Transaksi Pembelian
+
+Demikian pula untuk pembelian.
+
+![Contoh Kasus: Pembelian][13-case-05h]
+
+### Perlunya Kerapian
+
+Dari sini jelas perlunya kerapian.
+Kalau berusaha rapi saja, masih memungkinkan terjadi sesuatu.
+
+Bagaimana kalau sedari awal memang berantakan?
+
+-- -- --
+
 <a name="selanjutnya"></a>
 
 ## Apa Selanjutnya?
@@ -374,3 +449,10 @@ yang perlu kita bahas:
 [32-doc-pph23-bupot]:   {% postimage %}/pajak/2018/03/32-doc-pph23-bupot.png
 
 [82-sse-pph23]:         {% postimage %}/pajak/2018/03/82-pranala-sse-pph23.png
+
+[13-case-03p]:          {% postimage %}/pajak/2018/05/13-case-03p.png
+[13-case-03h]:          {% postimage %}/pajak/2018/05/13-case-03h.png
+[13-case-04p]:          {% postimage %}/pajak/2018/05/13-case-04p.png
+[13-case-04h]:          {% postimage %}/pajak/2018/05/13-case-04h.png
+[13-case-05p]:          {% postimage %}/pajak/2018/05/13-case-05p.png
+[13-case-05h]:          {% postimage %}/pajak/2018/05/13-case-05h.png

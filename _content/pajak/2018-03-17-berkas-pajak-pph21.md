@@ -4,7 +4,7 @@ title     : Berkas Pajak - Arsip PPh 21
 date      : 2018-03-17 09:17:35
 slug      : berkas-pajak-pph21
 tags      : [pajak]
-keywords  : [arsip, folder]
+keywords  : [arsip, pph 21]
 
 toc       : "toc/berkaspajak.njk"
 opengraphimage: "assets/posts/pajak/2018/03/21-pdf-pph21.png"

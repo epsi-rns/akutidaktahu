@@ -4,7 +4,7 @@ title     : Berkas Pajak - Hardcopy
 date      : 2018-05-27 09:17:35
 slug      : berkas-pajak-hardcopy
 tags      : [pajak]
-keywords  : [arsip, folder]
+keywords  : [arsip, ordner, hardcopy]
 
 toc       : "toc/berkaspajak.njk"
 opengraphimage: "assets/posts/pajak/2018/05/96-bagi-folder.jpg"

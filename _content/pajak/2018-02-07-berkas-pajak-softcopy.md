@@ -1,10 +1,10 @@
 ---
 layout    : post
 title     : Berkas Pajak - Softcopy
-date      : 2018-03-13 09:17:35
+date      : 2018-02-07 09:17:35
 slug      : berkas-pajak-softcopy
 tags      : [pajak]
-keywords  : [arsip, folder]
+keywords  : [arsip, folder, softcopy]
 
 toc       : "toc/berkaspajak.njk"
 opengraphimage: "assets/posts/pajak/2018/03/64-cover-writer.png"
@@ -453,21 +453,18 @@ Dua tempat. Dan lakukan berkala. Misalnya:
 
 ## Apa Selanjutnya?
 
-Lalu apa berikutnya dalam artikel berseri ini?
-
-Kita akan melanjutkan dengan pengenalan mengenai jenis-jenis pajak.
-Yaitu PPn, PPh 21, PPh 4(2), PPh 23.
-Semua artikel berikut masih dalam tahap pengenalan.
-Sedangkan rincian ada di artikel berseri terpisah.
-Karena pengenalan masing-masing pajak saja,
-sebetulnya sudah cukup panjang.
+Sebelum pergi terlalu jauh ke bagian pajaknya,
+kita perlu mengenal sedikit mengenai akuntansi.
+Karena contoh-contoh kasus yang diberikan,
+akan lebih mudah dipahami,
+dalam bentuk transaksi akuntansi.
 
 Mari kita lanjutkan ke artikel berikutnya yaitu:
-[[Berkas Pajak - Arsip PPn][local-whats-next]].
+[[Berkas Pajak - Bagan Akun][local-whats-next]].
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[local-whats-next]:     /pajak/2018/03/15/berkas-pajak-ppn.html
+[local-whats-next]:     /pajak/2018/02/09/berkas-pajak-bagan-akun.html
 
 [01-folder-sederhana]:  {% postimage %}/pajak/2018/03/01-folder-utama-sederhana.png
 [01-folder-alternatif]: {% postimage %}/pajak/2018/03/01-folder-utama-alternatif.png

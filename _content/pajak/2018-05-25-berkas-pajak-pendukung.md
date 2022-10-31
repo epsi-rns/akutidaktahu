@@ -4,7 +4,7 @@ title     : Berkas Pajak - Pendukung
 date      : 2018-05-25 09:17:35
 slug      : berkas-pajak-pendukung
 tags      : [pajak]
-keywords  : [arsip, folder]
+keywords  : [arsip, pendukung]
 
 toc       : "toc/berkaspajak.njk"
 opengraphimage: "assets/posts/pajak/2018/03/31-pdf-pph23.png"
