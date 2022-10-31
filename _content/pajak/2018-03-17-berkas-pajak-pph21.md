@@ -197,6 +197,17 @@ Terkait pembayaran SSP atau pemindahbukuan.
 Untuk sementara sekedar tahu bentuknya saja.
 Kita akan bahas rincian di artikel lain.
 
+### Bukti Potong A1
+
+Bukti potong A1 ada di akhir tahun,
+yaitu perhitungan ulang di bulan desember.
+
+![Berkas PPh 21: Form 1721 Bukti Potong][25-doc-pph21-bupot-A1]
+
+Ada juga bukti pemotongan Final yang dapat terjadi di bulan lain,
+akibat adanya deviden, yaitu dengan formulir 1721 - VII.
+Yang ini terlalu dini untuk didiskusikan di tahap pengenalan.
+
 -- -- --
 
 <a name="internal"></a>
@@ -375,6 +386,8 @@ Mari kita lanjutkan ke artikel berikutnya yaitu:
 [22-doc-pph21-1172-i-2]:{% postimage %}/pajak/2018/03/22-doc-pph21-1172-induk-2.png
 [23-doc-pph21-i-masa]:  {% postimage %}/pajak/2018/03/23-doc-pph21-1172-I-masa.png
 [24-doc-pph21-iv]:      {% postimage %}/pajak/2018/03/24-doc-pph21-1172-IV.png
+[25-pdf-pph21-bupot-A1]:{% postimage %}/pajak/2018/03/25-pdf-pph21-bupot-A1.png
+[25-doc-pph21-bupot-A1]:{% postimage %}/pajak/2018/03/26-doc-pph21-bupot-A1.png
 
 [66-tanda-t-pph21]:     {% postimage %}/pajak/2018/03/66-tanda-terima-pph21.png
 
