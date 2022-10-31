@@ -208,6 +208,24 @@ Ada juga bukti pemotongan Final yang dapat terjadi di bulan lain,
 akibat adanya deviden, yaitu dengan formulir 1721 - VII.
 Yang ini terlalu dini untuk didiskusikan di tahap pengenalan.
 
+### Istilah Pajak
+
+Terkait Potong/Pungut (_withholding tax_).
+Perlu dibedakan antara memotong PPh pasal 21 dari gaji karyawan,
+dengan menunjang PPh pasal 21 bagi karyawan.
+
+Untuk penyederhanaan gaji,
+biasanya PPh 21 tidak memotong gaji karyawan,
+artinya gaji karyawan tetap utuh diberikan.
+Sementara perusahaan memberikan tunjangan,
+berupa PPh 21 yang dihitung dari,
+gaji karyawan yang diberikan tersebut.
+
+Dari sudut pajak perpajakan nilai PP21 yang sebenarnya
+dapat berbeda bila gaji yang diberikan besar.
+Karena itu perlu jelas dari keterangannya,
+memotong atau menunjang.
+
 -- -- --
 
 <a name="internal"></a>

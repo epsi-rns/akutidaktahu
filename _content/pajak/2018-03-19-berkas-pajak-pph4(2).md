@@ -41,6 +41,8 @@ karena data yang saya miliki, tidak cukup untuk dijadikan bahan riset.
 
 * [3: Kebutuhan Internal](#internal)
 
+* [4: Potong Pungut](#potput)
+
 * [Apa Selanjutnya?](#selanjutnya)
 
 -- -- --
@@ -372,6 +374,40 @@ $ pdftk Cover.pdf \
 Cukup edit seperlunya,
 lalu copy paste ke terminal (CLI),
 dan langsung jadi.
+
+-- -- --
+
+<a name="potput"></a>
+
+## 4: Potong Pungut
+
+### Memotong dan Dipotong
+
+Terkait Potong/Pungut (_withholding tax_), ada dua kemungkinan
+1. Memotong PPh final pasal 4 ayat 2 dari pembelian.
+2. Dipotong PPh final pasal 4 ayat 2 dari penjualan.
+
+Seringkali seberapa besar kita dipotong atau memotong,
+tidak tercantum dalam invoice pembelian.
+Untuk aturan mainnya lebih lanjut yang mendalam,
+silahkan melihat aturan pajak,
+karena ini memang cukup kompleks.
+
+### Hak dan Kewajiban
+
+Bagaimanapun yang perlu diingat,
+
+1. Sebagai pemotong,
+   kita wajib memberikan bukti potong,
+   dan membayarkan pajaknya.
+
+2. Sebagai yang dipotong,
+   sudah selayaknya kita meminta bukti potongnya,
+   walaupun nilainya tidak dapat dikreditkan,
+   untuk menjadi pengurang pajak (pajak masukan).
+
+Selain hak dan kewajiban kita.
+Jangan lupa diarsipkan.
 
 -- -- --
 
