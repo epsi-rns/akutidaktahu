@@ -7,7 +7,7 @@ tags      : [pajak]
 keywords  : [arsip, coa, akuntansi, bagan akun]
 
 toc       : "toc/berkaspajak.njk"
-opengraphimage: "assets/posts/pajak/2018/03/64-cover-writer.png"
+opengraphimage: "assets/posts/pajak/2018/05/11-case-05.png
 
 excerpt   : Bagan Akun Terkait Pajak.
 ---
