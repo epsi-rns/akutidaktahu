@@ -344,6 +344,12 @@ Bagaimanapun yang perlu diingat,
 Selain hak dan kewajiban kita.
 Jangan lupa diarsipkan.
 
+### Istilah Pajak
+
+Bisa jadi kita lupa memotong, dan sudah membayarkan tagihan sepenuhnya kepada vendor/subcon.
+Namun kita tetap membayarkan pajaknya dengan uang perusahaan, berarti perusahaan menunjang.
+Ini dapat saja dilakukan, namun terminologi yang dipakai berbeda, bukan memotong, namun menunjang.
+
 -- -- --
 
 <a name="selanjutnya"></a>
