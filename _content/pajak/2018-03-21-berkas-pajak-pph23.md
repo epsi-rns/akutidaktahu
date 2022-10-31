@@ -358,7 +358,7 @@ yang perlu kita bahas:
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[local-whats-next]:     /pajak/2018/03/25/berkas-pajak-pendukung.html
+[local-whats-next]:     /pajak/2018/05/25/berkas-pajak-pendukung.html
 
 [08-folder-pph23]:      {% postimage %}/pajak/2018/03/08-folder-pph23.png
 

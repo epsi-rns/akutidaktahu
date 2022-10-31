@@ -1,7 +1,7 @@
 ---
 layout    : post
 title     : Berkas Pajak - Pendukung
-date      : 2018-03-25 09:17:35
+date      : 2018-05-25 09:17:35
 slug      : berkas-pajak-pendukung
 tags      : [pajak]
 keywords  : [arsip, folder]
@@ -219,7 +219,7 @@ Berikutnya, adalah menangani hardcopy:
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[local-whats-next]:     /pajak/2018/03/27/berkas-pajak-hardcopy.html
+[local-whats-next]:     /pajak/2018/05/27/berkas-pajak-hardcopy.html
 
 [51-pdf-billing]:       {% postimage %}/pajak/2018/03/51-pdf-billing.png
 [52-doc-kode-billing]:  {% postimage %}/pajak/2018/03/52-doc-kode-billing.png
@@ -234,8 +234,6 @@ Berikutnya, adalah menangani hardcopy:
 [64-cover-writer]:      {% postimage %}/pajak/2018/03/64-cover-writer.png
 
 [65-tanda-t-ppn]:       {% postimage %}/pajak/2018/03/65-tanda-terima-ppn.png
-
-
 
 [81-sse-ringkas]:       {% postimage %}/pajak/2018/03/81-pranala-sse-ringkas.png
 [Teliti-2018-SSE]:      {% postimage %}/pajak/2018/03/Teliti-2018-SSE.xlsx

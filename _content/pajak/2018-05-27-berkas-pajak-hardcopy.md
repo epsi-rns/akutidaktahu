@@ -1,13 +1,13 @@
 ---
 layout    : post
 title     : Berkas Pajak - Hardcopy
-date      : 2018-03-27 09:17:35
+date      : 2018-05-27 09:17:35
 slug      : berkas-pajak-hardcopy
 tags      : [pajak]
 keywords  : [arsip, folder]
 
 toc       : "toc/berkaspajak.njk"
-opengraphimage: "assets/posts/pajak/2018/03/96-bagi-folder.jpg"
+opengraphimage: "assets/posts/pajak/2018/05/96-bagi-folder.jpg"
 
 excerpt   : Tips mengarsipkan berkas hasil cetak
 
@@ -215,13 +215,13 @@ maka kita harus memahami e-Nofa.
 
 [65-tanda-t-ppn]:       {% postimage %}/pajak/2018/03/65-tanda-terima-ppn.png
 
-[91-tt-writer]:         {% postimage %}/pajak/2018/03/91-tt-writer.png
-[92-warna]:             {% postimage %}/pajak/2018/03/92-warna.jpg
-[93-warna]:             {% postimage %}/pajak/2018/03/93-warna.jpg
-[94-indeks]:            {% postimage %}/pajak/2018/03/94-indeks.jpg
-[95-pembatas]:          {% postimage %}/pajak/2018/03/95-pembatas.jpg
-[96-ordner-dalam]:      {% postimage %}/pajak/2018/03/96-ordner-dalam.jpg
-[96-ordner-luar]:       {% postimage %}/pajak/2018/03/96-ordner-luar.jpg
-[96-bagi-folder]:       {% postimage %}/pajak/2018/03/96-bagi-folder.jpg
-[97-bagi-warna]:        {% postimage %}/pajak/2018/03/97-bagi-warna.jpg
-[98-folder-tua]:        {% postimage %}/pajak/2018/03/98-folder-tua.jpg
+[91-tt-writer]:         {% postimage %}/pajak/2018/05/91-tt-writer.png
+[92-warna]:             {% postimage %}/pajak/2018/05/92-warna.jpg
+[93-warna]:             {% postimage %}/pajak/2018/05/93-warna.jpg
+[94-indeks]:            {% postimage %}/pajak/2018/05/94-indeks.jpg
+[95-pembatas]:          {% postimage %}/pajak/2018/05/95-pembatas.jpg
+[96-ordner-dalam]:      {% postimage %}/pajak/2018/05/96-ordner-dalam.jpg
+[96-ordner-luar]:       {% postimage %}/pajak/2018/05/96-ordner-luar.jpg
+[96-bagi-folder]:       {% postimage %}/pajak/2018/05/96-bagi-folder.jpg
+[97-bagi-warna]:        {% postimage %}/pajak/2018/05/97-bagi-warna.jpg
+[98-folder-tua]:        {% postimage %}/pajak/2018/05/98-folder-tua.jpg
