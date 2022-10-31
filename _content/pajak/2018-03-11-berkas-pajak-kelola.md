@@ -171,8 +171,9 @@ Bagaimanapun, ini yang secara kasar ada di benak saya.
 3. Pengarsipan Berkas PPn: dependensi 1 dan 2
 4. Pengarsipan Berkas PPh 21: dependensi 1 dan 2
 5. Pengarsipan Berkas Invoice: dependensi 1, optional 3
-6. Siklus Akuntansi berbasis Spreadsheet
-7. Laporan Pajak Tahunan
+6. Dari Bagan Akun ke Laporan Akuntansi: dependensi 1
+7. Siklus Akuntansi berbasis Spreadsheet: dependensi 6
+8. Laporan Pajak Tahunan: dependensi 2 dan 7
 
 ### Mulai dari dasar
 

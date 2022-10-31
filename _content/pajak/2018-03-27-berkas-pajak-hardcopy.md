@@ -1,7 +1,7 @@
 ---
 layout    : post
 title     : Berkas Pajak - Hardcopy
-date      : 2018-03-25 09:17:35
+date      : 2018-03-27 09:17:35
 slug      : berkas-pajak-hardcopy
 tags      : [pajak]
 keywords  : [arsip, folder]

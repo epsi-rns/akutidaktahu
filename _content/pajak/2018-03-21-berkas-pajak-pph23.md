@@ -318,6 +318,10 @@ Terkait Potong/Pungut (_withholding tax_), ada dua kemungkinan
 1. Memotong PPh pasal 23 dari pembelian.
 2. Dipotong PPh pasal 23 dari penjualan.
 
+Peletakan di Chart of Account-pun berbeda.
+Hal ini akan dijelaskan secara lebih rinci,
+di artikel terkait akuntansi.
+
 Seringkali seberapa besar kita dipotong atau memotong,
 tidak tercantum dalam invoice pembelian.
 Untuk aturan mainnya lebih lanjut yang mendalam,
@@ -354,7 +358,7 @@ yang perlu kita bahas:
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[local-whats-next]:     /pajak/2018/03/23/berkas-pajak-pendukung.html
+[local-whats-next]:     /pajak/2018/03/25/berkas-pajak-pendukung.html
 
 [08-folder-pph23]:      {% postimage %}/pajak/2018/03/08-folder-pph23.png
 

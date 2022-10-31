@@ -226,6 +226,10 @@ dapat berbeda bila gaji yang diberikan besar.
 Karena itu perlu jelas dari keterangannya,
 memotong atau menunjang.
 
+Peletakan di Chart of Account-pun berbeda.
+Hal ini akan dijelaskan secara lebih rinci,
+di artikel terkait akuntansi.
+
 -- -- --
 
 <a name="internal"></a>

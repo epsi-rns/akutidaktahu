@@ -387,6 +387,10 @@ Terkait Potong/Pungut (_withholding tax_), ada dua kemungkinan
 1. Memotong PPh final pasal 4 ayat 2 dari pembelian.
 2. Dipotong PPh final pasal 4 ayat 2 dari penjualan.
 
+Peletakan di Chart of Account-pun berbeda.
+Hal ini akan dijelaskan secara lebih rinci,
+di artikel terkait akuntansi.
+
 Seringkali seberapa besar kita dipotong atau memotong,
 tidak tercantum dalam invoice pembelian.
 Untuk aturan mainnya lebih lanjut yang mendalam,
