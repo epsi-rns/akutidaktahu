@@ -288,7 +288,7 @@ Aturan umum dari penggunaan `ETaxInvoice` adalah,
 hanya ada satu aplikasi `ETaxInvoice` di perusahaan. 
 
 Seringkali fungsi pajak di suatu perusahaan dipisah.
-Misalnya bagihan penagihan invoice punya petugas sendiri,
+Misalnya bagian penagihan invoice punya petugas sendiri,
 yang punya akses langung sekaligus ke aplikasi `ETaxInvoice`.
 
 Sementara karyawan lain yang,
@@ -297,7 +297,7 @@ perlu sekali-sekali membuka aplikasi ini,
 misalnya untuk keperluan pengarsipan atau analisa.
 
 Untuk keperluan ini kita dapat menaruh backup yang diberikan ke kita,
-lalu membukanya di berkas `ETaxInvoice` tersendiri.
+lalu membukanya di berkas `ETaxInvoice` tersendiri di komputer berbeda.
 Dengan begini, kita sebagai karyawan admin,
 bebas mencetak faktur yang kita perlukan,
 atau melakukan hal lain,

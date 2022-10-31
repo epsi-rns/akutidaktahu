@@ -40,9 +40,11 @@ Kalau berurusan dengan AR pajak, penulis juga tidak berpengalaman.
 
 * [1: First Class](#firstclass)
 
-* [2: Pratilik](#pratilik)
+* [2: Gambaran Besar](#gambaran)
 
-* [3: Berkas Utama](#utama)
+* [3: Pratilik](#pratilik)
+
+* [4: Berkas Utama](#utama)
 
 * [Catatan Tambahan](#tambahan)
 
@@ -94,37 +96,6 @@ Kalau kita bekerja baik untuk perusahaan,
 dengan hasil yang baik pula.
 Pada dasarnya kita sendirilah karyawan yang first class.
 
-### Artikel Berseri
-
-> Hanya Contoh Tata Kelola
-
-Artikel berseri ini dimulai dari hal yang sederhana,
-yaitu mengenal jenis-jenis berkas pajak.
-Berikut cara pengarsipannya.
-
-Berikutnya kita akan lanjut ke artikel berseri lainnya.
-Dilanjutkan dengan tata cara pembukuan yang umum.
-Cara melaporkan kepada atasan.
-Kemudian yang terkait dengan akunting.
-Lengkap dengan dokumentasi perhitungan supaya tidak ada yang tercecer.
-Dan diakhiri dengan analisa dan visualisasi.
-
-### Mulai dari dasar
-
-> Ini artikel berseri untuk pemula
-
-Artikel Berseri ini adalah dasar.
-Artikel berseri mendasar yang satu lagi,
-adalah bekerja dengan lembar kerja spreadsheet.
-
-Mengapa dimulai dari yang sederhana, dan recehan?
-supaya pada saatnya artikel membahas hal yang kompleks,
-kita dapat berfokus pade materi.
-
-Supaya nantinya saya tidak perlu terganggu kewajiban,
-untuk menjelaskan hal-hal dasar yang itu-itu lagi di tiap artikel.
-Karena sudah saya jelaskan dari awal.
-
 ### Penerapan Sistem
 
 > Dalam praktek tidak perlu ideal
@@ -161,9 +132,69 @@ Modifikasi bila perlu.
 
 -- -- --
 
+<a name="gambaran"></a>
+
+### 2: Gambaran Besar
+
+> Helicopter View
+
+Terbiasa dengan rincian akan semakin menajamkan,
+kemampuan kita meloihat gambaran besar.
+
+### Artikel Berseri
+
+> Hanya Contoh Tata Kelola
+
+Artikel berseri ini dimulai dari hal yang sederhana,
+yaitu mengenal jenis-jenis berkas pajak.
+Berikut cara pengarsipannya.
+
+Berikutnya kita akan lanjut ke artikel berseri lainnya.
+Dilanjutkan dengan tata cara pembukuan yang umum.
+Cara melaporkan kepada atasan.
+Kemudian yang terkait dengan akunting.
+Lengkap dengan dokumentasi perhitungan supaya tidak ada yang tercecer.
+Dan diakhiri dengan analisa dan visualisasi.
+
+### Rencana Awal
+
+> Tepatnya: Rencana Kasar
+
+Waktu saya terbatas, dan saya tidak tahu,
+apakah saya dapat menyelesaikan rencana saya atau tidak.
+Yang saya tahu saya harus memulai.
+
+Bagaimanapun, ini yang secara kasar ada di benak saya.
+
+1. Menggunakan Spreadsheet Bagi Admin
+2. Mengelola Berkas Pajak
+3. Pengarsipan Berkas PPn: dependensi 1 dan 2
+4. Pengarsipan Berkas PPh 21: dependensi 1 dan 2
+5. Pengarsipan Berkas Invoice: dependensi 1, optional 3
+6. Siklus Akuntansi berbasis Spreadsheet
+7. Laporan Pajak Tahunan
+
+### Mulai dari dasar
+
+> Ini artikel berseri untuk pemula
+
+Artikel Berseri ini adalah dasar.
+Artikel berseri mendasar yang satu lagi,
+adalah bekerja dengan lembar kerja spreadsheet.
+
+Mengapa dimulai dari yang sederhana, dan recehan?
+supaya pada saatnya artikel membahas hal yang kompleks,
+kita dapat berfokus pade materi.
+
+Supaya nantinya saya tidak perlu terganggu kewajiban,
+untuk menjelaskan hal-hal dasar yang itu-itu lagi di tiap artikel.
+Karena sudah saya jelaskan dari awal.
+
+-- -- --
+
 <a name="pratilik"></a>
 
-### 2: Pratilik
+### 3: Pratilik
 
 > Penampakan
 
@@ -213,7 +244,7 @@ Dan tidak diniatkan untuk pemalsuan data.
 
 <a name="utama"></a>
 
-### 3: Berkas Utama
+### 4: Berkas Utama
 
 Sebetulnya ujung dari artikel ini mau ke mana?
 Kalau sudah ada softcopy,
