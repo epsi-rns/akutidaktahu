@@ -37,7 +37,7 @@ karena data yang saya miliki, tidak cukup untuk dijadikan bahan riset.
 
 * [1: Formulir Induk: SPT Masa](#induk)
 
-* [2: Formulir Lampiran](#lampiran)
+* [2: Formulir Lampiran: Bukti Potong](#lampiran)
 
 * [3: Kebutuhan Internal](#internal)
 
@@ -109,7 +109,7 @@ Kita dapat membayarkan PPh pasal 23 dengan dua cara:
   Ini lebih praktis.
 
 Saya biasanya memilih cara pertama,
-walaupunb dengan begini, kode billingnya jadi banyak.
+walaupun dengan begini, kode billingnya jadi banyak.
 
 Bilamana perlu kita bikin kode billing-nya,
 lalu kita arsipkan dengan rapi:
@@ -151,6 +151,8 @@ sehingga tidak perlu dijelaskan lagi.
 
 ## 1: Formulir Induk: Masa Pajak PPh pasal 23
 
+### Bisa Karena Biasa Praktek
+
 Kalau ingin benar-benar paham isi berkas ini.
 Maka harus praktek mengisi e-SPT PPh 23 terlebih dahulu.
 
@@ -171,7 +173,7 @@ Formulir induk bentuknya seperti ini di bawah:
 
 <a name="lampiran"></a>
 
-### 2: Lampiran Formulir
+### 2: Lampiran Formulir: Bukti Potong
 
 Dan berikut penampakan lampirannya.
 

@@ -37,7 +37,7 @@ karena data yang saya miliki, tidak cukup untuk dijadikan bahan riset.
 
 * [1: Formulir Induk: SPT Masa](#induk)
 
-* [2: Formulir Lampiran](#lampiran)
+* [2: Formulir Lampiran: Bukti Potong](#lampiran)
 
 * [3: Kebutuhan Internal](#internal)
 
@@ -166,6 +166,8 @@ sehingga tidak perlu dijelaskan lagi.
 
 ## 1: Formulir Induk: Masa Pajak PPh pasal 4 ayat 2
 
+### Bisa Karena Biasa Praktek
+
 Kalau ingin benar-benar paham isi berkas ini.
 Maka harus praktek mengisi e-SPT PPh 4(2) terlebih dahulu.
 
@@ -186,7 +188,7 @@ Formulir induk bentuknya seperti inidi bawah:
 
 <a name="lampiran"></a>
 
-### 2: Lampiran Formulir
+### 2: Lampiran Formulir: Bukti Potong
 
 Dan berikut penampakan lampirannya.
 
@@ -420,6 +422,16 @@ Jangan lupa diarsipkan.
 Bisa jadi kita lupa memotong, dan sudah membayarkan tagihan sepenuhnya kepada vendor/subcon.
 Namun kita tetap membayarkan pajaknya dengan uang perusahaan, berarti perusahaan menunjang.
 Ini dapat saja dilakukan, namun terminologi yang dipakai berbeda, bukan memotong, namun menunjang.
+
+### PP 23
+
+Untuk UMKM ada aturan yang bernama PP 23,
+yang berbasis omset perusahaan.
+Pelaksanaan PP 23 ini termasuk PPh Final 4(2),
+dan bukan PPh 23.
+
+Jangan terbalik, dan jangan disamakan, walaupun tulisannya mirip,.
+PPh 23 dan PP 23 adalah hal yang sama sekali berbeda.
 
 -- -- --
 

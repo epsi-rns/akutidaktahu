@@ -314,8 +314,8 @@ Selama aturan ini dipenuhi, aman.
 
 ## Apa Selanjutnya?
 
-Sekarang kita sudah siap dengan nomor faktur.
-Maka kita akan lanjut ke pengisian aplikasi efaktur:
+Ada lagi aplikasi yang diperbarui DJP,
+yaitu e-Bupot PPh 23 yang berbasis web.
 [[Berkas Pajak - e-Bupot PPh 23][local-whats-next]].
 
 [//]: <> ( -- -- -- links below -- -- -- )
