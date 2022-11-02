@@ -7,7 +7,7 @@ tags      : [pajak]
 keywords  : [arsip, coa, akuntansi, bagan akun]
 
 toc       : "toc/berkaspajak.njk"
-opengraphimage: "assets/posts/pajak/2018/05/11-case-05.png
+opengraphimage: "assets/posts/pajak/2018/05/11-case-05.png"
 
 excerpt   : Bagan Akun Terkait Pajak.
 ---
@@ -51,6 +51,13 @@ Karena itu pembikinan akun ini dibantu oleh rekan saya yang bernama
 Terimakasih banyak untuk mas *Tris*,
 tanpa koreksinya, saya tidak akan percaya diri,
 untuk memasukkan materi bagan akun ini ke dalam artikel berseri ini.
+
+### Unduh Sheet
+
+Bagan akun, beserta contoh kasus transaksi sudah disiapkan,
+berupa berkas lembar kerja spreadsheet yang dapat diunduh di sini:
+
+* [contoh-kasus-transaksi.xlsx][Teliti-2018-case]
 
 -- -- --
 
@@ -221,3 +228,4 @@ Mari kita lanjutkan ke artikel berikutnya yaitu:
 [13-case-01h]:          {% postimage %}/pajak/2018/05/13-case-01h.png
 
 
+[Teliti-2018-case]:     {% postimage %}/pajak/2018/05/Teliti-2018-contoh-kasus-transaksi.xlsx

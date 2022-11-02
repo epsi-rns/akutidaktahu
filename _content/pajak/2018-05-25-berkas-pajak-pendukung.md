@@ -105,10 +105,6 @@ Uraian        : Sanksi Administrasi Masa PPh Final Pasal 4(2)
 ```
 
 Bentuk lembar kerja spreadsheet selengkapnya dapat dibuat sendiri.
-Silahkan unduh di sini:
-
-* [Teliti-2018-SSE.xlsx][Teliti-2018-SSE]
-
 Dalam satu masa, bisa ada beberapa jenis pajak sekaligus.
 
 ![Berkas Pendukung: Draft Surat Setoran Elektronik][81-sse-ringkas]
@@ -120,6 +116,12 @@ di ordner (map arsip besar).
 Sedangkan mengenai bagaimana kelengkapannya,
 terserah perusahaan masing-masing,
 untuk menentukan bentuk formulirnya.
+
+### Unduh Sheet
+
+Berkas lembar kerja spreadsheet selengkapnya dapat diunduh di sini:
+
+* [Teliti-2018-SSE.xlsx][Teliti-2018-SSE]
 
 ### Bukti Penerimaan Negeri
 
