@@ -4,7 +4,7 @@ title     : Berkas Pajak - e-Faktur
 date      : 2019-05-03 09:17:35
 slug      : berkas-pajak-efaktur
 tags      : [pajak]
-keywords  : [arsip, efaktur]
+keywords  : [arsip, ppn, efaktur]
 
 toc       : "toc/berkaspajak.njk"
 opengraphimage: "assets/posts/pajak/2018/03/07-pdf-ns-faktur.png"

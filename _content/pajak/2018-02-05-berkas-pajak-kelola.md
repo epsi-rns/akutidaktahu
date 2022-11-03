@@ -257,7 +257,7 @@ Biasanya berbentuk buku pajak di ordner.
 
 > Tiap Ordner Ada Indeks Ringkasan.
 
-Ordner bukanlah sekedar tempat sampah.
+Ordner bukanlah sekedar tempat sampah (pembuangan akhir dokumen).
 Kalau sudah jadi laporan ditaruh di Ordner.
 Bukan pula sekedar memenuhi UU Pajak,
 untuk menyimpan data selama lima tahun.

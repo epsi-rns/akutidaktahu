@@ -4,7 +4,7 @@ title     : Berkas Pajak - e-Bupot
 date      : 2020-11-05 09:17:35
 slug      : berkas-pajak-ebupot
 tags      : [pajak]
-keywords  : [arsip, efaktur]
+keywords  : [arsip, ebupot, pph23]
 
 toc       : "toc/berkaspajak.njk"
 opengraphimage: "assets/posts/pajak/2020/10/21-indek-pdf-pph23.png"
@@ -231,15 +231,17 @@ Mengenai e-Bupot memang hanya ini.
 Sengaja dibikin pendek karena hanya untuk pengenalan.
 
 Ada lagi aplikasi yang diperbarui DJP.
-Bila dahulu kita melaporkan menggunakan aplikasi `ETaxInvoice` dari e-Faktur,
-maka sekarang ada aplikasi web e-faktur.
+Bila dahulu kita melaporkan PPn masa,
+menggunakan aplikasi `ETaxInvoice` dari e-Faktur,
+maka sekarang ada aplikasi web e-faktur,
+untuk melaporkan PPn masa.
 
 Mari kita akan lanjut ke pengisian aplikasi web-efaktur:
 [[Berkas Pajak - Web e-Faktur][local-whats-next]].
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[local-whats-next]:     /pajak/2021/01/07/berkas-pajak-web-efaktur.html
+[local-whats-next]:     /pajak/2020/12/07/berkas-pajak-web-efaktur.html
 
 [03-pranala-sse]:       {% postimage %}/pajak/2020/10/03-pranala-sse-pph23.png
 

@@ -67,7 +67,7 @@ berupa berkas lembar kerja spreadsheet yang dapat diunduh di sini:
 
 > Peletakan yang Tepat
 
-Tiap perushaan memiliki bagan akun-nya sendiri-sendiri,
+Tiap perusahaan memiliki bagan akun-nya sendiri-sendiri,
 yang mungkin berbeda satu sama lainnya.
 Maka dari itu yang saya susun di bawah ini,
 tidak dapat menjadi patokan.
