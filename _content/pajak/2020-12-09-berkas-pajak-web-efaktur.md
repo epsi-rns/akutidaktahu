@@ -23,13 +23,13 @@ Artikel ini adalah kelanjutan dari,
 artikel Web e-Faktur yang kemarin.
 
 Pengisian Web e-Faktur,
-adalah berdasarkan prepopulated data.
-Prepopulated data ini sendiri adalah berdasarkan,
-uppload data dari e-Faktur versi desktop,
+adalah berdasarkan data yang ada di DJP.
+Data di DJP ini ini sendiri adalah berdasarkan,
+uppload data secara manual ddi ETaxInvoice,
 baik Faktur Masukan, maupun Faktur Keluaran.
 
 Karena itu, maka beberapa data di Web e-Faktur, akan terisi sendiri.
-Tergantung dari prepopulated data yang kita masukkan.
+Tergantung dari entry data yang kita masukkan di ETaxInvoice.
 
 ### Daftar Isi
 
@@ -57,7 +57,7 @@ data bulan nopember 2020 berikut di bawah.
 
 ![Web e-Faktur: Monitor: Open][16-mon-nop-open]
 
-Dalam Contoh Kasus ini kita umpamakan terdapat
+Dalam Contoh Kasus ini kita umpamakan di `ETaxInvoice` terdapat:
 
 * Jumlah Faktur Keluaran: Rp. 0,-
 * Jumlah Faktur Masukan: Rp. 2.000.000,-
@@ -77,7 +77,7 @@ Maka akan ada isian PPn, yang terdiri dari tiga bagian tab:
 
 ### Formulir Pajak
 
-Sebagaimana versi Desktop e-Faktur yang lama,
+Sebagaimana versi ETaxInvoice yang lama,
 isian Web e-Faktur persis seperti formulir cetaknya.
 Untuk mengisi laporan pajak,
 mulailah dari belakang, yaitu rincian.
@@ -93,7 +93,7 @@ Rincian ini hanya di-isi bilmana ada berkas dokumen yang khusus.
 ## 8: Lampiran AB
 
 Beberapa data di lampiran AB akan terisi sendiri,
-sesuai dengan Prepopulated yang kita masukkan.
+sesuai dengan data di ETaxInvoice yang kita masukkan.
 
 Secara ringkas isinya adalah seperti tangkapan layar di bawah:
 
@@ -116,7 +116,8 @@ Jumlahnya sesuai nominal faktur masukan.
 
 Seperti kita lihat,
 isinya sangat sedikit yang dapat di-edit.
-Karena dasarnya adalah prepopulated data.
+Karena dasarnya adalah data ETaxInvoice,
+yang sudah di-upload ke DJP.
 
 ![Web e-Faktur: Lampiran AB III][23-lamp-04-ab3]
 
@@ -189,7 +190,7 @@ namun karena jarang dipakai dapat dilewati dahulu oleh pemula.
 
 ### Penandatangan
 
-Sebagaimana versi Desktop e-Faktur.
+Sebagaimana ETaxInvoice.
 Penanggungjawab harus jelas.
 
 ![Web e-Faktur: Induk: Penandatangan][28-induk-06]

@@ -9,7 +9,7 @@ keywords  : [arsip, web efaktur]
 toc       : "toc/berkaspajak.njk"
 opengraphimage: "assets/posts/pajak/2020/12/11-login-noborder.png"
 
-excerpt   : Mengenal Web e-Faktur dan perubahan di e-Faktur Desktop
+excerpt   : Mengenal Web e-Faktur dan perubahan di ETaxInvoice
 
 ---
 
@@ -17,7 +17,7 @@ excerpt   : Mengenal Web e-Faktur dan perubahan di e-Faktur Desktop
 
 ## Prakata
 
-> Mengenal Web e-Faktur dan perubahan di e-Faktur Desktop
+> Mengenal Web e-Faktur dan perubahan di ETaxInvoice
 
 Aplikasi pajak terus berkembang.
 Aplikasi e-Faktur sudah nyaman dipakai,
@@ -72,7 +72,7 @@ Untuk dapat masuk login ke web e-Faktur,
 maka kawan pajak mesti menyiapkan,
 sertifikat elektronik terlebih dahulu.
 
-Sertifikat Eletkronik ini juga diperlukan,
+Sertifikat Elektronik ini juga diperlukan,
 saat men-submit form nanti.
 
 ### URL
@@ -85,7 +85,7 @@ Situs web efaktur terletak di:
 
 ### Login
 
-PAda saat masuk kita akan dihadapakan pada halaman login seperti ini
+Pada saat masuk kita akan dihadapkan pada halaman login seperti ini
 
 ![Web e-Faktur: Login][11-login-window]
 
@@ -187,13 +187,45 @@ Setelah suatu formulir di-submit, akan keluar tombol `Lihat BPE`.
 
 ## 5: Perubahan di e-Faktur
 
+Di e-Faktur sendiri telah terbit ETaxInvoice versi 3.0.
+Dengan tambahan menu sebagaimana berikut:
+
+![Web e-Faktur: ETaxInvoice][31-etaxinvoice]
+
 -- -- --
 
 <a name="tips"></a>
 
 ## 6: Lampiran e-Faktur
 
+Berbeda ketika kedua aplikasi terintegrasi.
+Maka setelah Web e-Faktur terpisah,
+kita tidak lagi dapat mengunduh lampiran pajak yang berisi:
+* Halaman A1, A2, B1, B2, B3
 
+Di satu sisi memang tidak perlu dilaporkan lagi,
+karena secara otomatis data berada di DJP.
+Di sisi lain, untuk suatu alasan tertentu perusahaan,
+masih perlu mengarsipkan data pajaknya untuk keperluan internal.
+
+### Pengarsipan Internal.
+
+Lampiran pajak ini masih dapat,
+dikeluarkan dengan aplikasi ETaxInvoice,
+namun tidak lagi menjadi satu bundle dengan pembetulannya.
+
+Artinya tidak ada perbedaan lampiran,
+antara laporan normal dengan pembetulan.
+Yang ada adalah kondisi terakhir.
+
+Untuk perusahaan dengan transaksi sedikit,
+tidak terlalu terlihat masalahnya.
+Namun ini dapat menjadi masalah ketika banyak transakasi,
+yang memerlukan pembetulan faktur.
+
+Oleh karena itu, perusahaan sekarang perlu sheet sendiri,
+untuk mencatat isi lampiran-lampiran tersebut.
+Ini akan kita bahas di artikel terpisah secara rinci.
 
 -- -- --
 
@@ -222,3 +254,5 @@ Mari kita akan lanjut ke pengisian aplikasi web-efaktur:
 [17-bpe]:               {% postimage %}/pajak/2020/12/17-bpe.png
 [18-mon-nop-closed]:    {% postimage %}/pajak/2020/12/18-mon-nop-closed.png
 [21-lamp-05-ab0]:       {% postimage %}/pajak/2020/12/21-lamp-05-ab0.png
+
+[31-etaxinvoice]:       {% postimage %}/pajak/2020/12/31-etaxinvoice.png
