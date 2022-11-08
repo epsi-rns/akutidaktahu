@@ -1,10 +1,31 @@
 [
   
     {
+      "title": "Berkas Pajak - Pengisian Web e-Faktur",
+      "excerpt": "Cara Pengisian Web eFaktur",
+      "url":   "/pajak/2020/12/09/berkas-pajak-web-efaktur.html",
+      "date": "20120917"
+    },
+  
+    {
+      "title": "Berkas Pajak - Web e-Faktur",
+      "excerpt": "Mengenal Web e-Faktur dan perubahan di ETaxInvoice",
+      "url":   "/pajak/2020/12/07/berkas-pajak-web-efaktur.html",
+      "date": "20120717"
+    },
+  
+    {
       "title": "Penggabungan Group - HTML CSS ID",
       "excerpt": "",
       "url":   "/komunitas/2020/11/15/html-css-id.html",
       "date": "20111517"
+    },
+  
+    {
+      "title": "Berkas Pajak - e-Bupot",
+      "excerpt": "Mengenal e-Bupot PPh 23",
+      "url":   "/pajak/2020/11/05/berkas-pajak-ebupot.html",
+      "date": "20110517"
     },
   
     {
@@ -218,6 +239,20 @@
     },
   
     {
+      "title": "Berkas Pajak - e-Faktur",
+      "excerpt": "Mengenal e-Faktur, dan mengakses berkas laporan",
+      "url":   "/pajak/2019/05/03/berkas-pajak-efaktur.html",
+      "date": "19050317"
+    },
+  
+    {
+      "title": "Berkas Pajak - e-Nofa",
+      "excerpt": "Mempersiapkan Faktur Pajak dengan e-Nofa",
+      "url":   "/pajak/2019/05/01/berkas-pajak-enofa.html",
+      "date": "19050117"
+    },
+  
+    {
       "title": "Kalioso - Kartotaruno",
       "excerpt": "Digitalisasi Silsilah Leluhur Kalioso: Kartotaruno.",
       "url":   "/silsilah/2019/03/18/kalioso-kartotaruno.html",
@@ -236,6 +271,69 @@
       "excerpt": "Digitalisasi Silsilah: Retnosari Tondonegoro.",
       "url":   "/silsilah/2018/08/27/retnosari-tondonegoro.html",
       "date": "18082717"
+    },
+  
+    {
+      "title": "Berkas Pajak - Hardcopy",
+      "excerpt": "Tips mengarsipkan berkas hasil cetak",
+      "url":   "/pajak/2018/05/27/berkas-pajak-hardcopy.html",
+      "date": "18052717"
+    },
+  
+    {
+      "title": "Berkas Pajak - Pendukung",
+      "excerpt": "Melengkapi Arsip dengan Berkas Pendukung",
+      "url":   "/pajak/2018/05/25/berkas-pajak-pendukung.html",
+      "date": "18052517"
+    },
+  
+    {
+      "title": "Berkas Pajak - Arsip PPh 23",
+      "excerpt": "Mengenal Dokumen PPh pasal 23",
+      "url":   "/pajak/2018/03/21/berkas-pajak-pph23.html",
+      "date": "18032117"
+    },
+  
+    {
+      "title": "Berkas Pajak - Arsip PPh 4(2)",
+      "excerpt": "Mengenal Dokumen PPh pasal 4 ayat 2",
+      "url":   "/pajak/2018/03/19/berkas-pajak-pph42.html",
+      "date": "18031917"
+    },
+  
+    {
+      "title": "Berkas Pajak - Arsip PPh 21",
+      "excerpt": "Mengenal Dokumen PPh pasal 21",
+      "url":   "/pajak/2018/03/17/berkas-pajak-pph21.html",
+      "date": "18031717"
+    },
+  
+    {
+      "title": "Berkas Pajak - Arsip PPn",
+      "excerpt": "Mengenal Dokumen PPn",
+      "url":   "/pajak/2018/03/15/berkas-pajak-ppn.html",
+      "date": "18031517"
+    },
+  
+    {
+      "title": "Berkas Pajak - Bagan Akun",
+      "excerpt": "Bagan Akun Terkait Pajak.",
+      "url":   "/pajak/2018/02/09/berkas-pajak-bagan-akun.html",
+      "date": "18020917"
+    },
+  
+    {
+      "title": "Berkas Pajak - Softcopy",
+      "excerpt": "Mempersiapkan Folder untuk Bekerja dengan Arsip Pajak.",
+      "url":   "/pajak/2018/02/07/berkas-pajak-softcopy.html",
+      "date": "18020717"
+    },
+  
+    {
+      "title": "Berkas Pajak - Mengelola Arsip",
+      "excerpt": "Pengantar pengelolaan arsip pajak bagi admin di perusahaan.",
+      "url":   "/pajak/2018/02/05/berkas-pajak-kelola.html",
+      "date": "18020517"
     },
   
     {
@@ -278,6 +376,13 @@
       "excerpt": "Salah satu perlengkapan kegiatan adalah kartu nama. Demikian pula, kalau punya usaha kecil-kecil-an, tidak perlu terlalu repot membuat desain kartu nama, karena sudah dibikinkan di sini.",
       "url":   "/inkscape/2017/10/03/kartu-nama.html",
       "date": "17100317"
+    },
+  
+    {
+      "title": "Surat - Rapi Dengan Tabel",
+      "excerpt": "Rapi surat-menyurat dengan tabel.",
+      "url":   "/tatausaha/2017/03/07/surat-rapi-dengan-tabel.html",
+      "date": "17030717"
     },
   
     {

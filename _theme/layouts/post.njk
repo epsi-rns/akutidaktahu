@@ -46,8 +46,6 @@
       {% include "widget/related-posts.njk" %}
     {%- endif -%}
 
-    {% include "widget/event.njk" %}
-
     {% include "widget/archive-grouped.njk" %}
     {% include "widget/tags.njk" %}
     {% include "widget/recent-posts.njk" %}
@@ -64,6 +62,8 @@
 
 {% block aside_widget_all %}
   <aside class="column is-one-thirds">
+    {% include "widget/event.njk" %}
+
     {% include "widget/tags.njk" %}
     {% include "widget/archive-grouped.njk" %}
     {% include "widget/recent-posts.njk" %}
