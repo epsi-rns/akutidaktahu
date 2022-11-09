@@ -20,9 +20,9 @@ excerpt   : Mengenal e-Bupot PPh 23
 > Mengenal e-Bupot PPh 23
 
 Aplikasi pajak terus berkembang.
-Aplikasi eSPT PPh 23 yang lama yang memiliki banyak keterbatasan,
+Aplikasi e-SPT PPh 23 yang lama yang memiliki banyak keterbatasan,
 telah diganti dengan aplikasi yang mudah dipakai,
-yaitu eBupot PPh 23.
+yaitu e-Bupot PPh 23.
 
 ### Daftar Isi
 
@@ -90,7 +90,7 @@ Klik saja setelah itu akan muncul ikon e-Bupot.
 
 ![Berkas e-Bupot PPh 23: Ikon e-Bupot][11-pra-e-bupot]
 
-Makan akan masuk situs:
+Maka akan masuk situs:
 
 * [ebupot.pajak.go.id](https://ebupot.pajak.go.id/default)
 
@@ -150,7 +150,7 @@ namun dalam pelaksanaanya lebih baik ke dashboard BP 23.
 
 ![Berkas e-Bupot PPh 23: Menu e-Bupot: BP 23][11-pra-dropdown]
 
-### Induk: SPT Masa Pajak PPh 23
+### Induk: SPT Masa PPh 23
 
 > Formulir 1724 Induk
 
