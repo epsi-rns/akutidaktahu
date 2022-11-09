@@ -29,6 +29,11 @@ Jadi saat ini hampir semua e-SPT terkait PPh,
 sudah dipindah ke PPh Unifikasi.
 Kecuali PPh 21 yang masih memakai e-SPT.
 
+Ini hanyalah pengenalan.
+Dan kalau mau jujur isinya hanyalah sesisir tangkapan layar.
+
+> _Just a bunch of screenshots_.
+
 Karena kelengkapannya,
 maka pengenalan e-Bupot Unifikasi ini cukup panjang.
 
