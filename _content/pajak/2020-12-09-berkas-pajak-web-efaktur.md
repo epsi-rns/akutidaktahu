@@ -25,7 +25,7 @@ artikel Web e-Faktur yang kemarin.
 Pengisian Web e-Faktur,
 adalah berdasarkan data yang ada di DJP.
 Data di DJP ini ini sendiri adalah berdasarkan,
-uppload data secara manual ddi ETaxInvoice,
+upload data secara manual ddi ETaxInvoice,
 baik Faktur Masukan, maupun Faktur Keluaran.
 
 Karena itu, maka beberapa data di Web e-Faktur, akan terisi sendiri.
@@ -47,7 +47,7 @@ Tergantung dari entry data yang kita masukkan di ETaxInvoice.
 
 Pengarsipan PPn,
 memerlukan pengetahuan mengenai isi berkas.
-Karena itu perlu dijelaskan sercara rinci.
+Karena itu perlu dijelaskan secara rinci.
 
 Kita ambil contoh kasus,
 misalnya bulan nopember 2020.
@@ -209,7 +209,7 @@ yaitu e-Bupot Unifikasi yang berbasis web.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[local-whats-next]:     /pajak/2022/05/11/berkas-pajak-unifikasi.html
+[local-whats-next]:     /pajak/2022/06/11/berkas-pajak-unifikasi.html
 
 [16-mon-nop-open]:      {% postimage %}/pajak/2020/12/16-mon-nop-open.png
 [21-lamp-05-ab0]:       {% postimage %}/pajak/2020/12/21-lamp-05-ab0.png

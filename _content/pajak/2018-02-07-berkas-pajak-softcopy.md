@@ -28,7 +28,7 @@ maka mencetak menjadi mudah.
 Namun saya juga paham kalau tidak semua kondisi,
 memungkinkan adanya softcopy ini.
 Sebagai pegawai, mungkin kita ingin berbuat,
-namun tidak pounya akses ke sana.
+namun tidak punya akses ke sana.
 
 Bagaimanapun, di artikel ini asumsinya adalah,
 kita memulai dari softcopy.
@@ -66,7 +66,7 @@ Mari kita bayangkan sejenak akan seperti apa berkas ini nantinya.
 
 #### Aturan Umum Folder
 
-> Semua berkas ada tempatnya./
+> Semua berkas ada tempatnya.
 > Semua berkas pada tempatnya.
 
 Kelompokkan berkas, misalnya berdasarkan waktu atau lainnya.
@@ -106,7 +106,7 @@ sesuai urutan business process-nya misalnya:
 * 03 - Invoice
 * 05 - Pajak Masa
 
-Kita tidak membahas yang seperti ini.
+**Kita tidak membahas yang seperti ini**.
 Yang kita bahas adalah folder di PC masing-masing.
 
 #### Meletakkan Data
@@ -249,7 +249,7 @@ Kita tahu ada pekerjaan kantor,
 yang berpotensi terkena denda karena masih gantung,
 belum dilaporkan.
 
-#### Penyederhanaan NAma
+#### Penyederhanaan Nama
 
 Bilamana, jarang terjadi pembetulan,
 maka dapat menyederhanakan tata nama.
@@ -338,7 +338,7 @@ Kita akan bahas rincian di artikel terpisah.
 Di folder baru ini,
 biasanya ditaruh berkas awal untuk perhitungan pajaknya.
 
-![Folder New][09-folder-new]
+![Folder Baru: New][09-folder-new]
 
 Biasanya saya bikin berkas lembar kerja excel-nya.
 Berikut draft SSP, bilamana perlu ada pembayaran pajak.
@@ -420,7 +420,7 @@ untuk masing-masing jenis pajak masa.
 Ada beberapa backup yang biasanya dilakukan:
 1. PPh 21
 2. PPh 4(2)
-3. eFaktur
+3. e-Faktur (ETaxInvoice)
 
 Kebijakan backup ini,
 terserah masing-masing kantor.
