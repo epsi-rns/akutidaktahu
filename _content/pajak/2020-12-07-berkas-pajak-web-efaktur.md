@@ -192,6 +192,15 @@ Dengan tambahan menu sebagaimana berikut:
 
 ![Web e-Faktur: ETaxInvoice][31-etaxinvoice]
 
+Dengan adanya fitur prepopulated ini,
+maka pajak masukan tidak perlu di-input lagi,
+satu-per-satu lagi secara manual,
+namun cukup ditarik secara otomatis dari basis data yang ada di DJP
+
+![Web e-Faktur: Prepopulated][32-prepopulated]
+
+Sangat memudahkan.
+
 -- -- --
 
 <a name="tips"></a>
@@ -256,3 +265,4 @@ Mari kita akan lanjut ke pengisian aplikasi web-efaktur:
 [21-lamp-05-ab0]:       {% postimage %}/pajak/2020/12/21-lamp-05-ab0.png
 
 [31-etaxinvoice]:       {% postimage %}/pajak/2020/12/31-etaxinvoice.png
+[32-prepopulated]:      {% postimage %}/pajak/2020/12/32-prepopulated.png

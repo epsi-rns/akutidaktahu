@@ -7,7 +7,7 @@ tags      : [pajak]
 keywords  : [arsip, ebupot, pph23]
 
 toc       : "toc/berkaspajak.njk"
-opengraphimage: "assets/posts/pajak/2020/10/21-indek-pdf-pph23.png"
+opengraphimage: "assets/posts/pajak/2020/10/21-induk-pdf-pph23.png"
 
 excerpt   : Mengenal e-Bupot PPh 23
 
@@ -157,12 +157,12 @@ namun dalam pelaksanaanya lebih baik ke dashboard BP 23.
 Saya baru tahu kalau nama form-nya 1724.
 Formulir induk bentuknya seperti ini di bawah:
 
-![Berkas e-Bupot PPh 23: Form Masa Pajak Induk 1724][22-indek-doc-pph23]
+![Berkas e-Bupot PPh 23: Form Masa Pajak Induk 1724][22-induk-doc-pph23]
 
 Kalau mau dilihat lagi rincian berkasnya,
 maka akan kelihatan objek pajak yang dipotong sebagai berikut:
 
-![Berkas e-Bupot PPh 23: Objek Pajak][22-indek-doc-objek]
+![Berkas e-Bupot PPh 23: Objek Pajak][22-induk-doc-objek]
 
 Angkanya sesuai dengan gambaran di contoh kasus.
 
@@ -256,9 +256,9 @@ Mari kita akan lanjut ke pengisian aplikasi web-efaktur:
 [13-ebupot-rinci]:      {% postimage %}/pajak/2020/10/13-ebupot-rinci.png
 [13-ebupot-tombol]:     {% postimage %}/pajak/2020/10/13-ebupot-tombol.png
 
-[21-indek-pdf-pph23]:   {% postimage %}/pajak/2020/10/21-indek-pdf-pph23.png
-[22-indek-doc-objek]:   {% postimage %}/pajak/2020/10/22-indek-doc-objek.png
-[22-indek-doc-pph23]:   {% postimage %}/pajak/2020/10/22-indek-doc-pph23.png
+[21-induk-pdf-pph23]:   {% postimage %}/pajak/2020/10/21-induk-pdf-pph23.png
+[22-induk-doc-objek]:   {% postimage %}/pajak/2020/10/22-induk-doc-objek.png
+[22-induk-doc-pph23]:   {% postimage %}/pajak/2020/10/22-induk-doc-pph23.png
 [23-bupot-pdf-pph23]:   {% postimage %}/pajak/2020/10/23-bupot-pdf-pph23.png
 [24-bupot-doc-nominal]: {% postimage %}/pajak/2020/10/24-bupot-doc-nominal.png
 [24-bupot-doc-pph23]:   {% postimage %}/pajak/2020/10/24-bupot-doc-pph23.png
