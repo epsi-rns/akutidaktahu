@@ -166,6 +166,18 @@ Yaitu dari kiri ke kanan:
 * Cetak SPT
 * Ajukan Unduh Bukti Potong
 
+Berikut apabila kita klik `Lihat BPE`:
+
+### Berkas Arsip
+
+Kita segara unduh saja berkas arsip yang ada.
+
+![PPh Unifikasi: Lihat BPE][08-lihat-bpe]
+
+Dan juga `Cetak SPT`.
+
+![PPh Unifikasi: Cetak SPT][08-cetak-spt]
+
 ### Lihat Bukti Potong pada e-SPT
 
 > Daftar Bukti Potong
@@ -253,6 +265,12 @@ Dari sini kita dapat mengakses berkas dari tombol yang ada:
 * Kirim Email
 
 ![PPh Unifikasi: Pajak Penghasilan: Menu][12-pph-isian-icon]
+
+### Berkas Arsip
+
+Kita unduh lagi berkas yang ada, yaitu `Bukti Potong`.
+
+![PPh Unifikasi: Lihat Bukti Potong][12-lihat-bupot]
 
 ### Posting
 
@@ -558,6 +576,10 @@ Kita akan berlanjut ke artikel berseri yang lain.
 [07-unif-dashboard]:    {% postimage %}/pajak/2022/06/07-unifikasi-dashboard.png
 [08-unif-button-only]:  {% postimage %}/pajak/2022/06/08-unifikasi-button-only.png
 [09-unif-daftar-bupot]: {% postimage %}/pajak/2022/06/09-unifikasi-daftar-bupot.png
+
+[08-lihat-bpe]:         {% postimage %}/pajak/2022/06/08-lihat-bpe.png
+[08-cetak-spt]:         {% postimage %}/pajak/2022/06/08-cetak-spt.png
+[12-lihat-bupot]:       {% postimage %}/pajak/2022/06/12-lihat-bupot.png
 
 [10-pph-menu]:          {% postimage %}/pajak/2022/06/10-pph-menu.png
 [11-pph-cari]:          {% postimage %}/pajak/2022/06/11-pph-cari.png
