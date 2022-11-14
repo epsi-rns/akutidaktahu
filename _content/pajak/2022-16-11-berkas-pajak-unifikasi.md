@@ -99,6 +99,15 @@ Kita akan melihat bagaimana tampilannya di situs pajak,
 lalu berikut contoh berkas keluarannya,
 yang dapat diunduh/dicetak.
 
+### Penataan Folder
+
+Seperti biasa, hajar dahulu tata nama  berkas,
+supaya ada aturan baku untuk kantor.
+
+![PPh Unifikasi: Persiapan: Tata Nama Berkas][02-folder-unifikasi]
+
+Mengenai tata nama-nya, silahkan diatur sendiri.
+
 ### Masuk e-Bupot Unifikasi
 
 > Pra Pelaporan
@@ -541,6 +550,8 @@ Kita akan berlanjut ke artikel berseri yang lain.
 [//]: <> ( -- -- -- links below -- -- -- )
 
 [01-pranala-sse]:       {% postimage %}/pajak/2022/06/01-pranala-sse-pph42.png
+[02-folder-unifikasi]:  {% postimage %}/pajak/2022/06/02-folder-unifikasi.png
+
 [04-pra-pel-e-bupot]:   {% postimage %}/pajak/2022/06/04-pra-pelaporan-e-bupot.png
 [05-pra-pel-menu]:      {% postimage %}/pajak/2022/06/05-pra-pelaporan-menu.png
 [06-pra-pel-wide]:      {% postimage %}/pajak/2022/06/06-pra-pelaporan-wide.png

@@ -224,8 +224,8 @@ Mari kita lanjutkan ke artikel berikutnya yaitu:
 
 [11-case-07]:           {% postimage %}/pajak/2018/05/11-case-07.png
 
-[13-case-01p]:          {% postimage %}/pajak/2018/05/13-case-01p.png
-[13-case-01h]:          {% postimage %}/pajak/2018/05/13-case-01h.png
+[13-case-01p]:          {% postimage %}/pajak/2018/05/13-case-01pi.png
+[13-case-01h]:          {% postimage %}/pajak/2018/05/13-case-01hu.png
 
 
 [Teliti-2018-case]:     {% postimage %}/pajak/2018/05/Teliti-2018-contoh-kasus-transaksi.xlsx

@@ -258,7 +258,7 @@ Yang isinya adalah:
 
 ```
 1. Bambang Rudolfo:      6,000,000
-*  09.254.294.3-407.000
+*  09.254.294.3-405.000
 
 -- 2018 - 12 - Desember --
 
@@ -312,7 +312,7 @@ untuk melakukan input ke aplikasi eSPT PPh 21.
 
 ```
 1. Bambang Rudolfo:      6,000,000
-*  09.254.294.3-407.000
+*  09.254.294.3-405.000
 ```
 
 #### Tanda Terima

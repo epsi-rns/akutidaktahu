@@ -452,9 +452,9 @@ yang perlu kita bahas:
 
 [82-sse-pph23]:         {% postimage %}/pajak/2018/03/82-pranala-sse-pph23.png
 
-[13-case-03p]:          {% postimage %}/pajak/2018/05/13-case-03p.png
-[13-case-03h]:          {% postimage %}/pajak/2018/05/13-case-03h.png
-[13-case-04p]:          {% postimage %}/pajak/2018/05/13-case-04p.png
-[13-case-04h]:          {% postimage %}/pajak/2018/05/13-case-04h.png
-[13-case-05p]:          {% postimage %}/pajak/2018/05/13-case-05p.png
-[13-case-05h]:          {% postimage %}/pajak/2018/05/13-case-05h.png
+[13-case-03p]:          {% postimage %}/pajak/2018/05/13-case-03pi.png
+[13-case-03h]:          {% postimage %}/pajak/2018/05/13-case-03hu.png
+[13-case-04p]:          {% postimage %}/pajak/2018/05/13-case-04pi.png
+[13-case-04h]:          {% postimage %}/pajak/2018/05/13-case-04hu.png
+[13-case-05p]:          {% postimage %}/pajak/2018/05/13-case-05pi.png
+[13-case-05h]:          {% postimage %}/pajak/2018/05/13-case-05hu.png

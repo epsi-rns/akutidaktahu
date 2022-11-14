@@ -180,7 +180,7 @@ Maka sengaja saya bikin singkat.
 
 ### Induk: SPT Masa Pajak PPh 4(2)
 
-Formulir induk bentuknya seperti inidi bawah:
+Formulir induk bentuknya seperti ini di bawah:
 
 ![Berkas PPh 4(2): Form Masa Pajak Induk][42-doc-pph4(2)-induk]
 

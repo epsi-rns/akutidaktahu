@@ -442,5 +442,5 @@ Mari kita lanjutkan ke artikel berikutnya yaitu:
 
 [82-sse-ppn]:           {% postimage %}/pajak/2018/03/82-pranala-sse-ppn.png
 
-[13-case-02p]:          {% postimage %}/pajak/2018/05/13-case-02p.png
-[13-case-02h]:          {% postimage %}/pajak/2018/05/13-case-02h.png
+[13-case-02p]:          {% postimage %}/pajak/2018/05/13-case-02pi.png
+[13-case-02h]:          {% postimage %}/pajak/2018/05/13-case-02hu.png
