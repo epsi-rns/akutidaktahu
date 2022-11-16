@@ -349,10 +349,14 @@ sesuai dengan isian yang baru saja kita masukkan.
 
 ### Ringkasan Pembayaran
 
+> Logikanya sih begitu.
+
 Dalam kondisi sudah terbayar,
 maka di tabel berikutnya tidak ada lagi selisih pembayaran.
 
-[76-selisih]
+Namun dalam kenyataannya, ini tampilan yang saya dapatkan.
+
+![PPh Unifikasi: Bukti Setor: Selisih][76-selisih]
 
 Selanjutnya kita dapat melihat ke menu SPT.
 
@@ -396,6 +400,10 @@ penandatangan bukti potong di perusahaan masing-masing.
 Bila berhasil akan ada notifikasi sukses
 
 ![PPh Unifikasi: Bukti Setor][78-lengkapi-sukses]
+
+Namun kadangkala kita mesti bersabar karena ada waktu jeda dari DJP.
+
+![PPh Unifikasi: Bukti Setor: Status Tunggu][67-status-tunggu]
 
 ### Mengirim SPT
 
@@ -456,6 +464,7 @@ Kita akan berlanjut ke artikel berseri yang lain.
 [65-daftar-ringkasan]:  {% postimage %}/pajak/2022/06/65-daftar-ringkasan.png
 [66-kode-billling-sks]: {% postimage %}/pajak/2022/06/66-kode-billling-sukses.png
 [67-daftar-tagihan]:    {% postimage %}/pajak/2022/06/67-daftar-tagihan.png
+[67-status-tunggu]:     {% postimage %}/pajak/2022/06/67-status-tunggu.png
 [68-kode-billing]:      {% postimage %}/pajak/2022/06/68-kode-billing.png
 [69-menu-unduh]:        {% postimage %}/pajak/2022/06/69-menu-unduh.png
 
