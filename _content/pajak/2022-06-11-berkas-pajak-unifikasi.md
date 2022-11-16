@@ -57,8 +57,6 @@ maka pengenalan e-Bupot Unifikasi ini cukup panjang.
 
 * [Apa Selanjutnya?](#selanjutnya)
 
-### 3: SPT Masa
-
 ### Untuk Belajar
 
 Mengapa perlu saya paparkan dalam bentuk artikel di blog,
@@ -93,7 +91,13 @@ kita pilih saja salah satu PPh,
 yaitu PPh 4(2) sewa gedung.
 Inilah yang akan kita jadikan contoh kasus:
 
-![PPh Unifikasi: Persiapan: Contoh Kasus][01-pranala-sse]
+![PPh Unifikasi: Persiapan: Contoh Kasus][01-pranala-sse-pph]
+
+Pada prakteknya di PPh unifikasi,
+pembayaran PPh disatukan, dan bukan per transaksi,
+maka bentuk lembar kerja persiapan kita agak berbeda.
+
+![PPh Unifikasi: Persiapan: Contoh Kasus][01-pranala-sse-uni]
 
 Kita akan melihat bagaimana tampilannya di situs pajak,
 lalu berikut contoh berkas keluarannya,
@@ -560,14 +564,18 @@ Untuk berbagai macam ragam jenis isian PPh, kecuali PPh 21.
 
 <a name="selanjutnya"></a>
 
-### Penutup
+## Apa Selanjutnya?
 
-Sebagai pengenalan cukup ini dahulu artikel berserinya.
-Kita akan berlanjut ke artikel berseri yang lain.
+Berhubung pengisian PPh Unifikasi memiliki tahap cuku panjang,
+maka perlu dijelaskan contoh langkah pengisiannya: 
+[[Berkas Pajak - Pengisian e-Bupot Unifikasi][local-whats-next]].
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[01-pranala-sse]:       {% postimage %}/pajak/2022/06/01-pranala-sse-pph42.png
+[local-whats-next]:     /pajak/2022/06/13/berkas-pajak-unifikasi.html
+
+[01-pranala-sse-pph]:   {% postimage %}/pajak/2022/06/01-pranala-sse-pph42.png
+[01-pranala-sse-uni]:   {% postimage %}/pajak/2022/06/01-pranala-sse-unifikasi.png
 [02-folder-unifikasi]:  {% postimage %}/pajak/2022/06/02-folder-unifikasi.png
 
 [04-pra-pel-e-bupot]:   {% postimage %}/pajak/2022/06/04-pra-pelaporan-e-bupot.png
