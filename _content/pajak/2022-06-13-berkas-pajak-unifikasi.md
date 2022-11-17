@@ -356,7 +356,13 @@ maka di tabel berikutnya tidak ada lagi selisih pembayaran.
 
 Namun dalam kenyataannya, ini tampilan yang saya dapatkan.
 
-![PPh Unifikasi: Bukti Setor: Selisih][76-selisih]
+![PPh Unifikasi: Bukti Setor: Selisih][76-selisih-a]
+
+Ternyata kita harus menyimpan SPT,
+terlebih dahulu supaya hasil selisihnya tepat.
+Berikut hasil setelah SPT disimpan.
+
+![PPh Unifikasi: Bukti Setor: Selisih][76-selisih-b]
 
 Selanjutnya kita dapat melihat ke menu SPT.
 
@@ -473,7 +479,8 @@ Kita akan berlanjut ke artikel berseri yang lain.
 [73-ntpn]:              {% postimage %}/pajak/2022/06/73-ntpn.png
 [74-simpan]:            {% postimage %}/pajak/2022/06/74-simpan.png
 [75-tambah-daftar]:     {% postimage %}/pajak/2022/06/75-tambah-daftar.png
-[76-selisih]:           {% postimage %}/pajak/2022/06/76-selisih.png
+[76-selisih-a]:         {% postimage %}/pajak/2022/06/76-selisih-a.png
+[76-selisih-b]:         {% postimage %}/pajak/2022/06/76-selisih-b.png
 [77-status-draft]:      {% postimage %}/pajak/2022/06/77-status-draft.png
 
 [78-lengkapi-bukti-str]:{% postimage %}/pajak/2022/06/78-lengkapi-bukti-setor.png
