@@ -4,7 +4,7 @@ title     : Berkas Pajak - Pengisian Web e-Faktur
 date      : 2020-12-09 09:17:35
 slug      : berkas-pajak-web-efaktur
 tags      : [pajak]
-keywords  : [arsip, web efaktur]
+keywords  : [arsip, web efaktur, ppn]
 
 toc       : "toc/berkaspajak.njk"
 opengraphimage: "assets/posts/pajak/2020/12/21-lamp-05-ab0.png.png"

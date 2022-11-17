@@ -4,7 +4,7 @@ title     : Berkas Pajak - e-Bupot Unifikasi
 date      : 2022-06-11 09:17:35
 slug      : berkas-pajak-unifikasi
 tags      : [pajak]
-keywords  : [arsip, ebupot, pph23, pph4(2), unifikasi]
+keywords  : [arsip, ebupot, pph 23, pph 4(2), unifikasi]
 
 toc       : "toc/berkaspajak.njk"
 opengraphimage: "assets/posts/pajak/2022/06/31-induk-pdf-uni.png"

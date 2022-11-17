@@ -4,7 +4,7 @@ title     : Berkas Pajak - e-Bupot
 date      : 2020-11-05 09:17:35
 slug      : berkas-pajak-ebupot
 tags      : [pajak]
-keywords  : [arsip, ebupot, pph23]
+keywords  : [arsip, ebupot, pph 23]
 
 toc       : "toc/berkaspajak.njk"
 opengraphimage: "assets/posts/pajak/2020/10/21-induk-pdf-pph23.png"
