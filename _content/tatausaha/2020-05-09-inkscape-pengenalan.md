@@ -26,6 +26,8 @@ excerpt   : Kelihatan keren dengan Inkscape.
 
 * [Contoh Praktis](#sederhana)
 
+* [Contoh Diagram](#diagram)
+
 * [Penutup](#penutup)
 
 -- -- --
@@ -175,11 +177,32 @@ maka hasilnya adalah:
 
 ![Kenalan Inkscape: Material Design Pallete][material-pallete]
 
-### Diagramming
+-- -- --
+
+<a name="diagram"></a>
+
+## Contoh Diagram
 
 Di awal ceramah, kita khan bahas diagramming yacc?
 Oke, lihat contohnya yucc,
-yaitu ringkasan alur pembayaran pajak PPn.
+
+### Struktur Organisasi
+
+Yang paling umum ya, kita bikin struktur organisasi dulu.
+
+![Kenalan Inkscape: Struktur Organisasi][struktur-teliti-png]
+
+Bagaimana isinya dapat dilihat sendiri di berkas SVG di bawah:
+
+* [struktur-teliti.svg][struktur-teliti-svg]
+
+Artikel ini hanya berisi pengenalan,
+maka tidak kujelaskan cara bikinnya.
+Maap-maap ya blo.
+
+### Alur Pembetulan Pajak PPn
+
+Yaitu ringkasan alur pembetulan pajak PPn.
 
 ![Kenalan Inkscape: Alur Pembayaran pajak PPn][2022-alur-ppn-png]
 
@@ -217,6 +240,9 @@ kalau disuruh ngobrol aku suka bingung.
 [pick-pallete]:         {% postimage %}/tatausaha/2022/05/pick-pallete.png
 
 [material-pallete]:     {% postimage %}/tatausaha/2022/05/material-pallete.png
+
+[struktur-teliti-png]:  {% postimage %}/tatausaha/2022/05/struktur-teliti.png
+[struktur-teliti-svg]:  {% postimage %}/tatausaha/2022/05/struktur-teliti.svg
 
 [2022-alur-ppn-png]:    {% postimage %}/tatausaha/2022/05/2022-alur-ppn.png
 [2022-alur-ppn-svg]:    {% postimage %}/tatausaha/2022/05/2022-alur-ppn.svg
