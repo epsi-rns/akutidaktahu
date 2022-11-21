@@ -9,7 +9,7 @@ keywords  : [arsip, pendukung]
 toc       : "toc/berkaspajak.njk"
 opengraphimage: "assets/posts/pajak/2018/05/41-1771-doc-induk-01.png"
 
-excerpt   : Mengenal Laporan Pajak 1771 SPT Tahunan PPh Badan
+excerpt   : Mengenal Laporan Pajak SPT Tahunan PPh Badan 1771
 
 ---
 
@@ -17,7 +17,7 @@ excerpt   : Mengenal Laporan Pajak 1771 SPT Tahunan PPh Badan
 
 ## Prakata
 
-> Mengenal Laporan Pajak 1771 SPT Tahunan PPh Badan
+> Mengenal Laporan Pajak SPT Tahunan PPh Badan 1771
 
 Saya usahakan artikel pengenalan ini sesedikit mungkin.
 Isinya hanya sebatas pengenalan form apa saja.
@@ -116,7 +116,14 @@ Daftar form dapat dijabarkan isinya sebagaimana berikut
 
 * Lampiran Khusus 8A-2:
   * Transkrip Kutipan Elemen-Elemen dari Laporan Keuangan
-  
+
+Cukup banyak, namun kalau dikerjakan satu-per-satu,
+sebetulnya tidak ada yang susah.
+
+Kecuali kalau perusahaan sudah besar,
+dan ada koreksi fiskal, baru kita harus memperhatikan betul,
+lampiran I, II, dan SPT-induk-nya.
+
 ### Cara Pengisian
 
 > Isilah mulai Dari Belakang
@@ -326,6 +333,27 @@ Masih ada satu halaman lagi, nanti dapat dilihat sendiri saat praktek.
 Bagian paling bawah adalah penandatangan.
 
 ![Formulir 1771: SPT Induk: ][41-1771-doc-induk-09]
+
+### Pengarsipan
+
+Jangan lupa tujuan utama dari artikel ini,
+semata-mata adalah pengarsipan.
+Maka yang kita perlukan adalah membikin cover yang baik,
+lalu satukan semuanya menjadi satu PDF yang lengkap.
+Cetak hardcopy juga, bersama screenshot tanda terima.
+
+Bagi pengguna linux,
+menyatukan berkas pdf sangat mudah dengan `pdftk`.
+
+{% highlight "bash" %}
+$ pdftk Cover.pdf \
+  01.pdf 02.pdf \
+  03.pdf 04a.pdf 04b.pdf \
+  05.pdf 06.pdf 07.pdf \
+  09.pdf 10.pdf \
+  11.pdf 12.pdf 13.pdf \
+  cat output Lengkap.pdf
+{% endhighlight %}
 
 Itu saja, sekian pengenalan mengenai formulir 1771.
 
