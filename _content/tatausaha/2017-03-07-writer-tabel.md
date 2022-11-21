@@ -6,6 +6,7 @@ slug      : surat-rapi-dengan-tabel
 tags      : [tatausaha]
 keywords  : [pph21, espt]
 
+toc       : "toc/tatausaha.njk"
 opengraphimage: "assets/posts/tatausaha/2017/03/2017-22-table-properties-inch.png"
 
 excerpt   : Rapi surat-menyurat dengan tabel.

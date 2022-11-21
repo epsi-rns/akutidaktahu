@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1600"
+   height="1000"
+   viewBox="0 0 423.33333 264.58334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="pembatas-kertas.svg"
+   inkscape:export-filename="BKM - Kas/12-des.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="1600px"
+     inkscape:zoom="0.712"
+     inkscape:cx="774.57865"
+     inkscape:cy="500"
+     inkscape:window-width="1914"
+     inkscape:window-height="990"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g14097"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Bingkai"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       id="rect848"
+       style="fill:#009688;stroke-width:1"
+       d="M 100,100 V 900 H 1500 V 100 Z m 50,50 H 1450 V 850 H 150 Z"
+       transform="scale(0.26458334)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Judul"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="Kas Masuk"
+       sodipodi:insensitive="true"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:22.5778px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="211.03166"
+         y="82.176071"
+         id="text4212"><tspan
+           sodipodi:role="line"
+           id="tspan4210"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.5778px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';stroke-width:0.264583"
+           x="211.03166"
+           y="82.176071">Bukti Kas/Bank Masuk</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g4029"
+       inkscape:label="Kas Keluar"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-size:22.5778px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="211.03166"
+         y="82.176071"
+         id="text4027"><tspan
+           sodipodi:role="line"
+           id="tspan4025"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.5778px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';stroke-width:0.264583"
+           x="211.03166"
+           y="82.176071">Bukti Kas/Bank Keluar</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Akun"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="layer6"
+       inkscape:label="Bank BNI 1127"
+       style="display:none">
+      <text
+         xml:space="preserve"
+         style="font-size:22.5778px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#e65100;stroke-width:0.264583"
+         x="211.34494"
+         y="135.04758"
+         id="text838"
+         inkscape:export-filename="/media/Works/2022 - Accounting/2022 - Cetak Bukti/00 - Pembatas/04-apr.png"
+         inkscape:export-xdpi="192"
+         inkscape:export-ydpi="192"><tspan
+           sodipodi:role="line"
+           id="tspan836"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.5778px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';fill:#e65100;stroke-width:0.264583"
+           x="211.34494"
+           y="135.04758">Bank BNI 1127</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g931"
+       inkscape:label="Kas"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:22.5778px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#e65100;stroke-width:0.264583"
+         x="211.34494"
+         y="135.04758"
+         id="text929"
+         inkscape:export-filename="/media/Works/2022 - Accounting/2022 - Cetak Bukti/00 - Pembatas/04-apr.png"
+         inkscape:export-xdpi="192"
+         inkscape:export-ydpi="192"><tspan
+           sodipodi:role="line"
+           id="tspan927"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.5778px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';fill:#006064;stroke-width:0.264583"
+           x="211.34494"
+           y="135.04758">Bukti Penerimaan Kas</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g1832"
+       inkscape:label="Bank Mandiri 7769"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-size:22.5778px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#0d47a1;stroke-width:0.264583"
+         x="211.34494"
+         y="135.04758"
+         id="text1830"
+         inkscape:export-filename="/media/Works/2022 - Accounting/2022 - Cetak Bukti/00 - Pembatas/04-apr.png"
+         inkscape:export-xdpi="192"
+         inkscape:export-ydpi="192"><tspan
+           sodipodi:role="line"
+           id="tspan1828"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.5778px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';fill:#0d47a1;stroke-width:0.264583"
+           x="211.34494"
+           y="135.04758">Bank Mandiri 7769</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Bulan"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       inkscape:groupmode="layer"
+       id="g20995"
+       inkscape:label="12-Des"
+       style="display:inline"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-size:22.5778px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;display:inline;stroke-width:0.264583"
+         x="211.34494"
+         y="187.96425"
+         id="text20993"
+         inkscape:export-filename="/media/Works/2022 - Accounting/2022 - Cetak Bukti/00 - Pembatas/04-apr.png"
+         inkscape:export-xdpi="192"
+         inkscape:export-ydpi="192"><tspan
+           sodipodi:role="line"
+           id="tspan20991"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.5778px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';stroke-width:0.264583"
+           x="211.34494"
+           y="187.96425">Desember 2022</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g20989"
+       inkscape:label="11-Nov"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-size:22.5778px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;display:inline;stroke-width:0.264583"
+         x="211.34494"
+         y="187.96425"
+         id="text20987"
+         inkscape:export-filename="/media/Works/2022 - Accounting/2022 - Cetak Bukti/00 - Pembatas/04-apr.png"
+         inkscape:export-xdpi="192"
+         inkscape:export-ydpi="192"><tspan
+           sodipodi:role="line"
+           id="tspan20985"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.5778px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';stroke-width:0.264583"
+           x="211.34494"
+           y="187.96425">November 2022</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g20983"
+       inkscape:label="10-Okt"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-size:22.5778px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;display:inline;stroke-width:0.264583"
+         x="211.34494"
+         y="187.96425"
+         id="text20981"
+         inkscape:export-filename="/media/Works/2022 - Accounting/2022 - Cetak Bukti/00 - Pembatas/04-apr.png"
+         inkscape:export-xdpi="192"
+         inkscape:export-ydpi="192"><tspan
+           sodipodi:role="line"
+           id="tspan20979"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.5778px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';stroke-width:0.264583"
+           x="211.34494"
+           y="187.96425">Oktober 2022</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g20977"
+       inkscape:label="09-Sep"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-size:22.5778px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;display:inline;stroke-width:0.264583"
+         x="211.34494"
+         y="187.96425"
+         id="text20975"
+         inkscape:export-filename="/media/Works/2022 - Accounting/2022 - Cetak Bukti/00 - Pembatas/04-apr.png"
+         inkscape:export-xdpi="192"
+         inkscape:export-ydpi="192"><tspan
+           sodipodi:role="line"
+           id="tspan20973"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.5778px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';stroke-width:0.264583"
+           x="211.34494"
+           y="187.96425">September 2022</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g14097"
+       inkscape:label="08-Ags"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-size:22.5778px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;display:inline;stroke-width:0.264583"
+         x="211.34494"
+         y="187.96425"
+         id="text14095"
+         inkscape:export-filename="/media/Works/2022 - Accounting/2022 - Cetak Bukti/00 - Pembatas/04-apr.png"
+         inkscape:export-xdpi="192"
+         inkscape:export-ydpi="192"><tspan
+           sodipodi:role="line"
+           id="tspan14093"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.5778px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';stroke-width:0.264583"
+           x="211.34494"
+           y="187.96425">Agustus 2022</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g14091"
+       inkscape:label="07-Jul"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-size:22.5778px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;display:inline;stroke-width:0.264583"
+         x="211.34494"
+         y="187.96425"
+         id="text14089"
+         inkscape:export-filename="/media/Works/2022 - Accounting/2022 - Cetak Bukti/00 - Pembatas/04-apr.png"
+         inkscape:export-xdpi="192"
+         inkscape:export-ydpi="192"><tspan
+           sodipodi:role="line"
+           id="tspan14087"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.5778px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';stroke-width:0.264583"
+           x="211.34494"
+           y="187.96425">Juli 2022</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g14085"
+       inkscape:label="06-Jun"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-size:22.5778px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;display:inline;stroke-width:0.264583"
+         x="211.34494"
+         y="187.96425"
+         id="text14083"
+         inkscape:export-filename="/media/Works/2022 - Accounting/2022 - Cetak Bukti/00 - Pembatas/04-apr.png"
+         inkscape:export-xdpi="192"
+         inkscape:export-ydpi="192"><tspan
+           sodipodi:role="line"
+           id="tspan14081"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.5778px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';stroke-width:0.264583"
+           x="211.34494"
+           y="187.96425">Juni 2022</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g14079"
+       inkscape:label="05-Mei"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-size:22.5778px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;display:inline;stroke-width:0.264583"
+         x="211.34494"
+         y="187.96425"
+         id="text14077"
+         inkscape:export-filename="/media/Works/2022 - Accounting/2022 - Cetak Bukti/00 - Pembatas/04-apr.png"
+         inkscape:export-xdpi="192"
+         inkscape:export-ydpi="192"><tspan
+           sodipodi:role="line"
+           id="tspan14075"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.5778px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';stroke-width:0.264583"
+           x="211.34494"
+           y="187.96425">Mei 2022</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer10"
+       inkscape:label="04-Apr"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-size:22.5778px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;display:inline;stroke-width:0.264583"
+         x="211.34494"
+         y="187.96425"
+         id="text6001"
+         inkscape:export-filename="/media/Works/2022 - Accounting/2022 - Cetak Bukti/00 - Pembatas/04-apr.png"
+         inkscape:export-xdpi="192"
+         inkscape:export-ydpi="192"><tspan
+           sodipodi:role="line"
+           id="tspan5999"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.5778px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';stroke-width:0.264583"
+           x="211.34494"
+           y="187.96425">April 2022</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g5908"
+       inkscape:label="03-Mar"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-size:22.5778px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;display:inline;stroke-width:0.264583"
+         x="211.34494"
+         y="187.96425"
+         id="text13145"
+         inkscape:export-filename="/media/Works/2022 - Accounting/2022 - Cetak Bukti/00 - Pembatas/04-apr.png"
+         inkscape:export-xdpi="192"
+         inkscape:export-ydpi="192"><tspan
+           sodipodi:role="line"
+           id="tspan13143"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.5778px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';stroke-width:0.264583"
+           x="211.34494"
+           y="187.96425">Maret 2022</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer9"
+       inkscape:label="02-Feb"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-size:22.5778px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;display:inline;stroke-width:0.264583"
+         x="211.34494"
+         y="187.96425"
+         id="text6089"
+         inkscape:export-filename="/media/Works/2022 - Accounting/2022 - Cetak Bukti/00 - Pembatas/04-apr.png"
+         inkscape:export-xdpi="192"
+         inkscape:export-ydpi="192"><tspan
+           sodipodi:role="line"
+           id="tspan6087"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.5778px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';stroke-width:0.264583"
+           x="211.34494"
+           y="187.96425">Februari 2022</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer8"
+       inkscape:label="01-Jan"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-size:22.5778px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;display:inline;stroke-width:0.264583"
+         x="211.34494"
+         y="187.96425"
+         id="text15582"
+         inkscape:export-filename="/media/Works/2022 - Accounting/2022 - Cetak Bukti/00 - Pembatas/04-apr.png"
+         inkscape:export-xdpi="192"
+         inkscape:export-ydpi="192"><tspan
+           sodipodi:role="line"
+           id="tspan15580"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.5778px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';stroke-width:0.264583"
+           x="211.34494"
+           y="187.96425">Januari 2022</tspan></text>
+    </g>
+  </g>
+</svg>
