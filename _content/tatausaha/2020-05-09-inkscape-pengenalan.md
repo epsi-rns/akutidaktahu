@@ -233,6 +233,8 @@ maka hasilnya adalah:
 
 ![Kenalan Inkscape: Material Design Pallete][material-pallete]
 
+Begitu banyak pilihan gardasi yang menarik.
+
 ### Fitur Lain
 
 Masih banyak fitur inkscape yang lain,
