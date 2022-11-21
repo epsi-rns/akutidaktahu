@@ -91,13 +91,20 @@ Tidak harus pakai inkscape sebetulnya. Dan tidak harus dipelajari kalau memang s
 
 Untuk admin kantor, kemampuan memakai inkscape (atau coreldraw), adalah barang wajib di kantor-kantor yang kekinian. Setidaknya dapat menjadi nilai tambah kalau mampu membikin diagram dengan cepat, dengan peralatan yang tepat. **Kecuali kalau memang berniat tidak punya keahlian**, tertinggal adalah pilihan juga.
 
+### Visualisasi
+
+> Suntuk gak bacanya?
+
+Sekarang bro, kamu liat deh ceramah panjang tanpa gambar ini.
+
+Makanya, visualisasi itu perlu blo.
+
 ### Panjang?
 
 Ini baru mukadimah.
 Kalau mau bisa harus praktek.
 
-Kalau ada pertanyaan, masuk saja ke komunitasnya,
-yaitu [gimpscape](https://t.me/gimpscape/).
+
 
 -- -- --
 
@@ -233,6 +240,11 @@ misalnya otomasi dengan python.
 Dan masih banyak lagi.
 Namun karena ini hanya pengenalan,
 maka kubatasi dulu biar kepalanya gak penuh.
+
+### Komunitas
+
+Kalau ada pertanyaan, masuk saja ke komunitasnya,
+yaitu [gimpscape](https://t.me/gimpscape/).
 
 Dah segitu dulu yaa... 
 Besok kita lanjut praktek, dari yaaang gampang.
