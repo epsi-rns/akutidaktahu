@@ -13,7 +13,7 @@ module.exports = {
   },
   "opengraph": {
     "languageCode" : "en-us",
-    "image"        : "/assets/images/adverts/one-page.png",
+    "image"        : "/assets/images/topics/me-card.png",
     "postimage"    : "/assets/images/authors/saya-vexel.png",
     "latitude"     : "-6.193665",
     "longitude"    : "106.848558",
