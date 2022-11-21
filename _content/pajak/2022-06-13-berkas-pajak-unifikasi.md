@@ -49,6 +49,8 @@ Secara sederhana prosesnya adalah begini:
 
 * [4: Perekaman Bukti Penyetoran: Setelah Pembayaran](#buktisetor2)
 
+* [5: SPT Masa](#sptmasa)
+
 * [Apa Selanjutnya?](#selanjutnya)
 
 ### Contoh Kasus
@@ -368,9 +370,9 @@ Selanjutnya kita dapat melihat ke menu SPT.
 
 -- -- --
 
-<a name="selanjutnya"></a>
+<a name="sptmasa"></a>
 
-## SPT Masa
+## 5: SPT Masa
 
 > Pengisian SPT Masa
 
@@ -427,6 +429,37 @@ Bila berhasil akan ada notifikasi sukses.
 
 Silahkan kembali dashboard,
 untuk melihat daftar SPT yang telah dilaporkan.
+Kemudian mengajukan bukti potong.
+
+-- -- --
+
+<a name="buktipotong"></a>
+
+## 6: Bukti Potong
+
+### Mengunduh Bukti Potong
+
+Bila kita perhatikan di Dashboard,
+maka terdapat icon berbeda.
+Hal ini karena untuk mendapatkan bukti potong dari SPT yang baru ,
+kita harus mengajukan pengajuan terlebih dahulu.
+Untuk melakukan pengajuan, cukup dengan meng-klik tombol pengajuan.
+
+![PPh Unifikasi: Unduh Bukti Potong][81-unduh-bakti-potong]
+
+Bila tombol sudah ditekan akan muncul notifikasi,
+dan kemudian ikon tombol berubah bentuk.
+Setelah itu kita akan dapat mengunduh berkas,
+dan muncul notifikasi berikutnya.
+
+![PPh Unifikasi: Unduh Setor][82-unduh-sukses]
+
+### Verifikasi
+
+Berikutnya adalah verifikasi QR dari bukti potong.
+Selalu lakukan verifikasi,
+untuk memastikan bukti potong valid,
+sebelum diberikan kepada lawan transaksi.
 
 -- -- --
 
@@ -489,3 +522,6 @@ Kita akan berlanjut ke artikel berseri yang lain.
 [78-lengkapi-sukses]:   {% postimage %}/pajak/2022/06/78-lengkapi-sukses.png
 [79-upload-sertel]:     {% postimage %}/pajak/2022/06/79-upload-sertel.png
 [79-upload-sukses]:     {% postimage %}/pajak/2022/06/79-upload-sukses.png
+
+[81-unduh-bakti-potong]:{% postimage %}/pajak/2022/06/81-unduh-bakti-potong.png
+[82-unduh-sukses]:      {% postimage %}/pajak/2022/06/82-unduh-sukses.png

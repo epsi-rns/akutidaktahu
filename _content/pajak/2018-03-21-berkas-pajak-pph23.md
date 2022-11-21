@@ -437,11 +437,11 @@ Saya belum pernah mengerjakan PPh pasal 15, maka saya lewati saja.
 
 Bagaimanapun, masih ada berkas artefak-artefak pendukung,
 yang perlu kita bahas:
-[[Berkas Pajak - Pendukung][local-whats-next]].
+[[Berkas Pajak - Badan Tahunan][local-whats-next]].
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[local-whats-next]:     /pajak/2018/05/25/berkas-pajak-pendukung.html
+[local-whats-next]:     /pajak/2018/05/23/berkas-pajak-badan-tahunan.html
 
 [08-folder-pph23]:      {% postimage %}/pajak/2018/03/08-folder-pph23.png
 
