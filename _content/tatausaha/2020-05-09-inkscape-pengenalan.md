@@ -28,6 +28,8 @@ excerpt   : Kelihatan keren dengan Inkscape.
 
 * [Contoh Diagram](#diagram)
 
+* [Fitur Inskcape](#fitur)
+
 * [Penutup](#penutup)
 
 -- -- --
@@ -147,35 +149,9 @@ Kita desain saja sendiri.
 
 Source: [cert-testbed.svg][cert-testbed-svg]
 
-Asiknya pakai inkscape, kita bisa atur dock,
-untuk layer, fill, transform, alignment,
-dan banyak lagi tools yang lain. Misalnya ini
+Desain selengkapnya dapat dilihat di [Inkscape Automation - Part One][inkscape-automation].
 
-* Layer
-
-![Kenalan Inkscape: Layer Dock][ss-layer]
-
-* Fill
-
-![Kenalan Inkscape: Fill Dock][ss-fill]
-
-### Warna Lain
-
-> Bro, koq biru semua 🤔?
-
-Jawaban singkat: _kagak tau dah, udah kebiasaan kali_.
-
-Sebetulnya warna favoritku bukan biru,
-namun google material design color.
-Warna-warna ini ada di pilihan pallete bawaan inkscape.
-Pilihannya banyak, namun kupotong saja ya supaya tidak memenuhi layar.
-
-![Kenalan Inkscape: Pick Pallete][pick-pallete]
-
-Kalau kita pilih palete `material design`,
-maka hasilnya adalah:
-
-![Kenalan Inkscape: Material Design Pallete][material-pallete]
+[inkscape-automation]: https://epsi-rns.gitlab.io/design/2021/11/07/inkscape-automation-01/
 
 -- -- --
 
@@ -210,6 +186,53 @@ Yang ini, admin pajak gak wajib bisa bikin yaaaa ....
 Tapi kalo mau keren... pakai saja source ini:
 
 * [2022-alur-ppn.svg][2022-alur-ppn-svg]
+
+-- -- --
+
+<a name="Fitur"></a>
+
+## Fitur Inkscape
+
+### Dock
+
+Asiknya pakai inkscape, kita bisa atur dock,
+untuk layer, fill, transform, alignment,
+dan banyak lagi tools yang lain.
+Misalnya ini, kita buka lagi berkas sertifikat di atas.
+
+* Layer
+
+![Kenalan Inkscape: Layer Dock][ss-layer]
+
+* Fill
+
+![Kenalan Inkscape: Fill Dock][ss-fill]
+
+### Warna Lain
+
+> Bro, koq biru semua 🤔?
+
+Jawaban singkat: _kagak tau dah, udah kebiasaan kali_.
+
+Sebetulnya warna favoritku bukan biru,
+namun google material design color.
+Warna-warna ini ada di pilihan pallete bawaan inkscape.
+Pilihannya banyak, namun kupotong saja ya supaya tidak memenuhi layar.
+
+![Kenalan Inkscape: Pick Pallete][pick-pallete]
+
+Kalau kita pilih palete `material design`,
+maka hasilnya adalah:
+
+![Kenalan Inkscape: Material Design Pallete][material-pallete]
+
+### Fitur Lain
+
+Masih banyak fitur inkscape yang lain,
+misalnya otomasi dengan python.
+Dan masih banyak lagi.
+Namun karena ini hanya pengenalan,
+maka kubatasi dulu biar kepalanya gak penuh.
 
 Dah segitu dulu yaa... 
 Besok kita lanjut praktek, dari yaaang gampang.
