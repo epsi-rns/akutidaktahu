@@ -243,17 +243,20 @@ namun jangan dipaksa, terutama saat memakai numbering.
 
 -- -- --
 
-<a name="penutup"></a>
+<a name="selanjutnya"></a>
 
-## Penutup
+## Apa Selanjutnya?
 
 Aku gak tau mesti ngomong apa... 
-
 Kalau nyanyi aku bisa,
 kalau disuruh ngobrol aku suka bingung.
 
+Salah satu **barang wajib** yang mesti dikenal admin adalah inkscape.
+[[Inkscape - Mengenal Inkscape][local-whats-next]].
 
 [//]: <> ( -- -- -- links below -- -- -- )
+
+[local-whats-next]:     /tatausaha/2022/05/09/mengenal-inkscape.html
 
 [01-tabulasi]:          {% postimage %}/tatausaha/2017/03/2017-01-tabulasi.png
 [02-tabulasi-marks]:    {% postimage %}/tatausaha/2017/03/2017-02-tabulasi-marks.png

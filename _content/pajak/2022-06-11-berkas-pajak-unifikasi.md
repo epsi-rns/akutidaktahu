@@ -566,7 +566,7 @@ Untuk berbagai macam ragam jenis isian PPh, kecuali PPh 21.
 
 ## Apa Selanjutnya?
 
-Berhubung pengisian PPh Unifikasi memiliki tahap cuku panjang,
+Berhubung pengisian PPh Unifikasi memiliki tahap yang cukup panjang,
 maka perlu dijelaskan contoh langkah pengisiannya: 
 [[Berkas Pajak - Pengisian e-Bupot Unifikasi][local-whats-next]].
 

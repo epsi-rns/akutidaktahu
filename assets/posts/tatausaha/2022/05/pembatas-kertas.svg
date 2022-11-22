@@ -7,7 +7,7 @@
    viewBox="0 0 423.33333 264.58334"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
    sodipodi:docname="pembatas-kertas.svg"
    inkscape:export-filename="BKM - Kas/12-des.png"
    inkscape:export-xdpi="96"
@@ -28,15 +28,15 @@
      showgrid="false"
      units="px"
      width="1600px"
-     inkscape:zoom="0.712"
-     inkscape:cx="774.57865"
-     inkscape:cy="500"
+     inkscape:zoom="0.454375"
+     inkscape:cx="467.67538"
+     inkscape:cy="499.58735"
      inkscape:window-width="1914"
      inkscape:window-height="990"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g14097"
+     inkscape:current-layer="layer6"
      inkscape:showpageshadow="2"
      inkscape:deskcolor="#d1d1d1" />
   <defs
@@ -104,11 +104,11 @@
     <g
        inkscape:groupmode="layer"
        id="layer6"
-       inkscape:label="Bank BNI 1127"
+       inkscape:label="Bank BNI"
        style="display:none">
       <text
          xml:space="preserve"
-         style="font-size:22.5778px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#e65100;stroke-width:0.264583"
+         style="font-size:22.5778px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;display:inline;fill:#e65100;stroke-width:0.264583"
          x="211.34494"
          y="135.04758"
          id="text838"
@@ -119,13 +119,14 @@
            id="tspan836"
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.5778px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';fill:#e65100;stroke-width:0.264583"
            x="211.34494"
-           y="135.04758">Bank BNI 1127</tspan></text>
+           y="135.04758">Bank BNI</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
        id="g931"
        inkscape:label="Kas"
-       style="display:inline">
+       style="display:inline"
+       sodipodi:insensitive="true">
       <text
          xml:space="preserve"
          style="font-size:22.5778px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#e65100;stroke-width:0.264583"
@@ -144,7 +145,7 @@
     <g
        inkscape:groupmode="layer"
        id="g1832"
-       inkscape:label="Bank Mandiri 7769"
+       inkscape:label="Bank Mandiri"
        style="display:none"
        sodipodi:insensitive="true">
       <text
@@ -160,7 +161,12 @@
            id="tspan1828"
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.5778px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';fill:#0d47a1;stroke-width:0.264583"
            x="211.34494"
-           y="135.04758">Bank Mandiri 7769</tspan></text>
+           y="135.04758">Bank Mandiri</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.5778px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';fill:#0d47a1;stroke-width:0.264583"
+           x="211.34494"
+           y="163.26982"
+           id="tspan949" /></text>
     </g>
   </g>
   <g

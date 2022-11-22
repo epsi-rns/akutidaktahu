@@ -233,7 +233,7 @@ maka hasilnya adalah:
 
 ![Kenalan Inkscape: Material Design Pallete][material-pallete]
 
-Begitu banyak pilihan gradasi yang menarik.
+Begitu banyak pilihan gradasi warna yang menarik.
 
 ### Fitur Lain
 
@@ -248,22 +248,19 @@ maka kubatasi dulu biar kepalanya gak penuh.
 Kalau ada pertanyaan, masuk saja ke komunitasnya,
 yaitu [gimpscape](https://t.me/gimpscape/).
 
-Dah segitu dulu yaa... 
-Besok kita lanjut praktek, dari yaaang gampang.
-
 -- -- --
 
-<a name="penutup"></a>
+<a name="selanjutnya"></a>
 
-## Penutup
+## Apa Selanjutnya?
 
-Aku gak tau mesti ngomong apa... 
-
-Kalau nyanyi aku bisa,
-kalau disuruh ngobrol aku suka bingung.
-
+Dah segitu dulu yaa... 
+Besok kita lanjut praktek, dari yaaang gampang:
+[[Inkscape - Pembatas Kertas][local-whats-next]].
 
 [//]: <> ( -- -- -- links below -- -- -- )
+
+[local-whats-next]:     /tatausaha/2022/05/11/inkscape-pembatas-kertas.html
 
 [introduce-me-png]:     {% postimage %}/tatausaha/2022/05/introduce-me.png
 [introduce-me-svg]:     {% postimage %}/tatausaha/2022/05/introduce-me.svg
