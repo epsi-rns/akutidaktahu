@@ -7,7 +7,7 @@ tags      : [tatausaha]
 keywords  : [pph21, espt]
 
 toc       : "toc/tatausaha.njk"
-opengraphimage: "assets/posts/tatausaha/2022/05/introduce-me.png"
+opengraphimage: "assets/posts/tatausaha/2022/05/17-pratilik-pdf.png"
 
 excerpt   : Membikin pembatas kertas sederhana dengan Inkscape.
 ---
