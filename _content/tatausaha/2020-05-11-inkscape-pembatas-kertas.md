@@ -170,7 +170,7 @@ Sempatkan bocing (bobo ciang) sepuluh menit,
 kalau memang sudah ngantuk banget.
 Asal jangan ketauan si bos.
 
-Hayuuuks. Semangat bekerja.
+Hayuuuks. Semangat bekerja. Siap jadi **kang arsip**.
 
 -- -- --
 
