@@ -130,7 +130,7 @@ Beri nama yang sesuai.
 
 Pakai format PNG, supaya kualitas gambar tidak berkurang (luntur).
 
-### Mencetak
+### Persiapan Mencetak
 
 Aku biasanya memakai libreoffice writer, ataupun microsoft word,
 yaitu untuk mempersiapkan gambar cetakan.
@@ -156,6 +156,17 @@ dikirim lewat whatsapp ke atasan.
 Atau cukup bulan yang diperlukan saja,
 kalau niatnya hanya preview (pratilik) atau draft (pranala).
 
+### Arsip di Ordner
+
+Pada dasarnya, kita sudah siap menjadi **kang arsip**.
+
+![Pembatas Kertas: Hasil di Ordner][18-hasil-cetak]
+
+Pengarsipan adalah hal yang menyenangkan.
+Mesti sering-sering
+
+_We should do it often._
+
 ### Cemungudh
 
 > Sekian. Itu saja.
@@ -170,7 +181,7 @@ Sempatkan bocing (bobo ciang) sepuluh menit,
 kalau memang sudah ngantuk banget.
 Asal jangan ketauan si bos.
 
-Hayuuuks. Semangat bekerja. Siap jadi **kang arsip**.
+Hayuuuks. Semangat bekerja.
 
 -- -- --
 
@@ -201,3 +212,4 @@ kalau disuruh ngobrol aku suka bingung.
 [15-export]:            {% postimage %}/tatausaha/2022/05/15-export.png
 [16-writer]:            {% postimage %}/tatausaha/2022/05/16-writer.png
 [17-pratilik-pdf]:      {% postimage %}/tatausaha/2022/05/17-pratilik-pdf.png
+[18-hasil-cetak]:       {% postimage %}/tatausaha/2022/05/18-hasil-cetak.jpg
