@@ -132,10 +132,16 @@ Pakai format PNG, supaya kualitas gambar tidak berkurang (luntur).
 
 ### Persiapan Mencetak
 
-Aku biasanya memakai libreoffice writer, ataupun microsoft word,
-yaitu untuk mempersiapkan gambar cetakan.
+Aku biasanya memakai _libreoffice writer_,
+ataupun _microsoft word_,
+untuk mempersiapkan gambar cetakan.
+Yaitu dengan menyisipkan gambar terlebih dahulu.
 
-![Pembatas Kertas: Mencetak dengan Bantuan Writer][16-writer]
+![Pembatas Kertas: Writer: Insert Images][16-writer-ins-image]
+
+Setelah jadi kira-kira bentuknya seperti ini.
+
+![Pembatas Kertas: Writer: Multi Pages][16-writer-multi-pages]
 
 Berkas dapat diunduh di sini:
 
@@ -210,6 +216,7 @@ kalau disuruh ngobrol aku suka bingung.
 [13-all-layer]:         {% postimage %}/tatausaha/2022/05/13-all-layer.png
 [14-all-active]:        {% postimage %}/tatausaha/2022/05/14-all-active.png
 [15-export]:            {% postimage %}/tatausaha/2022/05/15-export.png
-[16-writer]:            {% postimage %}/tatausaha/2022/05/16-writer.png
+[16-writer-multi-pages]:{% postimage %}/tatausaha/2022/05/16-writer-multi-pages.png
+[16-writer-ins-image]:  {% postimage %}/tatausaha/2022/05/16-writer-insert-image.png
 [17-pratilik-pdf]:      {% postimage %}/tatausaha/2022/05/17-pratilik-pdf.png
 [18-hasil-cetak]:       {% postimage %}/tatausaha/2022/05/18-hasil-cetak.jpg
