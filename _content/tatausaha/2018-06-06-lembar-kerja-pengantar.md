@@ -36,17 +36,21 @@ namun lebih ke apa yang dihadapi saat bekerja di dunia nyata.
 Ruang lingkup yang akan saya tuliskan adalah:
 Format, Formula, Formulir, Komunikasi, Report, dan Macro.
 
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* [LibreOffice Calc](#lo-calc)
+
+* [Penutup](#penutup)
+
+### Office Suite
+
 Berkas yang menjadi contoh dapat diunduh dengan format `.xlsx`,
 supaya mudah dibuka pembaca di Microsoft Excel.
 Sementara penggunaanya saya tampilkan dengan LibreOffice Calc.
 
 ![Lembar Kerja: Tampilan: LibreOffice Calc][07-calc-kumplit]
-
-### Daftar Isi
-
-* [Prakata](#prakata): Daftar Isi
-
-* [Penutup](#penutup)
 
 ### Artikel Berseri
 
@@ -76,7 +80,9 @@ bukan textbook cara pemakaian.
 
 -- -- --
 
-## LibreOFfice Calc
+<a name="lo-calc"></a>
+
+## LibreOffice Calc
 
 Walaupun panduannya dengan LibreOffice Calc,
 namun berkas yang sama dapat dibuka dengan baik di Microsoft Excel.
@@ -123,6 +129,27 @@ Dan ini tampilan bulanan
 Begitulah kira-kira, ada perbedaan tampilan,
 antara Microsoft Office dan LibreOffice Calc.
 
+### Unit Metrik
+
+Ada hal khusus, yang dapat berbeda antara satu user dengan lainnya.
+Yaitu pilihan Options, misalnya tentang unit metrik yang dipakai.
+
+![Lembar Kerja: Option: General][08-calc-general]
+
+Biasanya saya mengatur unit,
+menjadi centimeter di tiap komputer yang saya pakai.
+Pengaturan unit ini perlu untuk menjaga konsistensi,
+baik tampilan di lembar kerja, maupun hasil cetaknya nanti.
+
+![Lembar Kerja: Option: Unit Metrik][08-calc-metrics]
+
+### Locale
+
+Kemudian, pengaturan bahasa juga berpengaruh.
+Saya biasanya langsung mengatur supaya memakai bahasa Indonesia.
+
+![Lembar Kerja: Option: Locale Language][09-language]
+
 Lanjut yuuuks.
 
 -- -- --
@@ -144,3 +171,7 @@ Lanjut yuuuks.
 [05-calc-tab-flipflop]: {% postimage %}/tatausaha/2018/06/05-calc-tab-flipflop.png
 [06-calc-neraca]:       {% postimage %}/tatausaha/2018/06/06-calc-neraca.png
 [07-calc-kumplit]:      {% postimage %}/tatausaha/2018/06/07-calc-kumplit.png
+
+[08-calc-general]:      {% postimage %}/tatausaha/2018/06/08-calc-general.png
+[08-calc-metrics]:      {% postimage %}/tatausaha/2018/06/08-calc-general-metrics.png
+[09-language]:          {% postimage %}/tatausaha/2018/06/09-language.png
