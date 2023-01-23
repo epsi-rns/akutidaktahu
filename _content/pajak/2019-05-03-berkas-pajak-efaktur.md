@@ -243,12 +243,33 @@ Maka akan muncul di folder kita misalnya seperti ini:
 2. Lampiran:
    `0814435180110000101201800F1232040111LAMPIRAN.pdf`
 
+### Error Saat Upload
+
+> Jangan panik! Periksa pesan error.
+
+Gagal upload dapat terjadi karena berbagai macam hal.
+Periksa dahulu pesan error sebelum mencari jawaban di google.
+
+Misalnya di kasus berikut di bawah,
+yaitu faktur yang tanggalnya dibikin,
+sebelum tanggal permintaan NSFP,
+akan ditolak oleh server.
+
+![ETaxInvoice: Error Saat Upload][37-faktur-reject]
+
+Kalau sudah tahu error-nya,
+biasanya akan lebih mudah untuk mencari solusinya.
+
+Dalam kasus di atas,
+cukup ganti tanggal faktur setelah permintaan NSFP.
+
+Dampaknya adalah mengganti tanggal invoice juga.
 
 -- -- --
 
 <a name="referensi"></a>
 
-## 5: Referensi
+## 6: Referensi
 
 Pada saat mengisi faktur, kita membutuhkan referensi sebagai berikut:
 
@@ -270,7 +291,7 @@ mesti kita inputkan dahulu ke dalam aplikasi `ETaxInvoice`.
 
 <a name="backup"></a>
 
-## 6: Backup
+## 7: Backup
 
 Backup dilakukan secara otomatis,
 saat memulai aplikasi.
@@ -353,3 +374,5 @@ yaitu e-Bupot PPh 23 yang berbasis web.
 [38-upload-spt]:        {% postimage %}/pajak/2019/05/38-upload-spt.png
 
 [39-backup-db]:         {% postimage %}/pajak/2019/05/39-backup-db.png
+
+[37-faktur-reject]:     {% postimage %}/pajak/2019/05/37-faktur-reject.png

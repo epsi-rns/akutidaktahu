@@ -157,6 +157,18 @@ Permohonan NSFP dilakukan melalui e-Nofa.
 
 ![NSFP: Permohonan][05-e-nofa-permohonan]
 
+### Belum Lapor?
+
+Laporkan PPn secara berkala.
+Karena permohonan NSFP akan ditolak,
+apabila belum lapor PPn bulan sebelumnya.
+Artinya perusahaan tidak dapat bertransaksi.
+
+![NSFP: Permohonan][05-e-nofa-spt-2018-bl]
+
+Terutama pada awal tahun,
+admin harus gesit segera mengajukan permohonan NSFP.
+
 ### Permohonan NSFP
 
 Setelah permohonan dikabulkan.
@@ -187,6 +199,8 @@ Maka kita akan lanjut ke pengisian aplikasi efaktur:
 [02-e-nofa-menu]:       {% postimage %}/pajak/2019/05/02-e-nofa-menu.png
 [03-e-nofa-nsfp]:       {% postimage %}/pajak/2019/05/03-e-nofa-nsfp.png
 [03-e-nofa-nsfp-n]:     {% postimage %}/pajak/2019/05/03-e-nofa-nsfp-narrow.png
+
+[05-e-nofa-spt-2018-bl]:{% postimage %}/pajak/2019/05/05-e-nofa-spt-2018-belum-lapor.png
 
 [05-e-nofa-permohonan]: {% postimage %}/pajak/2019/05/05-e-nofa-permohonan.png
 [07-doc-ns-faktur]:     {% postimage %}/pajak/2019/05/07-doc-ns-faktur.png

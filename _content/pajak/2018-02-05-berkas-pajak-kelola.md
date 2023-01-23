@@ -139,7 +139,7 @@ Modifikasi bila perlu.
 > Helicopter View
 
 Terbiasa dengan rincian akan semakin menajamkan,
-kemampuan kita meloihat gambaran besar.
+kemampuan kita melihat gambaran besar.
 
 ### Artikel Berseri
 
