@@ -34,6 +34,40 @@ kebutuhan kantor itu sendiri.
 Artikel ini tidak disiapkan untuk menghadapi petugas pajak.
 Kalau berurusan dengan AR pajak, penulis juga tidak berpengalaman.
 
+### Pajak yang mana?
+_Pajak yang mesti diurus apa ya_?
+
+> Jangan panik.
+
+Terkadang bos perusahaan baru,
+meminta admin mengurus pajak.
+
+Cari tahu dahulu pajak yang mana yang mesti diurus.
+
+1. PPh 21?
+   Install Aplikasi eSPT.
+
+2. PPn?
+   Minta login web-e-faktur.
+
+3. PPh Unifikasi?
+   Minta login DJP online.
+
+4. E-Faktur?
+   Install ETaxInvoice).
+
+5. E-Nofa?
+   Minta login faktur.pajak.go.id.
+
+6. Meterai digital?
+   Minta login DJP online.
+
+7. Laporan tahunan?
+   Kalau yang satu ini mesti paham pembukuan kantor dahulu.
+   
+8. Pajak pribadi bos?
+   Di-draft dahulu. Kalau sudah rapi, minta login DJP online.
+
 ### Daftar Isi
 
 * [Prakata](#prakata): Daftar Isi
