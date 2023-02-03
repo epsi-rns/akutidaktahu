@@ -1,30 +1,191 @@
 [
   
     {
-      "title": "Excel - Monitor - Part Four",
+      "title": "Excel - Monitor - Logging Panel",
       "content": "Monitor excel file changes and show the result in browser using websocket.",
-      "url": "/monitor/2023/01/09/python-excel-monitor-04/",
+      "url": "/monitor/2023/01/21/python-excel-monitor-15/",
       "author": "epsi",
       "category": "monitor"
     },
     {
-      "title": "Excel - Monitor - Part Three",
+      "title": "Excel - Monitor - Web Server",
+      "content": "Monitor excel file changes and show the result in browser using websocket.",
+      "url": "/monitor/2023/01/19/python-excel-monitor-14/",
+      "author": "epsi",
+      "category": "monitor"
+    },
+    {
+      "title": "Excel - Monitor - Dual Rich Panel",
+      "content": "Monitor excel file changes and show the result in browser using websocket.",
+      "url": "/monitor/2023/01/17/python-excel-monitor-13/",
+      "author": "epsi",
+      "category": "monitor"
+    },
+    {
+      "title": "Excel - Monitor - Dual Rich Panel",
+      "content": "Monitor excel file changes and show the result in browser using websocket.",
+      "url": "/monitor/2023/01/16/python-excel-monitor-12/",
+      "author": "epsi",
+      "category": "monitor"
+    },
+    {
+      "title": "Excel - Monitor - TOML Configuration",
+      "content": "Monitor excel file changes and show the result in browser using websocket.",
+      "url": "/monitor/2023/01/14/python-excel-monitor-11/",
+      "author": "epsi",
+      "category": "monitor"
+    },
+    {
+      "title": "Excel - Monitor - Javascript Inheritance",
+      "content": "Monitor excel file changes and show the result in browser using websocket.",
+      "url": "/monitor/2023/01/12/python-excel-monitor-10/",
+      "author": "epsi",
+      "category": "monitor"
+    },
+    {
+      "title": "Excel - Monitor - Tabbed Page",
+      "content": "Monitor excel file changes and show the result in browser using websocket.",
+      "url": "/monitor/2023/01/11/python-excel-monitor-09/",
+      "author": "epsi",
+      "category": "monitor"
+    },
+    {
+      "title": "Excel - Monitor - Javascript Class",
+      "content": "Monitor excel file changes and show the result in browser using websocket.",
+      "url": "/monitor/2023/01/10/python-excel-monitor-08/",
+      "author": "epsi",
+      "category": "monitor"
+    },
+    {
+      "title": "Excel - Monitor - Python Inheritance",
+      "content": "Monitor excel file changes and show the result in browser using websocket.",
+      "url": "/monitor/2023/01/09/python-excel-monitor-07/",
+      "author": "epsi",
+      "category": "monitor"
+    },
+    {
+      "title": "Excel - Monitor - Multiple Connection",
+      "content": "Monitor excel file changes and show the result in browser using websocket.",
+      "url": "/monitor/2023/01/06/python-excel-monitor-06/",
+      "author": "epsi",
+      "category": "monitor"
+    },
+    {
+      "title": "Excel - Monitor - Async Request",
+      "content": "Monitor excel file changes and show the result in browser using websocket.",
+      "url": "/monitor/2023/01/05/python-excel-monitor-05/",
+      "author": "epsi",
+      "category": "monitor"
+    },
+    {
+      "title": "Excel - Monitor - Reading Worksheet",
+      "content": "Monitor excel file changes and show the result in browser using websocket.",
+      "url": "/monitor/2023/01/04/python-excel-monitor-04/",
+      "author": "epsi",
+      "category": "monitor"
+    },
+    {
+      "title": "Excel - Monitor - Send/Receive",
       "content": "Monitor excel file changes and show the result in browser using websocket.",
       "url": "/monitor/2023/01/03/python-excel-monitor-03/",
       "author": "epsi",
       "category": "monitor"
     },
     {
-      "title": "Excel - Monitor - Part Two",
+      "title": "Excel - Monitor - Watchfiles",
       "content": "Monitor excel file changes and show the result in browser using websocket.",
       "url": "/monitor/2023/01/02/python-excel-monitor-02/",
       "author": "epsi",
       "category": "monitor"
     },
     {
-      "title": "Excel - Monitor - Part One",
+      "title": "Excel - Monitor - Overview",
       "content": "Monitor excel file changes and show the result in browser using websocket.",
       "url": "/monitor/2023/01/01/python-excel-monitor-01/",
+      "author": "epsi",
+      "category": "monitor"
+    },
+    {
+      "title": "Python - Rich - Dual Watchfiles",
+      "content": "Dual Panel Watchfiles with Rich",
+      "url": "/monitor/2022/12/09/python-rich-live-05/",
+      "author": "epsi",
+      "category": "monitor"
+    },
+    {
+      "title": "Python - Rich - Single Watchfiles",
+      "content": "Single Panel Watchfiles with Rich",
+      "url": "/monitor/2022/12/07/python-rich-live-04/",
+      "author": "epsi",
+      "category": "monitor"
+    },
+    {
+      "title": "Python - Rich - Live Asynchronous",
+      "content": "Dynamically showing live data in terminal user interface using Python Rich Library from textualize",
+      "url": "/monitor/2022/12/05/python-rich-live-03/",
+      "author": "epsi",
+      "category": "monitor"
+    },
+    {
+      "title": "Python - Rich - Data Example",
+      "content": "Dynamically showing live data in terminal user interface using Python Rich Library from textualize",
+      "url": "/monitor/2022/12/03/python-rich-live-02/",
+      "author": "epsi",
+      "category": "monitor"
+    },
+    {
+      "title": "Python - Rich - Simple Layout",
+      "content": "Dynamically showing live data in terminal user interface using Python Rich Library from textualize",
+      "url": "/monitor/2022/12/01/python-rich-live-01/",
+      "author": "epsi",
+      "category": "monitor"
+    },
+    {
+      "title": "Python - MQTT - Time Series Plot",
+      "content": "Realtime data plot using Pandas.",
+      "url": "/monitor/2022/11/14/python-mqtt-plot-04/",
+      "author": "epsi",
+      "category": "monitor"
+    },
+    {
+      "title": "Python - MQTT - Realtime Plot",
+      "content": "Realtime data plot using Pandas.",
+      "url": "/monitor/2022/11/13/python-mqtt-plot-03/",
+      "author": "epsi",
+      "category": "monitor"
+    },
+    {
+      "title": "Python - MQTT - Enhanced",
+      "content": "Realtime data plot using Pandas.",
+      "url": "/monitor/2022/11/12/python-mqtt-plot-02/",
+      "author": "epsi",
+      "category": "monitor"
+    },
+    {
+      "title": "Python - MQTT - Sensor Simulator",
+      "content": "Realtime data plot using Pandas.",
+      "url": "/monitor/2022/11/11/python-mqtt-plot-01/",
+      "author": "epsi",
+      "category": "monitor"
+    },
+    {
+      "title": "Python - Panda - Time Series",
+      "content": "Realtime data plot using Pandas.",
+      "url": "/monitor/2022/11/03/python-panda-plot-03/",
+      "author": "epsi",
+      "category": "monitor"
+    },
+    {
+      "title": "Python - Panda - Plot Series",
+      "content": "Realtime data plot using Pandas.",
+      "url": "/monitor/2022/11/02/python-panda-plot-02/",
+      "author": "epsi",
+      "category": "monitor"
+    },
+    {
+      "title": "Python - Panda - Data Series",
+      "content": "Realtime data plot using Pandas.",
+      "url": "/monitor/2022/11/01/python-panda-plot-01/",
       "author": "epsi",
       "category": "monitor"
     },
