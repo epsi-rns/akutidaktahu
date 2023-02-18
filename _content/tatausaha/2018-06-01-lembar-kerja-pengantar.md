@@ -1,15 +1,13 @@
 ---
 layout    : post
 title     : Lembar Kerja - Pengantar
-date      : 2018-06-06 09:17:35
+date      : 2018-06-01 09:17:35
 slug      : lembar-kerja-pengantar
 tags      : [calc]
 keywords  : [spreadsheet]
 
-toc       : "toc/tatausaha.njk"
+toc       : "toc/lembarkerja.njk"
 opengraphimage: "assets/posts/tatausaha/2018/06/07-calc-kumplit.png"
-
-
 
 excerpt   : Memulai bekerja dengan spreadsheet.
 ---
@@ -25,7 +23,14 @@ saya sudah memakai spreadsheet,
 baik Excel maupun Calc.
 Namun saya baru sadar kalau,
 saya tidak pernah optimal menggunakannya.
-Karena itu saya niatkan untuk membuat artikel berseri.
+
+_Baru tau kalau bodoh yaaaa.. wkwkwk_
+
+Sebagaimana kita sering tidak sadar,
+kalau mental kita masih negara berkembang.
+Tetiba saya paham kalau kemampuan saya masih terbelakang.
+Karena itu saya niatkan untuk membuat artikel berseri,
+supaya hasil kerja saya matang.
 
 Topik yang terkait spreadsheet ini sangat luas.
 Karena itu saya batasi kepada hal-hal dasar,
@@ -42,6 +47,8 @@ Format, Formula, Formulir, Komunikasi, Report, dan Macro.
 
 * [LibreOffice Calc](#lo-calc)
 
+* [Ucapan Terimakasih](#haturnuhun)
+
 * [Penutup](#penutup)
 
 ### Office Suite
@@ -56,22 +63,25 @@ Sementara penggunaanya saya tampilkan dengan LibreOffice Calc.
 
 Berikut materi yang saya niatkan untuk ditulis di artikel berseri ini.
 
-1. Format:
-   * Unit, Numbering, date, number colon, npwp, rupiah, material color.
+1. Number Format
+   * angka, tanggal, NPWP, rupiah
 
-2. Formula (Rumus):
+2. Format:
+   * Unit, ukuran, group, warna, border
+
+3. Formula (Rumus):
    * if/switch, index, h/v/xlookup, pivot, terbilang
 
-3. Form:
+4. Form:
    * Tabel, column width, row height, merged cells, thin lines, smooth coloring, small logo
 
-4. Communication:
+5. Communication:
    * Print, Export to PDF, Copy to whatsapp, export to PNG
 
-5. Report:
+6. Report:
    * Tab Color, Tab Naming, Group, Template, Foldering, Highlight, Symbol
 
-6. Automation
+7. Automation
    * Python Macro
 
 Hmmm... Agak aneh ya silabusnya?
@@ -154,15 +164,37 @@ Lanjut yuuuks.
 
 -- -- --
 
+<a name="haturnuhun"></a>
+
+## Ucapan Terimakash
+
+> Haturnuhun Teteh
+
+Kepada video dari `Voice of Baceprot`,
+yang lagunya menemani di saat-saat paling berat.
+
+Membikin artikel berseri semacam ini membutuhkan kerja keras.
+Lagu kalian betul-betul menghilangkan rasa kantuk,
+sehingga artikel berseri ini dapat dirampungkan.
+
+Semangat kalian, mengilhami untuk tidak berleha-leha,
+saat orang lain terlelap.
+
+-- -- --
+
 <a name="selanjutnya"></a>
 
 ## Apa Selanjutnya?
 
-[[Inkscape - Mengenal Inkscape][local-whats-next]].
+Makan bubur mulai dari pinggirnya.
+Kita mulai dari yang mudah dulu ya kawan.
+
+[[Lembar Kerja - Tata Angka][local-whats-next]].
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[local-whats-next]:     /tatausaha/2022/05/09/mengenal-inkscape.html
+[local-whats-next]:     /tatausaha/2018/06/03/lembar-kerja-pengantar.html
+
 
 [01-calc-ui-standard]:  {% postimage %}/tatausaha/2018/06/01-calc-ui-standard.png
 [02-calc-ui-preferred]: {% postimage %}/tatausaha/2018/06/02-calc-ui-preferred.png
