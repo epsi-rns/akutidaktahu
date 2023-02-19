@@ -7,7 +7,7 @@ tags      : [calc]
 keywords  : [spreadsheet]
 
 toc       : "toc/lembarkerja.njk"
-opengraphimage: "assets/posts/tatausaha/2018/06/02ex-number-rupiah.png"
+opengraphimage: "assets/posts/tatausaha/2018/06/12ex-number-rupiah.png"
 
 excerpt   : Menata tampilan angka, tanggal, dan mata uang.
 ---

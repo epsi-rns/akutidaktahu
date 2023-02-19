@@ -7,7 +7,7 @@ tags      : [calc]
 keywords  : [spreadsheet]
 
 toc       : "toc/lembarkerja.njk"
-opengraphimage: "assets/posts/tatausaha/2018/06/02ex-number-rupiah.png"
+opengraphimage: "assets/posts/tatausaha/2018/07/22-format-ukuran-01-screenshot.png"
 
 excerpt   : Menata tampilan, ukuran unit, group, indentasi, font, warna, border.
 ---
