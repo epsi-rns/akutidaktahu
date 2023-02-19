@@ -2,12 +2,12 @@
 layout    : post
 title     : Lembar Kerja - Tata Angka
 date      : 2018-06-03 09:17:35
-slug      : lembar-kerja-pengantar
+slug      : lembar-kerja-number-01
 tags      : [calc]
 keywords  : [spreadsheet]
 
 toc       : "toc/lembarkerja.njk"
-opengraphimage: "assets/posts/tatausaha/2018/06/02ex-number-rupiah.png"
+opengraphimage: "assets/posts/tatausaha/2018/06/02ss-dialog-number.png"
 
 excerpt   : Menata tampilan angka, tanggal, dan mata uang.
 ---
@@ -36,8 +36,6 @@ dan bahkan _custom format_ seperti: NPWP dan Faktur Pajak.
 * [Tanggal](#tanggal)
 
 * [Pajak](#pajak)
-
-* [Rupiah](#rupiah)
 
 * [Penutup](#penutup)
 
@@ -328,22 +326,40 @@ Akhirnya, saya berikan tampilan gambar sebagai ringkasan bagian ini.
 
 ## Pajak
 
+> Kursus yukk.
+
+Ini hal yang jarang diungkap, di tutorial pajak.
+Mungkin berbeda kalau pernah kursus brevet.
+Yang jelas, saya sering pakai ini untuk urusan kantor.
+
+Pertama faktur ya.
+Misalnya `004-21.31234567`.
+Sementara berkas asli dari CVS pajaknya,
+berisi angka:
+
+{% highlight "latex" %}
++---------------------+-------------+-----------------+
+| Format Faktur Pajak | Value       |  Result         |
++---------------------+-------------+-----------------+
+| 000"-"00"."00000000 | 42131234567 | 004-21.31234567 |
++---------------------+-------------+-----------------+
+{% endhighlight %}
+
+Demikian pula tata cara penulisan `NPWP` dari `CSV` keluaran `ETaxInvoice`.
+
+{% highlight "latex" %}
++--------------------------------+----------------+----------------------+
+| Nomor Pokok Wajib Pajak        | Value          |  Result              |
++--------------------------------+----------------+----------------------+
+| 00"."000"."000"."0"-"000"."000 | 81443518011000 | 08.144.351.8-011.000 |
++--------------------------------+----------------+----------------------+
+{% endhighlight %}
+
+Sepele, namun sering saya pakai.
+
 ![Lembar Kerja: Number: Pajak][02ss-number-pajak]
 
--- -- --
-
-<a name="rupiah"></a>
-
-## Rupiah
-
-> Mata Uang
-
-![Lembar Kerja: Number: Rupiah Teks][02ss-number-rupiah-a]
-
-
-Selengkapnya:
-
-![Lembar Kerja: Number: Rupiah][02ss-number-rupiah]
+Segitu aja sih.
 
 -- -- --
 
@@ -351,23 +367,23 @@ Selengkapnya:
 
 ## Apa Selanjutnya?
 
-[[Inkscape - Mengenal Inkscape][local-whats-next]].
+Urusan tata angka ini masih panjang,
+kita bahas cara penulisan rupiah yuk.
+
+[[Lembar Kerja - Penulisan Rupiah][local-whats-next]].
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[local-whats-next]:     /tatausaha/2022/05/09/mengenal-inkscape.html
+[local-whats-next]:     /tatausaha/2018/06/05/lembar-kerja-number-02.html
 
 [02ss-dialog-number]:   {% postimage %}/tatausaha/2018/06/02ss-dialog-number.png
 [02ss-dialog-number-lg]:{% postimage %}/tatausaha/2018/06/02ss-dialog-number-lang.png
 
 [02ex-number-angka]:    {% postimage %}/tatausaha/2018/06/02ex-number-angka.png
 [02ex-number-pajak]:    {% postimage %}/tatausaha/2018/06/02ex-number-pajak.png
-[02ex-number-rupiah]:   {% postimage %}/tatausaha/2018/06/02ex-number-rupiah.png
 [02ex-number-tanggal]:  {% postimage %}/tatausaha/2018/06/02ex-number-tanggal.png
 [02ss-number-angka]:    {% postimage %}/tatausaha/2018/06/02ss-number-angka.png
 [02ss-number-pajak]:    {% postimage %}/tatausaha/2018/06/02ss-number-pajak.png
-[02ss-number-rupiah-a]: {% postimage %}/tatausaha/2018/06/02ex-number-rupiah-apa.png
-[02ss-number-rupiah]:   {% postimage %}/tatausaha/2018/06/02ss-number-rupiah.png
 [02ss-number-tanggal]:  {% postimage %}/tatausaha/2018/06/02ss-number-tanggal.png
 
 [source-number-xlsx]:   {% postimage %}/tatausaha/2018/06/01-number.xlsx

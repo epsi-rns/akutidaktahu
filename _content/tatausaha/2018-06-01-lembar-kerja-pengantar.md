@@ -40,6 +40,7 @@ namun lebih ke apa yang dihadapi saat bekerja di dunia nyata.
 
 Ruang lingkup yang akan saya tuliskan adalah:
 Format, Formula, Formulir, Komunikasi, Report, dan Macro.
+Saya sering lupa, padahal saya bolak-balik salah, makanya saya tulis saja deh, supaya tidak tercecer.
 
 ### Daftar Isi
 
@@ -180,8 +181,9 @@ untuk membikin artikel yang berguna.
 Karena saya jadi tahu,
 seseorang di luar sama mungkin membutuhkannya.
 
-Boro-boro siklus akunting,
-saya sebetulnya tidak mampu membuat tampilan cantique.
+Boro-boro siklus akunting mah,
+saya sebetulnya tidak mampu membuat
+tampilan cantique, menarique plus unique. Susah atuh.
 Namun karena kebutuhan kalian,
 saya jadi bisa membikin satu template,
 yang dapat dipakai oleh beberapa perusahaan sekaligus.
@@ -216,8 +218,7 @@ Kita mulai dari yang mudah dulu ya kawan.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[local-whats-next]:     /tatausaha/2018/06/03/lembar-kerja-pengantar.html
-
+[local-whats-next]:     /tatausaha/2018/06/03/lembar-kerja-number-01.html
 
 [01-calc-ui-standard]:  {% postimage %}/tatausaha/2018/06/01-calc-ui-standard.png
 [02-calc-ui-preferred]: {% postimage %}/tatausaha/2018/06/02-calc-ui-preferred.png
