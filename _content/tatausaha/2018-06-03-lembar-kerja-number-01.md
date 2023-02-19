@@ -76,7 +76,7 @@ Satu-satu-nya cara mengubah numbering format,
 adalah dengan menggunakan format dialog.
 Mulai akses-nya dari ini.
 
-![Lembar Kerja: Format Dialog: Numbering][02ss-dialog-number]
+![Lembar Kerja: Format Dialog: Numbering][12ss-dialog-number]
 
 Ini yang saya tahu loh.
 Bisa saja ada cara lain.
@@ -179,7 +179,7 @@ Misalnya bulan `02:`. Jadinya seperti ini:
 
 Ringkasannya dapat saya tampilkan seperti ini:
 
-![Lembar Kerja: Number: Tata Angka][02ss-number-angka]
+![Lembar Kerja: Number: Tata Angka][12ss-number-angka]
 
 -- -- --
 
@@ -279,7 +279,7 @@ di notebook kita.
 Ini dapat diatur dengan per cell,
 sebagaimana di dialog berikut:
 
-![Lembar Kerja: Format Dialog: Language][02ss-dialog-number-lg]
+![Lembar Kerja: Format Dialog: Language][12ss-dialog-number-lg]
 
 Mari kita lihat contohnya dalam `language` berbeda.
 Misalnya begini, saya menulis `23/11/2022`,
@@ -318,7 +318,7 @@ sudah tepat atau belum.
 
 Akhirnya, saya berikan tampilan gambar sebagai ringkasan bagian ini.
 
-![Lembar Kerja: Number: Tanggal][02ss-number-tanggal]
+![Lembar Kerja: Number: Tanggal][12ss-number-tanggal]
 
 -- -- --
 
@@ -357,7 +357,7 @@ Demikian pula tata cara penulisan `NPWP` dari `CSV` keluaran `ETaxInvoice`.
 
 Sepele, namun sering saya pakai.
 
-![Lembar Kerja: Number: Pajak][02ss-number-pajak]
+![Lembar Kerja: Number: Pajak][12ss-number-pajak]
 
 Segitu aja sih.
 
@@ -376,14 +376,14 @@ kita bahas cara penulisan rupiah yuk.
 
 [local-whats-next]:     /tatausaha/2018/06/05/lembar-kerja-number-02.html
 
-[02ss-dialog-number]:   {% postimage %}/tatausaha/2018/06/02ss-dialog-number.png
-[02ss-dialog-number-lg]:{% postimage %}/tatausaha/2018/06/02ss-dialog-number-lang.png
+[12ss-dialog-number]:   {% postimage %}/tatausaha/2018/06/12ss-dialog-number.png
+[12ss-dialog-number-lg]:{% postimage %}/tatausaha/2018/06/12ss-dialog-number-lang.png
 
-[02ex-number-angka]:    {% postimage %}/tatausaha/2018/06/02ex-number-angka.png
-[02ex-number-pajak]:    {% postimage %}/tatausaha/2018/06/02ex-number-pajak.png
-[02ex-number-tanggal]:  {% postimage %}/tatausaha/2018/06/02ex-number-tanggal.png
-[02ss-number-angka]:    {% postimage %}/tatausaha/2018/06/02ss-number-angka.png
-[02ss-number-pajak]:    {% postimage %}/tatausaha/2018/06/02ss-number-pajak.png
-[02ss-number-tanggal]:  {% postimage %}/tatausaha/2018/06/02ss-number-tanggal.png
+[12ex-number-angka]:    {% postimage %}/tatausaha/2018/06/12ex-number-angka.png
+[12ex-number-pajak]:    {% postimage %}/tatausaha/2018/06/12ex-number-pajak.png
+[12ex-number-tanggal]:  {% postimage %}/tatausaha/2018/06/12ex-number-tanggal.png
+[12ss-number-angka]:    {% postimage %}/tatausaha/2018/06/12ss-number-angka.png
+[12ss-number-pajak]:    {% postimage %}/tatausaha/2018/06/12ss-number-pajak.png
+[12ss-number-tanggal]:  {% postimage %}/tatausaha/2018/06/12ss-number-tanggal.png
 
 [source-number-xlsx]:   {% postimage %}/tatausaha/2018/06/01-number.xlsx

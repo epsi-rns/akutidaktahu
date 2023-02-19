@@ -1,7 +1,7 @@
 ---
 layout    : post
 title     : Lembar Kerja - Rupiah
-date      : 2018-06-03 09:17:35
+date      : 2018-06-05 09:17:35
 slug      : lembar-kerja-number-02
 tags      : [calc]
 keywords  : [spreadsheet]
@@ -130,7 +130,7 @@ supaya paham cara kerja `* `.
 
 Ringkasannya saya tampilkan di sini:
 
-![Lembar Kerja: Number: Dasar][02ss-number-rupiah-d]
+![Lembar Kerja: Number: Dasar][12ss-number-rupiah-d]
 
 ### Menuliskan Rupiah
 
@@ -185,7 +185,7 @@ Hayuuks kita lihat hasilnya dalam tabel berikut:
 
 Berhubung warnanya tidak kelihatan di sini, saya berikan screenshot saja ya.
 
-![Lembar Kerja: Number: Warna][02ss-number-rupiah-w]
+![Lembar Kerja: Number: Warna][12ss-number-rupiah-w]
 
 Dari sini terlihat jelas kita masih punya hal untuk diulik,
 yaitu ketika nilai angkanya nol.
@@ -220,7 +220,7 @@ Ya kita coba saja dhek, ganti teksnya.
 
 Supaya lebih yakin, mari kita tengok tangkapan layar skrinsutnya:
 
-![Lembar Kerja: Number: Rupiah Teks][02ss-number-rupiah-a]
+![Lembar Kerja: Number: Rupiah Teks][12ss-number-rupiah-a]
 
 ### Menggabungkan semuanya
 
@@ -254,7 +254,7 @@ Sekarang mari kita lihat hasilnya:
 
 Hasil akhirnya begini:
 
-![Lembar Kerja: Number: Lengkap][02ss-number-rupiah-l]
+![Lembar Kerja: Number: Lengkap][12ss-number-rupiah-l]
 
 Kalau diperhatikan, masih kurang rata ya tampilannya.
 Ini dapat diatasi dengan menggunakan fixed font,
@@ -265,7 +265,7 @@ misalnya favorit saya adalah `inconsolota`.
 Sebagai penhujung pertemuan hari ini,
 saya tampilkan ringkasannya.
 
-![Lembar Kerja: Number: Rupiah][02ss-number-rupiah]
+![Lembar Kerja: Number: Rupiah][12ss-number-rupiah]
 
 -- -- --
 
@@ -277,11 +277,11 @@ Pelajaran mewarnai tentunya akan lebih menarik.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[02ex-number-rupiah]:   {% postimage %}/tatausaha/2018/06/02ex-number-rupiah.png
-[02ss-number-rupiah-a]: {% postimage %}/tatausaha/2018/06/02ss-number-rupiah-apa.png
-[02ss-number-rupiah-d]: {% postimage %}/tatausaha/2018/06/02ss-number-rupiah-dasar.png
-[02ss-number-rupiah-w]: {% postimage %}/tatausaha/2018/06/02ss-number-rupiah-warna.png
-[02ss-number-rupiah-l]: {% postimage %}/tatausaha/2018/06/02ss-number-rupiah-lengkap.png
-[02ss-number-rupiah]:   {% postimage %}/tatausaha/2018/06/02ss-number-rupiah.png
+[12ex-number-rupiah]:   {% postimage %}/tatausaha/2018/06/12ex-number-rupiah.png
+[12ss-number-rupiah-a]: {% postimage %}/tatausaha/2018/06/12ss-number-rupiah-apa.png
+[12ss-number-rupiah-d]: {% postimage %}/tatausaha/2018/06/12ss-number-rupiah-dasar.png
+[12ss-number-rupiah-w]: {% postimage %}/tatausaha/2018/06/12ss-number-rupiah-warna.png
+[12ss-number-rupiah-l]: {% postimage %}/tatausaha/2018/06/12ss-number-rupiah-lengkap.png
+[12ss-number-rupiah]:   {% postimage %}/tatausaha/2018/06/12ss-number-rupiah.png
 
 [source-number-xlsx]:   {% postimage %}/tatausaha/2018/06/01-number.xlsx
