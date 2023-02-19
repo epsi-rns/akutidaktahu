@@ -165,7 +165,7 @@ dasar penggunaan Excel/Calc.
 
 > Tidak perlu banyak, yang penting berisik.
 
-_Rasanya saya belum terlalu tua untuk menjadi akunting yang baceprot._
+_Tidak ada kata terlambat untuk menjadi akuntan yang baceprot._
 
 Kalau sudah biasa membuat form,
 maka merapikan form menjadi candu.
