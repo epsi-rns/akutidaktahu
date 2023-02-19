@@ -262,7 +262,7 @@ misalnya favorit saya adalah `inconsolota`.
 
 ### Ringkasan
 
-Sebagai penhujung pertemuan hari ini,
+Sebagai penghujung pertemuan hari ini,
 saya tampilkan ringkasannya.
 
 ![Lembar Kerja: Number: Rupiah][12ss-number-rupiah]
@@ -271,11 +271,16 @@ saya tampilkan ringkasannya.
 
 <a name="selanjutnya"></a>
 
-Pelajaran mewarnai tentunya akan lebih menarik.
-
 ## Apa Selanjutnya?
 
+Pelajaran mewarnai tentunya akan lebih menarik.
+Bukan hanya mewarnai, namun border, group, indent, dan tips lain.
+
+[[Lembar Kerja - Ukuran Unit][local-whats-next]].
+
 [//]: <> ( -- -- -- links below -- -- -- )
+
+[local-whats-next]:     /tatausaha/2018/07/07/lembar-kerja-format-01.html
 
 [12ex-number-rupiah]:   {% postimage %}/tatausaha/2018/06/12ex-number-rupiah.png
 [12ss-number-rupiah-a]: {% postimage %}/tatausaha/2018/06/12ss-number-rupiah-apa.png
