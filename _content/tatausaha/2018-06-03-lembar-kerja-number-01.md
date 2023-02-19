@@ -41,6 +41,13 @@ dan bahkan _custom format_ seperti: NPWP dan Faktur Pajak.
 
 * [Penutup](#penutup)
 
+### Unduh Berkas
+
+Lembar kerja spreadsheet tersedia,
+supaya teman-teman bisa copy-paste.
+
+* [Berkas Excel: 01-number.xlsx][source-number-xlsx]
+
 -- -- --
 
 <a name="aturan"></a>
@@ -104,7 +111,11 @@ Jawabannya mudah saja,
 yaitu menggunakan format berikut:
 
 {% highlight "latex" %}
-#.##0
++----------+---------+----------+
+| Format   | Value   | Result   |
++----------+---------+----------+
+| #.##0    | 1234    | 1.234    |
++----------+---------+----------+
 {% endhighlight %}
 
 Lanjut yuk yang masih mudah.
@@ -115,7 +126,11 @@ Cari saja `trailing null` di google.
 Atau langsung saja pakai format berikut:
 
 {% highlight "latex" %}
-00
++----------+---------+----------+
+| Format   | Value   | Result   |
++----------+---------+----------+
+| 00       | 1       | 01       |
++----------+---------+----------+
 {% endhighlight %}
 
 Lanjut yukk, yang umum dipakai.
@@ -125,7 +140,12 @@ Misalnya `1.` lalu `2.` sampai `100.`.
 Nah menulisnya dengan memakai tanda pagar seperti ini:
 
 {% highlight "latex" %}
-##\.
++----------+---------+----------+
+| Format   | Value   | Result   |
++----------+---------+----------+
+| ##\.     | 1       | 1.       |
+| ##\.     | 42      | 42.      |
++----------+---------+----------+
 {% endhighlight %}
 
 Berhubung tanda baca bisa saja punya arti khusus.
@@ -137,7 +157,11 @@ Misalnya supaya tampilannya menjadi `01.`.
 Ya diubah saja tanda pagarnya dengan angka nol.
 
 {% highlight "latex" %}
-00\.
++----------+---------+----------+
+| Format   | Value   | Result   |
++----------+---------+----------+
+| 00\.     | 1       | 01.      |
++----------+---------+----------+
 {% endhighlight %}
 
 Ini sangat terpakai ketika,
@@ -146,10 +170,16 @@ atau angka revisi pajak mana yang saya pakai.
 Misalnya bulan `02:`. Jadinya seperti ini:
 
 {% highlight "latex" %}
-00\:
++----------+---------+----------+
+| Format   | Value   | Result   |
++----------+---------+----------+
+| ##\:     | 42      | 42:      |
+| 00\:     | 2       | 02:      |
+| \:00\:   | 2       | :02:     |
++----------+---------+----------+
 {% endhighlight %}
 
-Ringkasannya  dapat saya tampilkan seperti ini:
+Ringkasannya dapat saya tampilkan seperti ini:
 
 ![Lembar Kerja: Number: Tata Angka][02ss-number-angka]
 
@@ -165,23 +195,35 @@ Misalnya terkait PPn,
 standar baku untuk menulis `10%` adalah:
 
 {% highlight "latex" %}
-0%
++----------+---------+----------+
+| Format   | Value   | Result   |
++----------+---------+----------+
+| 0%       | 10%     | 10%      |
++----------+---------+----------+
 {% endhighlight %}
 
 Lalu bagaimana kalau nilainya pakai koma?
 Ubah saja tata penulisannya:
 
 {% highlight "latex" %}
-0,00%
++----------+---------+----------+
+| Format   | Value   | Result   |
++----------+---------+----------+
+| 0,00%    | 0,5%    | 0,50%    |
++----------+---------+----------+
 {% endhighlight %}
 
-Misalnya di PP 23, ada nilai 0,5%.
+Misalnya di PP 23, ada nilai `0,5%`.
 Berarti kita tidak perlu menampilkan
 sisa nol di belakang dunk?
 Ya ubah saja lagi.
 
 {% highlight "latex" %}
-0,##%
++----------+---------+----------+
+| Format   | Value   | Result   |
++----------+---------+----------+
+| 0,##%    | 0,5%    | 0,5%     |
++----------+---------+----------+
 {% endhighlight %}
 
 -- -- --
@@ -190,7 +232,93 @@ Ya ubah saja lagi.
 
 ## Tanggal
 
-Baiklah, sekarang bagaimana yang lebih rumit.
+Baiklah, sekarang berlanjut ke
+tata penulisan yang lebih rumit, yaitu tanggal.
+
+Tanggal ini seru juga loh.
+Kita mulai dari yang sederhana ya.
+
+{% highlight "latex" %}
++--------------+------------+------------------+
+| Format       | Value      | Result           |
++--------------+------------+------------------+
+| DD MMMM YYYY | 23/11/2022 | 23 November 2022 |
+| DD-MMM-YY    | 23/11/2022 | 23-Nov-22        |
++--------------+------------+------------------+
+{% endhighlight %}
+
+Nah, lalu bagaimana kalau, tanggal yang dimasukkan salah,
+tidak valid? Bagaimana hasilnya?
+
+Untuk mengatasi hal ini,
+maka tata namanya perlu dibuat kolom baru,
+yaitu untuk masukan `text` yang bukan tanggal.
+Masukan teks dalam tata penulisan menggunakan simbol `@`.
+
+Antar kolom ini ditulis dipisahkan,
+dengan tanda titik koma `DD-MMM-YY;@`.
+
+_Hmmm... bingung?_
+
+Kita lihat saja contoh berikut:
+
+{% highlight "latex" %}
++-----------+-----------+--------+------------------+
+| Format    | Text      | Value  | Result           |
++-----------+-----------+--------+------------------+
+| DD-MMM-YY | :* @?     | Test   | :          Test? |
+| DD-MMM-YY | \[@ *.?\] | Test   | :Test..........? |
++-----------+-----------+--------+------------------+
+{% endhighlight %}
+
+Semoga cukup menjelaskan.
+Sekarang kita kembali ke urusan tata nama penulisan tanggal.
+
+Bagaimana dengan locale?
+Ini masalah ketika kita menerima dokumen dari pihak lain,
+yang mungkin saja locale-nya berbeda dengan yang diatur,
+di notebook kita.
+Ini dapat diatur dengan per cell,
+sebagaimana di dialog berikut:
+
+![Lembar Kerja: Format Dialog: Language][02ss-dialog-number-lg]
+
+Mari kita lihat contohnya dalam `language` berbeda.
+Misalnya begini, saya menulis `23/11/2022`,
+namun rekan saya menulis dengan cara berbeda,
+yaitu seperti ini: `11/23/2022`.
+
+{% highlight "latex" %}
++-----------+-----------+------------+-----------+-------------+
+| Format    | Text      | Value      | Language  | Result      |
++-----------+-----------+------------+-----------+-------------+
+| DD-MMM-YY | :* @?     | 23/11/2022 | Indonesia | 23-Nov-22   |
+| DD-MMM-YY | :* @?     | 11/23/2022 | English   | 23-Nov-22   |
++-----------+-----------+------------+-----------+-------------+
+{% endhighlight %}
+
+Walaupun hasil akhirnya tampak sama,
+namun cara mendapatkannya dapat saja sama sekali berbeda.
+
+Terakhir, saya tampilkan format kesukaan saya.
+Sederhana namun lengkap.
+Kenapa? Karena saya sering menggunakan,
+dalam berbagai berkas saya.
+
+Dengan adanya hari, saya tahu kapan transaksi dibikin.
+Adanya ingatan mengenai hari ini cukup penting bagi saya,
+untuk mem-verifikasi, apakah masukan data saya,
+sudah tepat atau belum.
+
+{% highlight "latex" %}
++--------------------+------------+----------------+
+| Format             | Value      |  Result        |
++--------------------+------------+----------------+
+| DD MMM YYYY", "DDD | 23/11/2022 | 23-Nov-22, Rab |
++--------------------+------------+----------------+
+{% endhighlight %}
+
+Akhirnya, saya berikan tampilan gambar sebagai ringkasan bagian ini.
 
 ![Lembar Kerja: Number: Tanggal][02ss-number-tanggal]
 
@@ -230,6 +358,7 @@ Selengkapnya:
 [local-whats-next]:     /tatausaha/2022/05/09/mengenal-inkscape.html
 
 [02ss-dialog-number]:   {% postimage %}/tatausaha/2018/06/02ss-dialog-number.png
+[02ss-dialog-number-lg]:{% postimage %}/tatausaha/2018/06/02ss-dialog-number-lang.png
 
 [02ex-number-angka]:    {% postimage %}/tatausaha/2018/06/02ex-number-angka.png
 [02ex-number-pajak]:    {% postimage %}/tatausaha/2018/06/02ex-number-pajak.png
@@ -240,3 +369,5 @@ Selengkapnya:
 [02ss-number-rupiah-a]: {% postimage %}/tatausaha/2018/06/02ex-number-rupiah-apa.png
 [02ss-number-rupiah]:   {% postimage %}/tatausaha/2018/06/02ss-number-rupiah.png
 [02ss-number-tanggal]:  {% postimage %}/tatausaha/2018/06/02ss-number-tanggal.png
+
+[source-number-xlsx]:   {% postimage %}/tatausaha/2018/06/01-number.xlsx

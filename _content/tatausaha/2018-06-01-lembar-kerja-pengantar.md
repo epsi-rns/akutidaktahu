@@ -166,11 +166,34 @@ Lanjut yuuuks.
 
 <a name="haturnuhun"></a>
 
-## Ucapan Terimakash
+## Ucapan Terimakasih
+
+### Pertanyaan di Social Media
+
+> Makasi kakaaaaa
+
+Artikel ini dibikin untuk menjawab pertanyaan2,
+dari teman2 saya di social media.
+
+Tanpa kalian, hati saya tidak pernah tergerak,
+untuk membikin artikel yang berguna.
+Karena saya jadi tahu,
+seseorang di luar sama mungkin membutuhkannya.
+
+Boro-boro siklus akunting,
+saya sebetulnya tidak mampu membuat tampilan cantique.
+Namun karena kebutuhan kalian,
+saya jadi bisa membikin satu template,
+yang dapat dipakai oleh beberapa perusahaan sekaligus.
+
+_sebagaimana teman2 bertanya mengenai coding_
+_saya jadi punya tujuan hidup_
+
+### Inspiring People
 
 > Haturnuhun Teteh
 
-Kepada video dari `Voice of Baceprot`,
+Terimakasih juga kepada video2 dari `Voice of Baceprot`,
 yang lagunya menemani di saat-saat paling berat.
 
 Membikin artikel berseri semacam ini membutuhkan kerja keras.
