@@ -161,10 +161,12 @@ mohon share juga ya.
 
 <a name="selanjutnya"></a>
 
+## Apa Selanjutnya?
+
 Pelajaran mewarnai tentunya akan lebih menarik.
 
 Lanjut baca yuk. 
-[Lembar Kerja - Warna][local-whats-next]].
+[[Lembar Kerja - Tata Warna][local-whats-next]].
 
 [//]: <> ( -- -- -- links below -- -- -- )
 

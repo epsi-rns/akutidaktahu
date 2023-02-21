@@ -7,7 +7,7 @@ tags      : [calc]
 keywords  : [spreadsheet]
 
 toc       : "toc/lembarkerja.njk"
-opengraphimage: "assets/posts/tatausaha/2018/06/02ss-dialog-number.png"
+opengraphimage: "assets/posts/tatausaha/2018/06/12ss-dialog-number.png"
 
 excerpt   : Menata tampilan angka, tanggal, dan mata uang.
 ---
@@ -370,7 +370,7 @@ Segitu aja sih.
 Urusan tata angka ini masih panjang,
 kita bahas cara penulisan rupiah yuk.
 
-[[Lembar Kerja - Penulisan Rupiah][local-whats-next]].
+[[Lembar Kerja - Tata Penulisan Rupiah][local-whats-next]].
 
 [//]: <> ( -- -- -- links below -- -- -- )
 

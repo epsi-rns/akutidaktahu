@@ -21,8 +21,14 @@ excerpt   : Menata tampilan, ukuran unit, group, indentasi, font, warna, border.
 _Kesederhanaan laporan itu perlu._
 _Bukan berarti tampilan sheet tidak perlu dihias._
 
+Banyak ilmu tampilan yang bagus di Excel,
+dan masih jarang di Calc.
+Untuk bisa mengikuti tampilan2 cantique ini,
+kita perlu memulai dari yang sederhana.
+Kalau sudah punya dasar, akan lebh mudah untuk menjadi kreatif.
+
 Untuk membantu teman-teman untuk kreatif secara mandiri,
-saya berikan contoh unik yang dapat dipakai dalam keseharian.
+saya berikan juga contoh unik yang dapat dipakai dalam keseharian.
 Ada beberapa hal yang dapat dijelajahi di Excel ataupun Calc.
 Namun saya batasi, saya hanya membahas yang sering saya pakai saja.
 
@@ -204,7 +210,7 @@ Di sini saya berhasil untuk membuat tulisan form tidak terlalu kecil.
 Yaitu 85% resizing di page style.
 Karera kesulitan untuk membuat form juga tidak terlalu tinggi.
 
-![Lembar Kerja: Contoh Ukuran: ][22-ukuran-02-page]
+![Lembar Kerja: Contoh Ukuran: Halaman][22-ukuran-02-page]
 
 -- -- --
 

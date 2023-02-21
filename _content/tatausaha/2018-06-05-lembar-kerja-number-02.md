@@ -1,6 +1,6 @@
 ---
 layout    : post
-title     : Lembar Kerja - Rupiah
+title     : Lembar Kerja - Tata Rupiah
 date      : 2018-06-05 09:17:35
 slug      : lembar-kerja-number-02
 tags      : [calc]

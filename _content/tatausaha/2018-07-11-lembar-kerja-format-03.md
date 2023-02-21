@@ -1,13 +1,13 @@
 ---
 layout    : post
-title     : Lembar Kerja - Warna
+title     : Lembar Kerja - Tata Warna
 date      : 2018-07-11 09:17:35
 slug      : lembar-kerja-format-03
 tags      : [calc]
 keywords  : [spreadsheet]
 
 toc       : "toc/lembarkerja.njk"
-opengraphimage: "assets/posts/tatausaha/2018/07/25-format-group-02-three.png"
+opengraphimage: "assets/posts/tatausaha/2018/07/26-format-color-01-pick.png"
 
 excerpt   : Menata tampilan, ukuran unit, group, indentasi, font, warna, border.
 ---
@@ -20,6 +20,8 @@ excerpt   : Menata tampilan, ukuran unit, group, indentasi, font, warna, border.
 
 Penampilan itu soal warna selera.
 Kalau saya sukanya warna cerah.
+Yang kebetulan sesuai juga dengan
+hasil cetak di kertas putih.
 
 _warna setipis mungkin,_
 _border selembut mungkin,_
@@ -95,7 +97,7 @@ dan jadinya mudah dipakai.
 Salah satunya adalah tampilan lembar kerja spreadsheet
 sebagaimana gambar berikut:
 
-![Lembar Kerja: Format Warna: ][26-color-01-view]
+![Lembar Kerja: Format Warna: Contoh Material][26-color-01-view]
 
 Sebetulnya saya kurang suka meng-abuse warna.
 Kalau semuanya diberi warna jadinya terkesan kusam.
@@ -130,7 +132,7 @@ Supaya lebih jelas saya berikan kode warnanya,
 dan sekaligus saya kosongkan isinya,
 supaya kita dapat lebih melihat warnanya.
 
-![Lembar Kerja: Format Warna: ][26-color-02-view]
+![Lembar Kerja: Format Warna: Contoh Jurnal Invoice][26-color-02-view]
 
 Seperti kita lihat di gambar di atas,
 salah satu yang membuat warnanya menjadi _eye catchy_,
@@ -154,7 +156,7 @@ saya akan memilih warna lain, yang lebih netral.
 _tidak berlebihan dalam mewarnai_
 _kalau perlu tanpa warna sekalian_
 
-![Lembar Kerja: Format Warna: ][26-color-03-view]
+![Lembar Kerja: Format Warna: Contoh Legal][26-color-03-view]
 
 Sebetulnya, ada warnanya,
 namun saya pindahkan ke border.
@@ -233,7 +235,10 @@ Bagaimana dengan dua belas bulan, padahal gradasinya hanya sepuluh. Ya dibagi du
 * Nov: Teal700
 * Des: Teal900
 
-Kita lihat hasilnya di dark mode:
+Sangat menarik untuk melihat hasilnya dalam tampilan yang cerah,
+dan menyenangkan. Silahkan dicoba sendiri.
+
+Sementara itu, mari kita lihat hasilnya di dark mode:
 
 ![Lembar Kerja: Format Warna: 12 Bulan][23-tab-color-month]
 
@@ -244,11 +249,16 @@ kita akan lanjut ke border.
 
 <a name="selanjutnya"></a>
 
-Border
-
 ## Apa Selanjutnya?
 
+Pelajaran menggarisi juga menyenangkan.
+
+Lanjut baca yuk. 
+[[Lembar Kerja - Garis][local-whats-next]].
+
 [//]: <> ( -- -- -- links below -- -- -- )
+
+[local-whats-next]:     /tatausaha/2018/07/13/lembar-kerja-format-04.html
 
 [source-format-xlsx]:   {% postimage %}/tatausaha/2018/07/02-format.xlsx
 
@@ -264,15 +274,3 @@ Border
 [23-tab-color-month]:   {% postimage %}/tatausaha/2018/07/23-format-tab-color-month.png
 [23-tab-menu]:          {% postimage %}/tatausaha/2018/07/23-format-tab-menu.png
 [23-tab-pallete]:       {% postimage %}/tatausaha/2018/07/23-format-tab-pallete.png
-
-[//]: <> ( -- -- -- links below -- -- -- )
-
-[28-border-01-bigger]:  {% postimage %}/tatausaha/2018/07/28-border-01-bigger.png
-[28-border-01-button]:  {% postimage %}/tatausaha/2018/07/28-border-01-button.png
-[28-border-01-export]:  {% postimage %}/tatausaha/2018/07/28-border-01-export.png
-[28-border-01-ss]:      {% postimage %}/tatausaha/2018/07/28-border-01-screenshot.png
-[28-border-02-bigger]:  {% postimage %}/tatausaha/2018/07/28-border-02-bigger.png
-[28-border-02-palette]: {% postimage %}/tatausaha/2018/07/28-border-02-palette.png
-[28-border-02-ss]:      {% postimage %}/tatausaha/2018/07/28-border-02-screenshot.png
-[28-border-03-bigger]:  {% postimage %}/tatausaha/2018/07/28-border-03-bigger.png
-[28-border-03-export]:  {% postimage %}/tatausaha/2018/07/28-border-03-export.png
