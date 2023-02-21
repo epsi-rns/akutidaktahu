@@ -163,9 +163,12 @@ mohon share juga ya.
 
 Pelajaran mewarnai tentunya akan lebih menarik.
 
-## Apa Selanjutnya?
+Lanjut baca yuk. 
+[Lembar Kerja - Warna][local-whats-next]].
 
 [//]: <> ( -- -- -- links below -- -- -- )
+
+[local-whats-next]:     /tatausaha/2018/07/11/lembar-kerja-format-03.html
 
 [source-format-xlsx]:   {% postimage %}/tatausaha/2018/07/02-format.xlsx
 
