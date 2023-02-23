@@ -18,9 +18,9 @@
     "url": "https://gitlab.com/epsi-rns/tutor-11ty-bulma-md/issues"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.0",
-    "@11ty/eleventy-plugin-rss": "^1.0.9",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1",
-    "moment": "^2.27.0"
+    "@11ty/eleventy": "^2.0.0",
+    "@11ty/eleventy-plugin-rss": "^1.2.0",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^4.2.0",
+    "moment": "^2.29.4"
   }
 }

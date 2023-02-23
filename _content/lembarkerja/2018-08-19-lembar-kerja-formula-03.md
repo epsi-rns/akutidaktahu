@@ -27,7 +27,13 @@ _saya pamit kerja dulu yaaaa_
 
 * [Prakata](#prakata): Daftar Isi
 
-* [Jumlah](#jumlah)
+* [SUM](#sum)
+
+* [SUMIF](#sumif)
+
+* [SUMPRODUCT](#sumproduct)
+
+* [SUMIFS](#sumifs)
 
 * [Penutup](#penutup)
 
@@ -42,15 +48,33 @@ supaya teman-teman bisa copy-paste.
 
 -- -- --
 
-<a name="jumlah"></a>
+<a name="SUM"></a>
 
-## Jumlah
+## SUM
 
 ![Lembar Kerja: Rumus Penjumlahan: Export][36ex-formula-jumlah]
 
+-- -- --
+
+<a name="SUM"></a>
+
+## SUMIF
+
 ![Lembar Kerja: Rumus Penjumlahan: Screenshot Atas][37ss-formula-atas]
 
+-- -- --
+
+<a name="SUM"></a>
+
+## SUMPRODUCT
+
 ![Lembar Kerja: Rumus Penjumlahan: Screenshot Bawah][37ss-formula-bawah]
+
+-- -- --
+
+<a name="SUMIFS"></a>
+
+## SUMIFS
 
 -- -- --
 
@@ -67,20 +91,21 @@ Lanjut baca yuk.
 
 [source-format-xlsx]:   {% postimage %}/lembarkerja/2018/08/03-formula.xlsx
 
-[34ex-formula-tanggal]: {% postimage %}/lembarkerja/2018/08/34ex-formula-tanggal.png
-[34ss-formula-tanggal]: {% postimage %}/lembarkerja/2018/08/34ss-formula-tanggal.png
-
-[35ex-formula-terbil]:  {% postimage %}/lembarkerja/2018/08/35ex-formula-terbilang.png
-[35ss-formula-terbil]:  {% postimage %}/lembarkerja/2018/08/35ss-formula-terbilang.png
 
 [36ex-formula-jumlah]:  {% postimage %}/lembarkerja/2018/08/36ex-formula-jumlah.png
 
 [37ss-formula-atas]:    {% postimage %}/lembarkerja/2018/08/37ss-formula-jumlah-atas.png
 [37ss-formula-bawah]:   {% postimage %}/lembarkerja/2018/08/37ss-formula-jumlah-bawah.png
 
-[38ex-formula-acuan]:   {% postimage %}/lembarkerja/2018/08/38ex-formula-acuan.png
-[38ss-formula-acuan]:   {% postimage %}/lembarkerja/2018/08/38ss-formula-acuan.png
+[//]: <> ( -- -- -- links below -- -- -- )
 
-[39ex-formula-rujukan]: {% postimage %}/lembarkerja/2018/08/39ex-formula-rujukan.png
-[39ss-formula-lengkap]: {% postimage %}/lembarkerja/2018/08/39ss-formula-rujukan-lengkap.png
-[39ss-formula-potong]:  {% postimage %}/lembarkerja/2018/08/39ss-formula-rujukan-potong.png
+[36ex-crit]:            {% postimage %}/lembarkerja/2018/08/36ex-crit.png
+[36ex-sum]:             {% postimage %}/lembarkerja/2018/08/36ex-sum.png
+[36ex-sumif]:           {% postimage %}/lembarkerja/2018/08/36ex-sumif.png
+[36ex-sumifs]:          {% postimage %}/lembarkerja/2018/08/36ex-sumifs.png
+[36ex-sumproduct]:      {% postimage %}/lembarkerja/2018/08/36ex-sumproduct.png
+[36ss-crit]:            {% postimage %}/lembarkerja/2018/08/36ss-crit.png
+[36ss-sum]:             {% postimage %}/lembarkerja/2018/08/36ss-sum.png
+[36ss-sumif]:           {% postimage %}/lembarkerja/2018/08/36ss-sumif.png
+[36ss-sumifs]:          {% postimage %}/lembarkerja/2018/08/36ss-sumifs.png
+[36ss-sumproduct]:      {% postimage %}/lembarkerja/2018/08/36ss-sumproduct.png

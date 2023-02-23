@@ -18,10 +18,10 @@ excerpt   : Menetapkan rumus, angka, case, teks, tangal, terbilang, jumlah. acua
 
 > Menetapkan rumus, angka, case, teks, tangal, terbilang, jumlah. acuan
 
-_Artikel ini masih dalam taraf pengerjaan hehehe!_
-_Saya mesti berbagi waktu dengan lembur kerja._
-
-_saya pamit kerja dulu yaaaa_
+Sebetulnya ini sudah sangat banyak dibahas,
+dan dapat dipelajari sendiri.
+Namun saya ulang di sini,
+barangkali saja ada yang belum paham.
 
 ### Daftar Isi
 
@@ -50,7 +50,25 @@ supaya teman-teman bisa copy-paste.
 
 ## Angka
 
+Kita mulai dari `sum`, `count`, `max`, `min` dan `average`.
+Yang ini **wajib** tahu.
+
 ![Lembar Kerja: Rumus Dasar: Export: Angka][31ex-formula-angka]
+
+{% highlight "excel-formula" %}
+=SUM(C5:C14)
+=COUNT(C5:C14)
+{% endhighlight %}
+
+Dan juga
+
+{% highlight "xlsx" %}
+=MAX(C5:C14)
+=MIN(C5:C14)
+=AVERAGE(C5:C14)
+{% endhighlight %}
+
+Akan lebih mudah untuk melihat hasilnya dengan alamat cell masing-masing.
 
 ![Lembar Kerja: Rumus Dasar: Screenshot: Angka][31ss-formula-angka]
 
@@ -60,7 +78,18 @@ supaya teman-teman bisa copy-paste.
 
 ## Case
 
+Rumus `proper()` sering saya pakai.
+
 ![Lembar Kerja: Rumus Dasar: Export: Case][32ex-formula-case]
+
+{% highlight "xlsx" %}
+=UPPER(C5)
+=LOWER(C6)
+=PROPER(C7)
+{% endhighlight %}
+
+Kita rumusnya di dalam screenshot,
+yang dilengkapi dengan alamat cell-nya.
 
 ![Lembar Kerja: Rumus Dasar: Screenshot: Case][32ss-formula-case]
 
@@ -70,9 +99,23 @@ supaya teman-teman bisa copy-paste.
 
 ## Teks
 
+Walaupun mungkin teman-teman jarang memakai,
+cukup tahu saja kemampuan pengolahan teks di Excel ataupun Calc.
+
+Misalnya urusan potong-memotong ini.
+
 ![Lembar Kerja: Rumus Dasar: Export: Text][33ex-formula-teks]
 
+{% highlight "xlsx" %}
+=LEFT(C5;4)
+=RIGHT(C6;4)
+=MID(C7;3;2)
+{% endhighlight %}
+
 ![Lembar Kerja: Rumus Dasar: Formula: Text][33ss-formula-teks]
+
+Dari dasar ini kita akan berlanjut ke hal-hal lain,
+di mana kita akan lebih bebas berkreatifitas.
 
 -- -- --
 
