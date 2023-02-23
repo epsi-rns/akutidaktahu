@@ -148,12 +148,10 @@ Tidak perlu dianalisa pasti sudah paham sendiri.
 
 <a name="selanjutnya"></a>
 
-Formula
-
 ## Apa Selanjutnya?
 
 Lanjut baca yuk.
-[[Lembar Kerja - Formula][local-whats-next]].
+[[Lembar Kerja - Rumus Dasar][local-whats-next]].
 
 [//]: <> ( -- -- -- links below -- -- -- )
 

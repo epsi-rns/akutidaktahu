@@ -40,12 +40,6 @@ namun lebih ke apa yang dihadapi saat bekerja di dunia nyata.
 
 Ruang lingkup yang akan saya tuliskan adalah:
 Format, Formula, Formulir, Komunikasi, Report, dan Macro.
-Saya sering lupa, padahal saya bolak-balik salah,
-makanya saya tulis saja deh, supaya tidak tercecer.
-Biasanya yang pernah saya lewati dalam pekerjaan sehari-hari,
-karana kalau belum pernah saya jelajahi,
-lalu saya tulis, rasanya kurang tulus.
-Dan kurang jujur juga.
 
 ### Daftar Isi
 
@@ -93,6 +87,21 @@ Berikut materi yang saya niatkan untuk ditulis di artikel berseri ini.
 Hmmm... Agak aneh ya silabusnya?
 Memang, karena ini panduan di dunia nyata,
 bukan textbook cara pemakaian.
+
+### Berbagi
+
+Salah satu alasan menulis adalah
+saya sering lupa, padahal saya bolak-balik salah,
+makanya saya tulis saja deh, supaya tidak tercecer.
+Biasanya yang pernah saya lewati dalam pekerjaan sehari-hari,
+karana kalau belum pernah saya jelajahi,
+lalu saya tulis, rasanya kurang tulus.
+Dan kurang jujur juga.
+
+Bagi teman-teman yang bukan admin,
+sesekali turunlah ke bawah supaya dapat _feel_-nya.
+Krean yang dirasakan admin,
+lebih dalam dari yang sekedar dikerjakan admin.
 
 ### Salah Kaprah
 
