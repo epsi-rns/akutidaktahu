@@ -7,7 +7,7 @@ tags      : [calc]
 keywords  : [spreadsheet]
 
 toc       : "toc/lembarkerja.njk"
-opengraphimage: "assets/posts/tatausaha/2018/06/12ex-number-rupiah.png"
+opengraphimage: "assets/posts/lembarkerja/2018/06/12ex-number-rupiah.png"
 
 excerpt   : Menata tampilan angka, tanggal, dan mata uang.
 ---
@@ -280,13 +280,13 @@ Bukan hanya mewarnai, namun border, group, indent, dan tips lain.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[local-whats-next]:     /tatausaha/2018/07/07/lembar-kerja-format-01.html
+[local-whats-next]:     /lembarkerja/2018/07/07/lembar-kerja-format-01.html
 
-[12ex-number-rupiah]:   {% postimage %}/tatausaha/2018/06/12ex-number-rupiah.png
-[12ss-number-rupiah-a]: {% postimage %}/tatausaha/2018/06/12ss-number-rupiah-apa.png
-[12ss-number-rupiah-d]: {% postimage %}/tatausaha/2018/06/12ss-number-rupiah-dasar.png
-[12ss-number-rupiah-w]: {% postimage %}/tatausaha/2018/06/12ss-number-rupiah-warna.png
-[12ss-number-rupiah-l]: {% postimage %}/tatausaha/2018/06/12ss-number-rupiah-lengkap.png
-[12ss-number-rupiah]:   {% postimage %}/tatausaha/2018/06/12ss-number-rupiah.png
+[12ex-number-rupiah]:   {% postimage %}/lembarkerja/2018/06/12ex-number-rupiah.png
+[12ss-number-rupiah-a]: {% postimage %}/lembarkerja/2018/06/12ss-number-rupiah-apa.png
+[12ss-number-rupiah-d]: {% postimage %}/lembarkerja/2018/06/12ss-number-rupiah-dasar.png
+[12ss-number-rupiah-w]: {% postimage %}/lembarkerja/2018/06/12ss-number-rupiah-warna.png
+[12ss-number-rupiah-l]: {% postimage %}/lembarkerja/2018/06/12ss-number-rupiah-lengkap.png
+[12ss-number-rupiah]:   {% postimage %}/lembarkerja/2018/06/12ss-number-rupiah.png
 
-[source-number-xlsx]:   {% postimage %}/tatausaha/2018/06/01-number.xlsx
+[source-number-xlsx]:   {% postimage %}/lembarkerja/2018/06/01-number.xlsx

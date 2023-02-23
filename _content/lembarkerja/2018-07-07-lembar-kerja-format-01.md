@@ -7,7 +7,7 @@ tags      : [calc]
 keywords  : [spreadsheet]
 
 toc       : "toc/lembarkerja.njk"
-opengraphimage: "assets/posts/tatausaha/2018/07/22-format-ukuran-01-screenshot.png"
+opengraphimage: "assets/posts/lembarkerja/2018/07/22-format-ukuran-01-screenshot.png"
 
 excerpt   : Menata tampilan, ukuran unit, group, indentasi, font, warna, border.
 ---
@@ -226,23 +226,23 @@ Lanjut baca yuk.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[local-whats-next]:     /tatausaha/2018/07/09/lembar-kerja-format-02.html
+[local-whats-next]:     /lembarkerja/2018/07/09/lembar-kerja-format-02.html
 
-[source-format-xlsx]:   {% postimage %}/tatausaha/2018/07/02-format.xlsx
+[source-format-xlsx]:   {% postimage %}/lembarkerja/2018/07/02-format.xlsx
 
 [openpyxl-copy]:        https://epsi.bitbucket.io/automation/2022/09/11/python-excel-copy-range/
 [libreoffice-copy]:     https://epsi.bitbucket.io/automation/2022/09/21/python-libreoffice-copy-range/
 
-[21-unit-col-width]:    {% postimage %}/tatausaha/2018/07/21-format-unit-col-width.png
-[21-unit-dialog-set]:   {% postimage %}/tatausaha/2018/07/21-format-unit-dialog-settings.png
-[21-unit-inch]:         {% postimage %}/tatausaha/2018/07/21-format-unit-inch.png
-[21-unit-plain]:        {% postimage %}/tatausaha/2018/07/21-format-unit-plain.png
-[21-unit-row-height]:   {% postimage %}/tatausaha/2018/07/21-format-unit-row-height.png
+[21-unit-col-width]:    {% postimage %}/lembarkerja/2018/07/21-format-unit-col-width.png
+[21-unit-dialog-set]:   {% postimage %}/lembarkerja/2018/07/21-format-unit-dialog-settings.png
+[21-unit-inch]:         {% postimage %}/lembarkerja/2018/07/21-format-unit-inch.png
+[21-unit-plain]:        {% postimage %}/lembarkerja/2018/07/21-format-unit-plain.png
+[21-unit-row-height]:   {% postimage %}/lembarkerja/2018/07/21-format-unit-row-height.png
 
-[22-ukuran-01-export]:  {% postimage %}/tatausaha/2018/07/22-format-ukuran-01-export.png
-[22-ukuran-01-page]:    {% postimage %}/tatausaha/2018/07/22-format-ukuran-01-page.png
-[22-ukuran-01-ss]:      {% postimage %}/tatausaha/2018/07/22-format-ukuran-01-screenshot.png
-[22-ukuran-02-bigger]:  {% postimage %}/tatausaha/2018/07/22-format-ukuran-02-bigger.png
-[22-ukuran-02-export]:  {% postimage %}/tatausaha/2018/07/22-format-ukuran-02-export.png
-[22-ukuran-02-page]:    {% postimage %}/tatausaha/2018/07/22-format-ukuran-02-page.png
-[22-ukuran-02-ss]:      {% postimage %}/tatausaha/2018/07/22-format-ukuran-02-screenshot.png
+[22-ukuran-01-export]:  {% postimage %}/lembarkerja/2018/07/22-format-ukuran-01-export.png
+[22-ukuran-01-page]:    {% postimage %}/lembarkerja/2018/07/22-format-ukuran-01-page.png
+[22-ukuran-01-ss]:      {% postimage %}/lembarkerja/2018/07/22-format-ukuran-01-screenshot.png
+[22-ukuran-02-bigger]:  {% postimage %}/lembarkerja/2018/07/22-format-ukuran-02-bigger.png
+[22-ukuran-02-export]:  {% postimage %}/lembarkerja/2018/07/22-format-ukuran-02-export.png
+[22-ukuran-02-page]:    {% postimage %}/lembarkerja/2018/07/22-format-ukuran-02-page.png
+[22-ukuran-02-ss]:      {% postimage %}/lembarkerja/2018/07/22-format-ukuran-02-screenshot.png

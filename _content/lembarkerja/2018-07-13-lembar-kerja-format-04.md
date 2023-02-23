@@ -7,7 +7,7 @@ tags      : [calc]
 keywords  : [spreadsheet]
 
 toc       : "toc/lembarkerja.njk"
-opengraphimage: "assets/posts/tatausaha/2018/07/25-format-group-02-three.png"
+opengraphimage: "assets/posts/lembarkerja/2018/07/25-format-group-02-three.png"
 
 excerpt   : Menata tampilan, ukuran unit, group, indentasi, font, warna, border.
 ---
@@ -152,17 +152,22 @@ Formula
 
 ## Apa Selanjutnya?
 
+Lanjut baca yuk.
+[[Lembar Kerja - Formula][local-whats-next]].
+
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[source-format-xlsx]:   {% postimage %}/tatausaha/2018/07/02-format.xlsx
+[local-whats-next]:     /lembarkerja/2018/08/15/lembar-kerja-formula-01.html
 
-[28-border-01-bigger]:  {% postimage %}/tatausaha/2018/07/28-border-01-bigger.png
-[28-border-01-button]:  {% postimage %}/tatausaha/2018/07/28-border-01-button.png
-[28-border-01-export]:  {% postimage %}/tatausaha/2018/07/28-border-01-export.png
-[28-border-01-ss]:      {% postimage %}/tatausaha/2018/07/28-border-01-screenshot.png
+[source-format-xlsx]:   {% postimage %}/lembarkerja/2018/07/02-format.xlsx
 
-[28-border-02-bigger]:  {% postimage %}/tatausaha/2018/07/28-border-02-bigger.png
-[28-border-02-palette]: {% postimage %}/tatausaha/2018/07/28-border-02-palette.png
-[28-border-02-ss]:      {% postimage %}/tatausaha/2018/07/28-border-02-screenshot.png
-[28-border-03-bigger]:  {% postimage %}/tatausaha/2018/07/28-border-03-bigger.png
-[28-border-03-export]:  {% postimage %}/tatausaha/2018/07/28-border-03-export.png
+[28-border-01-bigger]:  {% postimage %}/lembarkerja/2018/07/28-border-01-bigger.png
+[28-border-01-button]:  {% postimage %}/lembarkerja/2018/07/28-border-01-button.png
+[28-border-01-export]:  {% postimage %}/lembarkerja/2018/07/28-border-01-export.png
+[28-border-01-ss]:      {% postimage %}/lembarkerja/2018/07/28-border-01-screenshot.png
+
+[28-border-02-bigger]:  {% postimage %}/lembarkerja/2018/07/28-border-02-bigger.png
+[28-border-02-palette]: {% postimage %}/lembarkerja/2018/07/28-border-02-palette.png
+[28-border-02-ss]:      {% postimage %}/lembarkerja/2018/07/28-border-02-screenshot.png
+[28-border-03-bigger]:  {% postimage %}/lembarkerja/2018/07/28-border-03-bigger.png
+[28-border-03-export]:  {% postimage %}/lembarkerja/2018/07/28-border-03-export.png

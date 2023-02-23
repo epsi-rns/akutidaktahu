@@ -7,7 +7,7 @@ tags      : [calc]
 keywords  : [spreadsheet]
 
 toc       : "toc/lembarkerja.njk"
-opengraphimage: "assets/posts/tatausaha/2018/07/26-format-color-01-pick.png"
+opengraphimage: "assets/posts/lembarkerja/2018/07/26-format-color-01-pick.png"
 
 excerpt   : Menata tampilan, ukuran unit, group, indentasi, font, warna, border.
 ---
@@ -258,19 +258,19 @@ Lanjut baca yuk.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[local-whats-next]:     /tatausaha/2018/07/13/lembar-kerja-format-04.html
+[local-whats-next]:     /lembarkerja/2018/07/13/lembar-kerja-format-04.html
 
-[source-format-xlsx]:   {% postimage %}/tatausaha/2018/07/02-format.xlsx
+[source-format-xlsx]:   {% postimage %}/lembarkerja/2018/07/02-format.xlsx
 
-[26-color-01-pick]:     {% postimage %}/tatausaha/2018/07/26-format-color-01-pick.png
-[26-color-01-view]:     {% postimage %}/tatausaha/2018/07/26-format-color-01-view.png
-[26-color-02-view]:     {% postimage %}/tatausaha/2018/07/26-format-color-02-view.png
-[26-color-03-view]:     {% postimage %}/tatausaha/2018/07/26-format-color-03-view.png
+[26-color-01-pick]:     {% postimage %}/lembarkerja/2018/07/26-format-color-01-pick.png
+[26-color-01-view]:     {% postimage %}/lembarkerja/2018/07/26-format-color-01-view.png
+[26-color-02-view]:     {% postimage %}/lembarkerja/2018/07/26-format-color-02-view.png
+[26-color-03-view]:     {% postimage %}/lembarkerja/2018/07/26-format-color-03-view.png
 
-[23-tab-color-01]:      {% postimage %}/tatausaha/2018/07/23-format-tab-color-01.png
-[23-tab-color-02]:      {% postimage %}/tatausaha/2018/07/23-format-tab-color-02.png
-[23-tab-color-03]:      {% postimage %}/tatausaha/2018/07/23-format-tab-color-03.png
-[23-tab-color-04]:      {% postimage %}/tatausaha/2018/07/23-format-tab-color-04.png
-[23-tab-color-month]:   {% postimage %}/tatausaha/2018/07/23-format-tab-color-month.png
-[23-tab-menu]:          {% postimage %}/tatausaha/2018/07/23-format-tab-menu.png
-[23-tab-pallete]:       {% postimage %}/tatausaha/2018/07/23-format-tab-pallete.png
+[23-tab-color-01]:      {% postimage %}/lembarkerja/2018/07/23-format-tab-color-01.png
+[23-tab-color-02]:      {% postimage %}/lembarkerja/2018/07/23-format-tab-color-02.png
+[23-tab-color-03]:      {% postimage %}/lembarkerja/2018/07/23-format-tab-color-03.png
+[23-tab-color-04]:      {% postimage %}/lembarkerja/2018/07/23-format-tab-color-04.png
+[23-tab-color-month]:   {% postimage %}/lembarkerja/2018/07/23-format-tab-color-month.png
+[23-tab-menu]:          {% postimage %}/lembarkerja/2018/07/23-format-tab-menu.png
+[23-tab-pallete]:       {% postimage %}/lembarkerja/2018/07/23-format-tab-pallete.png

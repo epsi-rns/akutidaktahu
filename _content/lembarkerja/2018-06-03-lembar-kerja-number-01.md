@@ -7,7 +7,7 @@ tags      : [calc]
 keywords  : [spreadsheet]
 
 toc       : "toc/lembarkerja.njk"
-opengraphimage: "assets/posts/tatausaha/2018/06/12ss-dialog-number.png"
+opengraphimage: "assets/posts/lembarkerja/2018/06/12ss-dialog-number.png"
 
 excerpt   : Menata tampilan angka, tanggal, dan mata uang.
 ---
@@ -374,16 +374,16 @@ kita bahas cara penulisan rupiah yuk.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[local-whats-next]:     /tatausaha/2018/06/05/lembar-kerja-number-02.html
+[local-whats-next]:     /lembarkerja/2018/06/05/lembar-kerja-number-02.html
 
-[12ss-dialog-number]:   {% postimage %}/tatausaha/2018/06/12ss-dialog-number.png
-[12ss-dialog-number-lg]:{% postimage %}/tatausaha/2018/06/12ss-dialog-number-lang.png
+[12ss-dialog-number]:   {% postimage %}/lembarkerja/2018/06/12ss-dialog-number.png
+[12ss-dialog-number-lg]:{% postimage %}/lembarkerja/2018/06/12ss-dialog-number-lang.png
 
-[12ex-number-angka]:    {% postimage %}/tatausaha/2018/06/12ex-number-angka.png
-[12ex-number-pajak]:    {% postimage %}/tatausaha/2018/06/12ex-number-pajak.png
-[12ex-number-tanggal]:  {% postimage %}/tatausaha/2018/06/12ex-number-tanggal.png
-[12ss-number-angka]:    {% postimage %}/tatausaha/2018/06/12ss-number-angka.png
-[12ss-number-pajak]:    {% postimage %}/tatausaha/2018/06/12ss-number-pajak.png
-[12ss-number-tanggal]:  {% postimage %}/tatausaha/2018/06/12ss-number-tanggal.png
+[12ex-number-angka]:    {% postimage %}/lembarkerja/2018/06/12ex-number-angka.png
+[12ex-number-pajak]:    {% postimage %}/lembarkerja/2018/06/12ex-number-pajak.png
+[12ex-number-tanggal]:  {% postimage %}/lembarkerja/2018/06/12ex-number-tanggal.png
+[12ss-number-angka]:    {% postimage %}/lembarkerja/2018/06/12ss-number-angka.png
+[12ss-number-pajak]:    {% postimage %}/lembarkerja/2018/06/12ss-number-pajak.png
+[12ss-number-tanggal]:  {% postimage %}/lembarkerja/2018/06/12ss-number-tanggal.png
 
-[source-number-xlsx]:   {% postimage %}/tatausaha/2018/06/01-number.xlsx
+[source-number-xlsx]:   {% postimage %}/lembarkerja/2018/06/01-number.xlsx

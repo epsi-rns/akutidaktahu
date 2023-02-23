@@ -7,7 +7,7 @@ tags      : [calc]
 keywords  : [spreadsheet]
 
 toc       : "toc/lembarkerja.njk"
-opengraphimage: "assets/posts/tatausaha/2018/06/07-calc-kumplit.png"
+opengraphimage: "assets/posts/lembarkerja/2018/06/07-calc-kumplit.png"
 
 excerpt   : Memulai bekerja dengan spreadsheet.
 ---
@@ -40,7 +40,12 @@ namun lebih ke apa yang dihadapi saat bekerja di dunia nyata.
 
 Ruang lingkup yang akan saya tuliskan adalah:
 Format, Formula, Formulir, Komunikasi, Report, dan Macro.
-Saya sering lupa, padahal saya bolak-balik salah, makanya saya tulis saja deh, supaya tidak tercecer.
+Saya sering lupa, padahal saya bolak-balik salah,
+makanya saya tulis saja deh, supaya tidak tercecer.
+Biasanya yang pernah saya lewati dalam pekerjaan sehari-hari,
+karana kalau belum pernah saya jelajahi,
+lalu saya tulis, rasanya kurang tulus.
+Dan kurang jujur juga.
 
 ### Daftar Isi
 
@@ -88,6 +93,13 @@ Berikut materi yang saya niatkan untuk ditulis di artikel berseri ini.
 Hmmm... Agak aneh ya silabusnya?
 Memang, karena ini panduan di dunia nyata,
 bukan textbook cara pemakaian.
+
+### Salah Kaprah
+
+Artikel ini bercerita opini mengenai _worksheet_,
+yang saya terjemahkan menjadi **lembar kerja**.
+
+Artikel ini sama sekali tidak berhubungan dengan **lembur kerja**.
 
 -- -- --
 
@@ -218,16 +230,16 @@ Kita mulai dari yang mudah dulu ya kawan.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[local-whats-next]:     /tatausaha/2018/06/03/lembar-kerja-number-01.html
+[local-whats-next]:     /lembarkerja/2018/06/03/lembar-kerja-number-01.html
 
-[01-calc-ui-standard]:  {% postimage %}/tatausaha/2018/06/01-calc-ui-standard.png
-[02-calc-ui-preferred]: {% postimage %}/tatausaha/2018/06/02-calc-ui-preferred.png
-[03-calc-ui-tabbed]:    {% postimage %}/tatausaha/2018/06/03-calc-ui-tabbed.png
-[04-calc-tab-grad]:     {% postimage %}/tatausaha/2018/06/04-calc-tab-grad.png
-[05-calc-tab-flipflop]: {% postimage %}/tatausaha/2018/06/05-calc-tab-flipflop.png
-[06-calc-neraca]:       {% postimage %}/tatausaha/2018/06/06-calc-neraca.png
-[07-calc-kumplit]:      {% postimage %}/tatausaha/2018/06/07-calc-kumplit.png
+[01-calc-ui-standard]:  {% postimage %}/lembarkerja/2018/06/01-calc-ui-standard.png
+[02-calc-ui-preferred]: {% postimage %}/lembarkerja/2018/06/02-calc-ui-preferred.png
+[03-calc-ui-tabbed]:    {% postimage %}/lembarkerja/2018/06/03-calc-ui-tabbed.png
+[04-calc-tab-grad]:     {% postimage %}/lembarkerja/2018/06/04-calc-tab-grad.png
+[05-calc-tab-flipflop]: {% postimage %}/lembarkerja/2018/06/05-calc-tab-flipflop.png
+[06-calc-neraca]:       {% postimage %}/lembarkerja/2018/06/06-calc-neraca.png
+[07-calc-kumplit]:      {% postimage %}/lembarkerja/2018/06/07-calc-kumplit.png
 
-[08-calc-general]:      {% postimage %}/tatausaha/2018/06/08-calc-general.png
-[08-calc-metrics]:      {% postimage %}/tatausaha/2018/06/08-calc-general-metrics.png
-[09-language]:          {% postimage %}/tatausaha/2018/06/09-language.png
+[08-calc-general]:      {% postimage %}/lembarkerja/2018/06/08-calc-general.png
+[08-calc-metrics]:      {% postimage %}/lembarkerja/2018/06/08-calc-general-metrics.png
+[09-language]:          {% postimage %}/lembarkerja/2018/06/09-language.png

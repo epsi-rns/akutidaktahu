@@ -7,7 +7,7 @@ tags      : [calc]
 keywords  : [spreadsheet]
 
 toc       : "toc/lembarkerja.njk"
-opengraphimage: "assets/posts/tatausaha/2018/07/25-format-group-02-three.png"
+opengraphimage: "assets/posts/lembarkerja/2018/07/25-format-group-02-three.png"
 
 excerpt   : Menata tampilan, ukuran unit, group, indentasi, font, warna, border.
 ---
@@ -170,45 +170,19 @@ Lanjut baca yuk.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[local-whats-next]:     /tatausaha/2018/07/11/lembar-kerja-format-03.html
+[local-whats-next]:     /lembarkerja/2018/07/11/lembar-kerja-format-03.html
 
-[source-format-xlsx]:   {% postimage %}/tatausaha/2018/07/02-format.xlsx
+[source-format-xlsx]:   {% postimage %}/lembarkerja/2018/07/02-format.xlsx
 
-[24-indent-01-column]:  {% postimage %}/tatausaha/2018/07/24-format-indent-01-column.png
-[24-indent-02-button]:  {% postimage %}/tatausaha/2018/07/24-format-indent-02-button.png
-[24-indent-02-karasa]:  {% postimage %}/tatausaha/2018/07/24-format-indent-02-karasa.png
-[24-indent-03-example]: {% postimage %}/tatausaha/2018/07/24-format-indent-03-example.png
+[24-indent-01-column]:  {% postimage %}/lembarkerja/2018/07/24-format-indent-01-column.png
+[24-indent-02-button]:  {% postimage %}/lembarkerja/2018/07/24-format-indent-02-button.png
+[24-indent-02-karasa]:  {% postimage %}/lembarkerja/2018/07/24-format-indent-02-karasa.png
+[24-indent-03-example]: {% postimage %}/lembarkerja/2018/07/24-format-indent-03-example.png
 
-[25-group-01-one]:      {% postimage %}/tatausaha/2018/07/25-format-group-01-one.png
-[25-group-01-two]:      {% postimage %}/tatausaha/2018/07/25-format-group-01-two.png
-[25-group-02-one]:      {% postimage %}/tatausaha/2018/07/25-format-group-02-one.png
-[25-group-02-two]:      {% postimage %}/tatausaha/2018/07/25-format-group-02-two.png
-[25-group-02-three]:    {% postimage %}/tatausaha/2018/07/25-format-group-02-three.png
+[25-group-01-one]:      {% postimage %}/lembarkerja/2018/07/25-format-group-01-one.png
+[25-group-01-two]:      {% postimage %}/lembarkerja/2018/07/25-format-group-01-two.png
+[25-group-02-one]:      {% postimage %}/lembarkerja/2018/07/25-format-group-02-one.png
+[25-group-02-two]:      {% postimage %}/lembarkerja/2018/07/25-format-group-02-two.png
+[25-group-02-three]:    {% postimage %}/lembarkerja/2018/07/25-format-group-02-three.png
 
-[27-format-font]:       {% postimage %}/tatausaha/2018/07/27-format-font.png
-
-[//]: <> ( -- -- -- links below -- -- -- )
-
-[26-color-01-pick]:     {% postimage %}/tatausaha/2018/07/26-format-color-01-pick.png
-[26-color-01-view]:     {% postimage %}/tatausaha/2018/07/26-format-color-01-view.png
-[26-color-02-view]:     {% postimage %}/tatausaha/2018/07/26-format-color-02-view.png
-[26-color-03-view]:     {% postimage %}/tatausaha/2018/07/26-format-color-03-view.png
-
-[23-tab-color-01]:      {% postimage %}/tatausaha/2018/07/23-format-tab-color-01.png
-[23-tab-color-02]:      {% postimage %}/tatausaha/2018/07/23-format-tab-color-02.png
-[23-tab-color-03]:      {% postimage %}/tatausaha/2018/07/23-format-tab-color-03.png
-[23-tab-color-04]:      {% postimage %}/tatausaha/2018/07/23-format-tab-color-04.png
-[23-tab-menu]:          {% postimage %}/tatausaha/2018/07/23-format-tab-menu.png
-[23-tab-pallete]:       {% postimage %}/tatausaha/2018/07/23-format-tab-pallete.png
-
-[//]: <> ( -- -- -- links below -- -- -- )
-
-[28-border-01-bigger]:  {% postimage %}/tatausaha/2018/07/28-border-01-bigger.png
-[28-border-01-button]:  {% postimage %}/tatausaha/2018/07/28-border-01-button.png
-[28-border-01-export]:  {% postimage %}/tatausaha/2018/07/28-border-01-export.png
-[28-border-01-ss]:      {% postimage %}/tatausaha/2018/07/28-border-01-screenshot.png
-[28-border-02-bigger]:  {% postimage %}/tatausaha/2018/07/28-border-02-bigger.png
-[28-border-02-palette]: {% postimage %}/tatausaha/2018/07/28-border-02-palette.png
-[28-border-02-ss]:      {% postimage %}/tatausaha/2018/07/28-border-02-screenshot.png
-[28-border-03-bigger]:  {% postimage %}/tatausaha/2018/07/28-border-03-bigger.png
-[28-border-03-export]:  {% postimage %}/tatausaha/2018/07/28-border-03-export.png
+[27-format-font]:       {% postimage %}/lembarkerja/2018/07/27-format-font.png
