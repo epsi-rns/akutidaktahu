@@ -18,22 +18,31 @@ excerpt   : Menetapkan rumus, angka, case, teks, tangal, terbilang, jumlah. acua
 
 > Menetapkan rumus, angka, case, teks, tangal, terbilang, jumlah. acuan
 
-_Artikel ini masih dalam taraf pengerjaan hehehe!_
-_Saya mesti berbagi waktu dengan lembur kerja._
+Rumus `SUM` dan keluarganya adalah,
+formula yang saya pakai juga di keseharian,
+misalnya di perhitungan penyusutan.
+Dari satu contoh data yang sama,
+Kita bisa mendapatkan penjumlahan tertentu
+dengan cara yang berbeda.
+Seperti di gambar berikut:
 
-_saya pamit kerja dulu yaaaa_
+![Lembar Kerja: Rumus Penjumlahan: Export][36ex-formula-jumlah]
 
 ### Daftar Isi
 
 * [Prakata](#prakata): Daftar Isi
 
-* [SUM](#sum)
+* [Penjumlahan SUM](#sum)
 
-* [SUMIF](#sumif)
+* [Penjumlahan SUMIF](#sumif)
 
-* [SUMPRODUCT](#sumproduct)
+* [Penjumlahan SUMPRODUCT](#sumproduct)
 
-* [SUMIFS](#sumifs)
+* [Penjumlahan SUMIFS](#sumifs)
+
+* [Penjumlahan Berdasaran Kriteria](#kriteria)
+
+* [Ringkasan Penjumlahan](#ringkasan)
 
 * [Penutup](#penutup)
 
@@ -50,37 +59,179 @@ supaya teman-teman bisa copy-paste.
 
 <a name="SUM"></a>
 
-## SUM
+## Penjumlahan SUM
 
-![Lembar Kerja: Rumus Penjumlahan: Export][36ex-formula-jumlah]
+Kita dapat memulai dari rumus `SUM` yang sederhana,
+misalnya hasil penjumlahan berikut:
+
+![Lembar Kerja: Rumus Jumlah: Export: Hasil SUM][36ex-sum]
+
+Kita dapat melacak dari mana datangnya angka tersebut,
+dengan melihat kotak di atasnya, dan formula rumus di bawahnya:
+
+{% highlight "xlsx" %}
+=SUM(H5:H16)
+{% endhighlight %}
+
+![Lembar Kerja: Rumus Jumlah: Screenshot: SUM][36ss-sum]
+
+Yang ini semestinya cukup jelas.
 
 -- -- --
 
 <a name="SUM"></a>
 
-## SUMIF
+## Penjumlahan SUMIF
 
-![Lembar Kerja: Rumus Penjumlahan: Screenshot Atas][37ss-formula-atas]
+Sekarang, misalnya kita mau menjumlahkan untuk nilai tertentu saja,
+misalnya pembelian pepaya, atau pembelian oleh Fulan,
+atau pembelian di hari Rabu.
+
+![Lembar Kerja: Rumus Jumlah: Export: Hasil SUMIF][36ex-sumif]
+
+Maka kita dapat menggunakan rumus `SUMIF`:
+
+{% highlight "xlsx" %}
+=SUMIF(C5:C16;"Pepaya";H5:H16)
+=SUMIF(D5:D16;"Fulan";H5:H16)
+=SUMIF(E5:E16;"Rabu";H5:H16)
+{% endhighlight %}
+
+Kita ambil satu contoh saja,
+supaya kita paham dari mana datangnya angka tersebut:
+
+![Lembar Kerja: Rumus Jumlah: Screenshot: SUMIF][36ss-sumif]
+
+Sayangnya `SUMIF` ini masih membutuhkan kolom `jumlah`,
+sebagai kolom bantuan.
+Dalam perhitungan panjang,
+seringkali kita harus menghindari kolom bantuan,
+yaitu semacam  kolom jumlah tadi.
 
 -- -- --
 
-<a name="SUM"></a>
+<a name="SUMPRODUCT"></a>
 
-## SUMPRODUCT
+## Penjumlahan SUMPRODUCT
 
-![Lembar Kerja: Rumus Penjumlahan: Screenshot Bawah][37ss-formula-bawah]
+Dengan rumus `SUMPRODUCT`,
+maka kita dapat lebih hemat kolom.
+Walaupun hasil akhirnya sama
+untuk kasus yang kurang lebih sama.
+
+Sebagaimana berikut,
+misalnya pembelian pepaya, atau pembelian oleh Fulan,
+atau pembelian di hari Rabu.
+
+![Lembar Kerja: Rumus Jumlah: Export: Hasil SUMPRODUCT][36ex-sumproduct]
+
+Mari kita tinjau asal usul rumusnya.
+Kotaknya langsung ke harga dan pembelian.
+Dan sam sekali mengabaikan kolom jumlah.
+
+{% highlight "xlsx" %}
+=SUMPRODUCT(F5:F16;IF(C5:C16="Pepaya";G5:G16;0))
+=SUMPRODUCT(F5:F16;IF(D5:D16="Fulan";G5:G16;0))
+=SUMPRODUCT(F5:F16;IF(E5:E16="Rabu";G5:G16;0))
+{% endhighlight %}
+
+![Lembar Kerja: Rumus Jumlah: Screenshot: SUMPRODUCT][36ss-sumproduct]
+
+Lebih panjang di rumus,
+namun lebih hemat di kolom.
 
 -- -- --
 
 <a name="SUMIFS"></a>
 
-## SUMIFS
+## Penjumlahan SUMIFS
+
+Masih ada cara lain, yaitu dengan meletakkan beberapa IFS sekaligus.
+Ini dapat kita gunakan untuk mencari kriteria.
+Misalnya hasil berikut menggunakan rumus `SUMIFS`:
+
+![Lembar Kerja: Rumus Jumlah: Export: Hasil SUMIFS][36ex-sumifs]
+
+Mulai dari satu kriteria, dua kriteria, dan seterusnya:
+
+{% highlight "xlsx" %}
+=SUMIFS(H5:H16;C5:C16;"=Pepaya")
+=SUMIFS(H5:H16;C5:C16;"=Pepaya";D5:D16;"=Fulan")
+=SUMIFS(H5:H16;C5:C16;"=Pepaya";D5:D16;"=Fulan";E5:E16;"=Rabu")
+{% endhighlight %}
+
+Lalu seperti biasa kita lacak dari mana angka tersebut berasal,
+misalnya untuk dua kriteria, yaitu Pepaya dan Fulan.
+
+![Lembar Kerja: Rumus Jumlah: Screenshot: SUMIFS][36ss-sumifs]
+
+-- -- --
+
+<a name="kriteria"></a>
+
+## Penjumlahan Berdasaran Kriteria
+
+Sekarang kita lihat prakteknya untuk mencari nilai kriteria tertentu
+dengan cara berbeda:
+
+![Lembar Kerja: Rumus Jumlah: Export: Praktek Kriteria][36ex-crit]
+
+Yang tiga pertama menggunakan `SUMPRODUCT` dipadukan dengan `IF`.
+Kita bekerja dengan array.
+
+{% highlight "xlsx" %}
+=SUMPRODUCT(F5:F16;IF(C5:C16=C19;G5:G16;0))
+=SUMPRODUCT(F5:F16;IF(D5:D16=D19;G5:G16;0))
+=SUMPRODUCT(F5:F16;IF(E5:E16=E19;G5:G16;0))
+{% endhighlight %}
+
+Dan yang terakhir adalah dengan `SUMIFS`.
+
+{% highlight "xlsx" %}
+=SUMIFS(H5:H16;C5:C16;"="&C19;D5:D16;"="&D19;E5:E16;"="&E19)
+{% endhighlight %}
+
+Mari kita bandingkan keduanya:
+
+![Lembar Kerja: Rumus Jumlah: Screenshot: Praktek Kriteria][36ss-crit]
+
+`SUMIFS` ini tetap memakai kolom bantuan.
+Sayangnya saya belum berhasil menemukan cara,
+untuk menggabungkan `SUMPRODUCT` dan `IFS`,
+sehingga didapatkan hasil dari beberapa kriteria sekaligus.
+
+Tergantung kebutuhan teman-teman,
+kalau dalam keseharian, saya memakai `SUMPRODUCT`,
+dan juga `SUMIF`, namun tidak menggunakan gabungan keduanya.
+
+-- -- --
+
+<a name="ringkasan"></a>
+
+## Ringkasan Penjumlahan
+
+Sebagai penutup bagian ini maka saya berikan ringkasan.
+
+Bagian atas adalah masukkannya,'
+saya berikan alamat `cell`-nya.
+
+![Lembar Kerja: Rumus Penjumlahan: Screenshot Atas][37ss-formula-atas]
+
+Lalu bagian bawah adalah keluarannya,
+saya berikan rumusnya untuk memudahkan kawan-kawan.
+
+![Lembar Kerja: Rumus Penjumlahan: Screenshot Bawah][37ss-formula-bawah]
+
+Tampilannya memang ramai dan berisik.
+Semoga bermanfaat.
 
 -- -- --
 
 <a name="selanjutnya"></a>
 
 ## Apa Selanjutnya?
+
+Ada yang lebih seru, yaitu `xlookup`, `switch`, `index` dan kawan-kawan.
 
 Lanjut baca yuk.
 [[Lembar Kerja - Rumus Acuan][local-whats-next]].
