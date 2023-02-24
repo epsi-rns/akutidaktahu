@@ -235,6 +235,8 @@ saat orang lain terlelap.
 Makan bubur mulai dari pinggirnya.
 Kita mulai dari yang mudah dulu ya kawan.
 
+Format, Formula, Formulir, semuanya huruf F.
+
 [[Lembar Kerja - Tata Angka][local-whats-next]].
 
 [//]: <> ( -- -- -- links below -- -- -- )

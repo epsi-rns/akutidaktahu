@@ -112,15 +112,130 @@ Kita lihat contoh yang selanjutnya yuccs.
 
 ## Rujukan
 
-Sebetulnya ini acuan juga,
-saya pilih judul yang lain,
-supaya keren. Hehehe.
+Awalnya saya hanya ingin membahas `HLOOKUP`,' lalu bedanya dengan `INDEX`.
+Namum kemudian berkembang ke hal yang lebih luas.
+Karena dalam prakteknya saya memakai kombinasi yang lebih rumit,
+maka saya harus memaksakan diri menjelaskan di sini.
+Supayaketika menemukan lembar kerja yang nyata,
+saya tidak perlu menjelaskan lagi semuanya dari awal.
 
-![Lembar Kerja: Rumus Acuan: Export Rujukan][39ex-formula-rujukan]
+Sebetulnya ini acuan juga, saya pilih judul yang lain, supaya keren.
+Kalau acuan lebih ke lookup, rujukan ini lebih ke referensi.
+Saya harap tidak membuat saya tampak lebih bodoh. Hehehe.
+
+### Contoh Kasus
+
+Misalnya contoh kasus berikut:
+kita dapat mendapatkan hasil yang sama dengan tiga cara yaitu:
+`hlookup`, `index`, dan `xlookup`.
+
+![Lembar Kerja: Rumus Rujukan: Contoh Kasus][39ex-formula-rujukan]
+
+Yang paling membedakan anatar solusi adalah kotaknya.
+Dari situ kita dapat membedakan asal referensi formulanya.
+
+### Sumber Rujukan
+
+Saya biasa memakai pola data bulanan,
+untuk membuat buku besar akuntansi.
+Dari kolom ke kolom bersebelahan berurut,
+dari januari sampai desember,
+sebagai rujukan bagi perhitungan neraca dan rugi laba.
+
+Untuk contoh sekarang kita pakai,
+yang sederhana saja dahulu yaitu belanja.
+
+![Lembar Kerja: Rumus Rujukan: Sumber Source Data][39ss-belanja-source]
+
+Isinya dari januari sampai desember,
+dari kolom `D` sampai `O`.
+namun untuk keperluan screenshot,
+tampilannya saya sembunyikan sebagian.
+
+### HLOOKUP
+
+Hayuks kita lihat hasilnya, dahulu, baru nanti kita lihat cara kerjanya.
+
+![Lembar Kerja: Rumus Rujukan: Export HLOOKUP][39ex-belanja-hlookup]
+
+Nilai Kopi bulan delapan dapat dicari dari:
+
+{% highlight "xlsx" %}
+=HLOOKUP($D$11;$D$3:$O$8;4)
+{% endhighlight %}
+
+Sekarang kita lihat kotaknya lagi,
+cara kerjanya adalah dengan mencari nilai `8`,
+kemudian dicari baris keempat.
+
+![Lembar Kerja: Rumus Rujukan: Screenshot HLOOKUP][39ss-belanja-hlookup]
+
+### INDEX
+
+Saya biasanya memakai `INDEX` karena lebih sederhana.
+kita lihat hasilnya dahulu supaya,
+ada bayangan atas apa yang ingin saya capai.
+
+![Lembar Kerja: Rumus Rujukan: Export INDEX][39ex-belanja-index]
+
+Berikutnyan nilai Kopi bulan tujuh dapat dicari dari:
+
+{% highlight "xlsx" %}
+ =INDEX($D6:$O6;1;$D$20)
+{% endhighlight %}
+
+![Lembar Kerja: Rumus Rujukan: Screenshot INDEX][39ss-belanja-index]
+
+Saya akan memberikan contoh
+yang saya pakai pakai dalam keseharian
+di artikel lain.
+
+### XLOOKUP
+
+Rumus `XLOOKUP` adalah hal baru dei Office365, di Excel yang lama belum ada.
+Di Libreoffice kita mesti memasang ekstensi terlebih dahulu.
+
+* [github.com/goosepirate/lox365](https://github.com/goosepirate/lox365)
+
+Penggunaannya dapat dilihat sebagaimana berikut:
+
+![Lembar Kerja: Rumus Rujukan: Export XLOOKUP][39ex-belanja-xlookup]
+
+Kali ini dapat langsung kita masukkan nama bulannya.
+Nilai Kopi bulan `JUN` dapat dicari dari:
+
+{% highlight "xlsx" %}
+ =XLOOKUP($D$29;$D$4:$O$4;$D6:$O6)
+{% endhighlight %}
+
+Mari kita lacak asal angka yang dihasilkan,
+dengan menjelajahi kotak referensinya.
+
+![Lembar Kerja: Rumus Rujukan: Screenshot XLOOKUP][39ss-belanja-xlookup]
+
+Seperti terlihat di atas, yang dilihat hanyalah bagian nama bulan saja,
+lalu langsung masuk ke baris yang terkait kopi saja.
+
+Cukup efisien, namun saya masih harus memikirkan kompatibilitas,
+keitka saya harus mengirimkan sheet kepada teman2 yang lain.
+Sangat menarik! Kita lihat saja penggunaaannya dalam keseharian,
+dalam beberapa tahun setelah ini.
+
+### Ringkasan
+
+Sebagai ringkasan saya berikan rumus selengkapnya,
+dan juga alamat cell-nya,
+dengan versi lengkap, yang tidak dipotong.
 
 ![Lembar Kerja: Rumus Acuan: Screenshot Lengkap][39ss-formula-lengkap]
 
+Karena saya rasa hurufnya masih terlalu kecil2 untuk dibaca,
+sebaiknya tetap saya berikan versi yang dipotong.
+
 ![Lembar Kerja: Rumus Acuan: Screenshot Potong][39ss-formula-potong]
+
+Sekian untuk formula.
+Setelah format dan formula, kita akan bahas form.
 
 -- -- --
 
@@ -128,6 +243,7 @@ supaya keren. Hehehe.
 
 ## Apa Selanjutnya?
 
+Mari kita tunggu artikelnya.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
@@ -143,3 +259,15 @@ supaya keren. Hehehe.
 [39ex-formula-rujukan]: {% postimage %}/lembarkerja/2018/08/39ex-formula-rujukan.png
 [39ss-formula-lengkap]: {% postimage %}/lembarkerja/2018/08/39ss-formula-rujukan-lengkap.png
 [39ss-formula-potong]:  {% postimage %}/lembarkerja/2018/08/39ss-formula-rujukan-potong.png
+
+[39ex-belanja-source]:  {% postimage %}/lembarkerja/2018/08/39ex-belanja-source.png
+[39ss-belanja-source]:  {% postimage %}/lembarkerja/2018/08/39ss-belanja-source.png
+
+[39ex-belanja-hlookup]: {% postimage %}/lembarkerja/2018/08/39ex-belanja-hlookup.png
+[39ss-belanja-hlookup]: {% postimage %}/lembarkerja/2018/08/39ss-belanja-hlookup.png
+
+[39ex-belanja-index]:   {% postimage %}/lembarkerja/2018/08/39ex-belanja-index.png
+[39ss-belanja-index]:   {% postimage %}/lembarkerja/2018/08/39ss-belanja-index.png
+
+[39ex-belanja-xlookup]: {% postimage %}/lembarkerja/2018/08/39ex-belanja-xlookup.png
+[39ss-belanja-xlookup]: {% postimage %}/lembarkerja/2018/08/39ss-belanja-xlookup.png
