@@ -55,6 +55,12 @@ supaya teman-teman bisa copy-paste.
 
 * [Berkas Excel: 02-format.xlsx][source-format-xlsx]
 
+### Pesan Pribadi
+
+Kalau ada yang bertanya, mengapa artikel Excel/Calc?
+
+Jawaban saya: _gw bisanya cuman itu_.
+
 -- -- --
 
 <a name="ukuran"></a>
