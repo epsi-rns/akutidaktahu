@@ -7,7 +7,7 @@ tags      : [calc]
 keywords  : [spreadsheet]
 
 toc       : "toc/lembarkerja.njk"
-opengraphimage: "assets/posts/lembarkerja/2018/08/31ss-formula-angka.png"
+opengraphimage: "assets/posts/lembarkerja/2018/08/36ex-formula-jumlah.png"
 
 excerpt   : Menetapkan rumus, angka, case, teks, tangal, terbilang, jumlah. acuan
 ---
