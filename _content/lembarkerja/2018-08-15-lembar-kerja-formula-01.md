@@ -44,6 +44,19 @@ supaya teman-teman bisa copy-paste.
 
 * [Berkas Excel: 03-formula.xlsx][source-format-xlsx]
 
+### Pesan Pribadi
+
+> Be Baceprot.
+
+Jadilah seperti VoB,
+semua jenis musik dijelajahi.
+
+_Dijelajahi sampai dalam._
+_Dan tidak dipaksakan pamer juga._
+
+Tahu kapan bising itu harus berisik.
+Tahu kapan harus bergantian.
+
 -- -- --
 
 <a name="angka"></a>

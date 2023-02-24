@@ -55,6 +55,22 @@ supaya teman-teman bisa copy-paste.
 
 * [Berkas Excel: 03-formula.xlsx][source-format-xlsx]
 
+### Excel Engineer
+
+> Be Excellent, be an excel engineer!
+
+Kebutuhan orang2 yang mampu membuat form sendiri,
+membuat pemodelan akunting, maupun model ekonomi,
+semakin nyata di dunia pekerjaan.
+Laporan yang bagus dapat menjadi sampah,
+kalau ditampilkan secara amatiran.
+
+Kita perlu banyak admin,
+yang bersedia menjadi _excel engineer_.
+Menjelajahi sampai dalam.
+namun memakai secara tepat guna.
+Kemudian menyuarakan ilmu yang didapatkannya.
+
 -- -- --
 
 <a name="SUM"></a>

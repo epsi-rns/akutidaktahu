@@ -23,7 +23,7 @@ Yang pertama mencari selisih tanggal,
 untuk mencari penyusutan.
 
 Yang kedua mencari nilai terbilang,
-yang sayapakai untuk invoice.
+yang saya pakai untuk invoice.
 
 ### Daftar Isi
 
