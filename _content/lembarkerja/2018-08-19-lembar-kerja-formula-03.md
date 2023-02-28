@@ -9,14 +9,14 @@ keywords  : [spreadsheet]
 toc       : "toc/lembarkerja.njk"
 opengraphimage: "assets/posts/lembarkerja/2018/08/36ex-formula-jumlah.png"
 
-excerpt   : Menetapkan rumus, angka, case, teks, tangal, terbilang, jumlah. acuan
+excerpt   : Menetapkan rumus, angka, case, teks, tangal, terbilang, jumlah, acuan.
 ---
 
 <a name="prakata"></a>
 
 ## Prakata
 
-> Menetapkan rumus, angka, case, teks, tangal, terbilang, jumlah. acuan
+> Menetapkan rumus: angka, case, teks, tangal, terbilang, jumlah, dan acuan.
 
 Rumus `SUM` dan keluarganya adalah,
 formula yang saya pakai juga di keseharian,

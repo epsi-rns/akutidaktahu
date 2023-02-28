@@ -9,14 +9,14 @@ keywords  : [spreadsheet]
 toc       : "toc/lembarkerja.njk"
 opengraphimage: "assets/posts/lembarkerja/2018/08/31ss-formula-angka.png"
 
-excerpt   : Menetapkan rumus, angka, case, teks, tangal, terbilang, jumlah. acuan
+excerpt   : Menetapkan rumus, angka, case, teks, tangal, terbilang, jumlah, acuan.
 ---
 
 <a name="prakata"></a>
 
 ## Prakata
 
-> Menetapkan rumus, angka, case, teks, tangal, terbilang, jumlah. acuan
+> Menetapkan rumus: angka, case, teks, tangal, terbilang, jumlah, dan acuan.
 
 Sebetulnya ini sudah sangat banyak dibahas,
 dan dapat dipelajari sendiri.

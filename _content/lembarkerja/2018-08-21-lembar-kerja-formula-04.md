@@ -9,14 +9,14 @@ keywords  : [spreadsheet]
 toc       : "toc/lembarkerja.njk"
 opengraphimage: "assets/posts/lembarkerja/2018/08/39ex-belanja-xlookup.png"
 
-excerpt   : Menetapkan rumus, angka, case, teks, tangal, terbilang, jumlah. acuan
+excerpt   : Menetapkan rumus, angka, case, teks, tangal, terbilang, jumlah, acuan.
 ---
 
 <a name="prakata"></a>
 
 ## Prakata
 
-> Menetapkan rumus, angka, case, teks, tangal, terbilang, jumlah. acuan
+> Menetapkan rumus: angka, case, teks, tangal, terbilang, jumlah, dan acuan.
 
 Dalam pemakaian lembar kerja sehari-hari,
 kita sering harus mengacu pada cell tertentu,
