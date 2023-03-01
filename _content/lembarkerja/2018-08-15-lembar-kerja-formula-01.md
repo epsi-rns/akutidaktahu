@@ -85,6 +85,16 @@ Akan lebih mudah untuk melihat hasilnya dengan alamat cell masing-masing.
 
 ![Lembar Kerja: Rumus Dasar: Screenshot: Angka][31ss-formula-angka]
 
+Untuk penggemar LibreOffice,
+saya berikan juga contoh lain dalam berkas `.ods`.
+Berikut ini contoh penggunaan di kehidupan nyata.
+
+![Contoh di ODS][31-case]
+
+Yang berkasnya dapat diunduh di:
+
+* [Berkas ODS: 03-case.xlsx][31-case]
+
 -- -- --
 
 <a name="case"></a>
@@ -144,6 +154,7 @@ Lanjut baca yuk.
 [local-whats-next]:     /lembarkerja/2018/08/17/lembar-kerja-formula-02.html
 
 [source-format-xlsx]:   {% postimage %}/lembarkerja/2018/08/03-formula.xlsx
+[source-case-ods]:      {% postimage %}/lembarkerja/2018/08/03-case.ods
 
 [31ex-formula-angka]:   {% postimage %}/lembarkerja/2018/08/31ex-formula-angka.png
 [31ss-formula-angka]:   {% postimage %}/lembarkerja/2018/08/31ss-formula-angka.png
@@ -153,3 +164,6 @@ Lanjut baca yuk.
 
 [33ex-formula-teks]:    {% postimage %}/lembarkerja/2018/08/33ex-formula-teks.png
 [33ss-formula-teks]:    {% postimage %}/lembarkerja/2018/08/33ss-formula-teks.png
+
+
+[31-case]:    {% postimage %}/lembarkerja/2018/08/31-case.png

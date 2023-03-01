@@ -237,15 +237,18 @@ sebaiknya tetap saya berikan versi yang dipotong.
 Sekian untuk formula.
 Setelah format dan formula, kita akan bahas form.
 
--- -- --
-
-<a name="selanjutnya"></a>
-
 ## Apa Selanjutnya?
 
-Mari kita tunggu artikelnya.
+Sebelum melaju ke yang lebih lanjut.
+Mari menggabungkan ilmu-ilmu yang kemarin lalu,
+
+Praktek di dunia nyata yuuks.
+
+[[Lembar Kerja - Praktek Tabel][local-whats-next]].
 
 [//]: <> ( -- -- -- links below -- -- -- )
+
+[local-whats-next]:     /lembarkerja/2018/09/03/lembar-kerja-tabel-01.html
 
 [source-format-xlsx]:   {% postimage %}/lembarkerja/2018/08/03-formula.xlsx
 
