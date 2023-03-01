@@ -63,15 +63,48 @@ supaya teman-teman bisa copy-paste.
 
 ## Pengeluaran
 
-> Sumber: ?
+#### Sumber
+
+Tabel di bawah ini adalah tabel yang umum,
+keterangan lebih jelas dapat dilihat di sini:
+
+* [Sumber Referensi][sumber-tabel]
+
+[sumber-tabel]: https://www.akuntansilengkap.com/keuangan/bukti-kas-masuk/
+
+#### Contoh Hasil
+
+Tujuannya adalah dari satu sheet lembar kerja,
+kita dapat menulis berbagai macam pengeluaran.
+
+Misalnya di bawah ini:
 
 ![Lembar Kerja: Tabel Pengeluaran: ][41-tabel-bk01]
 
+Lalu lanjut dengan pola yang sama,
+dapat kita lanjutkan oengeluaran dari hari ke hari.
+
 ![Lembar Kerja: Tabel Pengeluaran: ][41-tabel-bk02]
+
+Namun di sheet yang sama,
+kita juga dapat menyelipkan pola yang sama sekali berbeda,
+misalnya alat bantu perhitungan di bawah ini:
 
 ![Lembar Kerja: Tabel Pengeluaran: ][41-tabel-bk03]
 
+#### Unit
+
+Kalau mau dilihat, dari kolom ke kolom,
+sudah saya bikinkan ukuran baku.
+
+Perhatikan merge cell,
+pada angka terbilang.
+
 ![Lembar Kerja: Tabel Pengeluaran: ][41-tabel-bk04]
+
+Sehingga dapat dicetak dalam ukura A4.
+Atau biasanya A4 yang saya potong
+dengan cutter menjadi dua lembar.
 
 ![Lembar Kerja: Tabel Pengeluaran: ][41-tabel-scaling]
 
@@ -80,6 +113,9 @@ supaya teman-teman bisa copy-paste.
 <a name="pemasukan"></a>
 
 ## Pemasukan
+
+Kalau mau lebih jelas lagi dapat melihat lembar kerja pemasukan,
+dengan contoh-contoh kasus yang lebih beragam.
 
 ![Lembar Kerja: Tabel Pemasukan: ][42-tabel-bm01]
 
