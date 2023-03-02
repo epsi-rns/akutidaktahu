@@ -1,0 +1,130 @@
+---
+layout    : post
+title     : Lembar Kerja - Tabel Isian
+date      : 2018-09-05 09:17:35
+slug      : lembar-kerja-tabel-02
+tags      : [calc]
+keywords  : [spreadsheet]
+
+toc       : "toc/lembarkerja.njk"
+opengraphimage: "assets/posts/lembarkerja/2018/08/39ex-belanja-xlookup.png"
+
+excerpt   : Praktek merancang kolom tabel dengan merge cell
+---
+
+<a name="prakata"></a>
+
+## Prakata
+
+> Praktek merancang kolom tabel dengan merge cell. 
+
+_Hari ini. Masih tanpa warna._
+
+Kita masih harus berpraktek.
+Setelah pembukuan bukti kas keluar dan masuk dari bank.
+Kita lanjut ke pencatatan mutasi keuanganan bulanan untuk tiap-tiap akun.
+
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* [Mutasi](#mutasi)
+
+* [Penutup](#penutup)
+
+### Unduh Berkas
+
+> Dimudahkan, supaya siap.
+
+Lembar kerja spreadsheet tersedia,
+supaya teman-teman bisa copy-paste.
+
+* [Berkas Excel: 04-tabel.xlsx][source-format-xlsx]
+
+-- -- --
+
+<a name="mutasi"></a>
+
+## Mutasi
+
+### Gambaran Besar
+
+> Kalau tidak ada di ringkasan, berarti tidak ada di ordner.
+
+_Memang lembar kerjanya besar, panjang dan lebar_
+
+Saya sudah terbiasa membedakan hasil cetak,
+dengan table isian data entry.
+Hal ini karena saya merasa perlu membikin ringkasan summary,
+saat mengelola hardcopy yang tebal di dalam ordner.
+
+Bagian ringkasan ini saya cetak,
+biasanya saya sampai berlembar-lembar,
+karena transaksinya cukup banyak.
+Kemudian saya taruh di bagian depan ordner,
+jadi orang langsung tahu apa saja isi ordner tersebut.
+
+![Lembar Kerja: Mutasi: Tabel Isian][43-tabel-isian]
+
+### Pengaturan
+
+Berhubung lembar kerja saya panjang saya perlu melakukan scaling.
+
+![Lembar Kerja: Mutasi: ][43-tabel-scaling]
+
+Hasil cetak di bawah 70%, hurufnya terlalu kechil untuk dilihat.
+Maka saya akali dengan margin.
+
+![Lembar Kerja: Mutasi: ][43-tabel-margins]
+
+### Ukuran Unit
+
+![Lembar Kerja: Mutasi: Freeze][43-tabel-unit-freeze]
+
+![Lembar Kerja: Mutasi: Sempit][43-tabel-unit-narrow]
+
+![Lembar Kerja: Mutasi: Lebar][43-tabel-unit-wide]
+
+### Zoom
+
+
+![Lembar Kerja: Mutasi: ][43-tabel-zoom-in]
+
+![Lembar Kerja: Mutasi: ][43-tabel-zoom-out]
+
+## Cetak
+
+> Summary
+
+![Lembar Kerja: Mutasi: Cetak: Export][44-tabel-export]
+
+![Lembar Kerja: Mutasi: Cetak: Screenshot][44-tabel-screen]
+
+
+-- -- --
+
+<a name="selanjutnya"></a>
+
+## Apa Selanjutnya?
+
+Form cantique.
+
+Mari kita tunggu artikelnya.
+
+[//]: <> ( -- -- -- links below -- -- -- )
+
+[source-format-xlsx]:   {% postimage %}/lembarkerja/2018/09/04-table.xlsx
+
+[43-tabel-isian]:      {% postimage %}/lembarkerja/2018/09/43-tabel-isian.png
+[43-tabel-margins]:     {% postimage %}/lembarkerja/2018/09/43-tabel-margins.png
+[43-tabel-scaling]:     {% postimage %}/lembarkerja/2018/09/43-tabel-scaling.png
+
+[43-tabel-unit-freeze]: {% postimage %}/lembarkerja/2018/09/43-tabel-unit-freeze.png
+[43-tabel-unit-narrow]: {% postimage %}/lembarkerja/2018/09/43-tabel-unit-narrow.png
+[43-tabel-unit-wide]:   {% postimage %}/lembarkerja/2018/09/43-tabel-unit-wide.png
+
+[43-tabel-zoom-in]:     {% postimage %}/lembarkerja/2018/09/43-tabel-zoom-in.png
+[43-tabel-zoom-out]:    {% postimage %}/lembarkerja/2018/09/43-tabel-zoom-out.png
+
+[44-tabel-export]:      {% postimage %}/lembarkerja/2018/09/44-tabel-export.png
+[44-tabel-screen]:      {% postimage %}/lembarkerja/2018/09/44-tabel-screen.png

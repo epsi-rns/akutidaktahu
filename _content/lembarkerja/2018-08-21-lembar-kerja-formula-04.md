@@ -244,7 +244,7 @@ Mari menggabungkan ilmu-ilmu yang kemarin lalu,
 
 Praktek di dunia nyata yuuks.
 
-[[Lembar Kerja - Praktek Tabel][local-whats-next]].
+[[Lembar Kerja - Rancang Kolom][local-whats-next]].
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
