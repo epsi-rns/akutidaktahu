@@ -7,7 +7,7 @@ tags      : [calc]
 keywords  : [spreadsheet]
 
 toc       : "toc/lembarkerja.njk"
-opengraphimage: "assets/posts/lembarkerja/2018/08/39ex-belanja-xlookup.png"
+opengraphimage: "assets/posts/lembarkerja/2018/09/42-tabel-bmex02.png"
 
 excerpt   : Praktek merancang kolom tabel dengan merge cell
 ---
