@@ -57,8 +57,20 @@ Salah satu contoh form yang saya bikin adalah rincian invoice.
 
 ![Lembar Kerja: Contoh Form: Invoice][55ss-invoice]
 
+### Penjelasan
+
 Penjelasan ada di artikel terpisah.
 Link artikel, akan diberikan kemudian.
+
+Artikel terkait, walaupun tidak detail dapat dibaca di sini:
+* [Berkas Pajak - Bagan Akun][local-bagan-akun]
+
+[local-bagan-akun]:     /pajak/2018/02/09/berkas-pajak-bagan-akun.html
+
+Source spreadsheet dapat diunduh di:
+* [contoh-kasus-transaksi.xlsx][Teliti-2018-case]
+
+[Teliti-2018-case]:     {% postimage %}/pajak/2018/05/Teliti-2018-contoh-kasus-transaksi.xlsx
 
 -- -- --
 
@@ -80,6 +92,8 @@ yaitu menampilkan seperlunya saja.
 Perhatikan, formula di kedua gambar di atas berbeda,
 walaupun di tampilan sama.
 
+### Penjelasan
+
 Penjelasan ada di artikel terpisah.
 Link artikel, akan diberikan kemudian.
 
@@ -99,6 +113,8 @@ dapat kita bikin rekonsiliasi PPn-nya.
 
 ![Lembar Kerja: Contoh Form: PPn Rekonsiliasi][57ss-ppn-form]
 
+### Penjelasan
+
 Penjelasan ada di artikel terpisah.
 Link artikel, akan diberikan kemudian.
 
@@ -108,10 +124,14 @@ Link artikel, akan diberikan kemudian.
 
 ## Apa Selanjutnya?
 
-Tabel Transpose.
+Laporan, Tabel Ringkas dan Tabel Transpose.
 Baca yoook.
 
+[[Lembar Kerja - Contoh Laporan][local-whats-next]].
+
 [//]: <> ( -- -- -- links below -- -- -- )
+
+[local-whats-next]:     /lembarkerja/2018/09/17/lembar-kerja-report.html
 
 [55ss-invoice]:         {% postimage %}/lembarkerja/2018/09/55ss-invoice.png
 [56ss-pph21-long]:      {% postimage %}/lembarkerja/2018/09/56ss-pph21-long.png
