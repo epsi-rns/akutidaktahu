@@ -127,7 +127,9 @@ jadi orang langsung tahu apa saja isi ordner tersebut.
 ![Lembar Kerja: Mutasi: Cetak: Export][44-tabel-export]
 
 Kita juga dapat langsung melihat tangkapan layar,
-khusus untuk rincian, suapay ada bayangan hasil cetaknya seperi apa.
+khusus untuk rincian, suapay ada bayangan hasil cetaknya seperti apa.
+Semua garis panduan saya hilamngkan, karena setelah data entry,
+sudah tidak diperlukan lagi.
 
 ![Lembar Kerja: Mutasi: Cetak: Screenshot][44-tabel-screen]
 
