@@ -83,7 +83,7 @@ Saya akan membahas akuntansi di artikel berseri tersendiri.
 
 ### Unduh Berkas
 
-> Siap kerja, supaya berkinerja.
+> Siap kerja, supaya lancar, berkinerja.
 
 Lembar kerja spreadsheet tersedia,
 supaya teman-teman bisa copy-paste.
@@ -114,18 +114,18 @@ betapa sulitnya membaca laporan ini di layar monitor yang kecil.
 Cara jitu yang saya lakukan, adalah tidak menampilkan semua datanya.
 Misalnya dalam contoh di bawah.
 
-![Lembar Kerja: Faktur: ][52ex-faktur-ringkas]
+![Lembar Kerja: Faktur: Ringkas][52ex-faktur-ringkas]
 
 Untuk dapat menampilkan dat di atas-pun,
 ternyata saya harus melakukan penyesuaian _scaling_.
 
-![Lembar Kerja: Faktur: ][52ss-dialog-ringkas]
+![Lembar Kerja: Faktur: Dialog][52ss-dialog-ringkas]
 
 Supaya tetap sinkron datanya, secara opsional,
 tetaplah masukkan nilai dalam bentuk fromula,
 yang merupakan referensi alamat nilai asalnya.
 
-![Lembar Kerja: Faktur: ][52ss-faktur-ringkas]
+![Lembar Kerja: Faktur: Ringkas][52ss-faktur-ringkas]
 
 Sebetulnya untuk faktur pajak yang nilainya
 sudah tetap tidak perlu memakai formula.
@@ -141,7 +141,7 @@ Kita mulai dari membuat model form-nya.
 Ini tidak mudah, karena saya harus berulang kali membuat model.
 Contohnya dalam faktur ini, yang keempat baru cocok.
 
-![Lembar Kerja: Faktur: ][53ss-faktur-kosong]
+![Lembar Kerja: Faktur: Kosong][53ss-faktur-kosong]
 
 -- -- --
 
@@ -155,11 +155,12 @@ Uji cobakan untuk beberapa data sekaligus.
 Dalam hal faktur ini, ternyata dalam satu A4,
 bisa masuk lima tabel form dari faktur.
 
-![Lembar Kerja: Faktur: ][54ss-faktur-hasil]
+![Lembar Kerja: Faktur: Hasil][54ss-faktur-hasil]
 
 Hasil akhirnya, seperti ini.
+Dapat diolah sendiri lebih lanjut.
 
-![Lembar Kerja: Faktur: ][54ex-faktur-hasil]
+![Lembar Kerja: Faktur: Hasil][54ex-faktur-hasil]
 
 Dapat di-export ke PDF, atau berkas PNG,
 lalu langsung dikirim lewat whatsapp.
@@ -193,10 +194,13 @@ yang saya tuliskan di artikel saya yang lain:
 ## Apa Selanjutnya?
 
 Masih form cantique.
+Lanjut yoook, kita lohat contoh2 penerapan yang lain.
 
-Mari kita tunggu artikelnya.
+[[Lembar Kerja - Contoh Form][local-whats-next]].
 
 [//]: <> ( -- -- -- links below -- -- -- )
+
+[local-whats-next]:     /lembarkerja/2018/09/15/lembar-kerja-form-02.html
 
 [source-format-xlsx]:   {% postimage %}/lembarkerja/2018/09/05-faktur.xlsx
 
