@@ -24,6 +24,10 @@ Kita masih harus berpraktek.
 Setelah pembukuan bukti kas keluar dan masuk dari bank.
 Kita lanjut ke pencatatan mutasi keuanganan bulanan untuk tiap-tiap akun.
 
+_ini bukan artikel akuntansi_
+
+Saya akan membahas akuntansi di artikel  berseri tersendiri.
+
 ### Daftar Isi
 
 * [Prakata](#prakata): Daftar Isi

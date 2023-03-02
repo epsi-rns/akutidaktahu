@@ -113,6 +113,15 @@ biarkan saja orang lain membaca panduan cara kerja,
 yang sudah pernah saya lewati.
 Selanjutnya biarkan orang lain ber-improvisasi sendiri.
 
+Yang penting kantor lancar.
+Mau teman, atasan, bawahan, dan dalaman sama saja.
+
+Kalau apa-apa-nya di kantor lancar,
+karena hal-hal mendasar sudah paham.
+Kita bisa sama-sama maju membahas hal-hal yang spesialis.
+Dari sini kesempatan perusahaan,
+untuk ber-profit akan lebih besar.
+
 ### Salah Kaprah
 
 Artikel ini bercerita opini mengenai _worksheet_,

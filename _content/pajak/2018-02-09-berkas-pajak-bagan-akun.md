@@ -157,7 +157,7 @@ Dibukukan secara internal dengan nomor `BCA-03-18-003`.
 ### Urutan Kejadian
 
 Pembukuan internal yang dibawah bernomor `BCA-03-18-003`,
-sedangkanyang di atas justru lebih `BCA-03-18-005`.
+sedangkan yang di atas justru lebih `BCA-03-18-005`.
 Karena `PT. Simetri Sama Sisi` membayar setelah pekerjaan jadi.
 Yaitu setelah `PT. Teliti Telaten Tekun` membayar `PT. Tiga Jam Saja`.
 
