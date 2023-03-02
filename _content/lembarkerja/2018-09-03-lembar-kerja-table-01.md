@@ -236,7 +236,6 @@ untuk tiap-tiap akun.
 
 [local-whats-next]:     /lembarkerja/2018/09/05/lembar-kerja-tabel-02.html
 
-
 [source-format-xlsx]:   {% postimage %}/lembarkerja/2018/09/04-table.xlsx
 
 [41-tabel-ttd]:         {% postimage %}/lembarkerja/2018/09/41-tabel-ttd.png

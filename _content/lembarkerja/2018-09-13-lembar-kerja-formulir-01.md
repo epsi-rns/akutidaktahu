@@ -2,7 +2,7 @@
 layout    : post
 title     : Lembar Kerja - Rancang Form
 date      : 2018-09-13 09:17:35
-slug      : lembar-kerja-formulir-01
+slug      : lembar-kerja-form-01
 tags      : [calc]
 keywords  : [spreadsheet]
 
@@ -37,7 +37,7 @@ Ada beberapa metode untuk melaporkan tabel panjang.
 
 1. Diperkecil (scaling).
    Dicetak saja apa adanya,
-   sampai hurufnya tidak kelihatan.
+   sampai hurufnya tidak kelihatan saat dibaca.
 
 2. Diringkas.
    Ambil seperlunya.
@@ -65,7 +65,7 @@ saya tidak ingin menghilangkan rincian detailnya.
 
 _ini bukan artikel pajak atau akuntansi_
 
-Saya akan membahas akuntansi di artikel  berseri tersendiri.
+Saya akan membahas akuntansi di artikel berseri tersendiri.
 
 ### Daftar Isi
 
@@ -75,9 +75,9 @@ Saya akan membahas akuntansi di artikel  berseri tersendiri.
 
 * [Ringkas](#ringkas)
 
-* [Kosong](#Kosong)
-
 * [Hasil](#Hasil)
+
+* [Mengisi Form](#otomasi)
 
 * [Penutup](#penutup)
 
@@ -96,9 +96,14 @@ supaya teman-teman bisa copy-paste.
 
 ## Tabel Panjang
 
-![Lembar Kerja: Faktur: Mentah][51ex-faktur-mentah]
+Kita lihat contohnya,
+yaitu data mentah pajak,
+yang diambil dari ETaxInvoice.
 
 ![Lembar Kerja: Faktur: Mentah][51ss-faktur-mentah]
+
+Sekilas saja, kita dapat membayangkan,
+betapa sulitnya membaca laporan ini di layar monitor yang kecil.
 
 -- -- --
 
@@ -106,11 +111,24 @@ supaya teman-teman bisa copy-paste.
 
 ## Ringkas
 
+Cara jitu yang saya lakukan, adalah tidak menampilkan semua datanya.
+Misalnya dalam contoh di bawah.
+
 ![Lembar Kerja: Faktur: ][52ex-faktur-ringkas]
+
+Untuk dapat menampilkan dat di atas-pun,
+ternyata saya harus melakukan penyesuaian _scaling_.
 
 ![Lembar Kerja: Faktur: ][52ss-dialog-ringkas]
 
+Supaya tetap sinkron datanya, secara opsional,
+tetaplah masukkan nilai dalam bentuk fromula,
+yang merupakan referensi alamat nilai asalnya.
+
 ![Lembar Kerja: Faktur: ][52ss-faktur-ringkas]
+
+Sebetulnya untuk faktur pajak yang nilainya
+sudah tetap tidak perlu memakai formula.
 
 -- -- --
 
@@ -118,7 +136,10 @@ supaya teman-teman bisa copy-paste.
 
 ## Kosong
 
-![Lembar Kerja: Faktur: ][53ex-faktur-kosong]
+Cara lain adalah dengan menggunakan form.
+Kita mulai dari membuat model form-nya.
+Ini tidak mudah, karena saya harus berulang kali membuat model.
+Contohnya dalam faktur ini, yang keempat baru cocok.
 
 ![Lembar Kerja: Faktur: ][53ss-faktur-kosong]
 
@@ -128,9 +149,42 @@ supaya teman-teman bisa copy-paste.
 
 ## Hasil
 
-![Lembar Kerja: Faktur: ][54ex-faktur-hasil]
+> Test duluu
+
+Uji cobakan untuk beberapa data sekaligus.
+Dalam hal faktur ini, ternyata dalam satu A4,
+bisa masuk lima tabel form dari faktur.
 
 ![Lembar Kerja: Faktur: ][54ss-faktur-hasil]
+
+Hasil akhirnya, seperti ini.
+
+![Lembar Kerja: Faktur: ][54ex-faktur-hasil]
+
+Dapat di-export ke PDF, atau berkas PNG,
+lalu langsung dikirim lewat whatsapp.
+
+Atau cetak, dan masukkan di ordner,
+sebagai bagian dari pembukuan berkas pajak.
+
+-- -- --
+
+<a name="otomasi"></a>
+
+## Mengisi Form
+
+Lalu bagaimana kalau datanya sudah banyak,
+khan repot memindahkan satu per satu?
+
+Memindahkan data yang banyak ini,
+dapat memakai script atau makro,
+yang saya tuliskan di artikel saya yang lain:
+
+* [LibreOffice Macro - Transform Field][transform-field]
+* [openpyxl - Transform Field][translate-field]
+
+[transform-field]: https://epsi.bitbucket.io/automation/2022/09/23/python-libreoffice-transform-field/
+[translate-field]: https://epsi.bitbucket.io/automation/2022/09/13/python-excel-translate-field/
 
 -- -- --
 
@@ -138,7 +192,7 @@ supaya teman-teman bisa copy-paste.
 
 ## Apa Selanjutnya?
 
-Form cantique.
+Masih form cantique.
 
 Mari kita tunggu artikelnya.
 

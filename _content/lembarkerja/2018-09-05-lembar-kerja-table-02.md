@@ -147,14 +147,17 @@ Namun ini tergantung selera masing-masing.
 ## Apa Selanjutnya?
 
 Form cantique.
+Mari kita baca artikelnya.
 
-Mari kita tunggu artikelnya.
+[[Lembar Kerja - Rancang Form][local-whats-next]].
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
+[local-whats-next]:     /lembarkerja/2018/09/13/lembar-kerja-form-01.html
+
 [source-format-xlsx]:   {% postimage %}/lembarkerja/2018/09/04-table.xlsx
 
-[43-tabel-isian]:      {% postimage %}/lembarkerja/2018/09/43-tabel-isian.png
+[43-tabel-isian]:       {% postimage %}/lembarkerja/2018/09/43-tabel-isian.png
 [43-tabel-margins]:     {% postimage %}/lembarkerja/2018/09/43-tabel-margins.png
 [43-tabel-scaling]:     {% postimage %}/lembarkerja/2018/09/43-tabel-scaling.png
 
