@@ -113,6 +113,11 @@ dengan table isian data entry.
 Hal ini karena saya merasa perlu membikin ringkasan summary,
 saat mengelola hardcopy yang tebal di dalam ordner.
 
+Cara membikinnya juga mudah,
+cukup gandakan saja berkas data isian,
+lalu copy paste dari format,
+yang telah dipersiapkan terlebih dahulu.
+
 Bagian ringkasan ini saya cetak,
 biasanya saya sampai berlembar-lembar,
 karena transaksinya cukup banyak.
