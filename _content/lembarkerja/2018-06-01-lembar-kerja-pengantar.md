@@ -103,6 +103,16 @@ sesekali turunlah ke bawah supaya dapat _feel_-nya.
 Krean yang dirasakan admin,
 lebih dalam dari yang sekedar dikerjakan admin.
 
+### Alasan Sebenarnya
+
+> Mengapa harus saya tulis?
+
+Saya menulis supaya saya dapat mengerjakan hal lain.
+Ketika harus mendelegasikan segala sesuatunya,
+biarkan saja orang lain membaca panduan cara kerja,
+yang sudah pernah saya lewati.
+Selanjutnya biarkan orang lain ber-improvisasi sendiri.
+
 ### Salah Kaprah
 
 Artikel ini bercerita opini mengenai _worksheet_,

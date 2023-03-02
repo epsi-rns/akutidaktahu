@@ -53,18 +53,13 @@ supaya teman-teman bisa copy-paste.
 
 _Memang lembar kerjanya besar, panjang dan lebar_
 
-Saya sudah terbiasa membedakan hasil cetak,
-dengan table isian data entry.
-Hal ini karena saya merasa perlu membikin ringkasan summary,
-saat mengelola hardcopy yang tebal di dalam ordner.
-
-Bagian ringkasan ini saya cetak,
-biasanya saya sampai berlembar-lembar,
-karena transaksinya cukup banyak.
-Kemudian saya taruh di bagian depan ordner,
-jadi orang langsung tahu apa saja isi ordner tersebut.
+Mari kita lihat contoh kasusnya terlebih dahulu.
 
 ![Lembar Kerja: Mutasi: Tabel Isian][43-tabel-isian]
+
+Di sini kita dapat melihat ada rincian tabel,
+di dalam tabel yang besar.
+Untuk itu kita perlu melakukan rincian kolom.
 
 ### Pengaturan
 
@@ -79,27 +74,60 @@ Maka saya akali dengan margin.
 
 ### Ukuran Unit
 
-![Lembar Kerja: Mutasi: Freeze][43-tabel-unit-freeze]
-
-![Lembar Kerja: Mutasi: Sempit][43-tabel-unit-narrow]
+Secara garis besar,
+ukuran unit yang saya berikan adalah seperti ini.
+Karena lebar, maka hurufnya terlalu kecil.
 
 ![Lembar Kerja: Mutasi: Lebar][43-tabel-unit-wide]
 
+Marikita besarkan tampilannya.
+Secara khusus, ukuran untuk rincian ada sendiri:
+
+![Lembar Kerja: Mutasi: Sempit][43-tabel-unit-narrow]
+
+Sementara lainnya juga sudah saya siapkan.
+
+![Lembar Kerja: Mutasi: Freeze][43-tabel-unit-freeze]
+
 ### Zoom
 
+Kalau mau di-zoom-out supaya tampil seluruh alamat cell,
+Maka hasilnya seperti ini.
 
-![Lembar Kerja: Mutasi: ][43-tabel-zoom-in]
+![Lembar Kerja: Mutasi: Zoom Out][43-tabel-zoom-out]
 
-![Lembar Kerja: Mutasi: ][43-tabel-zoom-out]
+Supaya lebih jelas, saya berikan tampilan khusus rincian,
+dilengkapi dengan grid, supaya jelas mana rata kiri,
+dan mana rata kanan.
+
+![Lembar Kerja: Mutasi: Zoom In][43-tabel-zoom-in]
+
+Ya inilah, pekerjaan saya sehari-hari seorang admin.
 
 ## Cetak
 
 > Summary
 
+Saya sudah terbiasa membedakan hasil cetak,
+dengan table isian data entry.
+Hal ini karena saya merasa perlu membikin ringkasan summary,
+saat mengelola hardcopy yang tebal di dalam ordner.
+
+Bagian ringkasan ini saya cetak,
+biasanya saya sampai berlembar-lembar,
+karena transaksinya cukup banyak.
+Kemudian saya taruh di bagian depan ordner,
+jadi orang langsung tahu apa saja isi ordner tersebut.
+
 ![Lembar Kerja: Mutasi: Cetak: Export][44-tabel-export]
+
+Kita juga dapat langsung melihat tangkapan layar,
+khusus untuk rincian, suapay ada bayangan hasil cetaknya seperi apa.
 
 ![Lembar Kerja: Mutasi: Cetak: Screenshot][44-tabel-screen]
 
+Cukup menarique sebetulnya.
+Namun ini tergantung selera masing-masing.
 
 -- -- --
 
