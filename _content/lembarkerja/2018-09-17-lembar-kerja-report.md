@@ -85,6 +85,16 @@ Kita tampilkan saja seperlunya seperti tampil di gambar berikut:
 
 ![Lembar Kerja: Penyusutan: ][58-penyusutan-laporan]
 
+Berikutnya dapat kita bagi empat bagian:
+* Kwartal pertama : Jan-Mar
+* Kwartal kedua   : Apr-Jun
+* Kwartal ketiga  : Jul-Sep
+* Kwartal keempat : Okt-Nov
+
+Contoh yang mudah, ada di awal depresiasi, kita mundur ke 2015:
+
+![Lembar Kerja: Penyusutan: ][58-penyusutan-awal]
+
 ### Penjelasan
 
 Penjelasan ada di artikel terpisah.
@@ -128,3 +138,4 @@ Baca yoook.
 [58-penyusutan-mulai]:  {% postimage %}/lembarkerja/2018/09/58-penyusutan-mulai.png
 [58-penyusutan-semua]:  {% postimage %}/lembarkerja/2018/09/58-penyusutan-semua.png
 [58-penyusutan-tiga]:   {% postimage %}/lembarkerja/2018/09/58-penyusutan-tiga.png
+[58-penyusutan-awal]:   {% postimage %}/lembarkerja/2018/09/58-penyusutan-awal.png
