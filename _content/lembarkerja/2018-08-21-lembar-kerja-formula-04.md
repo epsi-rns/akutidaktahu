@@ -20,7 +20,7 @@ excerpt   : Menetapkan rumus, angka, case, teks, tangal, terbilang, jumlah, acua
 
 Dalam pemakaian lembar kerja sehari-hari,
 kita sering harus mengacu pada cell tertentu,
-yang tergantung pada nilai perncarian tertentu,
+yang tergantung pada nilai pencarian tertentu,
 atau posisi peletakan cell.
 
 Supaya mudah memahami, kita praktek saja yuuks.
@@ -237,6 +237,10 @@ sebaiknya tetap saya berikan versi yang dipotong.
 Sekian untuk formula.
 Setelah format dan formula, kita akan bahas form.
 
+-- -- --
+
+<a name="selanjutnya"></a>
+
 ## Apa Selanjutnya?
 
 Sebelum melaju ke yang lebih lanjut.
@@ -244,11 +248,11 @@ Mari menggabungkan ilmu-ilmu yang kemarin lalu,
 
 Praktek di dunia nyata yuuks.
 
-[[Lembar Kerja - Rancang Kolom][local-whats-next]].
+[[Lembar Kerja -Acuan Kasus][local-whats-next]].
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[local-whats-next]:     /lembarkerja/2018/09/03/lembar-kerja-tabel-01.html
+[local-whats-next]:     /lembarkerja/2018/08/23/lembar-kerja-formula-05.html
 
 [source-format-xlsx]:   {% postimage %}/lembarkerja/2018/08/03-formula.xlsx
 
