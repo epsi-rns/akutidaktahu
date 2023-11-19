@@ -1,6 +1,118 @@
 [
   
     {
+      "title": "User - Apply SQL",
+      "content": "A simple user management showcase, step by step with help of ChatGPT. Starting from Requirement. Apply SQL.",
+      "url": "/case/2023/01/27/user-man-sql/",
+      "author": "epsi",
+      "category": "case"
+    },
+    {
+      "title": "User - Initial SQL",
+      "content": "A simple user management showcase, step by step with help of ChatGPT. Starting from Requirement. Initial SQL.",
+      "url": "/case/2023/01/25/user-man-sql/",
+      "author": "epsi",
+      "category": "case"
+    },
+    {
+      "title": "User - Deployment Artefact",
+      "content": "A simple user management showcase, step by step with help of ChatGPT. Starting from Requirement. Deploying Artefact.",
+      "url": "/case/2023/01/23/user-man-deploy/",
+      "author": "epsi",
+      "category": "case"
+    },
+    {
+      "title": "User - Testing Artefact",
+      "content": "A simple user management showcase, step by step with help of ChatGPT. Starting from Requirement. Testing Artefact.",
+      "url": "/case/2023/01/21/user-man-test/",
+      "author": "epsi",
+      "category": "case"
+    },
+    {
+      "title": "User - Sequence Diagram",
+      "content": "A simple user management showcase, step by step with help of ChatGPT. Starting from Requirement. Sequence diagram.",
+      "url": "/case/2023/01/19/user-man-sequence/",
+      "author": "epsi",
+      "category": "case"
+    },
+    {
+      "title": "User - Class Diagram",
+      "content": "A simple user management showcase, step by step with help of ChatGPT. Starting from Requirement. Class diagram.",
+      "url": "/case/2023/01/17/user-man-class/",
+      "author": "epsi",
+      "category": "case"
+    },
+    {
+      "title": "User - Use Case Diagram",
+      "content": "A simple user management showcase, step by step with help of ChatGPT. Starting from Requirement. Use case diagram.",
+      "url": "/case/2023/01/15/user-man-use-case/",
+      "author": "epsi",
+      "category": "case"
+    },
+    {
+      "title": "User - Requirement",
+      "content": "A simple user management showcase, step by step with help of ChatGPT. Starting from Requirement. This is the Vision document and SRS part.",
+      "url": "/case/2023/01/13/user-man-requirement/",
+      "author": "epsi",
+      "category": "case"
+    },
+    {
+      "title": "User - Overview",
+      "content": "A simple user management showcase, step by step with help of ChatGPT. Starting from Requirement. Read the review first.",
+      "url": "/case/2023/01/11/user-man-overview/",
+      "author": "epsi",
+      "category": "case"
+    },
+    {
+      "title": "Inkscape: Slides - Showing Off",
+      "content": "Presenting Design through Thumbnails, 3D Isometric Views, and Videos.",
+      "url": "/design/2022/09/13/inkscape-slide-templates-07/",
+      "author": "epsi",
+      "category": "design"
+    },
+    {
+      "title": "Inkscape: Slides - Example",
+      "content": "Sample by sample, one at a time, with an emphasis on layer management.",
+      "url": "/design/2022/09/11/inkscape-slide-templates-06/",
+      "author": "epsi",
+      "category": "design"
+    },
+    {
+      "title": "Inkscape: Slides - Content",
+      "content": "Versatile multi purpose Inkscape example-slide templates, arranged as multi-page presentations.",
+      "url": "/design/2022/09/09/inkscape-slide-templates-05/",
+      "author": "epsi",
+      "category": "design"
+    },
+    {
+      "title": "Inkscape: Slides - Pages",
+      "content": "Organizing each color of Inkscape master-slide templates, using the new multi-page feature.",
+      "url": "/design/2022/09/07/inkscape-slide-templates-04/",
+      "author": "epsi",
+      "category": "design"
+    },
+    {
+      "title": "Inkscape: Slides - Layers",
+      "content": "Managing Inkscape master-slide templates, using the new multi-page feature.",
+      "url": "/design/2022/09/05/inkscape-slide-templates-03/",
+      "author": "epsi",
+      "category": "design"
+    },
+    {
+      "title": "Inkscape: Slides - Single",
+      "content": "Crafting an Inkscape slide template background, with sub-layers.",
+      "url": "/design/2022/09/03/inkscape-slide-templates-02/",
+      "author": "epsi",
+      "category": "design"
+    },
+    {
+      "title": "Inkscape: Slides - Overview",
+      "content": "An overview candyclone, the inkscape master slide templates",
+      "url": "/design/2022/09/01/inkscape-slide-templates-01/",
+      "author": "epsi",
+      "category": "design"
+    },
+    {
       "title": "Animation Observer - Part Three",
       "content": "Trigger animation on scroll using intersection observer.",
       "url": "/frontend/2022/02/05/animation-observer-03/",
@@ -111,6 +223,244 @@
       "url": "/design/2021/11/01/inkscape-extension-01/",
       "author": "epsi",
       "category": "design"
+    },
+    {
+      "title": "Bootstrap - Dashboard",
+      "content": "Dashboard with native bootstrap class.",
+      "url": "/frontend/2021/08/15/bootstrap5-dashboard/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Bootstrap - Extra",
+      "content": "Using third party library.",
+      "url": "/frontend/2021/08/13/bootstrap5-extra/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Bootstrap - Form",
+      "content": "Preparing Bootstrap's form for dynamic data handling.",
+      "url": "/frontend/2021/08/11/bootstrap5-form/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Bootstrap - Javascript Numerator",
+      "content": "Trigger animation on scroll using intersection observer. Numerator and Progress Bar using Bootstrap Class.",
+      "url": "/frontend/2021/08/03/bootstrap5-javascript-numerator/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Bootstrap - Javascript Toggler",
+      "content": "Custom theme using Google Material Color, step by step. Toggle layout apperance with plain javascript.",
+      "url": "/frontend/2021/07/25/bootstrap5-javascript-toggler/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Bootstrap - Sass - Blog Post",
+      "content": "Custom theme using Google Material Color, step by step. Prepare common blog post theme for use later with framework.",
+      "url": "/frontend/2021/07/23/bootstrap5-sass-blog-post/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Bootstrap - Sass - Widget",
+      "content": "Custom theme using Google Material Color, step by step. Building multicolor widget with flat design.",
+      "url": "/frontend/2021/07/21/bootstrap5-sass-widget/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Bootstrap - Sass - Responsive Gap",
+      "content": "Custom theme using Google Material Color, step by step. Wrapper class to solve bootstrap horizontal gap issue in flex.",
+      "url": "/frontend/2021/07/15/bootstrap5-sass-responsive-gap/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Bootstrap - Sass - Palette",
+      "content": "Creating pallete color for theme customization using SASS tools for Materialize, Bootstrap, Open Color.",
+      "url": "/frontend/2021/07/11/bootstrap5-sass-palette/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Bootstrap - Sass - Responsive",
+      "content": "More about custom theme, step by step. Reponsive Layout using Bootstrap.",
+      "url": "/frontend/2021/07/07/bootstrap5-sass-responsive/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Bootstrap - Sass - Bootswatch",
+      "content": "More about custom theme, step by step. Using a ready to used Bootstrap SASS theme.",
+      "url": "/frontend/2021/07/05/bootstrap5-sass-bootswatch/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Bootstrap - Sass - Introduction",
+      "content": "Make custom theme, step by step. Using Bootstrap SASS for the first time",
+      "url": "/frontend/2021/07/01/bootstrap5-sass-intro/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Bootstrap - Sidebar",
+      "content": "Make custom theme, step by step. Icon set choice for bootstrap sidebar.",
+      "url": "/frontend/2021/06/18/bootstrap5-sidebar/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Bootstrap - Navbar - Icons",
+      "content": "Make custom theme, step by step. Icon set choice for bootstrap navigation bar, using Bootstrap Icons.",
+      "url": "/frontend/2021/06/16/bootstrap5-navbar-icons/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Bootstrap - Navbar - Awesome",
+      "content": "Make custom theme, step by step. Icon set choice for bootstrap navigation bar, using FontAwesome.",
+      "url": "/frontend/2021/06/15/bootstrap5-navbar-awesome/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Bootstrap - Navbar - Class",
+      "content": "Make custom theme, step by step. Regular navigation bar in Bootstrap as starter.",
+      "url": "/frontend/2021/06/11/bootstrap5-navbar-class/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Bootstrap - Minimal",
+      "content": "Make custom theme, step by step. Show minimal page in Bootstrap.",
+      "url": "/frontend/2021/06/05/bootstrap5-minimal/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Bootstrap - Preparation",
+      "content": "Prepare modular HTML using Nunjucks template",
+      "url": "/frontend/2021/06/03/bootstrap5-preparation/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Bootstrap - Overview",
+      "content": "Designing real world web page using Bootstrap5, step by step. Summary of article series.",
+      "url": "/frontend/2021/06/01/bootstrap5-overview/",
+      "author": "epsi",
+      "category": "frontend"
+    },
+    {
+      "title": "Soccer - SQLAlchemy - Three",
+      "content": "Playing SQL with Soccer Case. SQLAlchemy ORM.",
+      "url": "/backend/2021/05/11/soccer-sqlalchemy-03/",
+      "author": "epsi",
+      "category": "backend"
+    },
+    {
+      "title": "Soccer - SQLAlchemy - Two",
+      "content": "Playing SQL with Soccer Case. SQLAlchemy ORM.",
+      "url": "/backend/2021/05/09/soccer-sqlalchemy-02/",
+      "author": "epsi",
+      "category": "backend"
+    },
+    {
+      "title": "Soccer - SQLAlchemy - One",
+      "content": "Playing SQL with Soccer Case. SQLAlchemy ORM.",
+      "url": "/backend/2021/05/07/soccer-sqlalchemy-01/",
+      "author": "epsi",
+      "category": "backend"
+    },
+    {
+      "title": "Soccer - SQL Query",
+      "content": "Playing SQL with Soccer Case. Fixtures.",
+      "url": "/backend/2021/05/05/soccer-sql-query/",
+      "author": "epsi",
+      "category": "backend"
+    },
+    {
+      "title": "Soccer - Fixtures",
+      "content": "Playing SQL with Soccer Case. Fixtures.",
+      "url": "/backend/2021/05/03/soccer-fixtures/",
+      "author": "epsi",
+      "category": "backend"
+    },
+    {
+      "title": "Soccer - Overview",
+      "content": "Playing SQL with Soccer Case. Overview and ERD.",
+      "url": "/backend/2021/05/01/soccer-overview/",
+      "author": "epsi",
+      "category": "backend"
+    },
+    {
+      "title": "LAMP - PHPMyAdmin",
+      "content": "Setting-up LAMP stack with Artix OpenRC. Manage database with PHPMyAdmin.",
+      "url": "/backend/2021/04/17/lamp-phpmyadmin/",
+      "author": "epsi",
+      "category": "backend"
+    },
+    {
+      "title": "LAMP - PHP Setup",
+      "content": "Setting-up LAMP stack with Artix OpenRC. Configure the Apache + PHP tier.",
+      "url": "/backend/2021/04/15/lamp-php-setup/",
+      "author": "epsi",
+      "category": "backend"
+    },
+    {
+      "title": "LAMP - Apache Setup",
+      "content": "Setting-up LAMP stack with Artix OpenRC. Configure the Apache + PHP tier.",
+      "url": "/backend/2021/04/13/lamp-apache-setup/",
+      "author": "epsi",
+      "category": "backend"
+    },
+    {
+      "title": "LAMP - MariaDB Prompt",
+      "content": "Setting-up LAMP stack with Artix OpenRC. Configure MariaDB.",
+      "url": "/backend/2021/04/05/lamp-mariadb-prompt/",
+      "author": "epsi",
+      "category": "backend"
+    },
+    {
+      "title": "LAMP - MariaDB Setup",
+      "content": "Setting-up LAMP stack with Artix OpenRC. Configure MariaDB.",
+      "url": "/backend/2021/04/03/lamp-mariadb-setup/",
+      "author": "epsi",
+      "category": "backend"
+    },
+    {
+      "title": "LAMP - Overview",
+      "content": "Setting-up LAMP stack with Artix OpenRC. Overview.",
+      "url": "/backend/2021/04/01/lamp-overview/",
+      "author": "epsi",
+      "category": "backend"
+    },
+    {
+      "title": "Docker - Image and Process",
+      "content": "Examine docker image for docker compose.",
+      "url": "/backend/2021/03/25/docker-image/",
+      "author": "epsi",
+      "category": "backend"
+    },
+    {
+      "title": "Docker - Compose",
+      "content": "Setting-up docker-compose to run phpmyadmin.",
+      "url": "/backend/2021/03/23/docker-compose/",
+      "author": "epsi",
+      "category": "backend"
+    },
+    {
+      "title": "Docker - Setup",
+      "content": "Setting-up basic docker service with Artix OpenRC.",
+      "url": "/backend/2021/03/21/docker-setup/",
+      "author": "epsi",
+      "category": "backend"
     },
     {
       "title": "Tabs - JS - Vue3 Composition",

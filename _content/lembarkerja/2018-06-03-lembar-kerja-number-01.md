@@ -361,6 +361,107 @@ Sepele, namun sering saya pakai.
 
 Segitu aja sih.
 
+## Unit Fisika
+
+> Kerjakan PR sekolah
+
+Unit metrik memiliki beberapa satuan yang berbeda untuk angka yang berbeda.
+Misalnya untuk massa ada: gram, kg dan ton.
+Lalu untuk jarak tempuh ada meter, kilometer dan megameter.
+
+{% highlight "latex" %}
++--------+-----------------+
+| Format | [=0]-;0,00" kg" |
++--------+-----------------+
+{% endhighlight %}
+
+{% highlight "latex" %}
++--------+----------+-----------+
+| Contoh | Nilai    | Hasil     |
++--------+----------+-----------+
+| Massa  |   0,1892 |   0,19 kg |
+| Massa  |        0 |         - |
+| Massa  | 182,3268 | 182,33 kg |
++--------+----------+-----------+
+{% endhighlight %}
+
+![Lembar Kerja: Number: Massa][13ss-unit-01-massa]
+
+Excel/Calc berbeda dengan tulisan dikertas.
+Karena untuk satuan-satuan yang berbeda tersebut,
+di Excel/Calc memiliki angka dasar yang sama,
+misalnya satu kolom massa, semuanya berbasis gram,
+lalu dalam tampilannya baru ada gram kg, atau ton.
+Contohnya di bawah ini:
+
+{% highlight "latex" %}
++--------+-----------------------------------------------------+
+| Format | [>=1000000]0,00.." ton";[>=1000]0,00." kg";0" gram" |
++--------+-----------------------------------------------------+
+{% endhighlight %}
+
+{% highlight "latex" %}
++--------+----------+-----------+
+| Contoh | Nilai    | Hasil     |
++--------+----------+-----------+
+| Massa  |       24 |   24 gram | 
+| Massa  |      256 |  256 gram | 
+| Massa  |     1024 |   1,02 kg | 
+| Massa  |    65536 |  65,54 kg | 
+| Massa  |  2777216 |  2,78 ton | 
++--------+----------+-----------+
+{% endhighlight %}
+
+![Lembar Kerja: Number: Massa][13ss-unit-02-massa]
+
+Berikut contoh yang sama untuk kecepatan.
+Lebih sederhana karena satuannya sama,
+namun kita perlu mengatur separator dan tanda komanya.
+
+{% highlight "latex" %}
++--------+------------------------------------------+
+| Format | [=0]-;[>=20]#.###" km/h";#.##0,00" km/h" |
++--------+------------------------------------------+
+{% endhighlight %}
+
+{% highlight "latex" %}
++-----------+--------+-------------+
+| Contoh    | Nilai  | Hasil       |
++-----------+--------+-------------+
+| Kecepatan	|   0,25 |  0,25  km/h |
+| Kecepatan	|      4 |   4,00 km/h |
+| Kecepatan	|     24 |     24 km/h |
+| Kecepatan	|    256 |    256 km/h |
+| Kecepatan	|   4096 |  4.096 km/h |
+| Kecepatan	|  65536 | 65.536 km/h |
++-----------+--------+-------------+
+{% endhighlight %}
+
+![Lembar Kerja: Number: Kecepatan][13ss-unit-04-speed]
+
+Dan terakhir waktu, ternyata angka satu ekivalen dengan 24 jam.
+
+{% highlight "latex" %}
++--------+------------+
+| Format | [HH]:MM:SS |
++--------+------------+
+{% endhighlight %}
+
+{% highlight "latex" %}
++--------+----------------------+----------+
+| Contoh | Nilai                | Hasil    |
++--------+----------------------+----------+
+| Waktu  | 0,000254629601840861 | 00:00:22 |
+| Waktu  | 0,00035879630013369  | 00:00:31 |
+| Waktu  |                0,004 | 00:05:46 |
+| Waktu  |                    1 | 24:00:00 |
++--------+----------------------+----------+
+{% endhighlight %}
+
+![Lembar Kerja: Number: Waktu][13ss-unit-03-waktu]
+
+Tidak susah khaaaan.
+
 -- -- --
 
 <a name="selanjutnya"></a>
@@ -385,5 +486,10 @@ kita bahas cara penulisan rupiah yuk.
 [12ss-number-angka]:    {% postimage %}/lembarkerja/2018/06/12ss-number-angka.png
 [12ss-number-pajak]:    {% postimage %}/lembarkerja/2018/06/12ss-number-pajak.png
 [12ss-number-tanggal]:  {% postimage %}/lembarkerja/2018/06/12ss-number-tanggal.png
+
+[13ss-unit-01-massa]:   {% postimage %}/lembarkerja/2018/06/13ss-unit-01-massa.png
+[13ss-unit-02-massa]:   {% postimage %}/lembarkerja/2018/06/13ss-unit-02-massa.png
+[13ss-unit-03-waktu]:   {% postimage %}/lembarkerja/2018/06/13ss-unit-03-waktu.png
+[13ss-unit-04-speed]:   {% postimage %}/lembarkerja/2018/06/13ss-unit-04-kecepatan.png
 
 [source-number-xlsx]:   {% postimage %}/lembarkerja/2018/06/01-number.xlsx

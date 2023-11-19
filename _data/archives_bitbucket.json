@@ -1,6 +1,13 @@
 [
   
     {
+      "title": "Excel - Monitor - Multiple Task",
+      "content": "Monitor excel file changes and show the result in browser using websocket.",
+      "url": "/monitor/2023/01/25/python-excel-monitor-16/",
+      "author": "epsi",
+      "category": "monitor"
+    },
+    {
       "title": "Excel - Monitor - Logging Panel",
       "content": "Monitor excel file changes and show the result in browser using websocket.",
       "url": "/monitor/2023/01/21/python-excel-monitor-15/",
@@ -141,6 +148,13 @@
       "category": "monitor"
     },
     {
+      "title": "Python - MQTT - Clean Up",
+      "content": "Realtime data plot using Pandas.",
+      "url": "/monitor/2022/11/15/python-mqtt-plot-05/",
+      "author": "epsi",
+      "category": "monitor"
+    },
+    {
       "title": "Python - MQTT - Time Series Plot",
       "content": "Realtime data plot using Pandas.",
       "url": "/monitor/2022/11/14/python-mqtt-plot-04/",
@@ -242,6 +256,132 @@
       "title": "Python - Excel - CSV - Part One",
       "content": "Master Detail CSV Reader, Using OpenPyXL, Using Faktur Pajak (Indonesian Tax) as Example.",
       "url": "/automation/2022/07/01/python-excel-csv-md-01/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Pivot - LO UNO - CSV Reader",
+      "content": "Convert LibreOffice python macro to UNO python script. Reading from CSV and writing two worksheets.",
+      "url": "/automation/2022/06/05/pivot-calc-uno-03/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Pivot - LO UNO - Pivot Writer",
+      "content": "Convert LibreOffice python macro to UNO python script. Reading and writing the same sheet.",
+      "url": "/automation/2022/06/03/pivot-calc-uno-02/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Pivot - LO UNO - Open Instance",
+      "content": "Accessing LibreOffice from the outside using UNO.",
+      "url": "/automation/2022/06/01/pivot-calc-uno-01/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Pivot - LibreOffice - CSV Reader",
+      "content": "Reader and Writer. Read data from CSV, and create both table sheet and pivot sheet.",
+      "url": "/automation/2022/05/09/pivot-calc-macro-05/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Pivot - LibreOffice - Total",
+      "content": "Filling the cell with total column and row.",
+      "url": "/automation/2022/05/07/pivot-calc-macro-04/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Pivot - LibreOffice - Decoration",
+      "content": "Decorate the worksheet with nice looks.",
+      "url": "/automation/2022/05/05/pivot-calc-macro-03/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Pivot - LibreOffice - Pivot Writer",
+      "content": "Write the pivot dataframe into a sheet.",
+      "url": "/automation/2022/05/03/pivot-calc-macro-02/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Pivot - LibreOffice - Table Reader",
+      "content": "Reading a predefined sheet to a plain dataframe, and build pivot dataframe.",
+      "url": "/automation/2022/05/01/pivot-calc-macro-01/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Pivot - OpenPyXL - Pivot Reader",
+      "content": "Reading a predefined sheet to a plain dataframe, and build sheet in the same workbook.",
+      "url": "/automation/2022/04/05/pivot-openpyxl-03/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Pivot - OpenPyXL - Pivot Writer",
+      "content": "Writing custom dataframe to custom sheet, with the case of pivot.",
+      "url": "/automation/2022/04/03/pivot-openpyxl-02/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Pivot - OpenPyXL - Table Writer",
+      "content": "Starting openPyXl from writing simple table.",
+      "url": "/automation/2022/04/01/pivot-openpyxl-01/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Pivot - Model - Total Dataframe",
+      "content": "Adding total column and total row.",
+      "url": "/automation/2022/03/13/pivot-model-07/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Pivot - Model - Custom Class",
+      "content": "Create a Model View Class. Ensure categories.",
+      "url": "/automation/2022/03/11/pivot-model-06/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Pivot - Model - Simple Dataframe",
+      "content": "Transform data with panda's dataframe, from plain table to pivot.",
+      "url": "/automation/2022/03/09/pivot-model-05/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Pivot - Model - List Comprehension",
+      "content": "Transform data with list comprehension, from plain table to pivot.",
+      "url": "/automation/2022/03/07/pivot-model-04/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Pivot - Model - CSV Reader",
+      "content": "Start data modelling with well structured CSV reader class.",
+      "url": "/automation/2022/03/05/pivot-model-03/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Pivot - Model - Data Generator",
+      "content": "Prepare data modelling by making a random data generator.",
+      "url": "/automation/2022/03/03/pivot-model-02/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Pivot - Python - Overview",
+      "content": "An overview of custom pivot table, from data modelling to spreadsheet.",
+      "url": "/automation/2022/03/01/pivot-model-01/",
       "author": "epsi",
       "category": "automation"
     },
@@ -902,6 +1042,13 @@
       "url": "/lambda/2020/11/01/playing-with-records-overview/",
       "author": "epsi",
       "category": "lambda"
+    },
+    {
+      "title": "Algebra - Polynomial",
+      "content": "Solving third order polynomial equation, from data modelling in excel to python.",
+      "url": "/math/2020/03/01/algebra-polynomial/",
+      "author": "epsi",
+      "category": "math"
     },
     {
       "title": "Statistic - Dotplot",
