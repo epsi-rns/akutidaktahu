@@ -195,8 +195,9 @@ Yang perlu diingat, banyak sekali contoh kasus yang aneh-aneh,
 yang sama sekali berbeda dengan contoh di atas,
 yang tidak kutulis di sini.
 Karena itu perlu memperbanyak jam terbang,
-dengan mnecoab memecahkan berbagai permasalahan di kantor/kampus masing-masing.
+dengan berinisiatif memecahkan berbagai permasalahan di kantor/kampus masing-masing.
 Semakin lama bekerja semakin banyak contoh kasus yang mesti kita hadapi.
+SEmakin kreatif pula hasil akhirnya.
 
 Sudah itu saja yaaaaa...
 
