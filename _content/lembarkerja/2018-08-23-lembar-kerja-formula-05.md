@@ -197,7 +197,7 @@ yang tidak kutulis di sini.
 Karena itu perlu memperbanyak jam terbang,
 dengan berinisiatif memecahkan berbagai permasalahan di kantor/kampus masing-masing.
 Semakin lama bekerja semakin banyak contoh kasus yang mesti kita hadapi.
-SEmakin kreatif pula hasil akhirnya.
+Semakin kreatif pula hasil akhirnya.
 
 Sudah itu saja yaaaaa...
 
