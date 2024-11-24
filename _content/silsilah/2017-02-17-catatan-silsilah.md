@@ -1591,6 +1591,16 @@ karena terkait langsung dengan keluarga.
 
 -- -- --
 
+## 9: Catatan Tambahan
+
+> Pentingnya Pendidikan
+
+Saya berharap, dari dalam Kraton tergerak hatinya untuk mengeluarkan disertasi sendiri mengenai keluarga kraton. Hal ini supaya sejarah jawa menjadi lurus. Begitu juga, munculkan doktor-doktor, baik dari kesultanan di Nusantara, maupun pesantren-pesantren terkait, atau Pemda-Pemda lokal setempat. Supaya dapat menjadi pembanding narasi yang diragukan.
+
+Kekosongan kelimuan sejarah ini yang dimanfaatkan untuk keperluan golongan. Karena kitanya sendiri juga yang tidak menggali dengan ilmu yang empiris sesuai zaman. Kitanya sendiri yang kurang berpendidikan.
+
+-- -- --
+
 Sekian.
 
 Silahkan melanjutkan ke berkas silsilah berikutnya,

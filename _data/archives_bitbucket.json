@@ -204,263 +204,144 @@
       "category": "monitor"
     },
     {
-      "title": "LibreOffice - Macro - Transform Field",
-      "content": "Transform plain row based data into cute form view, using LibreOffice UNO Macro.",
-      "url": "/automation/2022/09/23/python-libreoffice-transform-field/",
-      "author": "epsi",
-      "category": "automation"
-    },
-    {
-      "title": "LibreOffice - Macro - Copy Range",
-      "content": "Copy A Range of Cell Along with All Properties, Using LibreOffice UNO Macro.",
-      "url": "/automation/2022/09/21/python-libreoffice-copy-range/",
-      "author": "epsi",
-      "category": "automation"
-    },
-    {
-      "title": "Python - Excel - Translate Field",
-      "content": "Transform plain row based data into cute form view.",
-      "url": "/automation/2022/09/13/python-excel-translate-field/",
-      "author": "epsi",
-      "category": "automation"
-    },
-    {
-      "title": "Python - Excel - Copy Range",
-      "content": "Copy A Range of Cell Along with All Properties.",
-      "url": "/automation/2022/09/11/python-excel-copy-range/",
-      "author": "epsi",
-      "category": "automation"
-    },
-    {
-      "title": "LibreOffice - CSV Master Detail",
-      "content": "Master Detail CSV Reader, Using LibreOffice UNO Macro, Using Faktur Pajak (Indonesian Tax) as Example. With Metadata Approach.",
-      "url": "/automation/2022/07/07/python-libreoffice-csv-md/",
-      "author": "epsi",
-      "category": "automation"
-    },
-    {
-      "title": "LibreOffice - Decoration Example",
-      "content": "Example Macro to Decorate LibreOffice Calc Format",
-      "url": "/automation/2022/07/05/python-libreoffice-deco/",
-      "author": "epsi",
-      "category": "automation"
-    },
-    {
-      "title": "Python - Excel - CSV - Part Two",
-      "content": "Master Detail CSV Reader, Using OpenPyXL, Using Faktur Pajak (Indonesian Tax) as Example.",
-      "url": "/automation/2022/07/03/python-excel-csv-md-02/",
-      "author": "epsi",
-      "category": "automation"
-    },
-    {
-      "title": "Python - Excel - CSV - Part One",
-      "content": "Master Detail CSV Reader, Using OpenPyXL, Using Faktur Pajak (Indonesian Tax) as Example.",
-      "url": "/automation/2022/07/01/python-excel-csv-md-01/",
-      "author": "epsi",
-      "category": "automation"
-    },
-    {
       "title": "Pivot - LO UNO - CSV Reader",
-      "content": "Convert LibreOffice python macro to UNO python script. Reading from CSV and writing two worksheets.",
+      "content": "Adapt LibreOffice Python macros to UNO Python scripts, enabling seamless reading from CSV and writing to two worksheets.",
       "url": "/automation/2022/06/05/pivot-calc-uno-03/",
       "author": "epsi",
       "category": "automation"
     },
     {
       "title": "Pivot - LO UNO - Pivot Writer",
-      "content": "Convert LibreOffice python macro to UNO python script. Reading and writing the same sheet.",
+      "content": "Transform LibreOffice Python macros into UNO Python scripts, facilitating reading and writing on the same sheet.",
       "url": "/automation/2022/06/03/pivot-calc-uno-02/",
       "author": "epsi",
       "category": "automation"
     },
     {
       "title": "Pivot - LO UNO - Open Instance",
-      "content": "Accessing LibreOffice from the outside using UNO.",
+      "content": "Gain external access to LibreOffice using UNO for enhanced functionality.",
       "url": "/automation/2022/06/01/pivot-calc-uno-01/",
       "author": "epsi",
       "category": "automation"
     },
     {
       "title": "Pivot - LibreOffice - CSV Reader",
-      "content": "Reader and Writer. Read data from CSV, and create both table sheet and pivot sheet.",
+      "content": "Seamlessly read data from CSV, creating both table and pivot sheets effortlessly.",
       "url": "/automation/2022/05/09/pivot-calc-macro-05/",
       "author": "epsi",
       "category": "automation"
     },
     {
       "title": "Pivot - LibreOffice - Total",
-      "content": "Filling the cell with total column and row.",
+      "content": "Enhance your worksheets by filling cells with total columns and rows.",
       "url": "/automation/2022/05/07/pivot-calc-macro-04/",
       "author": "epsi",
       "category": "automation"
     },
     {
       "title": "Pivot - LibreOffice - Decoration",
-      "content": "Decorate the worksheet with nice looks.",
+      "content": "Elevate the aesthetics of your worksheets with decorative enhancements.",
       "url": "/automation/2022/05/05/pivot-calc-macro-03/",
       "author": "epsi",
       "category": "automation"
     },
     {
       "title": "Pivot - LibreOffice - Pivot Writer",
-      "content": "Write the pivot dataframe into a sheet.",
+      "content": "Efficiently write pivot dataframes into sheets, streamlining your workflow.",
       "url": "/automation/2022/05/03/pivot-calc-macro-02/",
       "author": "epsi",
       "category": "automation"
     },
     {
       "title": "Pivot - LibreOffice - Table Reader",
-      "content": "Reading a predefined sheet to a plain dataframe, and build pivot dataframe.",
+      "content": "Read predefined sheets into plain dataframes and construct pivot dataframes effortlessly.",
       "url": "/automation/2022/05/01/pivot-calc-macro-01/",
       "author": "epsi",
       "category": "automation"
     },
     {
       "title": "Pivot - OpenPyXL - Pivot Reader",
-      "content": "Reading a predefined sheet to a plain dataframe, and build sheet in the same workbook.",
+      "content": "Master the art of reading predefined sheets into plain dataframes and building sheets within the same workbook.",
       "url": "/automation/2022/04/05/pivot-openpyxl-03/",
       "author": "epsi",
       "category": "automation"
     },
     {
       "title": "Pivot - OpenPyXL - Pivot Writer",
-      "content": "Writing custom dataframe to custom sheet, with the case of pivot.",
+      "content": "Explore advanced OpenPyXL usage by writing custom dataframes to specific sheets, focusing on pivot scenarios.",
       "url": "/automation/2022/04/03/pivot-openpyxl-02/",
       "author": "epsi",
       "category": "automation"
     },
     {
       "title": "Pivot - OpenPyXL - Table Writer",
-      "content": "Starting openPyXl from writing simple table.",
+      "content": "Dive into OpenPyXL by learning the basics of writing simple tables.",
       "url": "/automation/2022/04/01/pivot-openpyxl-01/",
       "author": "epsi",
       "category": "automation"
     },
     {
       "title": "Pivot - Model - Total Dataframe",
-      "content": "Adding total column and total row.",
+      "content": "Elevate your data modeling by adding total columns and rows to your dataframes.",
       "url": "/automation/2022/03/13/pivot-model-07/",
       "author": "epsi",
       "category": "automation"
     },
     {
       "title": "Pivot - Model - Custom Class",
-      "content": "Create a Model View Class. Ensure categories.",
+      "content": "Create a Model View Class to ensure organized categorization in your data.",
       "url": "/automation/2022/03/11/pivot-model-06/",
       "author": "epsi",
       "category": "automation"
     },
     {
       "title": "Pivot - Model - Simple Dataframe",
-      "content": "Transform data with panda's dataframe, from plain table to pivot.",
+      "content": "Learn to transform data efficiently using Pandas DataFrame, transitioning from a plain table to a pivot structure.",
       "url": "/automation/2022/03/09/pivot-model-05/",
       "author": "epsi",
       "category": "automation"
     },
     {
       "title": "Pivot - Model - List Comprehension",
-      "content": "Transform data with list comprehension, from plain table to pivot.",
+      "content": "Utilize list comprehension to seamlessly transform data from a plain table to a pivot format.",
       "url": "/automation/2022/03/07/pivot-model-04/",
       "author": "epsi",
       "category": "automation"
     },
     {
       "title": "Pivot - Model - CSV Reader",
-      "content": "Start data modelling with well structured CSV reader class.",
+      "content": "Initiate your data modeling journey with a well-structured CSV reader class.",
       "url": "/automation/2022/03/05/pivot-model-03/",
       "author": "epsi",
       "category": "automation"
     },
     {
       "title": "Pivot - Model - Data Generator",
-      "content": "Prepare data modelling by making a random data generator.",
+      "content": "Lay the foundation for data modeling by developing a random data generator.",
       "url": "/automation/2022/03/03/pivot-model-02/",
       "author": "epsi",
       "category": "automation"
     },
     {
       "title": "Pivot - Python - Overview",
-      "content": "An overview of custom pivot table, from data modelling to spreadsheet.",
+      "content": "Explore the intricacies of custom pivot tables, from the fundamentals of data modeling to working with spreadsheets.",
       "url": "/automation/2022/03/01/pivot-model-01/",
-      "author": "epsi",
-      "category": "automation"
-    },
-    {
-      "title": "LibreOffice - Diff",
-      "content": "Simple macro to diff two similar spreadsheets.",
-      "url": "/automation/2022/02/05/python-libreoffice-diff/",
-      "author": "epsi",
-      "category": "automation"
-    },
-    {
-      "title": "Python - Excel - Diff",
-      "content": "Simple spreadsheet diff tool using openpyxl.",
-      "url": "/automation/2022/02/03/python-excel-diff/",
       "author": "epsi",
       "category": "automation"
     },
     {
       "title": "Matplotlib - Bar Chart - Part Two",
       "content": "Plot a cumulative bar chart, for a good reason.",
-      "url": "/visual/2022/01/10/python-barchart-02/",
+      "url": "/visual/2021/11/10/python-barchart-02/",
       "author": "epsi",
       "category": "visual"
     },
     {
       "title": "Matplotlib - Bar Chart - Part One",
       "content": "Prepare data structure for plot a bar chart.",
-      "url": "/visual/2022/01/08/python-barchart-01/",
+      "url": "/visual/2021/11/08/python-barchart-01/",
       "author": "epsi",
       "category": "visual"
-    },
-    {
-      "title": "Python - Excel - Pivot - Part Four",
-      "content": "Build a custom multi column pivot table using openpyxl. Writing the xslx sheet.",
-      "url": "/automation/2021/11/26/python-excel-pivot-04/",
-      "author": "epsi",
-      "category": "automation"
-    },
-    {
-      "title": "Python - Excel - Pivot - Part Three",
-      "content": "Build a custom multi column pivot table using openpyxl. Refactoring to object oriented.",
-      "url": "/automation/2021/11/24/python-excel-pivot-03/",
-      "author": "epsi",
-      "category": "automation"
-    },
-    {
-      "title": "Python - Excel - Pivot - Part Two",
-      "content": "Build a custom multi column pivot table using openpyxl. Initialization and conditional optimization.",
-      "url": "/automation/2021/11/22/python-excel-pivot-02/",
-      "author": "epsi",
-      "category": "automation"
-    },
-    {
-      "title": "Python - Excel - Pivot - Part One",
-      "content": "Build a custom multi column pivot table using openpyxl. Begin from scratch.",
-      "url": "/automation/2021/11/20/python-excel-pivot-01/",
-      "author": "epsi",
-      "category": "automation"
-    },
-    {
-      "title": "Python - Excel - Coloring",
-      "content": "Simple conditional cell coloring using openpyxl.",
-      "url": "/automation/2021/11/16/python-excel-coloring/",
-      "author": "epsi",
-      "category": "automation"
-    },
-    {
-      "title": "Python - Excel - Extract Sheets",
-      "content": "Extract worksheet from one xlsx into multiple xlxs.",
-      "url": "/automation/2021/11/14/python-excel-extract-sheets/",
-      "author": "epsi",
-      "category": "automation"
-    },
-    {
-      "title": "Python - Excel - Merge Sheets",
-      "content": "Merge worksheet from multiple xlsx into one.",
-      "url": "/automation/2021/11/12/python-excel-merge-sheets/",
-      "author": "epsi",
-      "category": "automation"
     },
     {
       "title": "Matplotlib - Pie Chart - Part Three",
@@ -484,44 +365,163 @@
       "category": "visual"
     },
     {
+      "title": "LibreOffice - Macro - Transform Field",
+      "content": "Transform plain row based data into cute form view, using LibreOffice UNO Macro.",
+      "url": "/automation/2021/08/23/python-libreoffice-transform-field/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "LibreOffice - Macro - Copy Range",
+      "content": "Copy A Range of Cell Along with All Properties, Using LibreOffice UNO Macro.",
+      "url": "/automation/2021/08/21/python-libreoffice-copy-range/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Python - Excel - Translate Field",
+      "content": "Transform plain row based data into cute form view.",
+      "url": "/automation/2021/08/13/python-excel-translate-field/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Python - Excel - Copy Range",
+      "content": "Copy A Range of Cell Along with All Properties.",
+      "url": "/automation/2021/08/11/python-excel-copy-range/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "LibreOffice - CSV Master Detail",
+      "content": "Master Detail CSV Reader, Using LibreOffice UNO Macro, Using Faktur Pajak (Indonesian Tax) as Example. With Metadata Approach.",
+      "url": "/automation/2021/07/17/python-libreoffice-csv-md/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "LibreOffice - Decoration Example",
+      "content": "Example Macro to Decorate LibreOffice Calc Format",
+      "url": "/automation/2021/07/15/python-libreoffice-deco/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Python - Excel - CSV - Part Two",
+      "content": "Master Detail CSV Reader, Using OpenPyXL, Using Faktur Pajak (Indonesian Tax) as Example.",
+      "url": "/automation/2021/07/13/python-excel-csv-md-02/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Python - Excel - CSV - Part One",
+      "content": "Master Detail CSV Reader, Using OpenPyXL, Using Faktur Pajak (Indonesian Tax) as Example.",
+      "url": "/automation/2021/07/11/python-excel-csv-md-01/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "LibreOffice - Diff",
+      "content": "Simple macro to diff two similar spreadsheets.",
+      "url": "/automation/2021/07/05/python-libreoffice-diff/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Python - Excel - Diff",
+      "content": "Simple spreadsheet diff tool using openpyxl7",
+      "url": "/automation/2021/07/03/python-excel-diff/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Python - Excel - Pivot - Part Four",
+      "content": "Build a custom multi column pivot table using openpyxl. Writing the xslx sheet.",
+      "url": "/automation/2021/06/26/python-excel-pivot-04/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Python - Excel - Pivot - Part Three",
+      "content": "Build a custom multi column pivot table using openpyxl. Refactoring to object oriented.",
+      "url": "/automation/2021/06/24/python-excel-pivot-03/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Python - Excel - Pivot - Part Two",
+      "content": "Build a custom multi column pivot table using openpyxl. Initialization and conditional optimization.",
+      "url": "/automation/2021/06/22/python-excel-pivot-02/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Python - Excel - Pivot - Part One",
+      "content": "Build a custom multi column pivot table using openpyxl. Begin from scratch.",
+      "url": "/automation/2021/06/20/python-excel-pivot-01/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Python - Excel - Coloring",
+      "content": "Simple conditional cell coloring using openpyxl.",
+      "url": "/automation/2021/06/16/python-excel-coloring/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Python - Excel - Extract Sheets",
+      "content": "Extract worksheet from one xlsx into multiple xlxs.",
+      "url": "/automation/2021/06/14/python-excel-extract-sheets/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Python - Excel - Merge Sheets",
+      "content": "Merge worksheet from multiple xlsx into one.",
+      "url": "/automation/2021/06/12/python-excel-merge-sheets/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
       "title": "LibreOffice - Custom Pivot - Part Two",
       "content": "Build a custom multi column pivot table using LibreOffice Macro. Write to worksheet.",
-      "url": "/automation/2021/10/16/python-libreoffice-macro-pivot-02/",
+      "url": "/automation/2021/05/16/python-libreoffice-macro-pivot-02/",
       "author": "epsi",
       "category": "automation"
     },
     {
       "title": "LibreOffice - Custom Pivot - Part One",
       "content": "Build a custom multi column pivot table using LibreOffice Macro. Display data to console.",
-      "url": "/automation/2021/10/14/python-libreoffice-macro-pivot-01/",
+      "url": "/automation/2021/05/14/python-libreoffice-macro-pivot-01/",
       "author": "epsi",
       "category": "automation"
     },
     {
       "title": "LibreOffice - Macro - Coloring",
       "content": "LibreOffice Macro using Python in Calc. Simple conditional cell coloring using Python Macro.",
-      "url": "/automation/2021/10/10/python-libreoffice-macro-coloring/",
+      "url": "/automation/2021/05/10/python-libreoffice-macro-coloring/",
       "author": "epsi",
       "category": "automation"
     },
     {
       "title": "LibreOffice - Macro - Merge",
       "content": "LibreOffice Macro using Python in Calc. Merge worksheet from multiple ODS into one ODS.",
-      "url": "/automation/2021/10/06/python-libreoffice-macro-merge/",
+      "url": "/automation/2021/05/06/python-libreoffice-macro-merge/",
       "author": "epsi",
       "category": "automation"
     },
     {
       "title": "LibreOffice - Macro - Split",
       "content": "LibreOffice Macro using Python in Calc. Split worksheet from one ODS into multiple ODS.",
-      "url": "/automation/2021/10/04/python-libreoffice-macro-split/",
+      "url": "/automation/2021/05/04/python-libreoffice-macro-split/",
       "author": "epsi",
       "category": "automation"
     },
     {
       "title": "LibreOffice - Macro - APSO",
       "content": "LibreOffice Calc Macro using Python with APSO.",
-      "url": "/automation/2021/10/02/python-libreoffice-macro-apso/",
+      "url": "/automation/2021/05/02/python-libreoffice-macro-apso/",
       "author": "epsi",
       "category": "automation"
     },
@@ -1044,11 +1044,144 @@
       "category": "lambda"
     },
     {
-      "title": "Algebra - Polynomial",
-      "content": "Solving third order polynomial equation, from data modelling in excel to python.",
-      "url": "/math/2020/03/01/algebra-polynomial/",
+      "title": "Trend - Language - Julia - Part Three",
+      "content": "Explore Julia statistic plot visualization. Providing the data using linear model.",
+      "url": "/statistics/2020/05/13/trend-language-julia-03/",
       "author": "epsi",
-      "category": "math"
+      "category": "statistics"
+    },
+    {
+      "title": "Trend - Language - Julia - Part Two",
+      "content": "Explore statistic properties with Julia. Providing the data using linear model.",
+      "url": "/statistics/2020/05/11/trend-language-julia-02/",
+      "author": "epsi",
+      "category": "statistics"
+    },
+    {
+      "title": "Trend - Language - Julia - Part One",
+      "content": "Explore Julia statistic plot visualization. Providing the data using linear model.",
+      "url": "/statistics/2020/05/09/trend-language-julia-01/",
+      "author": "epsi",
+      "category": "statistics"
+    },
+    {
+      "title": "Trend - Language - R - Part Three",
+      "content": "Explore R Programming language visualization with ggplot2. Provide a bunch of example of plot cases in your fingertip.",
+      "url": "/statistics/2020/05/05/trend-language-r-03/",
+      "author": "epsi",
+      "category": "statistics"
+    },
+    {
+      "title": "Trend - Language - R - Part Two",
+      "content": "Explore R Programming language visualization with ggplot2. Providing the data using linear model.",
+      "url": "/statistics/2020/05/03/trend-language-r-02/",
+      "author": "epsi",
+      "category": "statistics"
+    },
+    {
+      "title": "Trend - Language - R - Part One",
+      "content": "Explore R Programming language visualization with ggplot2. Providing the data using linear model.",
+      "url": "/statistics/2020/05/01/trend-language-r-01/",
+      "author": "epsi",
+      "category": "statistics"
+    },
+    {
+      "title": "Trend - Properties - PSPPire",
+      "content": "A quick glance to the open source PSPPire.",
+      "url": "/statistics/2020/04/07/trend-properties-ppspire/",
+      "author": "epsi",
+      "category": "statistics"
+    },
+    {
+      "title": "Trend - Visualization - Seaborn",
+      "content": "Pretty statistics visualization with Seaborn, equipped with example script for each plots.",
+      "url": "/statistics/2020/04/05/trend-visualization-seaborn/",
+      "author": "epsi",
+      "category": "statistics"
+    },
+    {
+      "title": "Trend - Properties - Additional",
+      "content": "Exploring additional statistic properties not related to trend.",
+      "url": "/statistics/2020/04/03/trend-properties-additional/",
+      "author": "epsi",
+      "category": "statistics"
+    },
+    {
+      "title": "Trend - Visualization - Distribution",
+      "content": "Getting to know the basic of visualizing distribution curve.",
+      "url": "/statistics/2020/04/01/trend-visualization-distribution/",
+      "author": "epsi",
+      "category": "statistics"
+    },
+    {
+      "title": "Trend - Properties - Visualization",
+      "content": "Visualizing interpretation of statistic properties, using python matplotlib.",
+      "url": "/statistics/2020/03/19/trend-properties-visualization/",
+      "author": "epsi",
+      "category": "statistics"
+    },
+    {
+      "title": "Trend - Properties - Python Tools",
+      "content": "Getting to know statistical properties, using python library step by step.",
+      "url": "/statistics/2020/03/17/trend-properties-python-tools/",
+      "author": "epsi",
+      "category": "statistics"
+    },
+    {
+      "title": "Trend - Properties - Formula",
+      "content": "Getting to know statistical properties, using worksheet formula step by step.",
+      "url": "/statistics/2020/03/15/trend-properties-formula/",
+      "author": "epsi",
+      "category": "statistics"
+    },
+    {
+      "title": "Trend - Properties - Cheatsheet",
+      "content": "Getting to know statistical properties, equation by cheatsheet step by step.",
+      "url": "/statistics/2020/03/13/trend-properties-cheatsheet/",
+      "author": "epsi",
+      "category": "statistics"
+    },
+    {
+      "title": "Trend - Least Square",
+      "content": "Curve fitting examples for daily basis, using least squares method.",
+      "url": "/statistics/2020/03/11/trend-least-square/",
+      "author": "epsi",
+      "category": "statistics"
+    },
+    {
+      "title": "Trend - Polynomial Examples",
+      "content": "Curve fitting examples for daily basis, using vandermonde matrix.",
+      "url": "/statistics/2020/03/09/trend-polynomial-examples/",
+      "author": "epsi",
+      "category": "statistics"
+    },
+    {
+      "title": "Trend - Polynomial Algebra",
+      "content": "Solving third order polynomial equation, from data modelling in excel to python.",
+      "url": "/statistics/2020/03/07/trend-polynomial-algebra/",
+      "author": "epsi",
+      "category": "statistics"
+    },
+    {
+      "title": "Trend - Polynomial Interpolation",
+      "content": "Connect the dots perfectly with interpolation.",
+      "url": "/statistics/2020/03/05/trend-interpolation/",
+      "author": "epsi",
+      "category": "statistics"
+    },
+    {
+      "title": "Trend - Built-in Intro",
+      "content": "Solving trend with built-in method, available in excel and python.",
+      "url": "/statistics/2020/03/03/trend-built-in/",
+      "author": "epsi",
+      "category": "statistics"
+    },
+    {
+      "title": "Trend - Overview",
+      "content": "Overview of trend, from data modelling in excel to python.",
+      "url": "/statistics/2020/03/01/trend-overview/",
+      "author": "epsi",
+      "category": "statistics"
     },
     {
       "title": "Statistic - Dotplot",
