@@ -1,5 +1,5 @@
 [
-  
+
     {
       "title": "Excel - Monitor - Multiple Task",
       "content": "Monitor excel file changes and show the result in browser using websocket.",
@@ -365,6 +365,118 @@
       "category": "visual"
     },
     {
+      "title": "Formatter - Excel Config - Five",
+      "content": "Extending unified configuration. Closing the final steps by refactoring to separate files.",
+      "url": "/automation/2021/10/13/formatter-config-excel-05/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Formatter - Excel Config - Four",
+      "content": "Formatting header and data rows using using unified configuration.",
+      "url": "/automation/2021/10/11/formatter-config-excel-04/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Formatter - Excel Config - Three",
+      "content": "Formatting column format and merged titles using using unified configuration.",
+      "url": "/automation/2021/10/09/formatter-config-excel-03/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Formatter - Excel Config - Two",
+      "content": "Separating formatting code and configuration. Example class using unified configuration.",
+      "url": "/automation/2021/10/07/formatter-config-excel-02/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Formatter - Excel Config - One",
+      "content": "Separating formatting code and configuration. Example class starting from simple configuration.",
+      "url": "/automation/2021/10/05/formatter-config-excel-01/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Formatter - Excel - Merge CSV",
+      "content": "Merging multiple CSVs into a workbook using a Python script with the openpyxl library.",
+      "url": "/automation/2021/10/01/formatter-excel-merge-csv/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Formatter - Unified Config - Four",
+      "content": "Extending unified configuration. Closing the final steps by refactoring to separate files.",
+      "url": "/automation/2021/09/27/formatter-config-unified-04/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Formatter - Unified Config - Three",
+      "content": "Separate formatting code from configuration using a unified approach.",
+      "url": "/automation/2021/09/25/formatter-config-unified-03/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Formatter - Unified Config - Two",
+      "content": "Separating formatting code and configuration. Example class that uses the unified configuration.",
+      "url": "/automation/2021/09/23/formatter-config-unified-02/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Formatter - Unified Config - One",
+      "content": "Separating formatting code and configuration. Example class using unified configuration.",
+      "url": "/automation/2021/09/21/formatter-config-unified-01/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Formatter - Simple Config - Four",
+      "content": "Extending simple configuration. Closing the final steps by refactoring to separate files.",
+      "url": "/automation/2021/09/17/formatter-config-simple-04/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Formatter - Simple Config - Three",
+      "content": "Separating the formatting code and configuration. Example class using simple configuration.",
+      "url": "/automation/2021/09/15/formatter-config-simple-03/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Formatter - Simple Config - Two",
+      "content": "Separating formatting code and configuration. Example class using simple configuration.",
+      "url": "/automation/2021/09/13/formatter-config-simple-02/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Formatter - Simple Config - One",
+      "content": "Separate formatting code and configuration. Example class using simple configuration.",
+      "url": "/automation/2021/09/11/formatter-config-simple-01/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Formatter - Config - Merge CSV",
+      "content": "Merging multiple CSVs into a workbook using a Python macro with the UNO library.",
+      "url": "/automation/2021/09/05/formatter-config-merge-csv/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
+      "title": "Formatter - Config - Overview",
+      "content": "Overview of daily office task automation, from merging CSVs, to format complex multiple tabular data.",
+      "url": "/automation/2021/09/01/formatter-config-overview/",
+      "author": "epsi",
+      "category": "automation"
+    },
+    {
       "title": "LibreOffice - Macro - Transform Field",
       "content": "Transform plain row based data into cute form view, using LibreOffice UNO Macro.",
       "url": "/automation/2021/08/23/python-libreoffice-transform-field/",
@@ -429,7 +541,7 @@
     },
     {
       "title": "Python - Excel - Diff",
-      "content": "Simple spreadsheet diff tool using openpyxl7",
+      "content": "Simple spreadsheet diff tool using openpyxl",
       "url": "/automation/2021/07/03/python-excel-diff/",
       "author": "epsi",
       "category": "automation"
@@ -799,27 +911,6 @@
       "category": "lambda"
     },
     {
-      "title": "Clojure - Playing with Records - Part Three",
-      "content": "A simple case example of concurrency using Clojure.",
-      "url": "/lambda/2020/12/12/playing-with-records-clojure-03/",
-      "author": "epsi",
-      "category": "lambda"
-    },
-    {
-      "title": "F# - Playing with Records - Part Three",
-      "content": "A simple case example of concurrency using F#.",
-      "url": "/lambda/2020/12/08/playing-with-records-fsharp-03/",
-      "author": "epsi",
-      "category": "lambda"
-    },
-    {
-      "title": "Ecmascript - Concurrency with Event Emitter",
-      "content": "A simple case example of concurrency with event emitter in nodejs.",
-      "url": "/lambda/2020/12/02/playing-with-records-ecmascript-03/",
-      "author": "epsi",
-      "category": "lambda"
-    },
-    {
       "title": "C# - Playing with Records - Part Two",
       "content": "A step by step practical case to collect unique record fields. Using C#.",
       "url": "/lambda/2020/11/27/playing-with-records-csharp-02/",
@@ -878,168 +969,189 @@
     {
       "title": "GNU R - Playing with Records",
       "content": "A step by step practical case to collect unique record fields. Using GNU R.",
-      "url": "/lambda/2020/11/19/playing-with-records-gnu-r/",
+      "url": "/lambda/2020/10/19/playing-with-records-gnu-r/",
       "author": "epsi",
       "category": "lambda"
     },
     {
       "title": "Julia - Playing with Records - Part Two",
       "content": "A step by step practical case to collect unique record fields. Using Julia.",
-      "url": "/lambda/2020/11/18/playing-with-records-julia-02/",
+      "url": "/lambda/2020/10/18/playing-with-records-julia-02/",
       "author": "epsi",
       "category": "lambda"
     },
     {
       "title": "Julia - Playing with Records - Part One",
       "content": "A step by step practical case to collect unique record fields. Using Julia.",
-      "url": "/lambda/2020/11/18/playing-with-records-julia-01/",
+      "url": "/lambda/2020/10/18/playing-with-records-julia-01/",
       "author": "epsi",
       "category": "lambda"
     },
     {
       "title": "Lua - Playing with Records - Part Two",
       "content": "A step by step practical case to collect unique record fields. Using Lua.",
-      "url": "/lambda/2020/11/16/playing-with-records-lua-02/",
+      "url": "/lambda/2020/10/16/playing-with-records-lua-02/",
       "author": "epsi",
       "category": "lambda"
     },
     {
       "title": "Lua - Playing with Records - Part One",
       "content": "A step by step practical case to collect unique record fields. Using Lua.",
-      "url": "/lambda/2020/11/16/playing-with-records-lua-01/",
+      "url": "/lambda/2020/10/16/playing-with-records-lua-01/",
       "author": "epsi",
       "category": "lambda"
     },
     {
       "title": "Scala - Playing with Records - Part Two",
       "content": "A step by step practical case to collect unique record fields. Using Scala.",
-      "url": "/lambda/2020/11/13/playing-with-records-scala-02/",
+      "url": "/lambda/2020/10/13/playing-with-records-scala-02/",
       "author": "epsi",
       "category": "lambda"
     },
     {
       "title": "Scala - Playing with Records - Part One",
       "content": "A step by step practical case to collect unique record fields. Using Scala.",
-      "url": "/lambda/2020/11/13/playing-with-records-scala-01/",
+      "url": "/lambda/2020/10/13/playing-with-records-scala-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Clojure - Playing with Records - Part Three",
+      "content": "A simple case example of concurrency using Clojure.",
+      "url": "/lambda/2020/10/12/playing-with-records-clojure-03/",
       "author": "epsi",
       "category": "lambda"
     },
     {
       "title": "Clojure - Playing with Records - Part Two",
       "content": "A step by step practical case to collect unique record fields. Using Clojure.",
-      "url": "/lambda/2020/11/12/playing-with-records-clojure-02/",
+      "url": "/lambda/2020/10/12/playing-with-records-clojure-02/",
       "author": "epsi",
       "category": "lambda"
     },
     {
       "title": "Clojure - Playing with Records - Part One",
       "content": "A step by step practical case to collect unique record fields. Using Clojure.",
-      "url": "/lambda/2020/11/12/playing-with-records-clojure-01/",
+      "url": "/lambda/2020/10/12/playing-with-records-clojure-01/",
       "author": "epsi",
       "category": "lambda"
     },
     {
       "title": "Elixir - Playing with Records",
       "content": "A step by step practical case to collect unique record fields. Using Elixir.",
-      "url": "/lambda/2020/11/11/playing-with-records-elixir/",
+      "url": "/lambda/2020/10/11/playing-with-records-elixir/",
       "author": "epsi",
       "category": "lambda"
     },
     {
       "title": "Erlang - Playing with Records",
       "content": "A step by step practical case to collect unique record fields. Using Erlang.",
-      "url": "/lambda/2020/11/10/playing-with-records-erlang/",
+      "url": "/lambda/2020/10/10/playing-with-records-erlang/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "F# - Playing with Records - Part Three",
+      "content": "A simple case example of concurrency using F#.",
+      "url": "/lambda/2020/09/08/playing-with-records-fsharp-03/",
       "author": "epsi",
       "category": "lambda"
     },
     {
       "title": "F# - Playing with Records - Part Two",
       "content": "A step by step practical case to collect unique record fields. Using F#.",
-      "url": "/lambda/2020/11/08/playing-with-records-fsharp-02/",
+      "url": "/lambda/2020/09/08/playing-with-records-fsharp-02/",
       "author": "epsi",
       "category": "lambda"
     },
     {
       "title": "F# - Playing with Records - Part One",
       "content": "A step by step practical case to collect unique record fields. Using F#.",
-      "url": "/lambda/2020/11/08/playing-with-records-fsharp-01/",
+      "url": "/lambda/2020/09/08/playing-with-records-fsharp-01/",
       "author": "epsi",
       "category": "lambda"
     },
     {
       "title": "OCaml - Playing with Records - Part Two",
       "content": "A simple case example of concurrency using OCaml.",
-      "url": "/lambda/2020/11/07/playing-with-records-ocaml-02/",
+      "url": "/lambda/2020/09/07/playing-with-records-ocaml-02/",
       "author": "epsi",
       "category": "lambda"
     },
     {
       "title": "OCaml - Playing with Records - Part One",
       "content": "A step by step practical case to collect unique record fields. Using OCaml.",
-      "url": "/lambda/2020/11/07/playing-with-records-ocaml-01/",
+      "url": "/lambda/2020/09/07/playing-with-records-ocaml-01/",
       "author": "epsi",
       "category": "lambda"
     },
     {
       "title": "ReasonML - Playing with Records",
       "content": "A step by step practical case to collect unique record fields. Using ReasonML.",
-      "url": "/lambda/2020/11/06/playing-with-records-reasonml/",
+      "url": "/lambda/2020/09/06/playing-with-records-reasonml/",
       "author": "epsi",
       "category": "lambda"
     },
     {
       "title": "Purescript - Playing with Records",
       "content": "A step by step practical case to collect unique record fields. Using Purescript from Haskell mockup.",
-      "url": "/lambda/2020/11/05/playing-with-records-purescript/",
+      "url": "/lambda/2020/09/05/playing-with-records-purescript/",
       "author": "epsi",
       "category": "lambda"
     },
     {
       "title": "Haskell - Playing with Records - Part Two",
       "content": "A step by step practical case to collect unique record fields. Using Haskell as a mockup for Purescript.",
-      "url": "/lambda/2020/11/04/playing-with-records-haskell-02/",
+      "url": "/lambda/2020/09/04/playing-with-records-haskell-02/",
       "author": "epsi",
       "category": "lambda"
     },
     {
       "title": "Haskell - Playing with Records - Part One",
       "content": "A step by step practical case to collect unique record fields. Using Haskell as a mockup for Purescript.",
-      "url": "/lambda/2020/11/04/playing-with-records-haskell-01/",
+      "url": "/lambda/2020/09/04/playing-with-records-haskell-01/",
       "author": "epsi",
       "category": "lambda"
     },
     {
       "title": "Typescript - Small Step into Typed - Part Two",
       "content": "A small step into typescript using custom song script example.",
-      "url": "/lambda/2020/11/03/playing-with-records-typescript-02/",
+      "url": "/lambda/2020/09/03/playing-with-records-typescript-02/",
       "author": "epsi",
       "category": "lambda"
     },
     {
       "title": "Typescript - Small Step into Typed - Part One",
       "content": "A small step into typescript using custom song script example.",
-      "url": "/lambda/2020/11/03/playing-with-records-typescript-01/",
+      "url": "/lambda/2020/09/03/playing-with-records-typescript-01/",
+      "author": "epsi",
+      "category": "lambda"
+    },
+    {
+      "title": "Ecmascript - Concurrency with Event Emitter",
+      "content": "A simple case example of concurrency with event emitter in nodejs.",
+      "url": "/lambda/2020/09/02/playing-with-records-ecmascript-03/",
       "author": "epsi",
       "category": "lambda"
     },
     {
       "title": "Ecmascript - Towards Functional - Part Two",
       "content": "Exploring capability towards functional programming in Javascript.",
-      "url": "/lambda/2020/11/02/playing-with-records-ecmascript-02/",
+      "url": "/lambda/2020/09/02/playing-with-records-ecmascript-02/",
       "author": "epsi",
       "category": "lambda"
     },
     {
       "title": "Ecmascript - Towards Functional - Part One",
       "content": "Exploring capability towards functional programming in Javascript.",
-      "url": "/lambda/2020/11/02/playing-with-records-ecmascript-01/",
+      "url": "/lambda/2020/09/02/playing-with-records-ecmascript-01/",
       "author": "epsi",
       "category": "lambda"
     },
     {
       "title": "Overview - Playing with Records",
       "content": "A brief explanation about learning functional, with a ready to use example records.",
-      "url": "/lambda/2020/11/01/playing-with-records-overview/",
+      "url": "/lambda/2020/09/01/playing-with-records-overview/",
       "author": "epsi",
       "category": "lambda"
     },
