@@ -209,6 +209,7 @@ Diagram sengaja saya bikin dalam bentuk kompak supaya tidak terlalu besar.
     ├── Anak: ♂ Prih Wardoyo Adikarso
     ├── Anak: ♂ Bambang Sesotya Mahanani, SH
     ├── Anak: ♀ Prof. Dr. Hj. Wahyusri Ambar Arum M.A. Ed.
+    ├── Anak: ♀ Ir. Hj. Kuncorowati Sri Rahayu
     ├── Anak: ♂ Ir. Prasetyaningtyas Marsudi Raharjo
     ├── Anak: ♀ Dra. Sulistyowati Winahyu Siwi
     └── Anak: ♀ Aryati Sekar Asih B.A.
