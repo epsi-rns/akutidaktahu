@@ -194,7 +194,7 @@ Diagram sengaja saya bikin dalam bentuk kompak supaya tidak terlalu besar.
 │
 ├── Anak: ♂ R.M. Suyoto Tondosaputro
 │   ├── Anak: ♂ Eko Darko Atmojo
-│   └── Anak: ♀ Sudarti
+│   └── Anak: ♀ Dwi Lestari
 │
 ├── Anak: ♂ R.M. Kusno Tondosaputro
 │   ├── Anak: ♂ Sarono
