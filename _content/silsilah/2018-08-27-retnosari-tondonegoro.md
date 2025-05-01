@@ -202,17 +202,20 @@ Diagram sengaja saya bikin dalam bentuk kompak supaya tidak terlalu besar.
 │   ├── Anak: ♀ Sri Kusumaningsih Sumanto
 │   └── Anak: ♀ Sri Kusumastuti
 │
+├── Anak: ♂ R.M. Sugiharto Tondosaputro
+│   ├── Anak: ♀ Sendang Nur Astuti
+│   ├── Anak: ♀ Ir. Hj. Tjahjani Suminar Edi, MMA
+│   ├── Anak: ♂ Utomo Budi Satrio S.T.
+│   ├── Anak: ♂ Prih Wardoyo Adikarso
+│   ├── Anak: ♂ Bambang Sesotya Mahanani, SH
+│   ├── Anak: ♀ Prof. Dr. Hj. Wahyusri Ambar Arum M.A. Ed.
+│   ├── Anak: ♀ Ir. Hj. Kuncorowati Sri Rahayu
+│   ├── Anak: ♂ Ir. Prasetyaningtyas Marsudi Raharjo
+│   ├── Anak: ♀ Dra. Sulistyowati Winahyu Siwi
+│   └── Anak: ♀ Aryati Sekar Asih B.A.
+│
 └── Anak: ♂ R.M. Sugiharto Tondosaputro
-    ├── Anak: ♀ Sendang Nur Astuti
-    ├── Anak: ♀ Ir. Hj. Tjahjani Suminar Edi, MMA
-    ├── Anak: ♂ Utomo Budi Satrio S.T.
-    ├── Anak: ♂ Prih Wardoyo Adikarso
-    ├── Anak: ♂ Bambang Sesotya Mahanani, SH
-    ├── Anak: ♀ Prof. Dr. Hj. Wahyusri Ambar Arum M.A. Ed.
-    ├── Anak: ♀ Ir. Hj. Kuncorowati Sri Rahayu
-    ├── Anak: ♂ Ir. Prasetyaningtyas Marsudi Raharjo
-    ├── Anak: ♀ Dra. Sulistyowati Winahyu Siwi
-    └── Anak: ♀ Aryati Sekar Asih B.A.
+    └── Anak: ♂ Sugeng Raharjo
 {% endhighlight %}
 
 ### R.Ay Sriyati
@@ -230,7 +233,7 @@ Diagram sengaja saya bikin dalam bentuk kompak supaya tidak terlalu besar.
 │   └── Anak: ♀ R.Ay. Sri Rejeki
 │
 ├── Anak: ♀ R.Ay. Parmantinah Suyatmo
-│   ├── Anak: ♂ R.M. Jarod Subroto
+│   ├── Anak: ♂ R.M. Djarod Subroto
 │   ├── Anak: ♂ R.M. Hadi Purnomo
 │   ├── Anak: ♀ R.Ay. Retno Rahayu Sukrohadi
 │   ├── Anak: ♀ R.Ay. Estri Fahastati Nurhadi Utomo
