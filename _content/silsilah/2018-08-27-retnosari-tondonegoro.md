@@ -214,7 +214,7 @@ Diagram sengaja saya bikin dalam bentuk kompak supaya tidak terlalu besar.
 │   ├── Anak: ♀ Dra. Sulistyowati Winahyu Siwi
 │   └── Anak: ♀ Aryati Sekar Asih B.A.
 │
-└── Anak: ♂ R.M. Sugiharto Tondosaputro
+└── Anak: ♂ R.M. H. Sugiharto Tondosaputro
     └── Anak: ♂ Sugeng Raharjo
 {% endhighlight %}
 
