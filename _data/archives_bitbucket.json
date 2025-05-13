@@ -1,5 +1,5 @@
 [
-
+  
     {
       "title": "Excel - Monitor - Multiple Task",
       "content": "Monitor excel file changes and show the result in browser using websocket.",
@@ -380,7 +380,7 @@
     },
     {
       "title": "Formatter - Excel Config - Three",
-      "content": "Formatting column format and merged titles using using unified configuration.",
+      "content": "Formatting column styles and merged titles using using unified configuration.",
       "url": "/automation/2021/10/09/formatter-config-excel-03/",
       "author": "epsi",
       "category": "automation"
@@ -400,9 +400,9 @@
       "category": "automation"
     },
     {
-      "title": "Formatter - Excel - Merge CSV",
+      "title": "Formatter - Excel - Automation Basic",
       "content": "Merging multiple CSVs into a workbook using a Python script with the openpyxl library.",
-      "url": "/automation/2021/10/01/formatter-excel-merge-csv/",
+      "url": "/automation/2021/10/01/formatter-excel-automation-basic/",
       "author": "epsi",
       "category": "automation"
     },
@@ -1226,6 +1226,27 @@
       "category": "statistics"
     },
     {
+      "title": "Trend - Polynomial Regression - Python",
+      "content": "Goes further from linear regression to polynomial regression. The practical implementation, shows how to implement the theory in python code.",
+      "url": "/statistics/2020/03/25/trend-polynomial-regression-03/",
+      "author": "epsi",
+      "category": "statistics"
+    },
+    {
+      "title": "Trend - Polynomial Regression - Formula",
+      "content": "Goes further from linear regression to polynomial regression. The practical implementation, shows how to execute the theory with spreadsheet.",
+      "url": "/statistics/2020/03/23/trend-polynomial-regression-02/",
+      "author": "epsi",
+      "category": "statistics"
+    },
+    {
+      "title": "Trend - Polynomial Regression - Theory",
+      "content": "Goes further from linear regression to polynomial regression. The theoretical foundations, explains why the math works.",
+      "url": "/statistics/2020/03/21/trend-polynomial-regression-01/",
+      "author": "epsi",
+      "category": "statistics"
+    },
+    {
       "title": "Trend - Properties - Visualization",
       "content": "Visualizing interpretation of statistic properties, using python matplotlib.",
       "url": "/statistics/2020/03/19/trend-properties-visualization/",
@@ -1263,13 +1284,27 @@
     {
       "title": "Trend - Polynomial Examples",
       "content": "Curve fitting examples for daily basis, using vandermonde matrix.",
-      "url": "/statistics/2020/03/09/trend-polynomial-examples/",
+      "url": "/statistics/2020/03/10/trend-polynomial-examples/",
+      "author": "epsi",
+      "category": "statistics"
+    },
+    {
+      "title": "Trend - Polynomial in Python",
+      "content": "Implement polynomial equation in python. From data modelling in spreadsheet to programming language. Solving third order polynomial equation.",
+      "url": "/statistics/2020/03/09/trend-polynomial-python/",
+      "author": "epsi",
+      "category": "statistics"
+    },
+    {
+      "title": "Trend - Polynomial in Worksheet",
+      "content": "Implement polynomial equation in worksheet. From theory to data modelling in Excel/Calc. Solving third order polynomial equation.",
+      "url": "/statistics/2020/03/08/trend-polynomial-worksheet/",
       "author": "epsi",
       "category": "statistics"
     },
     {
       "title": "Trend - Polynomial Algebra",
-      "content": "Solving third order polynomial equation, from data modelling in excel to python.",
+      "content": "Understanding how the polynmial internally works. Gently explanation from each form to generalization.",
       "url": "/statistics/2020/03/07/trend-polynomial-algebra/",
       "author": "epsi",
       "category": "statistics"
@@ -1283,38 +1318,52 @@
     },
     {
       "title": "Trend - Built-in Intro",
-      "content": "Solving trend with built-in method, available in excel and python.",
+      "content": "Solving trend with built-in method available in excel and python, without reinventing the wheel.",
       "url": "/statistics/2020/03/03/trend-built-in/",
       "author": "epsi",
       "category": "statistics"
     },
     {
       "title": "Trend - Overview",
-      "content": "Overview of trend, from data modelling in excel to python.",
+      "content": "A practical overview of trends, from data modelling in excel to python.",
       "url": "/statistics/2020/03/01/trend-overview/",
       "author": "epsi",
       "category": "statistics"
     },
     {
+      "title": "Manim - Tex Equation",
+      "content": "Animate a Math Tex Formula with Manim. Using Inverse Function as an example.",
+      "url": "/visual/2020/01/20/main-tex-equation/",
+      "author": "epsi",
+      "category": "visual"
+    },
+    {
+      "title": "Python - Matplotlib Animation",
+      "content": "Animating Math Equation using dynamic matplotlib. Observe how each quadratic coefficient impact the shape.",
+      "url": "/visual/2020/01/16/python-matplotlib-animation/",
+      "author": "epsi",
+      "category": "visual"
+    },
+    {
       "title": "Statistic - Dotplot",
       "content": "Plot a Chart, Based on Population.",
-      "url": "/math/2020/02/02/statistic-dotplot/",
+      "url": "/visual/2020/01/14/statistic-dotplot/",
       "author": "epsi",
-      "category": "math"
+      "category": "visual"
     },
     {
       "title": "Python - Matplotlib",
       "content": "Plot a Chart based on Math Equation.",
-      "url": "/math/2020/01/12/python-matplotlib-equation/",
+      "url": "/visual/2020/01/12/python-matplotlib-equation/",
       "author": "epsi",
-      "category": "math"
+      "category": "visual"
     },
     {
       "title": "LaTeX - Math Formula",
       "content": "Write a Math Formula with LaTex.",
-      "url": "/math/2020/01/10/latex-math-formula/",
+      "url": "/visual/2020/01/10/latex-math-formula/",
       "author": "epsi",
-      "category": "math"
+      "category": "visual"
     },
     {
       "title": "Haskell - Tax Tariff - Part Four",

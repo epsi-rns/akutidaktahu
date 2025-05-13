@@ -192,7 +192,9 @@ Diagram sengaja saya bikin dalam bentuk kompak supaya tidak terlalu besar.
 {% highlight "bash" %}
 . ♂ R.M. Sudono Tondosaputro
 │
-├── Anak: ♂ R.M. Suyoto Tondosaputro
+├── Anak: ♂ R.M. Suyitno
+│
+├── Anak: ♂ R.M. Suyoto Tondoatmojo
 │   ├── Anak: ♂ Eko Darko Atmojo
 │   └── Anak: ♀ Dwi Lestari
 │
@@ -214,7 +216,7 @@ Diagram sengaja saya bikin dalam bentuk kompak supaya tidak terlalu besar.
 │   ├── Anak: ♀ Dra. Sulistyowati Winahyu Siwi
 │   └── Anak: ♀ Aryati Sekar Asih B.A.
 │
-└── Anak: ♂ R.M. H. Sugiharto Tondosaputro
+└── Anak: ♂ R.M. H. Sugiyarso Tondosaputro
     └── Anak: ♂ Sugeng Raharjo
 {% endhighlight %}
 
@@ -223,7 +225,7 @@ Diagram sengaja saya bikin dalam bentuk kompak supaya tidak terlalu besar.
 {% highlight "bash" %}
 . ♀ R.Ay Sriyati
 │
-╞══ Suami: ♂ R.M. P Patmohasmoro
+╞══ Suami: ♂ R.M. P Padmohasmoro
 │
 ├── Anak: ♀ R.Ay. Parmanti Sutandyo
 │   ├── Anak: ♀ R.Ay. Hattantinah Taufik
@@ -240,14 +242,14 @@ Diagram sengaja saya bikin dalam bentuk kompak supaya tidak terlalu besar.
 │   └── Anak: ♀ R.Ay. Esti Wahyuni Kusbandriyo
 │
 └── Anak: ♀ R.Ay. Parmantini Hadmando
-    ├── Anak: ♀ R.Ay. Sri Bernati Abimanyu
+    ├── Anak: ♀ R.Ay. Sri Bernati Moh Sobingi
     ├── Anak: ♂ R.M. Hattantono
-    ├── Anak: ♀ R.Ay. Hattantikah
+    ├── Anak: ♀ R.Ay. Hattantikah Mulyanto
     ├── Anak: ♂ R.M. Hattantomo
-    ├── Anak: ♀ R.Ay. Hattantimah
-    ├── Anak: ♀ R.Ay. Hattantiyah
-    ├── Anak: ♀ R.Ay. Hattantilah
-    ├── Anak: ♀ R.Ay. Hattantirah
+    ├── Anak: ♀ R.Ay. Hattantimah Supriyono
+    ├── Anak: ♀ R.Ay. Hattantiyah Suwito
+    ├── Anak: ♀ R.Ay. Hattantilah Subchi Hasbulah
+    ├── Anak: ♀ R.Ay. Hattantirah Sudarsono
     └── Anak: ♂ R.M. Hattantoro
 {% endhighlight %}
 
